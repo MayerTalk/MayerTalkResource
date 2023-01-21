@@ -1,6 +1,6 @@
 name: Auto Update
 
-on: [issues]
+on: [issues, issue_comment]
 
 jobs:
   build:
