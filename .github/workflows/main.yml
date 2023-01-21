@@ -8,7 +8,7 @@ on:
     - cron:  '10 0/1 * * *'
 
 jobs:
-  build:
+  AutoUpdate:
     runs-on: windows-latest
     steps:
       - name: Checkout
