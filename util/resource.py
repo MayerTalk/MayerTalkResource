@@ -11,12 +11,13 @@ from .upload import Uploader
 
 
 class Character:
-    def __init__(self, char_id: str, series: str):
+    def __init__(self, char_id: str, series: str, /, special: bool = False):
         self.series: str = series
         self.id: str = char_id
         self.names: Dict[str, str] = {}
         self.avatars: Dict[str, str] = {}
         self.type: Set[str] = set()
+        self.special = special
 
     def add_name(self, lang: str, name: str):
         self.names[lang] = name
@@ -37,8 +38,13 @@ class Character:
     def is_invalid(self):
         return not self.avatars or not self.names
 
+    def __repr__(self):
+        return f'{self.id} names:{self.names} avatars:{self.avatars}'
+
 
 class Resource:
+    char_model = Character
+
     def __init__(self, series: str):
         self.series = series
         self.chars: Dict[str, Character] = {}
@@ -65,9 +71,9 @@ class Resource:
     def remote_data(self) -> Awaitable[dict]:
         return self.json(static_url + data_url % self.series, 'data')
 
-    def char(self, char_id) -> Character:
+    def char(self, char_id, /, special: bool = False) -> Character:
         if char_id not in self.chars:
-            self.chars[char_id] = Character(char_id, self.series)
+            self.chars[char_id] = self.char_model(char_id, self.series, special=special)
         return self.chars[char_id]
 
     def clean(self):
@@ -93,6 +99,20 @@ class Resource:
 
     async def run(self):
         self.client = aiohttp.ClientSession()
+
+        try:
+            res = await self.json(static_url + special_data_url % self.series, 'special_data')
+        except (AssertionError, FileNotFoundError):
+            res = {}
+
+        for char_id, data in res.items():
+            char = self.char(char_id, special=True)
+            for lang, name in data['names'].items():
+                char.add_name(lang, name)
+            for i, url in enumerate(data['avatars']):
+                char.avatars[str(i)] = url
+
+        print(self.chars)
 
     async def get_avatar_data(self, char: Character, avatar: str) -> bytes:
         ...
@@ -120,6 +140,8 @@ class Resource:
         print(f'update {self.series} {version}')
         remote_data = await self.remote_data
         for char_id, char in self.chars.items():
+            if char.special:
+                continue
             if char_id in remote_data:
                 for avatar, url in char.avatars.copy().items():
                     if url not in remote_data[char_id]['avatars']:

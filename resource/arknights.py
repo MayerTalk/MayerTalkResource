@@ -8,8 +8,8 @@ from util.resource import Resource, Character
 
 
 class ArknightsCharacter(Character):
-    def __init__(self, char_id: str, series: str, is_enemy: bool):
-        super().__init__(char_id, series)
+    def __init__(self, char_id: str, series: str, is_enemy: bool = False, /, special: bool = False):
+        super().__init__(char_id, series, special=special)
         self.is_enemy: bool = is_enemy
 
 
@@ -18,7 +18,6 @@ class ArknightsResource(Resource):
         'zh_CN',
         'en_US',
         'ja_JP',
-        'ko_KR',
     ]
     char_data_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/%s/gamedata/excel/character_table.json'
     char_skin_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/zh_CN/gamedata/excel/skin_table.json'
@@ -26,6 +25,7 @@ class ArknightsResource(Resource):
     enemy_data_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/%s/gamedata/excel/enemy_handbook_table.json'
     enemy_avatar_url = 'https://github.com/yuanyan3060/Arknights-Bot-Resource/raw/main/enemy/%s.png'
     chars: Dict[str, ArknightsCharacter]
+    char_model = ArknightsCharacter
 
     async def parse(self, lang):
         res: dict = await self.json(self.char_data_url % lang, 'char_data')
@@ -65,13 +65,13 @@ class ArknightsResource(Resource):
         asyncio.set_event_loop(loop)
         loop.run_until_complete(self.run())
 
-    def _char(self, char_id: str, is_enemy: bool) -> ArknightsCharacter:
+    def _char(self, char_id: str, is_enemy: bool, /, special: bool = False) -> ArknightsCharacter:
         if char_id not in self.chars:
-            self.chars[char_id] = ArknightsCharacter(char_id, self.series, is_enemy)
+            self.chars[char_id] = self.char_model(char_id, self.series, is_enemy, special=special)
         return self.chars[char_id]
 
-    def char(self, char_id: str) -> ArknightsCharacter:
-        return self._char(char_id, False)
+    def char(self, char_id: str, /, special: bool = False) -> ArknightsCharacter:
+        return self._char(char_id, False, special=special)
 
     def enemy(self, enemy_id: str) -> ArknightsCharacter:
         return self._char(enemy_id, True)
