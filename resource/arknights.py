@@ -83,4 +83,4 @@ class ArknightsResource(Resource):
             return await self.req(self.char_avatar_url % quote(avatar), 'char_avatar', True)
 
 
-ArknightsResource = ArknightsResource('arknights-test')
+ArknightsResource = ArknightsResource('arknights')
