@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m venv venv
           venv\Scripts\python -m pip install --upgrade pip wheel setuptools
-          venv\Scripts\python -m pip install aiohttp pillow
+          venv\Scripts\python -m pip install aiohttp pillow pypinyin
           
       - name: Run
         env:
