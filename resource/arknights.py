@@ -12,9 +12,6 @@ class ArknightsCharacter(Character):
         super().__init__(char_id, series, special=special)
         self.is_enemy: bool = is_enemy
 
-    def add_avatar(self, avatar: str):
-        self.avatars[avatar] = f'avatar/{self.series}/{quote(avatar)}.webp'
-
 
 class ArknightsResource(Resource):
     langs = [

@@ -2,6 +2,7 @@ import json
 import aiohttp
 import hashlib
 from io import BytesIO
+from urllib.parse import quote
 from typing import Awaitable, Dict, Set, Optional, Union
 
 from PIL import Image
@@ -94,7 +95,7 @@ class Resource:
         return {
             char_id: {
                 'names': dict(sorted(data.names.items(), key=lambda x: x[0])),
-                'avatars': list(sorted(data.avatars.values()))
+                'avatars': list(quote(i) for i in sorted(data.avatars.values()))
             }
             for char_id, data in self.chars.items()
         }
