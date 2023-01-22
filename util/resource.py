@@ -113,7 +113,7 @@ class Resource:
                 char.add_name(lang, name)
             for i, url in enumerate(data['avatars']):
                 char.avatars[str(i)] = url
-            print(f'special char {self.series} {char}')
+            print(f'special char {self.series} {char.id}')
 
     async def get_avatar_data(self, char: Character, avatar: str) -> bytes:
         ...
