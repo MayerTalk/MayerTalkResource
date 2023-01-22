@@ -36,6 +36,12 @@ class ArknightsResource(Resource):
             if lang == 'zh_CN':
                 char.add_name('py', ''.join(lazy_pinyin(data['name'])))
                 char.add_name('fpy', ''.join(lazy_pinyin(data['name'], style=Style.FIRST_LETTER)))
+                if data['profession'] == 'NONE':
+                    char.add_tag('trap')
+                elif data['profession'] == 'TOKEN':
+                    char.add_tag('token')
+                else:
+                    char.add_tag('operator')
                 if data['displayNumber']:
                     char.add_name('code', data['displayNumber'])
 
@@ -49,6 +55,7 @@ class ArknightsResource(Resource):
                 char.add_name('fpy', ''.join(lazy_pinyin(data['name'], style=Style.FIRST_LETTER)))
                 char.add_name('code', data['enemyIndex'])
                 char.add_avatar(enemy_id)
+                char.add_tag('enemy')
 
     async def run(self):
         await super().run()
