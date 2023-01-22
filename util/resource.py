@@ -19,7 +19,7 @@ class Character:
         self.raw_avatars: Dict[str, str] = {}
         self.avatars: Dict[str, str] = {}
         self.type: Set[str] = set()
-        self.tag: List[str] = []
+        self.tags: List[str] = []
         self.special = special
 
     def add_name(self, lang: str, name: str):
@@ -33,15 +33,15 @@ class Character:
         self.type.add(_type)
 
     def add_tag(self, tag: str):
-        if tag not in self.tag:
-            self.tag.append(tag)
+        if tag not in self.tags:
+            self.tags.append(tag)
 
     @property
     def hash(self) -> str:
         return 'name:' + ','.join(sorted(self.names.values())) \
                + ' avatars:' + ','.join(sorted(self.avatars.keys())) \
                + ' types:' + ','.join(sorted(self.type)) \
-               + ' tags:' + ','.join(self.tag)
+               + ' tags:' + ','.join(self.tags)
 
     @property
     def is_invalid(self):
@@ -110,7 +110,7 @@ class Resource:
             char_id: {
                 'names': dict(sorted(data.names.items(), key=lambda x: x[0])),
                 'avatars': list(sorted(data.avatars.values())),
-                'tags': data.tag
+                'tags': data.tags
             }
             for char_id, data in self.chars.items()
         }
