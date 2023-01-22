@@ -36,7 +36,7 @@ class ArknightsResource(Resource):
             if lang == 'zh_CN':
                 char.add_name('py', ''.join(lazy_pinyin(data['name'])))
                 char.add_name('fpy', ''.join(lazy_pinyin(data['name'], style=Style.FIRST_LETTER)))
-                if data['profession'] == 'NONE':
+                if data['profession'] == 'TRAP':
                     char.add_tag('trap')
                 elif data['profession'] == 'TOKEN':
                     char.add_tag('token')
