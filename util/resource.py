@@ -130,9 +130,9 @@ class Resource:
             await self.upload(char.raw_avatars[avatar], out_put.read())
             print(f'upload {self.series} {char.raw_avatars[avatar]}')
         except FileNotFoundError as e:
+            print(f'upload {self.series} {char.raw_avatars[avatar]} failed {e.args[0]}')
             char.avatars.pop(avatar)
             char.raw_avatars.pop(avatar)
-            print(f'upload {self.series} {char.raw_avatars[avatar]} failed {e.args[0]}')
 
     async def update(self):
         self.clean()
