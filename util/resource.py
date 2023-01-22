@@ -16,6 +16,7 @@ class Character:
         self.series: str = series
         self.id: str = char_id
         self.names: Dict[str, str] = {}
+        self.raw_avatars: Dict[str, str] = {}
         self.avatars: Dict[str, str] = {}
         self.type: Set[str] = set()
         self.special = special
@@ -24,7 +25,8 @@ class Character:
         self.names[lang] = name
 
     def add_avatar(self, avatar: str):
-        self.avatars[avatar] = f'avatar/{self.series}/{avatar}.webp'
+        self.raw_avatars[avatar] = f'avatar/{self.series}/{avatar}.webp'
+        self.avatars[avatar] = quote(f'avatar/{self.series}/{avatar}.webp')
 
     def add_type(self, _type: str):
         self.type.add(_type)
@@ -95,7 +97,7 @@ class Resource:
         return {
             char_id: {
                 'names': dict(sorted(data.names.items(), key=lambda x: x[0])),
-                'avatars': list(quote(i) for i in sorted(data.avatars.values()))
+                'avatars': list(sorted(data.avatars.values()))
             }
             for char_id, data in self.chars.items()
         }
@@ -119,17 +121,18 @@ class Resource:
     async def get_avatar_data(self, char: Character, avatar: str) -> bytes:
         ...
 
-    async def upload_avatar(self, char: Character, avatar: str, url: str):
+    async def upload_avatar(self, char: Character, avatar: str):
         try:
             im = Image.open(BytesIO(await self.get_avatar_data(char, avatar)))
             out_put = BytesIO()
             im.save(out_put, 'webp')
             out_put.seek(0)
-            await self.upload(url, out_put.read())
-            print(f'upload {self.series} {url}')
+            await self.upload(char.raw_avatars[avatar], out_put.read())
+            print(f'upload {self.series} {char.raw_avatars[avatar]}')
         except FileNotFoundError as e:
             char.avatars.pop(avatar)
-            print(f'upload {self.series} {url} failed {e.args[0]}')
+            char.raw_avatars.pop(avatar)
+            print(f'upload {self.series} {char.raw_avatars[avatar]} failed {e.args[0]}')
 
     async def update(self):
         self.clean()
@@ -147,10 +150,10 @@ class Resource:
             if char_id in remote_data:
                 for avatar, url in char.avatars.copy().items():
                     if url not in remote_data[char_id]['avatars']:
-                        await self.upload_avatar(char, avatar, url)
+                        await self.upload_avatar(char, avatar)
             else:
                 for avatar, url in char.avatars.copy().items():
-                    await self.upload_avatar(char, avatar, url)
+                    await self.upload_avatar(char, avatar)
 
         self.clean()
 
