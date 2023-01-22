@@ -3,7 +3,7 @@ import aiohttp
 import hashlib
 from io import BytesIO
 from urllib.parse import quote
-from typing import Awaitable, Dict, Set, Optional, Union
+from typing import Awaitable, Dict, List, Set, Optional, Union
 
 from PIL import Image
 
@@ -19,6 +19,7 @@ class Character:
         self.raw_avatars: Dict[str, str] = {}
         self.avatars: Dict[str, str] = {}
         self.type: Set[str] = set()
+        self.tag: List[str] = []
         self.special = special
 
     def add_name(self, lang: str, name: str):
@@ -31,11 +32,16 @@ class Character:
     def add_type(self, _type: str):
         self.type.add(_type)
 
+    def add_tag(self, tag: str):
+        if tag not in self.tag:
+            self.tag.append(tag)
+
     @property
     def hash(self) -> str:
         return 'name:' + ','.join(sorted(self.names.values())) \
                + ' avatars:' + ','.join(sorted(self.avatars.keys())) \
-               + ' types:' + ','.join(sorted(self.type))
+               + ' types:' + ','.join(sorted(self.type)) \
+               + ' tags:' + ','.join(self.tag)
 
     @property
     def is_invalid(self):
@@ -84,6 +90,7 @@ class Resource:
     def char(self, char_id, /, special: bool = False) -> Character:
         if char_id not in self.chars:
             self.chars[char_id] = self.char_model(char_id, self.series, special=special)
+            self.chars[char_id].add_tag(self.series)
         return self.chars[char_id]
 
     def clean(self):
@@ -102,7 +109,8 @@ class Resource:
         return {
             char_id: {
                 'names': dict(sorted(data.names.items(), key=lambda x: x[0])),
-                'avatars': list(sorted(data.avatars.values()))
+                'avatars': list(sorted(data.avatars.values())),
+                'tags': data.tag
             }
             for char_id, data in self.chars.items()
         }
