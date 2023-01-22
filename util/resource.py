@@ -51,8 +51,8 @@ class Resource:
         self.client: Optional[aiohttp.ClientSession] = None
         self.upload: Optional[Uploader] = None
 
-    async def req(self, url: str, target: str, byte: bool = False) -> Union[str, bytes]:
-        async with self.client.get(url) as r:
+    async def req(self, url: str, target: str, byte: bool = False, **kwargs) -> Union[str, bytes]:
+        async with self.client.get(url, **kwargs) as r:
             if r.status != 200:
                 if r.status == 404:
                     raise FileNotFoundError(f'get {self.series} {target} failed {url} response 404')
@@ -60,16 +60,18 @@ class Resource:
                     raise AssertionError(f'get {self.series} {target} failed {url} {r.status}')
             return await r.read() if byte else await r.text()
 
-    async def json(self, url: str, target: str):
-        return json.loads(await self.req(url, target))
+    async def json(self, url: str, target: str, **kwargs):
+        return json.loads(await self.req(url, target, **kwargs))
 
     @property
     def remote_version(self) -> Awaitable[str]:
-        return self.req(static_url + version_url % self.series, 'version')
+        return self.req(static_url + version_url % self.series, 'version',
+                        headers={'Referer': 'https://www.mayertalk.top'})
 
     @property
     def remote_data(self) -> Awaitable[dict]:
-        return self.json(static_url + data_url % self.series, 'data')
+        return self.json(static_url + data_url % self.series, 'data',
+                         headers={'Referer': 'https://www.mayertalk.top'})
 
     def char(self, char_id, /, special: bool = False) -> Character:
         if char_id not in self.chars:
@@ -111,7 +113,8 @@ class Resource:
                 char.add_name(lang, name)
             for i, url in enumerate(data['avatars']):
                 char.avatars[str(i)] = url
-                
+            print(f'special char {self.series} {char}')
+
     async def get_avatar_data(self, char: Character, avatar: str) -> bytes:
         ...
 
