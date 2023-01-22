@@ -76,6 +76,11 @@ class Resource:
         return self.json(static_url + data_url % self.series, 'data',
                          headers={'Referer': 'https://www.mayertalk.top'})
 
+    @property
+    def special_char(self) -> Awaitable[dict]:
+        return self.json(static_url + special_data_url % self.series, 'special_data',
+                         headers={'Referer': 'https://www.mayertalk.top'})
+
     def char(self, char_id, /, special: bool = False) -> Character:
         if char_id not in self.chars:
             self.chars[char_id] = self.char_model(char_id, self.series, special=special)
@@ -106,7 +111,7 @@ class Resource:
         self.client = aiohttp.ClientSession()
 
         try:
-            res = await self.json(static_url + special_data_url % self.series, 'special_data')
+            res = await self.special_char
         except (AssertionError, FileNotFoundError):
             res = {}
 
