@@ -35,6 +35,8 @@ jobs:
         run: |
           source venv/bin/activate
           python update_arknights.py
+          git status -s
+          ls
         
       - name: Commit Change
         run: |
