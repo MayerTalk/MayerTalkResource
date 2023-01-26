@@ -33,5 +33,8 @@ jobs:
           SERVER: ${{ secrets.SERVER }}
           KEY: ${{ secrets.KEY }}
         run: |
+          git config --global user.email noreply@arkfans.top
+          git config --global user.name MeeBooBot_v1
           source venv/bin/activate
           python update_arknights.py
+          git push
