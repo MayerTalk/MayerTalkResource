@@ -167,8 +167,8 @@ class Resource:
         self.clean()
         self.upload = Uploader(self.client)
         version = self.version
-        remote_version = self.remote_version
-        if await remote_version == version:
+        remote_version = await self.remote_version
+        if remote_version == version:
             print(f'pass {self.series} {version}')
             return
 
@@ -190,6 +190,7 @@ class Resource:
         version = self.version
         if version == remote_version:
             print(f'update {self.series} failed (same pass)')
+            return
         await self.upload(version_url % self.series, version.encode('utf-8'))
         print(f'upload {self.series} version {version}')
 
@@ -210,5 +211,6 @@ class Resource:
 
         os.system('git add data')
         os.system('git add version')
-        os.system(f'git commit -m "[{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}"')
+        os.system(
+            f'git commit -m "[{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}"')
         os.system('echo "update=1" >> $GITHUB_ENV')
