@@ -210,5 +210,5 @@ class Resource:
 
         os.system('git add data')
         os.system('git add version')
-        os.system(f'git commit [{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}')
+        os.system(f'git commit -m "[{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}"')
         os.system('echo "update=1" >> $GITHUB_ENV')
