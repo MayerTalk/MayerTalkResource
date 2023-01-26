@@ -21,7 +21,7 @@ class Avatar:
 
         self.raw: str = f'{self.prefix}{self.series}/{self.id}'
         self.full: str = quote(self.raw)
-        self.short: str = avatar_id.replace(char_id, '') if char_id in avatar_id else 'full:' + avatar_id
+        self.short: str = avatar_id.replace(char_id, '') if char_id in avatar_id else 'id:' + avatar_id
 
     def __repr__(self):
         return self.id
