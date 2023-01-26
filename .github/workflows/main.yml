@@ -27,14 +27,13 @@ jobs:
           source venv/bin/activate
           pip install --upgrade pip wheel setuptools
           pip install aiohttp pillow pypinyin
-          deactivate
           
       - name: Run
         env:
           SERVER: ${{ secrets.SERVER }}
           KEY: ${{ secrets.KEY }}
         run: |
-          ls
+          source venv/bin/activate
           python update_arknights.py
         
       - name: Commit Change
