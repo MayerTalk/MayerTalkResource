@@ -37,4 +37,8 @@ jobs:
           git config --global user.name MeeBooBot_v1
           source venv/bin/activate
           python update_arknights.py
+      
+      - name: Commit Change
+        run: |
           git push
+        if: env.update == 1
