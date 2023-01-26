@@ -121,7 +121,7 @@ class Resource:
     def data(self) -> dict:
         return {
             char_id: {
-                'names': dict(sorted(data.names.items(), key=lambda x: x[0])),
+                'names': {k: v.lower() for k, v in sorted(data.names.items(), key=lambda x: x[0])},
                 'avatars': [data.avatars[i].short for i in sorted(data.avatars.keys())],
                 'tags': data.tags
             }
