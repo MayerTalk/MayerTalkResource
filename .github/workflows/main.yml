@@ -34,3 +34,11 @@ jobs:
         run: |
           venv\Scripts\Activate.ps1
           venv\Scripts\python update_arknights.py
+        
+      - name: Commit Change
+        run: |
+            git config --global user.email noreply@arkfans.top
+            git config --global user.name MeeBooBot_v1
+            git push
+        if: env.update == 1
+        
