@@ -35,15 +35,3 @@ jobs:
         run: |
           source venv/bin/activate
           python update_arknights.py
-          git status -s
-          git log
-          q
-          ls
-        
-      - name: Commit Change
-        run: |
-            git config --global user.email noreply@arkfans.top
-            git config --global user.name MeeBooBot_v1
-            git push
-        if: env.update == 1
-        
