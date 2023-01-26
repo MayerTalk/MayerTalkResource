@@ -2,7 +2,6 @@ import os
 import json
 import aiohttp
 import hashlib
-import subprocess
 from io import BytesIO
 from urllib.parse import quote
 from typing import Awaitable, Dict, List, Set, Optional, Union
@@ -209,9 +208,7 @@ class Resource:
         with open(f'version/{self.series}.txt', mode='wt', encoding='utf-8') as f:
             f.write(version)
 
-        subprocess.run('git add data', shell=True)
-        subprocess.run('git add version', shell=True)
-        subprocess.run(
-            f'git commit [{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}',
-            shell=True)
+        os.system('git add data')
+        os.system('git add version')
+        os.system(f'git commit [{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}')
         os.system('echo "update=1" >> $GITHUB_ENV')
