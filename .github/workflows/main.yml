@@ -34,7 +34,6 @@ jobs:
           SERVER: ${{ secrets.SERVER }}
           KEY: ${{ secrets.KEY }}
         run: |
-          source venv/bin/activate
           ls
           python update_arknights.py
         
