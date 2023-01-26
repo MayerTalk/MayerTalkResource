@@ -11,13 +11,28 @@ from .constance import *
 from .upload import Uploader
 
 
+class Avatar:
+    prefix = 'avatar/'
+
+    def __init__(self, char_id: str, series: str, avatar_id: str):
+        self.char_id: str = char_id
+        self.series: str = series
+        self.id: str = avatar_id
+
+        self.raw: str = f'{self.prefix}{self.series}/{self.id}'
+        self.full: str = quote(self.raw)
+        self.short: str = avatar_id.replace(char_id, '') if char_id in avatar_id else 'full:' + avatar_id
+
+    def __repr__(self):
+        return self.id
+
+
 class Character:
     def __init__(self, char_id: str, series: str, /, special: bool = False):
         self.series: str = series
         self.id: str = char_id
         self.names: Dict[str, str] = {}
-        self.raw_avatars: Dict[str, str] = {}
-        self.avatars: Dict[str, str] = {}
+        self.avatars: Dict[str, Avatar] = {}
         self.type: Set[str] = set()
         self.tags: List[str] = []
         self.special = special
@@ -26,8 +41,7 @@ class Character:
         self.names[lang] = name
 
     def add_avatar(self, avatar: str):
-        self.raw_avatars[avatar] = f'avatar/{self.series}/{avatar}.webp'
-        self.avatars[avatar] = quote(f'avatar/{self.series}/{avatar}.webp')
+        self.avatars[avatar] = Avatar(self.id, self.series, avatar)
 
     def add_type(self, _type: str):
         self.type.add(_type)
@@ -90,7 +104,6 @@ class Resource:
     def char(self, char_id, /, special: bool = False) -> Character:
         if char_id not in self.chars:
             self.chars[char_id] = self.char_model(char_id, self.series, special=special)
-            self.chars[char_id].add_tag(self.series)
         return self.chars[char_id]
 
     def clean(self):
@@ -109,10 +122,10 @@ class Resource:
         return {
             char_id: {
                 'names': dict(sorted(data.names.items(), key=lambda x: x[0])),
-                'avatars': list(sorted(data.avatars.values())),
+                'avatars': [data.avatars[i].short for i in sorted(data.avatars.keys())],
                 'tags': data.tags
             }
-            for char_id, data in self.chars.items()
+            for char_id, data in sorted(self.chars.items(), key=lambda x: x[0])
         }
 
     async def run(self):
@@ -128,7 +141,7 @@ class Resource:
             for lang, name in data['names'].items():
                 char.add_name(lang, name)
             for i, url in enumerate(data['avatars']):
-                char.avatars[str(i)] = url
+                char.avatars[str(i)] = Avatar(char_id, self.series, url)
             print(f'special char {self.series} {char.id}')
 
     async def get_avatar_data(self, char: Character, avatar: str) -> bytes:
@@ -136,16 +149,17 @@ class Resource:
 
     async def upload_avatar(self, char: Character, avatar: str):
         try:
-            im = Image.open(BytesIO(await self.get_avatar_data(char, avatar)))
+            byte = await self.get_avatar_data(char, avatar)
+            im = Image.open(BytesIO(byte))
             out_put = BytesIO()
             im.save(out_put, 'webp')
             out_put.seek(0)
-            await self.upload(char.raw_avatars[avatar], out_put.read())
-            print(f'upload {self.series} {char.raw_avatars[avatar]}')
+            await self.upload(char.avatars[avatar].raw + '.png', byte)
+            await self.upload(char.avatars[avatar].raw + '.webp', out_put.read())
+            print(f'upload {self.series} {char.avatars[avatar].raw}')
         except FileNotFoundError as e:
-            print(f'upload {self.series} {char.raw_avatars[avatar]} failed {e.args[0]}')
+            print(f'upload {self.series} {char.avatars[avatar].raw} failed {e.args[0]}')
             char.avatars.pop(avatar)
-            char.raw_avatars.pop(avatar)
 
     async def update(self):
         self.clean()
@@ -162,7 +176,7 @@ class Resource:
                 continue
             if char_id in remote_data:
                 for avatar, url in char.avatars.copy().items():
-                    if url not in remote_data[char_id]['avatars']:
+                    if url.short not in remote_data[char_id]['avatars']:
                         await self.upload_avatar(char, avatar)
             else:
                 for avatar, url in char.avatars.copy().items():

@@ -75,7 +75,6 @@ class ArknightsResource(Resource):
     def _char(self, char_id: str, is_enemy: bool, /, special: bool = False) -> ArknightsCharacter:
         if char_id not in self.chars:
             self.chars[char_id] = self.char_model(char_id, self.series, is_enemy, special=special)
-            self.chars[char_id].add_tag(self.series)
         return self.chars[char_id]
 
     def char(self, char_id: str, /, special: bool = False) -> ArknightsCharacter:
