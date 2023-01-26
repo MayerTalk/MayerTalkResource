@@ -24,16 +24,17 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m venv venv
-          venv\Scripts\python -m pip install --upgrade pip wheel setuptools
-          venv\Scripts\python -m pip install aiohttp pillow pypinyin
+          source venv/bin/activate
+          pip install --upgrade pip wheel setuptools
+          pip install aiohttp pillow pypinyin
           
       - name: Run
         env:
           SERVER: ${{ secrets.SERVER }}
           KEY: ${{ secrets.KEY }}
         run: |
-          venv\Scripts\Activate.ps1
-          venv\Scripts\python update_arknights.py
+          source venv/bin/activate
+          python update_arknights.py
         
       - name: Commit Change
         run: |
