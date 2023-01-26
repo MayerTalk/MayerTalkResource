@@ -9,7 +9,7 @@ on:
 
 jobs:
   AutoUpdate:
-    runs-on: windows-latest
+    runs-on: ubantu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
