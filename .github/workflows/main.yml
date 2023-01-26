@@ -36,6 +36,8 @@ jobs:
           source venv/bin/activate
           python update_arknights.py
           git status -s
+          git log
+          q
           ls
         
       - name: Commit Change
