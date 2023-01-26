@@ -10,6 +10,7 @@ from PIL import Image
 
 from .constance import *
 from .upload import Uploader
+from .time import get_time
 
 
 class Avatar:
@@ -207,3 +208,7 @@ class Resource:
 
         with open(f'version/{self.series}.txt', mode='wt', encoding='utf-8') as f:
             f.write(version)
+
+        os.system('git add data')
+        os.system('git add version')
+        os.system(f'git commit [{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}')
