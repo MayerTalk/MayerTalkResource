@@ -1,3 +1,4 @@
+import os
 import json
 import aiohttp
 import hashlib
@@ -165,7 +166,8 @@ class Resource:
         self.clean()
         self.upload = Uploader(self.client)
         version = self.version
-        if await self.remote_version == version:
+        remote_version = self.remote_version
+        if await remote_version == version:
             print(f'pass {self.series} {version}')
             return
 
@@ -185,8 +187,23 @@ class Resource:
         self.clean()
 
         version = self.version
+        if version == remote_version:
+            print(f'update {self.series} failed (same pass)')
+        os.system('echo "update=1" >> $GITHUB_ENV')
         await self.upload(version_url % self.series, version.encode('utf-8'))
         print(f'upload {self.series} version {version}')
 
-        await self.upload(data_url % self.series, json.dumps(self.data, ensure_ascii=False).encode('utf-8'))
+        data = self.data
+        await self.upload(data_url % self.series, json.dumps(data, ensure_ascii=False).encode('utf-8'))
         print(f'upload {self.series} data')
+
+        if not os.path.exists('data'):
+            os.mkdir('data')
+        if not os.path.exists('version'):
+            os.mkdir('version')
+
+        with open(f'data/{self.series}.json', mode='wt', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+        with open(f'version/{self.series}.txt', mode='wt', encoding='utf-8') as f:
+            f.write(version)
