@@ -75,6 +75,7 @@ class Resource:
         self.chars: Dict[str, Character] = {}
         self.client: Optional[aiohttp.ClientSession] = None
         self.upload: Optional[Uploader] = None
+        self.push: bool = False
 
     async def req(self, url: str, target: str, byte: bool = False, **kwargs) -> Union[str, bytes]:
         async with self.client.get(url, **kwargs) as r:
@@ -190,7 +191,7 @@ class Resource:
         version = self.version
         if version == remote_version:
             print(f'update {self.series} failed (same pass)')
-        os.system('echo "update=1" >> $GITHUB_ENV')
+        self.push = True
         await self.upload(version_url % self.series, version.encode('utf-8'))
         print(f'upload {self.series} version {version}')
 
@@ -211,4 +212,4 @@ class Resource:
 
         os.system('git add data')
         os.system('git add version')
-        os.system(f'git commit "[{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}"')
+        os.system(f'git commit [{self.series[0].upper() + self.series[1:]} UPDATE] Data:{get_time()}-{version[:6]}')
