@@ -4511,7 +4511,8 @@
     "avatars": [
       "",
       "_2",
-      "_epoque#12"
+      "_epoque#12",
+      "_epoque#19"
     ],
     "tags": [
       "operator"
@@ -15552,6 +15553,300 @@
       "enemy"
     ]
   },
+  "enemy_7001_blwzad": {
+    "names": {
+      "code": "sd1",
+      "fpy": "bzwss",
+      "py": "buzuwushushi",
+      "zh_CN": "部族巫术师"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7001_blwzad_2": {
+    "names": {
+      "code": "sd2",
+      "fpy": "wqwss",
+      "py": "wangqiuwushushi",
+      "zh_CN": "王酋巫术师"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7002_veingd": {
+    "names": {
+      "code": "sd3",
+      "fpy": "kmsw",
+      "py": "kuangmaishouwei",
+      "zh_CN": "矿脉守卫"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7002_veingd_2": {
+    "names": {
+      "code": "sd4",
+      "fpy": "khkmsw",
+      "py": "kuanghuakuangmaishouwei",
+      "zh_CN": "狂化矿脉守卫"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7003_catapt": {
+    "names": {
+      "code": "sd5",
+      "fpy": "“dkyz”",
+      "py": "“doukeyiza”",
+      "zh_CN": "“都可以砸”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7003_catapt_2": {
+    "names": {
+      "code": "sd6",
+      "fpy": "“dygz”",
+      "py": "“douyinggaiza”",
+      "zh_CN": "“都应该砸”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7004_xbdeer": {
+    "names": {
+      "code": "sd7",
+      "fpy": "xjts",
+      "py": "xiaojiaotiaoshou",
+      "zh_CN": "小角跳兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7004_xbdeer_2": {
+    "names": {
+      "code": "sd8",
+      "fpy": "djts",
+      "py": "dajiaotiaoshou",
+      "zh_CN": "大角跳兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7005_xbbull": {
+    "names": {
+      "code": "sd9",
+      "fpy": "tss",
+      "py": "taishengshou",
+      "zh_CN": "苔生兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7005_xbbull_2": {
+    "names": {
+      "code": "sd10",
+      "fpy": "mmtss",
+      "py": "maomitaishengshou",
+      "zh_CN": "茂密苔生兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7006_xbcrab": {
+    "names": {
+      "code": "sd11",
+      "fpy": "ykx",
+      "py": "yankexie",
+      "zh_CN": "岩壳蟹"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7006_xbcrab_2": {
+    "names": {
+      "code": "sd12",
+      "fpy": "jjykx",
+      "py": "jiejingyankexie",
+      "zh_CN": "结晶岩壳蟹"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7007_xbbird": {
+    "names": {
+      "code": "sd14",
+      "fpy": "lsjts",
+      "py": "luoshajingtishou",
+      "zh_CN": "落沙晶蹄兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7008_wrkwrk": {
+    "names": {
+      "code": "sd15",
+      "fpy": "cjsxs",
+      "py": "caijishixisheng",
+      "zh_CN": "采集实习生"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7009_mtmoun": {
+    "names": {
+      "code": "sd16",
+      "fpy": "“bxzr”",
+      "py": "“buxiuzhiren”",
+      "zh_CN": "“不朽之人”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7010_bldrgn": {
+    "names": {
+      "code": "sd17",
+      "fpy": "jys",
+      "py": "juyishou",
+      "zh_CN": "巨翼兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7011_paki": {
+    "names": {
+      "code": "sd18",
+      "fpy": "segqyck",
+      "py": "saergongqiyuecike",
+      "zh_CN": "萨尔贡契约刺客"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7012_wilder": {
+    "names": {
+      "code": "sd19",
+      "fpy": "wzcfg",
+      "py": "wuzuchongfengguan",
+      "zh_CN": "无阻冲锋官"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7013_slwazd": {
+    "names": {
+      "code": "sd20",
+      "fpy": "“zhz”",
+      "py": "“zhaohuizhe”",
+      "zh_CN": "“召毁者”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7014_dva": {
+    "names": {
+      "code": "sd21",
+      "fpy": "“dd”",
+      "py": "“dadang”",
+      "zh_CN": "“搭档”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_7015_xbcrab2": {
+    "names": {
+      "code": "sd13",
+      "fpy": "“qqsf”",
+      "py": "“qianqianshengfeng”",
+      "zh_CN": "“钳钳生风”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "token_10000_silent_healrb": {
     "names": {
       "en_US": "medic drone",
@@ -16920,6 +17215,292 @@
       "fpy": "gxzwjs",
       "py": "gaixingzhiwujisu",
       "zh_CN": "改性植物激素"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_400_xbfarm": {
+    "names": {
+      "fpy": "bxszzc",
+      "py": "bianxieshizhongzhicao",
+      "zh_CN": "便携式种植槽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_401_xbfato": {
+    "names": {
+      "fpy": "cjsxz",
+      "py": "caijishixizhan",
+      "zh_CN": "采集实习站"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_403_wfactory": {
+    "names": {
+      "fpy": "xxcsb",
+      "py": "xiexiechoushuibeng",
+      "zh_CN": "蟹蟹抽水泵"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_404_xbfortress": {
+    "names": {
+      "fpy": "jgzt",
+      "py": "jianguzhutai",
+      "zh_CN": "坚固筑台"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_405_xbroadblock": {
+    "names": {
+      "fpy": "dsfbz",
+      "py": "dushifengbizhang",
+      "zh_CN": "都市风壁障"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_406_xboverwatch": {
+    "names": {
+      "fpy": "jkt",
+      "py": "jiankongta",
+      "zh_CN": "监控塔"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_415_trademan": {
+    "names": {
+      "fpy": "lly",
+      "py": "lianluoyuan",
+      "zh_CN": "联络员"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_417_shielder": {
+    "names": {
+      "fpy": "hdykq",
+      "py": "hudunyaokongqi",
+      "zh_CN": "护盾遥控器"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_418_smokebomb": {
+    "names": {
+      "fpy": "ammx",
+      "py": "anmianmixiang",
+      "zh_CN": "安眠迷香"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_419_enhancer": {
+    "names": {
+      "fpy": "xsmy",
+      "py": "xingshenmiyao",
+      "zh_CN": "醒神秘药"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_420_umbrella": {
+    "names": {
+      "fpy": "fzccnj",
+      "py": "fanzhenchacangniji",
+      "zh_CN": "反侦察藏匿机"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_421_repairman": {
+    "names": {
+      "fpy": "yjxlc",
+      "py": "yingjixiuliche",
+      "zh_CN": "应急修理车"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_423_bondtw": {
+    "names": {
+      "fpy": "fwfst",
+      "py": "fuwangfashetai",
+      "zh_CN": "缚网发射台"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_424_pushtw": {
+    "names": {
+      "fpy": "pjq",
+      "py": "penjuqi",
+      "zh_CN": "喷拒器"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_425_xbwall": {
+    "names": {
+      "fpy": "fygs",
+      "py": "fangyugongshi",
+      "zh_CN": "防御工事"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_426_xbmrcl": {
+    "names": {
+      "fpy": "mkysss",
+      "py": "mokuaiyansuansheshi",
+      "zh_CN": "模块演算设施"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_427_xbprsh": {
+    "names": {
+      "fpy": "zyghz",
+      "py": "ziyuanguihuazhan",
+      "zh_CN": "资源规划站"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_428_xblrsh": {
+    "names": {
+      "fpy": "bqjhz",
+      "py": "beiqinjihuozhan",
+      "zh_CN": "备勤激活站"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_429_xbescp": {
+    "names": {
+      "fpy": "kdktxz",
+      "py": "kuadikuaitongxunzhan",
+      "zh_CN": "跨地块通讯站"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_431_xbgldn": {
+    "names": {
+      "fpy": "yzt",
+      "py": "yezhutai",
+      "zh_CN": "冶铸台"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_438_xbfato2": {
+    "names": {
+      "fpy": "cjzyz",
+      "py": "caijizhuanyuanzhan",
+      "zh_CN": "采集专员站"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_439_xbfato3": {
+    "names": {
+      "fpy": "cjzrz",
+      "py": "caijizhurenzhan",
+      "zh_CN": "采集主任站"
     },
     "avatars": [
       ""
