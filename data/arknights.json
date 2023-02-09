@@ -15847,6 +15847,19 @@
       "enemy"
     ]
   },
+  "npc_007_closure": {
+    "names": {
+      "en_US": "closure",
+      "fpy": "klxe",
+      "ja_JP": "クロージャ",
+      "py": "keluxier",
+      "zh_CN": "博士"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": []
+  },
   "token_10000_silent_healrb": {
     "names": {
       "en_US": "medic drone",
