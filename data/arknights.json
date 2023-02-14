@@ -417,7 +417,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_winter#3"
     ],
     "tags": [
       "operator"
@@ -1254,7 +1255,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_wild#7"
     ],
     "tags": [
       "operator"
@@ -1733,6 +1735,7 @@
     "avatars": [
       "",
       "_2",
+      "_epoque#19",
       "_epoque#4"
     ],
     "tags": [
@@ -3536,7 +3539,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_wild#7"
     ],
     "tags": [
       "operator"
@@ -3740,7 +3744,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_wild#7"
     ],
     "tags": [
       "operator"
@@ -3904,6 +3909,36 @@
       "fpy": "l",
       "py": "lin",
       "zh_CN": "林"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4082_qiubai": {
+    "names": {
+      "code": "yd20",
+      "fpy": "cb",
+      "py": "choubai",
+      "zh_CN": "仇白"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4083_chimes": {
+    "names": {
+      "code": "yd17",
+      "fpy": "dl",
+      "py": "duoling",
+      "zh_CN": "铎铃"
     },
     "avatars": [
       "",
@@ -15853,7 +15888,7 @@
       "fpy": "klxe",
       "ja_JP": "クロージャ",
       "py": "keluxier",
-      "zh_CN": "博士"
+      "zh_CN": "可露希尔"
     },
     "avatars": [
       ""
@@ -15886,7 +15921,8 @@
       "zh_CN": "触手"
     },
     "avatars": [
-      ""
+      "",
+      "_winter#3"
     ],
     "tags": [
       "token"
@@ -16323,7 +16359,8 @@
       "zh_CN": "“打字机”"
     },
     "avatars": [
-      ""
+      "",
+      "_wild#7"
     ],
     "tags": [
       "token"
