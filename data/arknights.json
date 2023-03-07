@@ -295,6 +295,21 @@
       "operator"
     ]
   },
+  "char_1029_yato2": {
+    "names": {
+      "code": "mh02",
+      "fpy": "qlxyd",
+      "py": "qilinxyedao",
+      "zh_CN": "麒麟x夜刀"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_102_texas": {
     "names": {
       "code": "pl02",
@@ -309,6 +324,21 @@
       "_2",
       "_epoque#7",
       "_winter#1"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_1030_noirc2": {
+    "names": {
+      "code": "mh03",
+      "fpy": "hlshj",
+      "py": "huolongsheijiao",
+      "zh_CN": "火龙s黑角"
+    },
+    "avatars": [
+      "",
+      "_2"
     ],
     "tags": [
       "operator"
@@ -2785,7 +2815,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_epoque#22"
     ],
     "tags": [
       "operator"
@@ -3038,6 +3069,7 @@
     "avatars": [
       "",
       "_2",
+      "_epoque#22",
       "_lxh#1",
       "_wild#3"
     ],
@@ -3301,7 +3333,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_epoque#22"
     ],
     "tags": [
       "operator"
@@ -3885,6 +3918,21 @@
     "avatars": [
       "",
       "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4077_palico": {
+    "names": {
+      "code": "mh01",
+      "fpy": "tldldct",
+      "py": "tailadaludiaochatuan",
+      "zh_CN": "泰拉大陆调查团"
+    },
+    "avatars": [
+      "",
+      "_mh#1"
     ],
     "tags": [
       "operator"
@@ -14054,6 +14102,258 @@
       "enemy"
     ]
   },
+  "enemy_1303_mhshep": {
+    "names": {
+      "code": "hs01",
+      "fpy": "js",
+      "py": "jiaoshou",
+      "zh_CN": "角兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1303_mhshep_2": {
+    "names": {
+      "code": "hs02",
+      "fpy": "kjs",
+      "py": "kangjiaoshou",
+      "zh_CN": "亢角兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1304_mhwolf": {
+    "names": {
+      "code": "hs03",
+      "fpy": "ljs",
+      "py": "liejishou",
+      "zh_CN": "鬣犄兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1304_mhwolf_2": {
+    "names": {
+      "code": "hs04",
+      "fpy": "lcljs",
+      "py": "lichiliejishou",
+      "zh_CN": "利齿鬣犄兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1305_mhslim": {
+    "names": {
+      "code": "hs05",
+      "fpy": "zrysc",
+      "py": "zhuoreyuanshichong",
+      "zh_CN": "灼热源石虫"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1305_mhslim_2": {
+    "names": {
+      "code": "hs06",
+      "fpy": "cyysc",
+      "py": "chiyanyuanshichong",
+      "zh_CN": "炽焰源石虫"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1306_mhtrtl": {
+    "names": {
+      "code": "hs07",
+      "fpy": "yjzs",
+      "py": "yingjiazhaoshou",
+      "zh_CN": "硬甲爪兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1306_mhtrtl_2": {
+    "names": {
+      "code": "hs08",
+      "fpy": "gjzs",
+      "py": "gangjiazhaoshou",
+      "zh_CN": "刚甲爪兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1307_mhrhcr": {
+    "names": {
+      "code": "hs09",
+      "fpy": "ygs",
+      "py": "yanguanshou",
+      "zh_CN": "岩冠兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1307_mhrhcr_2": {
+    "names": {
+      "code": "hs10",
+      "fpy": "jygs",
+      "py": "jianyanguanshou",
+      "zh_CN": "坚岩冠兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1308_mheagl": {
+    "names": {
+      "code": "hs11",
+      "fpy": "fys",
+      "py": "fengyushou",
+      "zh_CN": "锋羽兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1308_mheagl_2": {
+    "names": {
+      "code": "hs12",
+      "fpy": "xmfys",
+      "py": "xunmengfengyushou",
+      "zh_CN": "迅猛锋羽兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1309_mhboar": {
+    "names": {
+      "code": "hs13",
+      "fpy": "xss",
+      "py": "xiongshishou",
+      "zh_CN": "凶豕兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1309_mhboar_2": {
+    "names": {
+      "code": "hs14",
+      "fpy": "kbxss",
+      "py": "kuangbaoxiongshishou",
+      "zh_CN": "狂暴凶豕兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1310_mhprpn": {
+    "names": {
+      "code": "hs15",
+      "fpy": "js",
+      "py": "jishou",
+      "zh_CN": "棘兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1310_mhprpn_2": {
+    "names": {
+      "code": "hs16",
+      "fpy": "jjs",
+      "py": "jianjishou",
+      "zh_CN": "箭棘兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1311_mhkryk": {
+    "names": {
+      "code": "hs17",
+      "fpy": "js",
+      "py": "jiaoshou",
+      "zh_CN": "狡兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1311_mhkryk_2": {
+    "names": {
+      "code": "hs18",
+      "fpy": "ejs",
+      "py": "ejiaoshou",
+      "zh_CN": "恶狡兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "enemy_1500_skulsr": {
     "names": {
       "code": "ss",
@@ -14614,6 +14914,20 @@
       "fpy": "“lx” ",
       "py": "“lingxiu” ",
       "zh_CN": "“领袖” "
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1537_mhrors": {
+    "names": {
+      "code": "6935",
+      "fpy": "hl",
+      "py": "huolong",
+      "zh_CN": "火龙"
     },
     "avatars": [
       ""
@@ -16098,7 +16412,8 @@
       "zh_CN": "移动摄影器"
     },
     "avatars": [
-      ""
+      "",
+      "_epoque#22"
     ],
     "tags": [
       "token"
@@ -17254,6 +17569,58 @@
       "fpy": "fxjy",
       "py": "fangxiangjingyou",
       "zh_CN": "芳香精油"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_099_mhflsb": {
+    "names": {
+      "fpy": "xgsl",
+      "py": "xuanguangshoulei",
+      "zh_CN": "眩光手雷"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_100_mhlbmb": {
+    "names": {
+      "fpy": "gnysbt",
+      "py": "gaonengyuanshibaotong",
+      "zh_CN": "高能源石爆桶"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_101_mhshok": {
+    "names": {
+      "fpy": "gymcgl",
+      "py": "gaoyamaichongguilei",
+      "zh_CN": "高压脉冲诡雷"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_102_mhwrbg": {
+    "names": {
+      "fpy": "zkqywrj",
+      "py": "zhikongqianyinwurenji",
+      "zh_CN": "滞空牵引无人机"
     },
     "avatars": [
       ""
