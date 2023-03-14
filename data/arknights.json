@@ -267,6 +267,7 @@
   "char_1027_greyy2": {
     "names": {
       "code": "rf23",
+      "en_US": "greyy the lightningbearer",
       "fpy": "cxgly",
       "ja_JP": "承曦グレイ",
       "py": "chengxigeleiyi",
@@ -778,6 +779,7 @@
   "char_135_halo": {
     "names": {
       "code": "rl08",
+      "en_US": "astgenne",
       "fpy": "xy",
       "ja_JP": "アステジーニ",
       "py": "xingyuan",
@@ -3741,6 +3743,7 @@
   "char_4048_doroth": {
     "names": {
       "code": "rl07",
+      "en_US": "dorothy",
       "fpy": "dlx",
       "ja_JP": "ドロシー",
       "py": "duoluoxi",
@@ -4925,6 +4928,7 @@
   },
   "char_514_rdfend": {
     "names": {
+      "en_US": "reserve operator - defender",
       "fpy": "ybgy-zz",
       "ja_JP": "予備隊員-重装",
       "py": "yubeiganyuan-zhongzhuang",
@@ -12681,6 +12685,7 @@
   "enemy_1249_lysdb": {
     "names": {
       "code": "ro01",
+      "en_US": "rhine defense member",
       "fpy": "lysmfwkcy",
       "ja_JP": "ライン生命警備課職員",
       "py": "laiyinshengmingfangweikechengyuan",
@@ -12696,6 +12701,7 @@
   "enemy_1249_lysdb_2": {
     "names": {
       "code": "ro02",
+      "en_US": "rhine defense senior member",
       "fpy": "lysmfwkgjcy",
       "ja_JP": "ライン生命警備課上級職員",
       "py": "laiyinshengmingfangweikegaojichengyuan",
@@ -12711,6 +12717,7 @@
   "enemy_1250_lyengs": {
     "names": {
       "code": "ro03",
+      "en_US": "rhine engineering member",
       "fpy": "lysmgckcy",
       "ja_JP": "ライン生命エンジニア",
       "py": "laiyinshengminggongchengkechengyuan",
@@ -12726,6 +12733,7 @@
   "enemy_1250_lyengs_2": {
     "names": {
       "code": "ro04",
+      "en_US": "rhine engineering senior member",
       "fpy": "lysmgjgckcy",
       "ja_JP": "ライン生命上級エンジニア",
       "py": "laiyinshengminggaojigongchengkechengyuan",
@@ -12741,6 +12749,7 @@
   "enemy_1251_lysyta": {
     "names": {
       "code": "ro05",
+      "en_US": "dor-1 failure",
       "fpy": "dor-1hsbp",
       "ja_JP": "dor-1号失敗作",
       "py": "dor-1haoshibaipin",
@@ -12756,6 +12765,7 @@
   "enemy_1251_lysyta_2": {
     "names": {
       "code": "ro06",
+      "en_US": "dor-α failure",
       "fpy": "dor-αhsbp",
       "ja_JP": "dor-α号失敗作",
       "py": "dor-αhaoshibaipin",
@@ -12771,6 +12781,7 @@
   "enemy_1252_lysytb": {
     "names": {
       "code": "ro07",
+      "en_US": "dor-2 replica",
       "fpy": "dor-2hfzt",
       "ja_JP": "dor-2号複製体",
       "py": "dor-2haofuzhiti",
@@ -12786,6 +12797,7 @@
   "enemy_1252_lysytb_2": {
     "names": {
       "code": "ro08",
+      "en_US": "dor-β replica",
       "fpy": "dor-βhfzt",
       "ja_JP": "dor-β号複製体",
       "py": "dor-βhaofuzhiti",
@@ -12801,6 +12813,7 @@
   "enemy_1253_lysytc": {
     "names": {
       "code": "ro09",
+      "en_US": "dor-3 bionic",
       "fpy": "dor-3hgzt",
       "ja_JP": "dor-3号改造体",
       "py": "dor-3haogaizaoti",
@@ -12816,6 +12829,7 @@
   "enemy_1253_lysytc_2": {
     "names": {
       "code": "ro10",
+      "en_US": "dor-γ bionic",
       "fpy": "dor-γhgzt",
       "ja_JP": "dor-γ号改造体",
       "py": "dor-γhaogaizaoti",
@@ -12831,6 +12845,7 @@
   "enemy_1254_lypa": {
     "names": {
       "code": "ro11",
+      "en_US": "experimental power armor",
       "fpy": "syydlzj",
       "ja_JP": "実験用パワードスーツ",
       "py": "shiyanyongdonglizhuangjia",
@@ -12846,6 +12861,7 @@
   "enemy_1254_lypa_2": {
     "names": {
       "code": "ro12",
+      "en_US": "test power armor",
       "fpy": "csydlzj",
       "ja_JP": "テスト用パワードスーツ",
       "py": "ceshiyongdonglizhuangjia",
@@ -12861,6 +12877,7 @@
   "enemy_1255_lybgpa": {
     "names": {
       "code": "ro13",
+      "en_US": "r-31 heavy power armor",
       "fpy": "r-31zxdlzj",
       "ja_JP": "r-31大型パワードスーツ",
       "py": "r-31zhongxingdonglizhuangjia",
@@ -12876,6 +12893,7 @@
   "enemy_1255_lybgpa_2": {
     "names": {
       "code": "ro14",
+      "en_US": "r-31a heavy power armor",
       "fpy": "r-31azxdlzj",
       "ja_JP": "r-31a大型パワードスーツ",
       "py": "r-31azhongxingdonglizhuangjia",
@@ -12891,6 +12909,7 @@
   "enemy_1256_lyacpa": {
     "names": {
       "code": "ro15",
+      "en_US": "r-11 assault power armor",
       "fpy": "r-11tjdlzj",
       "ja_JP": "r-11突撃型パワードスーツ",
       "py": "r-11tujidonglizhuangjia",
@@ -12906,6 +12925,7 @@
   "enemy_1256_lyacpa_2": {
     "names": {
       "code": "ro16",
+      "en_US": "r-11a assault power armor",
       "fpy": "r-11atjdlzj",
       "ja_JP": "r-11a突撃型パワードスーツ",
       "py": "r-11atujidonglizhuangjia",
@@ -12921,6 +12941,7 @@
   "enemy_1257_lydrty": {
     "names": {
       "code": "ro17",
+      "en_US": "dorothy",
       "fpy": "dlx",
       "ja_JP": "dorothy",
       "py": "duoluoxi",
@@ -14874,6 +14895,7 @@
   "enemy_1531_bbrain": {
     "names": {
       "code": "bbr",
+      "en_US": "'awaken'",
       "fpy": "“hx”",
       "ja_JP": "「覚醒」",
       "py": "“huanxing”",
@@ -16678,6 +16700,7 @@
   },
   "token_10025_doroth_recttp": {
     "names": {
+      "en_US": "resonator",
       "fpy": "gzzz",
       "ja_JP": "共振装置",
       "py": "gongzhenzhuangzhi",
@@ -17358,6 +17381,7 @@
   },
   "trap_075_bgarmn": {
     "names": {
+      "en_US": "r-31 heavy power armor",
       "fpy": "r-31zxdlzj",
       "ja_JP": "r-31大型パワードスーツ",
       "py": "r-31zhongxingdonglizhuangjia",
@@ -17372,6 +17396,7 @@
   },
   "trap_076_bgarms": {
     "names": {
+      "en_US": "r-31a heavy power armor",
       "fpy": "r-31azxdlzj",
       "ja_JP": "r-31a大型パワードスーツ",
       "py": "r-31azhongxingdonglizhuangjia",
@@ -17386,6 +17411,7 @@
   },
   "trap_077_rmtarmn": {
     "names": {
+      "en_US": "r-11 assault power armor",
       "fpy": "r-11tjdlzj",
       "ja_JP": "r-11突撃型パワードスーツ",
       "py": "r-11tujidonglizhuangjia",
@@ -17400,6 +17426,7 @@
   },
   "trap_078_rmtarms": {
     "names": {
+      "en_US": "r-11a assault power armor",
       "fpy": "r-11atjdlzj",
       "ja_JP": "r-11a突撃型パワードスーツ",
       "py": "r-11atujidonglizhuangjia",
