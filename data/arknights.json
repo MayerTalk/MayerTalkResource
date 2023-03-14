@@ -268,6 +268,7 @@
     "names": {
       "code": "rf23",
       "fpy": "cxgly",
+      "ja_JP": "承曦グレイ",
       "py": "chengxigeleiyi",
       "zh_CN": "承曦格雷伊"
     },
@@ -778,6 +779,7 @@
     "names": {
       "code": "rl08",
       "fpy": "xy",
+      "ja_JP": "アステジーニ",
       "py": "xingyuan",
       "zh_CN": "星源"
     },
@@ -3740,6 +3742,7 @@
     "names": {
       "code": "rl07",
       "fpy": "dlx",
+      "ja_JP": "ドロシー",
       "py": "duoluoxi",
       "zh_CN": "多萝西"
     },
@@ -4923,6 +4926,7 @@
   "char_514_rdfend": {
     "names": {
       "fpy": "ybgy-zz",
+      "ja_JP": "予備隊員-重装",
       "py": "yubeiganyuan-zhongzhuang",
       "zh_CN": "预备干员-重装"
     },
@@ -12678,6 +12682,7 @@
     "names": {
       "code": "ro01",
       "fpy": "lysmfwkcy",
+      "ja_JP": "ライン生命警備課職員",
       "py": "laiyinshengmingfangweikechengyuan",
       "zh_CN": "莱茵生命防卫科成员"
     },
@@ -12692,6 +12697,7 @@
     "names": {
       "code": "ro02",
       "fpy": "lysmfwkgjcy",
+      "ja_JP": "ライン生命警備課上級職員",
       "py": "laiyinshengmingfangweikegaojichengyuan",
       "zh_CN": "莱茵生命防卫科高级成员"
     },
@@ -12706,6 +12712,7 @@
     "names": {
       "code": "ro03",
       "fpy": "lysmgckcy",
+      "ja_JP": "ライン生命エンジニア",
       "py": "laiyinshengminggongchengkechengyuan",
       "zh_CN": "莱茵生命工程科成员"
     },
@@ -12720,6 +12727,7 @@
     "names": {
       "code": "ro04",
       "fpy": "lysmgjgckcy",
+      "ja_JP": "ライン生命上級エンジニア",
       "py": "laiyinshengminggaojigongchengkechengyuan",
       "zh_CN": "莱茵生命高级工程科成员"
     },
@@ -12734,6 +12742,7 @@
     "names": {
       "code": "ro05",
       "fpy": "dor-1hsbp",
+      "ja_JP": "dor-1号失敗作",
       "py": "dor-1haoshibaipin",
       "zh_CN": "dor-1号失败品"
     },
@@ -12748,6 +12757,7 @@
     "names": {
       "code": "ro06",
       "fpy": "dor-αhsbp",
+      "ja_JP": "dor-α号失敗作",
       "py": "dor-αhaoshibaipin",
       "zh_CN": "dor-α号失败品"
     },
@@ -12762,6 +12772,7 @@
     "names": {
       "code": "ro07",
       "fpy": "dor-2hfzt",
+      "ja_JP": "dor-2号複製体",
       "py": "dor-2haofuzhiti",
       "zh_CN": "dor-2号复制体"
     },
@@ -12776,6 +12787,7 @@
     "names": {
       "code": "ro08",
       "fpy": "dor-βhfzt",
+      "ja_JP": "dor-β号複製体",
       "py": "dor-βhaofuzhiti",
       "zh_CN": "dor-β号复制体"
     },
@@ -12790,6 +12802,7 @@
     "names": {
       "code": "ro09",
       "fpy": "dor-3hgzt",
+      "ja_JP": "dor-3号改造体",
       "py": "dor-3haogaizaoti",
       "zh_CN": "dor-3号改造体"
     },
@@ -12804,6 +12817,7 @@
     "names": {
       "code": "ro10",
       "fpy": "dor-γhgzt",
+      "ja_JP": "dor-γ号改造体",
       "py": "dor-γhaogaizaoti",
       "zh_CN": "dor-γ号改造体"
     },
@@ -12818,6 +12832,7 @@
     "names": {
       "code": "ro11",
       "fpy": "syydlzj",
+      "ja_JP": "実験用パワードスーツ",
       "py": "shiyanyongdonglizhuangjia",
       "zh_CN": "实验用动力装甲"
     },
@@ -12832,6 +12847,7 @@
     "names": {
       "code": "ro12",
       "fpy": "csydlzj",
+      "ja_JP": "テスト用パワードスーツ",
       "py": "ceshiyongdonglizhuangjia",
       "zh_CN": "测试用动力装甲"
     },
@@ -12846,6 +12862,7 @@
     "names": {
       "code": "ro13",
       "fpy": "r-31zxdlzj",
+      "ja_JP": "r-31大型パワードスーツ",
       "py": "r-31zhongxingdonglizhuangjia",
       "zh_CN": "r-31重型动力装甲"
     },
@@ -12860,6 +12877,7 @@
     "names": {
       "code": "ro14",
       "fpy": "r-31azxdlzj",
+      "ja_JP": "r-31a大型パワードスーツ",
       "py": "r-31azhongxingdonglizhuangjia",
       "zh_CN": "r-31a重型动力装甲"
     },
@@ -12874,6 +12892,7 @@
     "names": {
       "code": "ro15",
       "fpy": "r-11tjdlzj",
+      "ja_JP": "r-11突撃型パワードスーツ",
       "py": "r-11tujidonglizhuangjia",
       "zh_CN": "r-11突击动力装甲"
     },
@@ -12888,6 +12907,7 @@
     "names": {
       "code": "ro16",
       "fpy": "r-11atjdlzj",
+      "ja_JP": "r-11a突撃型パワードスーツ",
       "py": "r-11atujidonglizhuangjia",
       "zh_CN": "r-11a突击动力装甲"
     },
@@ -12902,6 +12922,7 @@
     "names": {
       "code": "ro17",
       "fpy": "dlx",
+      "ja_JP": "dorothy",
       "py": "duoluoxi",
       "zh_CN": "多萝西"
     },
@@ -14854,6 +14875,7 @@
     "names": {
       "code": "bbr",
       "fpy": "“hx”",
+      "ja_JP": "「覚醒」",
       "py": "“huanxing”",
       "zh_CN": "“唤醒”"
     },
@@ -16657,6 +16679,7 @@
   "token_10025_doroth_recttp": {
     "names": {
       "fpy": "gzzz",
+      "ja_JP": "共振装置",
       "py": "gongzhenzhuangzhi",
       "zh_CN": "共振装置"
     },
@@ -17336,6 +17359,7 @@
   "trap_075_bgarmn": {
     "names": {
       "fpy": "r-31zxdlzj",
+      "ja_JP": "r-31大型パワードスーツ",
       "py": "r-31zhongxingdonglizhuangjia",
       "zh_CN": "r-31重型动力装甲"
     },
@@ -17349,6 +17373,7 @@
   "trap_076_bgarms": {
     "names": {
       "fpy": "r-31azxdlzj",
+      "ja_JP": "r-31a大型パワードスーツ",
       "py": "r-31azhongxingdonglizhuangjia",
       "zh_CN": "r-31a重型动力装甲"
     },
@@ -17362,6 +17387,7 @@
   "trap_077_rmtarmn": {
     "names": {
       "fpy": "r-11tjdlzj",
+      "ja_JP": "r-11突撃型パワードスーツ",
       "py": "r-11tujidonglizhuangjia",
       "zh_CN": "r-11突击动力装甲"
     },
@@ -17375,6 +17401,7 @@
   "trap_078_rmtarms": {
     "names": {
       "fpy": "r-11atjdlzj",
+      "ja_JP": "r-11a突撃型パワードスーツ",
       "py": "r-11atujidonglizhuangjia",
       "zh_CN": "r-11a突击动力装甲"
     },
