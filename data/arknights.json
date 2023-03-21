@@ -2278,6 +2278,7 @@
     "avatars": [
       "",
       "_2",
+      "_epoque#23",
       "_epoque#5",
       "_shining#1"
     ],
@@ -14986,6 +14987,20 @@
       "fpy": "“y”",
       "py": "“ya”",
       "zh_CN": "“睚”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1539_reid": {
+    "names": {
+      "code": "a15",
+      "fpy": "“fcz”",
+      "py": "“fuchouzhe”",
+      "zh_CN": "“复仇者”"
     },
     "avatars": [
       ""
