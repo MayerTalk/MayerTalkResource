@@ -3572,7 +3572,9 @@
   "char_4032_provs": {
     "names": {
       "code": "kz10",
+      "en_US": "proviso",
       "fpy": "ds",
+      "ja_JP": "プロヴァイゾ",
       "py": "danshu",
       "zh_CN": "但书"
     },
@@ -3843,7 +3845,9 @@
   "char_4064_mlynar": {
     "names": {
       "code": "kz08",
+      "en_US": "młynar",
       "fpy": "men",
+      "ja_JP": "ムリナール",
       "py": "maenna",
       "zh_CN": "玛恩纳"
     },
@@ -3888,7 +3892,9 @@
   "char_4067_lolxh": {
     "names": {
       "code": "r161",
+      "en_US": "luo xiaohei",
       "fpy": "lxh",
+      "ja_JP": "羅小黒",
       "py": "luoxiaohei",
       "zh_CN": "罗小黑"
     },
@@ -15754,7 +15760,9 @@
   "enemy_5008_cstrwd": {
     "names": {
       "code": "-",
+      "en_US": "-",
       "fpy": "-",
+      "ja_JP": "-",
       "py": "-",
       "zh_CN": "-"
     },
@@ -15768,7 +15776,9 @@
   "enemy_5009_shtrwd": {
     "names": {
       "code": "-",
+      "en_US": "-",
       "fpy": "-",
+      "ja_JP": "-",
       "py": "-",
       "zh_CN": "-"
     },
