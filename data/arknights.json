@@ -4011,6 +4011,20 @@
       "operator"
     ]
   },
+  "char_4091_ulika": {
+    "names": {
+      "code": "u007",
+      "fpy": "u-official",
+      "py": "u-official",
+      "zh_CN": "u-official"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_411_tomimi": {
     "names": {
       "code": "sg05",
@@ -17713,6 +17727,19 @@
       "fpy": "gxzwjs",
       "py": "gaixingzhiwujisu",
       "zh_CN": "改性植物激素"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_116_stdurk": {
+    "names": {
+      "fpy": "“gqdw”",
+      "py": "“guoqudewo”",
+      "zh_CN": "“过去的我”"
     },
     "avatars": [
       ""
