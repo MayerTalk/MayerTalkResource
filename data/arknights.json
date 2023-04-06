@@ -1009,6 +1009,21 @@
       "operator"
     ]
   },
+  "char_154_morgan": {
+    "names": {
+      "code": "gg02",
+      "fpy": "mg",
+      "py": "mogen",
+      "zh_CN": "摩根"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_155_tiger": {
     "names": {
       "code": "gg03",
@@ -2555,7 +2570,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_epoque#24"
     ],
     "tags": [
       "operator"
@@ -3616,7 +3632,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_epoque#24"
     ],
     "tags": [
       "operator"
@@ -3703,7 +3720,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_epoque#24"
     ],
     "tags": [
       "operator"
@@ -4002,6 +4020,21 @@
       "fpy": "dl",
       "py": "duoling",
       "zh_CN": "铎铃"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4087_ines": {
+    "names": {
+      "code": "b215",
+      "fpy": "yns",
+      "py": "yineisi",
+      "zh_CN": "伊内丝"
     },
     "avatars": [
       "",
@@ -4432,6 +4465,21 @@
       "operator"
     ]
   },
+  "char_464_cement": {
+    "names": {
+      "code": "rb11",
+      "fpy": "yh",
+      "py": "yanghui",
+      "zh_CN": "洋灰"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_466_qanik": {
     "names": {
       "code": "si03",
@@ -4656,6 +4704,21 @@
       "ja_JP": "コロセラム",
       "py": "shiqing",
       "zh_CN": "蚀清"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_491_humus": {
+    "names": {
+      "code": "r171",
+      "fpy": "xms",
+      "py": "xiumosi",
+      "zh_CN": "休谟斯"
     },
     "avatars": [
       "",
@@ -14417,6 +14480,300 @@
       "enemy"
     ]
   },
+  "enemy_1313_wdfmr": {
+    "names": {
+      "code": "lud5",
+      "fpy": "nbtpm",
+      "py": "nuobotepingmin",
+      "zh_CN": "诺伯特平民"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1313_wdfmr_2": {
+    "names": {
+      "code": "lud6",
+      "fpy": "nbtat",
+      "py": "nuoboteantan",
+      "zh_CN": "诺伯特暗探"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1314_wdnjd": {
+    "names": {
+      "code": "lud7",
+      "fpy": "xlmt",
+      "py": "xunlumitan",
+      "zh_CN": "寻路密探"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1314_wdnjd_2": {
+    "names": {
+      "code": "lud8",
+      "fpy": "xlmtz",
+      "py": "xunlumitanzhang",
+      "zh_CN": "寻路密探长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1315_wdyjd": {
+    "names": {
+      "code": "lud9",
+      "fpy": "gsmt",
+      "py": "gangshaomitan",
+      "zh_CN": "岗哨密探"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1315_wdyjd_2": {
+    "names": {
+      "code": "lud10",
+      "fpy": "gsmtz",
+      "py": "gangshaomitanzhang",
+      "zh_CN": "岗哨密探长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1316_wdpjd": {
+    "names": {
+      "code": "lud11",
+      "fpy": "wzmt",
+      "py": "wuzhuangmitan",
+      "zh_CN": "武装密探"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1316_wdpjd_2": {
+    "names": {
+      "code": "lud12",
+      "fpy": "wzmtz",
+      "py": "wuzhuangmitanzhang",
+      "zh_CN": "武装密探长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1317_wdexg": {
+    "names": {
+      "code": "shd1",
+      "fpy": "skzbmdbg",
+      "py": "sakazibeimiudiebaoguan",
+      "zh_CN": "萨卡兹悖谬谍报官"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1317_wdexg_2": {
+    "names": {
+      "code": "shd2",
+      "fpy": "skzbmdbz",
+      "py": "sakazibeimiudiebaozhang",
+      "zh_CN": "萨卡兹悖谬谍报长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1318_wdsmgc": {
+    "names": {
+      "code": "shd3",
+      "fpy": "skzbmlbxt",
+      "py": "sakazibeimiuliebianxuetu",
+      "zh_CN": "萨卡兹悖谬裂变学徒"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1318_wdsmgc_2": {
+    "names": {
+      "code": "shd4",
+      "fpy": "skzbmlbss",
+      "py": "sakazibeimiuliebianshushi",
+      "zh_CN": "萨卡兹悖谬裂变术师"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1319_wdfmpm": {
+    "names": {
+      "code": "shd7",
+      "fpy": "plsdz",
+      "py": "panluanshandongzhe",
+      "zh_CN": "叛乱煽动者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1319_wdfmpm_2": {
+    "names": {
+      "code": "shd8",
+      "fpy": "plgdz",
+      "py": "panluangudongzhe",
+      "zh_CN": "叛乱鼓动者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1320_wdrrl": {
+    "names": {
+      "code": "shd5",
+      "fpy": "skzbmbnb",
+      "py": "sakazibeimiubaonvebing",
+      "zh_CN": "萨卡兹悖谬暴虐兵"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1320_wdrrl_2": {
+    "names": {
+      "code": "shd6",
+      "fpy": "skzbmbnbz",
+      "py": "sakazibeimiubaonvebingzhang",
+      "zh_CN": "萨卡兹悖谬暴虐兵长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1321_wdarft": {
+    "names": {
+      "code": "nac16",
+      "fpy": "kxcjst",
+      "py": "kuxiucuijushitu",
+      "zh_CN": "枯朽萃聚使徒"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1321_wdarft_2": {
+    "names": {
+      "code": "nac17",
+      "fpy": "fbcjst",
+      "py": "fubaicuijushitu",
+      "zh_CN": "腐败萃聚使徒"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1322_wdgyht": {
+    "names": {
+      "code": "lud13",
+      "fpy": "“hlm”",
+      "py": "“huilimao”",
+      "zh_CN": "“灰礼帽”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1322_wdgyht_2": {
+    "names": {
+      "code": "lud14",
+      "fpy": "“jxhlm”",
+      "py": "“jianxihuilimao”",
+      "zh_CN": "“见习灰礼帽”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1323_wdbshd": {
+    "names": {
+      "code": "dc2",
+      "fpy": "jgjbt",
+      "py": "jiegoujibianti",
+      "zh_CN": "解构畸变体"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "enemy_1500_skulsr": {
     "names": {
       "code": "ss",
@@ -15021,6 +15378,48 @@
       "fpy": "“fcz”",
       "py": "“fuchouzhe”",
       "zh_CN": "“复仇者”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1540_wdncr": {
+    "names": {
+      "code": "eb",
+      "fpy": "abln",
+      "py": "aibulana",
+      "zh_CN": "爱布拉娜"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1541_wdslms": {
+    "names": {
+      "code": "dc3",
+      "fpy": "“bxzjq”",
+      "py": "“bianxingzhejiqun”",
+      "zh_CN": "“变形者集群”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1542_wdslm": {
+    "names": {
+      "code": "dc1",
+      "fpy": "“bxzjq”",
+      "py": "“bianxingzhejiqun”",
+      "zh_CN": "“变形者集群”"
     },
     "avatars": [
       ""
