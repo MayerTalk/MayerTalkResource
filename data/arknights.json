@@ -16028,6 +16028,34 @@
       "enemy"
     ]
   },
+  "enemy_2041_syjely": {
+    "names": {
+      "code": "sy8",
+      "fpy": "yzmkdzd",
+      "py": "yizumikedezidai",
+      "zh_CN": "伊祖米克的子代"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2042_syboss": {
+    "names": {
+      "code": "mzk",
+      "fpy": "yzmk，stqy",
+      "py": "yizumike，shengtaiquanyuan",
+      "zh_CN": "伊祖米克，生态泉源"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "enemy_3001_upeopl": {
     "names": {
       "code": "u16",
@@ -16378,6 +16406,34 @@
       "fpy": "xxgst",
       "py": "xiaoxinggongshengti",
       "zh_CN": "小型共生体"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_6013_smith": {
+    "names": {
+      "code": "dl13",
+      "fpy": "lmd“nn”",
+      "py": "laomade“ninv”",
+      "zh_CN": "老妈的“逆女”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_6014_crzgas": {
+    "names": {
+      "code": "dl14",
+      "fpy": "“dl”",
+      "py": "“duliu”",
+      "zh_CN": "“毒瘤”"
     },
     "avatars": [
       ""
@@ -18134,6 +18190,19 @@
       "trap"
     ]
   },
+  "trap_114_smkbmb": {
+    "names": {
+      "fpy": "bldqg",
+      "py": "baolieduqiguan",
+      "zh_CN": "爆裂毒气罐"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
   "trap_116_stdurk": {
     "names": {
       "fpy": "“gqdw”",
@@ -18607,6 +18676,123 @@
       "fpy": "lzsgd",
       "py": "liezhishanguangdan",
       "zh_CN": "劣质闪光弹"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_714_cdaltar": {
+    "names": {
+      "fpy": "nlrdfdq",
+      "py": "nengliangraodongfangdaqi",
+      "zh_CN": "能量扰动放大器"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_715_cdaltara": {
+    "names": {
+      "fpy": "nlrdfdq",
+      "py": "nengliangraodongfangdaqi",
+      "zh_CN": "能量扰动放大器"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_716_cdaltarb": {
+    "names": {
+      "fpy": "nlrdfdq",
+      "py": "nengliangraodongfangdaqi",
+      "zh_CN": "能量扰动放大器"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_717_cddiff": {
+    "names": {
+      "fpy": "zszbzlx",
+      "py": "zhanshuzhuangbeizhenglixiang",
+      "zh_CN": "战术装备整理箱"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_718_cddiffa": {
+    "names": {
+      "fpy": "zszbzlx",
+      "py": "zhanshuzhuangbeizhenglixiang",
+      "zh_CN": "战术装备整理箱"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_719_cddiffb": {
+    "names": {
+      "fpy": "zszbzlx",
+      "py": "zhanshuzhuangbeizhenglixiang",
+      "zh_CN": "战术装备整理箱"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_720_cdheal": {
+    "names": {
+      "fpy": "bxsylsb",
+      "py": "bianxieshiyiliaoshebei",
+      "zh_CN": "便携式医疗设备"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_721_cdheala": {
+    "names": {
+      "fpy": "bxsylsb",
+      "py": "bianxieshiyiliaoshebei",
+      "zh_CN": "便携式医疗设备"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_722_cdhealb": {
+    "names": {
+      "fpy": "bxsylsb",
+      "py": "bianxieshiyiliaoshebei",
+      "zh_CN": "便携式医疗设备"
     },
     "avatars": [
       ""
