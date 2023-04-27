@@ -1045,7 +1045,9 @@
   "char_157_dagda": {
     "names": {
       "code": "gg04",
+      "en_US": "dagda",
       "fpy": "dgd",
+      "ja_JP": "ダグザ",
       "py": "dageda",
       "zh_CN": "达格达"
     },
@@ -3834,7 +3836,9 @@
   "char_4062_totter": {
     "names": {
       "code": "sg11",
+      "en_US": "totter",
       "fpy": "qh",
+      "ja_JP": "トター",
       "py": "qianhuai",
       "zh_CN": "铅踝"
     },
@@ -3928,7 +3932,9 @@
   "char_4071_peper": {
     "names": {
       "code": "r175",
+      "en_US": "paprika",
       "fpy": "mj",
+      "ja_JP": "パプリカ",
       "py": "mingjiao",
       "zh_CN": "明椒"
     },
@@ -3943,7 +3949,9 @@
   "char_4072_ironmn": {
     "names": {
       "code": "vc17",
+      "en_US": "stainless",
       "fpy": "bt",
+      "ja_JP": "ステインレス",
       "py": "baitie",
       "zh_CN": "白铁"
     },
@@ -13266,7 +13274,9 @@
   "enemy_1266_nhapos": {
     "names": {
       "code": "nac1",
+      "en_US": "rot eater",
       "fpy": "sfst",
+      "ja_JP": "ナハツェーラーの使徒",
       "py": "shifushitu",
       "zh_CN": "食腐使徒"
     },
@@ -13280,7 +13290,9 @@
   "enemy_1267_nhpbr": {
     "names": {
       "code": "nac2",
+      "en_US": "sarkaz witherer",
       "fpy": "skzkxzs",
+      "ja_JP": "枯朽サルカズ戦士",
       "py": "sakazikuxiuzhanshi",
       "zh_CN": "萨卡兹枯朽战士"
     },
@@ -13294,7 +13306,9 @@
   "enemy_1267_nhpbr_2": {
     "names": {
       "code": "nac3",
+      "en_US": "sarkaz witherer captain",
       "fpy": "skzkxzszz",
+      "ja_JP": "枯朽サルカズ戦士隊長",
       "py": "sakazikuxiuzhanshizuzhang",
       "zh_CN": "萨卡兹枯朽战士组长"
     },
@@ -13308,7 +13322,9 @@
   "enemy_1268_nhnrs": {
     "names": {
       "code": "nac4",
+      "en_US": "sarkaz wither caster",
       "fpy": "skzkxss",
+      "ja_JP": "枯朽サルカズ術師",
       "py": "sakazikuxiushushi",
       "zh_CN": "萨卡兹枯朽术师"
     },
@@ -13322,7 +13338,9 @@
   "enemy_1268_nhnrs_2": {
     "names": {
       "code": "nac5",
+      "en_US": "sarkaz wither caster captain",
       "fpy": "skzkxsszz",
+      "ja_JP": "枯朽サルカズ術師隊長",
       "py": "sakazikuxiushushizuzhang",
       "zh_CN": "萨卡兹枯朽术师组长"
     },
@@ -13336,7 +13354,9 @@
   "enemy_1269_nhfly": {
     "names": {
       "code": "nac6",
+      "en_US": "seed of withering",
       "fpy": "kxzz",
+      "ja_JP": "枯朽の種",
       "py": "kuxiuzhizhong",
       "zh_CN": "枯朽之种"
     },
@@ -13350,7 +13370,9 @@
   "enemy_1269_nhfly_2": {
     "names": {
       "code": "nac7",
+      "en_US": "seed of decay",
       "fpy": "fbzz",
+      "ja_JP": "腐敗の種",
       "py": "fubaizhizhong",
       "zh_CN": "腐败之种"
     },
@@ -13364,7 +13386,9 @@
   "enemy_1270_nhstlk": {
     "names": {
       "code": "nac8",
+      "en_US": "rotchaser",
       "fpy": "zfs",
+      "ja_JP": "逐腐獣",
       "py": "zhufushou",
       "zh_CN": "逐腐兽"
     },
@@ -13378,7 +13402,9 @@
   "enemy_1270_nhstlk_2": {
     "names": {
       "code": "nac9",
+      "en_US": "rampaging rotchaser",
       "fpy": "fkdzfs",
+      "ja_JP": "狂った逐腐獣",
       "py": "fengkuangdezhufushou",
       "zh_CN": "疯狂的逐腐兽"
     },
@@ -13392,7 +13418,9 @@
   "enemy_1271_nhkodo": {
     "names": {
       "code": "nac10",
+      "en_US": "sarkaz wither devourer",
       "fpy": "skzkxtsz",
+      "ja_JP": "枯朽サルカズ吸収者",
       "py": "sakazikuxiutunshizhe",
       "zh_CN": "萨卡兹枯朽吞噬者"
     },
@@ -13406,7 +13434,9 @@
   "enemy_1271_nhkodo_2": {
     "names": {
       "code": "nac11",
+      "en_US": "sarkaz wither maw",
       "fpy": "skzkxxnz",
+      "ja_JP": "枯朽サルカズ受容者",
       "py": "sakazikuxiuxinazhe",
       "zh_CN": "萨卡兹枯朽吸纳者"
     },
@@ -13420,7 +13450,9 @@
   "enemy_1272_nhtank": {
     "names": {
       "code": "nac12",
+      "en_US": "sarkaz wither tank",
       "fpy": "skzkxzc",
+      "ja_JP": "枯朽サルカズ戦車",
       "py": "sakazikuxiuzhanche",
       "zh_CN": "萨卡兹枯朽战车"
     },
@@ -13434,7 +13466,9 @@
   "enemy_1272_nhtank_2": {
     "names": {
       "code": "nac13",
+      "en_US": "advanced sarkaz wither tank",
       "fpy": "jdskzkxzc",
+      "ja_JP": "枯朽サルカズ精鋭戦車",
       "py": "jianduansakazikuxiuzhanche",
       "zh_CN": "尖端萨卡兹枯朽战车"
     },
@@ -13448,7 +13482,9 @@
   "enemy_1273_stmgun": {
     "names": {
       "code": "lud1",
+      "en_US": "londinium mobile defense artillery",
       "fpy": "ldnmcfzxp",
+      "ja_JP": "都市防衛自走砲",
       "py": "lundinimuchengfangzixingpao",
       "zh_CN": "伦蒂尼姆城防自行炮"
     },
@@ -13462,7 +13498,9 @@
   "enemy_1273_stmgun_2": {
     "names": {
       "code": "lud2",
+      "en_US": "londinium precision mobile defense artillery",
       "fpy": "gzdldnmcfzxp",
+      "ja_JP": "高精度都市防衛自走砲",
       "py": "gaozhundulundinimuchengfangzixingpao",
       "zh_CN": "高准度伦蒂尼姆城防自行炮"
     },
@@ -13476,7 +13514,9 @@
   "enemy_1274_stmram": {
     "names": {
       "code": "lud3",
+      "en_US": "steam tank",
       "fpy": "zqzc",
+      "ja_JP": "蒸気戦車",
       "py": "zhengqizhanche",
       "zh_CN": "蒸汽战车"
     },
@@ -13490,7 +13530,9 @@
   "enemy_1274_stmram_2": {
     "names": {
       "code": "lud4",
+      "en_US": "scorching steam tank",
       "fpy": "jwzqzc",
+      "ja_JP": "高温蒸気戦車",
       "py": "jiwenzhengqizhanche",
       "zh_CN": "极温蒸汽战车"
     },
@@ -13504,7 +13546,9 @@
   "enemy_1275_dwlock": {
     "names": {
       "code": "nac14",
+      "en_US": "sarkaz royal court caster",
       "fpy": "skzwtjss",
+      "ja_JP": "サルカズ王庭軍術師",
       "py": "sakaziwangtingjunshushi",
       "zh_CN": "萨卡兹王庭军术师"
     },
@@ -13518,7 +13562,9 @@
   "enemy_1275_dwlock_2": {
     "names": {
       "code": "nac15",
+      "en_US": "sarkaz royal court elite caster",
       "fpy": "skzwtjjrss",
+      "ja_JP": "サルカズ王庭軍精鋭術師",
       "py": "sakaziwangtingjunjingruishushi",
       "zh_CN": "萨卡兹王庭军精锐术师"
     },
@@ -13532,7 +13578,9 @@
   "enemy_1276_telex": {
     "names": {
       "code": "the",
+      "en_US": "theresis",
       "fpy": "tlxs",
+      "ja_JP": "theresis",
       "py": "teleixisi",
       "zh_CN": "特雷西斯"
     },
@@ -15306,7 +15354,9 @@
   "enemy_1533_stmkgt": {
     "names": {
       "code": "lyn",
+      "en_US": "'the last steam knight'",
       "fpy": "“zhdzqqs”",
+      "ja_JP": "「最後の蒸気騎士」",
       "py": "“zuihoudezhengqiqishi”",
       "zh_CN": "“最后的蒸汽骑士”"
     },
@@ -16362,7 +16412,9 @@
   "enemy_6009_nlkgtbs": {
     "names": {
       "code": "dl9",
+      "en_US": "'fruit of gluttony'",
       "fpy": "“bszg”",
+      "ja_JP": "「暴食の果実」",
       "py": "“baoshizhiguo”",
       "zh_CN": "“暴食之果”"
     },
@@ -17226,7 +17278,9 @@
   },
   "token_10027_ironmn_pile1": {
     "names": {
+      "en_US": "stainless™ multifunctional platform",
       "fpy": "bt™dgnpt",
+      "ja_JP": "ステインレス™多機能プラットフォーム",
       "py": "baitie™duogongnengpingtai",
       "zh_CN": "白铁™多功能平台"
     },
@@ -17239,7 +17293,9 @@
   },
   "token_10027_ironmn_pile2": {
     "names": {
+      "en_US": "stainless™ multifunctional platform",
       "fpy": "bt™dgnpt",
+      "ja_JP": "ステインレス™多機能プラットフォーム",
       "py": "baitie™duogongnengpingtai",
       "zh_CN": "白铁™多功能平台"
     },
@@ -17252,7 +17308,9 @@
   },
   "token_10027_ironmn_pile3": {
     "names": {
+      "en_US": "prototype of feist's metal crab",
       "fpy": "tqh·yxj",
+      "ja_JP": "鉄鉗号･プロトタイプ",
       "py": "tieqianhao·yuanxingji",
       "zh_CN": "铁钳号·原型机"
     },
@@ -18022,7 +18080,9 @@
   },
   "trap_086_larva": {
     "names": {
+      "en_US": "'twigs that crave'",
       "fpy": "“jykz” ",
+      "ja_JP": "「渇欲の枯枝」 ",
       "py": "“jiyingkuzhi” ",
       "zh_CN": "“汲营枯枝” "
     },
@@ -18035,7 +18095,9 @@
   },
   "trap_087_allady": {
     "names": {
+      "en_US": "allerdale's guard",
       "fpy": "alddwh",
+      "ja_JP": "アラデルの衛護",
       "py": "aleidaideweihu",
       "zh_CN": "阿勒黛的卫护"
     },
@@ -18089,7 +18151,9 @@
   },
   "trap_093_tbattbc": {
     "names": {
+      "en_US": "gloompincer shell meal",
       "fpy": "qskf",
+      "ja_JP": "鉗獣殻パウダー",
       "py": "qianshoukefen",
       "zh_CN": "钳兽壳粉"
     },
@@ -18102,7 +18166,9 @@
   },
   "trap_094_tbpsnc": {
     "names": {
+      "en_US": "high-efficiency baking powder",
       "fpy": "gxpdf",
+      "ja_JP": "ベーキングパウダー",
       "py": "gaoxiaopaodafen",
       "zh_CN": "高效泡打粉"
     },
@@ -18115,7 +18181,9 @@
   },
   "trap_095_tbsmmc": {
     "names": {
+      "en_US": "fragrant essential oil",
       "fpy": "fxjy",
+      "ja_JP": "エッセンシャルオイル",
       "py": "fangxiangjingyou",
       "zh_CN": "芳香精油"
     },
