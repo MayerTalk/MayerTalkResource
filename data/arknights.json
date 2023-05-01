@@ -32,7 +32,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_boc#6"
     ],
     "tags": [
       "operator"
@@ -137,7 +138,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_boc#6"
     ],
     "tags": [
       "operator"
@@ -224,7 +226,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_boc#6"
     ],
     "tags": [
       "operator"
@@ -2349,7 +2352,8 @@
       "zh_CN": "梓兰"
     },
     "avatars": [
-      ""
+      "",
+      "_boc#6"
     ],
     "tags": [
       "operator"
@@ -3427,7 +3431,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_ambienceSynesthesia#3"
     ],
     "tags": [
       "operator"
@@ -3688,7 +3693,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_ambienceSynesthesia#3"
     ],
     "tags": [
       "operator"
@@ -3741,7 +3747,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_boc#6"
     ],
     "tags": [
       "operator"
@@ -4662,6 +4669,7 @@
     "avatars": [
       "",
       "_2",
+      "_ambienceSynesthesia#3",
       "_summer#10"
     ],
     "tags": [
@@ -14823,6 +14831,258 @@
       "enemy"
     ]
   },
+  "enemy_1325_cbgpro": {
+    "names": {
+      "code": "lt1",
+      "fpy": "jylg",
+      "py": "junyongliegou",
+      "zh_CN": "军用猎狗"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1325_cbgpro_2": {
+    "names": {
+      "code": "lt2",
+      "fpy": "gjjylg",
+      "py": "gaojijunyongliegou",
+      "zh_CN": "高级军用猎狗"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1326_cbagen": {
+    "names": {
+      "code": "lt3",
+      "fpy": "tlmcfj",
+      "py": "telimengchengfangjun",
+      "zh_CN": "特里蒙城防军"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1326_cbagen_2": {
+    "names": {
+      "code": "lt4",
+      "fpy": "tlmcfjdz",
+      "py": "telimengchengfangjunduizhang",
+      "zh_CN": "特里蒙城防军队长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1327_cbrokt": {
+    "names": {
+      "code": "lt5",
+      "fpy": "hgtjd",
+      "py": "huguangtujidui",
+      "zh_CN": "弧光突击队"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1327_cbrokt_2": {
+    "names": {
+      "code": "lt6",
+      "fpy": "hgtjddz",
+      "py": "huguangtujiduiduizhang",
+      "zh_CN": "弧光突击队队长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1328_cbjedi": {
+    "names": {
+      "code": "lt7",
+      "fpy": "hgfw",
+      "py": "huguangfengwei",
+      "zh_CN": "弧光锋卫"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1328_cbjedi_2": {
+    "names": {
+      "code": "lt8",
+      "fpy": "hgfwz",
+      "py": "huguangfengweizhang",
+      "zh_CN": "弧光锋卫长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1329_cbshld": {
+    "names": {
+      "code": "lt9",
+      "fpy": "hgjw",
+      "py": "huguangjingwei",
+      "zh_CN": "弧光镜卫"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1329_cbshld_2": {
+    "names": {
+      "code": "lt10",
+      "fpy": "hgjwz",
+      "py": "huguangjingweizhang",
+      "zh_CN": "弧光镜卫长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1330_cbrush": {
+    "names": {
+      "code": "lt11",
+      "fpy": "“zsz”lcx",
+      "py": "“zhaoshizhe”liangchanxing",
+      "zh_CN": "“肇事者”量产型"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1330_cbrush_2": {
+    "names": {
+      "code": "lt12",
+      "fpy": "“zsz”szx",
+      "py": "“zhaoshizhe”shizuoxing",
+      "zh_CN": "“肇事者”试做型"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1331_cbsisy": {
+    "names": {
+      "code": "lt13",
+      "fpy": "“szlk”lcx",
+      "py": "“shizilukou”liangchanxing",
+      "zh_CN": "“十字路口”量产型"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1331_cbsisy_2": {
+    "names": {
+      "code": "lt14",
+      "fpy": "“szlk”szx",
+      "py": "“shizilukou”shizuoxing",
+      "zh_CN": "“十字路口”试做型"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1332_cbterm": {
+    "names": {
+      "code": "lt15",
+      "fpy": "“jtt”lcx",
+      "py": "“jiaotongting”liangchanxing",
+      "zh_CN": "“交通亭”量产型"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1332_cbterm_2": {
+    "names": {
+      "code": "lt16",
+      "fpy": "“jtt”szx",
+      "py": "“jiaotongting”shizuoxing",
+      "zh_CN": "“交通亭”试做型"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1333_cbbgen": {
+    "names": {
+      "code": "lt17",
+      "fpy": "“jtjc”",
+      "py": "“jiaotongjingcha”",
+      "zh_CN": "“交通警察”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1333_cbbgen_2": {
+    "names": {
+      "code": "lt18",
+      "fpy": "“jtjz”",
+      "py": "“jiaotongjingzhang”",
+      "zh_CN": "“交通警长”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "enemy_1500_skulsr": {
     "names": {
       "code": "ss",
@@ -15471,6 +15731,20 @@
       "fpy": "“bxzjq”",
       "py": "“bianxingzhejiqun”",
       "zh_CN": "“变形者集群”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1543_cstlrs": {
+    "names": {
+      "code": "kw",
+      "fpy": "klst",
+      "py": "kelisiteng",
+      "zh_CN": "克丽斯腾"
     },
     "avatars": [
       ""
@@ -16844,7 +17118,8 @@
       "zh_CN": "mon3tr"
     },
     "avatars": [
-      ""
+      "",
+      "_boc#6"
     ],
     "tags": [
       "token"
@@ -17113,6 +17388,7 @@
     },
     "avatars": [
       "",
+      "_ambienceSynesthesia#3",
       "_summer#10"
     ],
     "tags": [
