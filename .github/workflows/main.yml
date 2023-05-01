@@ -4,8 +4,8 @@ on:
   push:
   issue_comment:
     types: [created]
-  schedule:
-    - cron:  '10 0/1 * * *'
+#   schedule:
+#     - cron:  '10 0/1 * * *'
 
 jobs:
   AutoUpdate:
