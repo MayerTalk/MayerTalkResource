@@ -6,4 +6,4 @@
 
  - 明日方舟
    - 数据 [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
-   - 资源 [yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)
+   - 资源 [yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/ArknightsGameResource)
