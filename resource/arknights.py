@@ -21,9 +21,9 @@ class ArknightsResource(Resource):
     ]
     char_data_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/%s/gamedata/excel/character_table.json'
     char_skin_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/zh_CN/gamedata/excel/skin_table.json'
-    char_avatar_url = 'https://github.com/yuanyan3060/Arknights-Bot-Resource/raw/main/avatar/%s.png'
+    char_avatar_url = 'https://github.com/yuanyan3060/ArknightsGameResource/raw/main/avatar/%s.png'
     enemy_data_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/%s/gamedata/excel/enemy_handbook_table.json'
-    enemy_avatar_url = 'https://github.com/yuanyan3060/Arknights-Bot-Resource/raw/main/enemy/%s.png'
+    enemy_avatar_url = 'https://github.com/yuanyan3060/ArknightsGameResource/raw/main/enemy/%s.png'
     chars: Dict[str, ArknightsCharacter]
     char_model = ArknightsCharacter
 
