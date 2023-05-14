@@ -349,6 +349,21 @@
       "operator"
     ]
   },
+  "char_1031_slent2": {
+    "names": {
+      "code": "rl10",
+      "fpy": "cyhm",
+      "py": "cuiyuhemo",
+      "zh_CN": "淬羽赫默"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_103_angel": {
     "names": {
       "code": "pl03",
@@ -2069,6 +2084,21 @@
       "operator"
     ]
   },
+  "char_249_mlyss": {
+    "names": {
+      "code": "rl09",
+      "fpy": "mess",
+      "py": "mouersaisi",
+      "zh_CN": "缪尔赛思"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_250_phatom": {
     "names": {
       "code": "r109",
@@ -3420,6 +3450,21 @@
       "operator"
     ]
   },
+  "char_4006_melnte": {
+    "names": {
+      "code": "cb22",
+      "fpy": "ml",
+      "py": "meila",
+      "zh_CN": "玫拉"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_4009_irene": {
     "names": {
       "code": "ii07",
@@ -3566,6 +3611,21 @@
       "ja_JP": "シャレム",
       "py": "muluo",
       "zh_CN": "暮落"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4027_heyak": {
+    "names": {
+      "code": "cb88",
+      "fpy": "hehy",
+      "py": "huoerhaiya",
+      "zh_CN": "霍尔海雅"
     },
     "avatars": [
       "",
@@ -17602,6 +17662,32 @@
       "fpy": "lq",
       "py": "langqun",
       "zh_CN": "狼群"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "token"
+    ]
+  },
+  "token_10029_slent2_protrb": {
+    "names": {
+      "fpy": "yd",
+      "py": "yedeng",
+      "zh_CN": "夜灯"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "token"
+    ]
+  },
+  "token_10030_mlyss_wtrman": {
+    "names": {
+      "fpy": "lx",
+      "py": "liuxing",
+      "zh_CN": "流形"
     },
     "avatars": [
       ""
