@@ -3426,7 +3426,8 @@
       "zh_CN": "正义骑士号"
     },
     "avatars": [
-      ""
+      "",
+      "_boc#7"
     ],
     "tags": [
       "operator"
@@ -4126,6 +4127,20 @@
       "fpy": "u-official",
       "py": "u-official",
       "zh_CN": "u-official"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4093_frston": {
+    "names": {
+      "code": "rcx5",
+      "fpy": "friston-3",
+      "py": "friston-3",
+      "zh_CN": "friston-3"
     },
     "avatars": [
       ""
