@@ -288,6 +288,7 @@
   "char_1028_texas2": {
     "names": {
       "code": "pl07",
+      "en_US": "texas the omertosa",
       "fpy": "jmdkss",
       "ja_JP": "血掟テキサス",
       "py": "jianmodekesasi",
@@ -3524,6 +3525,7 @@
   "char_4014_lunacu": {
     "names": {
       "code": "sr37",
+      "en_US": "lunacub",
       "fpy": "zy",
       "ja_JP": "ルナカブ",
       "py": "ziyue",
@@ -3923,6 +3925,7 @@
   "char_4063_quartz": {
     "names": {
       "code": "cb18",
+      "en_US": "quartz",
       "fpy": "sy",
       "ja_JP": "クォーツ",
       "py": "shiying",
@@ -3956,6 +3959,7 @@
   "char_4065_judge": {
     "names": {
       "code": "sr35",
+      "en_US": "penance",
       "fpy": "cz",
       "ja_JP": "ペナンス",
       "py": "chizui",
@@ -3972,6 +3976,7 @@
   "char_4066_highmo": {
     "names": {
       "code": "ii10",
+      "en_US": "highmore",
       "fpy": "hm",
       "ja_JP": "ハイモア",
       "py": "haimo",
@@ -4302,6 +4307,7 @@
   "char_427_vigil": {
     "names": {
       "code": "sr36",
+      "en_US": "vigil",
       "fpy": "cy",
       "ja_JP": "ヴィジェル",
       "py": "ciye",
@@ -4580,6 +4586,7 @@
   "char_466_qanik": {
     "names": {
       "code": "si03",
+      "en_US": "qanipalaat",
       "fpy": "xr",
       "ja_JP": "カニパラート",
       "py": "xuerong",
@@ -5097,6 +5104,7 @@
   },
   "char_513_apionr": {
     "names": {
+      "en_US": "tulip",
       "fpy": "yjx",
       "ja_JP": "チューリップ",
       "py": "yujinxiang",
@@ -13685,6 +13693,7 @@
   "enemy_1277_sgman": {
     "names": {
       "code": "sa1",
+      "en_US": "famiglia soldier",
       "fpy": "jzsb",
       "ja_JP": "マフィアの準構成員",
       "py": "jiazushibing",
@@ -13700,6 +13709,7 @@
   "enemy_1277_sgman_2": {
     "names": {
       "code": "sa2",
+      "en_US": "elite famiglia soldier",
       "fpy": "jzjysb",
       "ja_JP": "マフィアの構成員",
       "py": "jiazujingyingshibing",
@@ -13715,6 +13725,7 @@
   "enemy_1278_sgbow": {
     "names": {
       "code": "sa3",
+      "en_US": "famiglia crossbowman",
       "fpy": "jzns",
       "ja_JP": "マフィアの狙撃手",
       "py": "jiazunushou",
@@ -13730,6 +13741,7 @@
   "enemy_1278_sgbow_2": {
     "names": {
       "code": "sa4",
+      "en_US": "elite famiglia crossbowman",
       "fpy": "jzjyns",
       "ja_JP": "マフィアの精鋭狙撃手",
       "py": "jiazujingyingnushou",
@@ -13745,6 +13757,7 @@
   "enemy_1279_sgbdg": {
     "names": {
       "code": "sa5",
+      "en_US": "famiglia intimidator",
       "fpy": "jzdhz",
       "ja_JP": "マフィアの脅迫者",
       "py": "jiazudonghezhe",
@@ -13760,6 +13773,7 @@
   "enemy_1279_sgbdg_2": {
     "names": {
       "code": "sa6",
+      "en_US": "famiglia terrorizer",
       "fpy": "jzqbdhz",
       "ja_JP": "マフィアの剛腕脅迫者",
       "py": "jiazuqiangbaodonghezhe",
@@ -13775,6 +13789,7 @@
   "enemy_1280_sgmag": {
     "names": {
       "code": "sa7",
+      "en_US": "famiglia caster",
       "fpy": "jzss",
       "ja_JP": "マフィアの術師",
       "py": "jiazushushi",
@@ -13790,6 +13805,7 @@
   "enemy_1280_sgmag_2": {
     "names": {
       "code": "sa8",
+      "en_US": "elite famiglia caster",
       "fpy": "jzjyss",
       "ja_JP": "マフィアの精鋭術師",
       "py": "jiazujingyingshushi",
@@ -13805,6 +13821,7 @@
   "enemy_1281_sgcar": {
     "names": {
       "code": "sa9",
+      "en_US": "famiglia limo",
       "fpy": "jzzyjc",
       "ja_JP": "マフィアの専用車",
       "py": "jiazuzhuanyongjiaoche",
@@ -13820,6 +13837,7 @@
   "enemy_1281_sgcar_2": {
     "names": {
       "code": "sa10",
+      "en_US": "famiglia luxury limo",
       "fpy": "jzhhjc",
       "ja_JP": "マフィアの専用高級車",
       "py": "jiazuhaohuajiaoche",
@@ -13835,6 +13853,7 @@
   "enemy_1282_sgelder": {
     "names": {
       "code": "sa11",
+      "en_US": "famiglia capo",
       "fpy": "jzjt",
       "ja_JP": "マフィアの幹部",
       "py": "jiazujiaotou",
@@ -13850,6 +13869,7 @@
   "enemy_1282_sgelder_2": {
     "names": {
       "code": "sa12",
+      "en_US": "famiglia heavy capo",
       "fpy": "jztwjt",
       "ja_JP": "マフィアの敏腕幹部",
       "py": "jiazutiewanjiaotou",
@@ -13865,6 +13885,7 @@
   "enemy_1283_sgkill": {
     "names": {
       "code": "sa13",
+      "en_US": "famiglia cleaner",
       "fpy": "jzmjr",
       "ja_JP": "マフィアの掃除人",
       "py": "jiazumiejiren",
@@ -13880,6 +13901,7 @@
   "enemy_1283_sgkill_2": {
     "names": {
       "code": "sa14",
+      "en_US": "famiglia silent cleaner",
       "fpy": "jzaymjr",
       "ja_JP": "マフィアの一流掃除人",
       "py": "jiazuanyingmiejiren",
@@ -13895,6 +13917,7 @@
   "enemy_1284_sgprst": {
     "names": {
       "code": "sa15",
+      "en_US": "father agenir",
       "fpy": "agnesf",
       "ja_JP": "アグニル神父",
       "py": "ageniershenfu",
@@ -13910,6 +13933,7 @@
   "enemy_1285_sgwlf": {
     "names": {
       "code": "sa16",
+      "en_US": "'none of my business'",
       "fpy": "“ywwg”",
       "ja_JP": "「関係ない」男",
       "py": "“yuwowuguan”",
@@ -15729,6 +15753,7 @@
   "enemy_1535_wlfmster": {
     "names": {
       "code": "za",
+      "en_US": "zaaro, signore dei lupi",
       "fpy": "zl，“lzz” ",
       "ja_JP": "「狼主」ザーロ",
       "py": "zhaluo，“langzhizhu” ",
@@ -16176,6 +16201,7 @@
   "enemy_2021_syfish": {
     "names": {
       "code": "sy1",
+      "en_US": "bone sea drifter",
       "fpy": "ghplt",
       "ja_JP": "骨海のワンダラー",
       "py": "guhaipiaoliuti",
@@ -16191,6 +16217,7 @@
   "enemy_2022_syzeni": {
     "names": {
       "code": "sy2",
+      "en_US": "ocean stonecutter",
       "fpy": "ghzsz",
       "ja_JP": "固海のメイソン",
       "py": "guhaizaoshizhe",
@@ -16206,6 +16233,7 @@
   "enemy_2023_sypult": {
     "names": {
       "code": "sy3",
+      "en_US": "retching broodmother",
       "fpy": "tsym",
       "ja_JP": "仔を投げる母体",
       "py": "tousiyumu",
@@ -16221,6 +16249,7 @@
   "enemy_2024_synut": {
     "names": {
       "code": "sy4",
+      "en_US": "baleful broodling",
       "fpy": "zwns",
       "ja_JP": "見放されたダミー",
       "py": "zhuwangnisi",
@@ -16236,6 +16265,7 @@
   "enemy_2025_syufo": {
     "names": {
       "code": "sy5",
+      "en_US": "skimming sea drifter",
       "fpy": "lhpyt",
       "ja_JP": "掠海のフローター",
       "py": "lvehaipiaoyiti",
@@ -16251,6 +16281,7 @@
   "enemy_2026_syudg": {
     "names": {
       "code": "ugf",
+      "en_US": "saint carmen",
       "fpy": "stkm",
       "ja_JP": "聖徒カルメン",
       "py": "shengtukamen",
@@ -16266,6 +16297,7 @@
   "enemy_2027_syudg2": {
     "names": {
       "code": "ugs",
+      "en_US": "saint iberia",
       "fpy": "stybly",
       "ja_JP": "聖徒イベリア",
       "py": "shengtuyibiliya",
@@ -16281,6 +16313,7 @@
   "enemy_2028_syevil": {
     "names": {
       "code": "sev",
+      "en_US": "tidelinked bishop",
       "fpy": "jczj",
       "ja_JP": "験潮の司教",
       "py": "jiechaozhujiao",
@@ -16296,6 +16329,7 @@
   "enemy_2029_symon": {
     "names": {
       "code": "smf",
+      "en_US": "tidelinked archon",
       "fpy": "jcmst",
       "ja_JP": "験潮の蔑死者",
       "py": "jiechaomiesiti",
@@ -16311,6 +16345,7 @@
   "enemy_2030_symon2": {
     "names": {
       "code": "sms",
+      "en_US": "tidelinked immortal",
       "fpy": "jccwt",
       "ja_JP": "験潮の斥死者",
       "py": "jiechaochiwangti",
@@ -16326,6 +16361,7 @@
   "enemy_2031_syboy": {
     "names": {
       "code": "srf",
+      "en_US": "pathshaper",
       "fpy": "slz",
       "ja_JP": "パスファインダー",
       "py": "suluzhe",
@@ -16341,6 +16377,7 @@
   "enemy_2032_syboy2": {
     "names": {
       "code": "srs",
+      "en_US": "lingering pathshaper",
       "fpy": "ymslz",
       "ja_JP": "延命するパスファインダー",
       "py": "yanmingsuluzhe",
@@ -16356,6 +16393,7 @@
   "enemy_2033_syboys": {
     "names": {
       "code": "sy6",
+      "en_US": "pathshaper fractal",
       "fpy": "slzfx",
       "ja_JP": "パスファインダーの影",
       "py": "suluzhefenxing",
@@ -16371,6 +16409,7 @@
   "enemy_2034_sythef": {
     "names": {
       "code": "thf",
+      "en_US": "crying thief",
       "fpy": "llxz",
       "ja_JP": "涙目の坊や",
       "py": "liuleixiaozi",
@@ -16386,6 +16425,7 @@
   "enemy_2035_sybox": {
     "names": {
       "code": "sy9",
+      "en_US": "chest seaborn",
       "fpy": "xxky",
       "ja_JP": "宝箱形恐魚",
       "py": "xiangxingkongyu",
@@ -16401,6 +16441,7 @@
   "enemy_2036_syshop": {
     "names": {
       "code": "knt",
+      "en_US": "cannot",
       "fpy": "knt",
       "ja_JP": "キャノット",
       "py": "kannuote",
@@ -16416,6 +16457,7 @@
   "enemy_2037_sygirl": {
     "names": {
       "code": "gir",
+      "en_US": "'paranoia illusion'",
       "fpy": "“pzpy”",
       "ja_JP": "「偏執の泡沫」",
       "py": "“pianzhipaoying”",
@@ -16431,6 +16473,7 @@
   "enemy_2038_sydonq": {
     "names": {
       "code": "doq",
+      "en_US": "the last knight",
       "fpy": "zhdqs",
       "ja_JP": "最後の騎士",
       "py": "zuihoudeqishi",
@@ -16446,6 +16489,7 @@
   "enemy_2039_syskad": {
     "names": {
       "code": "ska",
+      "en_US": "ishar'mla, heart of corruption",
       "fpy": "ysml，fhzx",
       "ja_JP": "イシャームラ、腐蝕された心",
       "py": "yishamala，fuhuazhixin",
@@ -16461,6 +16505,7 @@
   "enemy_2040_syrott": {
     "names": {
       "code": "sy7",
+      "en_US": "ishar'mla's tears",
       "fpy": "ysmlzl",
       "ja_JP": "イシャームラの涙",
       "py": "yishamalazhilei",
@@ -16552,6 +16597,7 @@
   "enemy_3004_speople": {
     "names": {
       "code": "sa17",
+      "en_US": "siracusan civilian",
       "fpy": "xlgpm",
       "ja_JP": "シラクーザの市民",
       "py": "xulagupingmin",
@@ -17720,6 +17766,7 @@
   },
   "token_10028_vigil_wolf": {
     "names": {
+      "en_US": "wolfpack",
       "fpy": "lq",
       "ja_JP": "狼の群れ",
       "py": "langqun",
@@ -18255,6 +18302,7 @@
   },
   "trap_067_dice": {
     "names": {
+      "en_US": "dice",
       "fpy": "tz",
       "ja_JP": "ダイス",
       "py": "touzi",
@@ -18464,6 +18512,7 @@
   },
   "trap_083_bunker": {
     "names": {
+      "en_US": "barrier",
       "fpy": "yt",
       "ja_JP": "掩体",
       "py": "yanti",
@@ -18478,6 +18527,7 @@
   },
   "trap_084_aidkit": {
     "names": {
+      "en_US": "first-aid kit",
       "fpy": "jjb",
       "ja_JP": "救急バッグ",
       "py": "jijiubao",
@@ -18537,6 +18587,7 @@
   },
   "trap_088_dice2": {
     "names": {
+      "en_US": "8-sided dice",
       "fpy": "8mtz",
       "ja_JP": "8面ダイス",
       "py": "8miantouzi",
@@ -18551,6 +18602,7 @@
   },
   "trap_089_dice3": {
     "names": {
+      "en_US": "12-sided dice",
       "fpy": "12mtz",
       "ja_JP": "12面ダイス",
       "py": "12miantouzi",
