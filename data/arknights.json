@@ -289,6 +289,7 @@
     "names": {
       "code": "pl07",
       "fpy": "jmdkss",
+      "ja_JP": "血掟テキサス",
       "py": "jianmodekesasi",
       "zh_CN": "缄默德克萨斯"
     },
@@ -3524,6 +3525,7 @@
     "names": {
       "code": "sr37",
       "fpy": "zy",
+      "ja_JP": "ルナカブ",
       "py": "ziyue",
       "zh_CN": "子月"
     },
@@ -3922,6 +3924,7 @@
     "names": {
       "code": "cb18",
       "fpy": "sy",
+      "ja_JP": "クォーツ",
       "py": "shiying",
       "zh_CN": "石英"
     },
@@ -3954,6 +3957,7 @@
     "names": {
       "code": "sr35",
       "fpy": "cz",
+      "ja_JP": "ペナンス",
       "py": "chizui",
       "zh_CN": "斥罪"
     },
@@ -3969,6 +3973,7 @@
     "names": {
       "code": "ii10",
       "fpy": "hm",
+      "ja_JP": "ハイモア",
       "py": "haimo",
       "zh_CN": "海沫"
     },
@@ -4298,6 +4303,7 @@
     "names": {
       "code": "sr36",
       "fpy": "cy",
+      "ja_JP": "ヴィジェル",
       "py": "ciye",
       "zh_CN": "伺夜"
     },
@@ -4575,6 +4581,7 @@
     "names": {
       "code": "si03",
       "fpy": "xr",
+      "ja_JP": "カニパラート",
       "py": "xuerong",
       "zh_CN": "雪绒"
     },
@@ -5091,6 +5098,7 @@
   "char_513_apionr": {
     "names": {
       "fpy": "yjx",
+      "ja_JP": "チューリップ",
       "py": "yujinxiang",
       "zh_CN": "郁金香"
     },
@@ -6783,7 +6791,7 @@
       "code": "g11",
       "en_US": "sicilian",
       "fpy": "xxlr",
-      "ja_JP": "シシリアン",
+      "ja_JP": "シチリアーノ",
       "py": "xixiliren",
       "zh_CN": "西西里人"
     },
@@ -6799,7 +6807,7 @@
       "code": "g12",
       "en_US": "elite sicilian",
       "fpy": "jrxxlr",
-      "ja_JP": "凶悪シシリアン",
+      "ja_JP": "凶悪シチリアーノ",
       "py": "jingruixixiliren",
       "zh_CN": "精锐西西里人"
     },
@@ -13678,6 +13686,7 @@
     "names": {
       "code": "sa1",
       "fpy": "jzsb",
+      "ja_JP": "マフィアの準構成員",
       "py": "jiazushibing",
       "zh_CN": "家族士兵"
     },
@@ -13692,6 +13701,7 @@
     "names": {
       "code": "sa2",
       "fpy": "jzjysb",
+      "ja_JP": "マフィアの構成員",
       "py": "jiazujingyingshibing",
       "zh_CN": "家族精英士兵"
     },
@@ -13706,6 +13716,7 @@
     "names": {
       "code": "sa3",
       "fpy": "jzns",
+      "ja_JP": "マフィアの狙撃手",
       "py": "jiazunushou",
       "zh_CN": "家族弩手"
     },
@@ -13720,6 +13731,7 @@
     "names": {
       "code": "sa4",
       "fpy": "jzjyns",
+      "ja_JP": "マフィアの精鋭狙撃手",
       "py": "jiazujingyingnushou",
       "zh_CN": "家族精英弩手"
     },
@@ -13734,6 +13746,7 @@
     "names": {
       "code": "sa5",
       "fpy": "jzdhz",
+      "ja_JP": "マフィアの脅迫者",
       "py": "jiazudonghezhe",
       "zh_CN": "家族恫吓者"
     },
@@ -13748,6 +13761,7 @@
     "names": {
       "code": "sa6",
       "fpy": "jzqbdhz",
+      "ja_JP": "マフィアの剛腕脅迫者",
       "py": "jiazuqiangbaodonghezhe",
       "zh_CN": "家族强暴恫吓者"
     },
@@ -13762,6 +13776,7 @@
     "names": {
       "code": "sa7",
       "fpy": "jzss",
+      "ja_JP": "マフィアの術師",
       "py": "jiazushushi",
       "zh_CN": "家族术师"
     },
@@ -13776,6 +13791,7 @@
     "names": {
       "code": "sa8",
       "fpy": "jzjyss",
+      "ja_JP": "マフィアの精鋭術師",
       "py": "jiazujingyingshushi",
       "zh_CN": "家族精英术师"
     },
@@ -13790,6 +13806,7 @@
     "names": {
       "code": "sa9",
       "fpy": "jzzyjc",
+      "ja_JP": "マフィアの専用車",
       "py": "jiazuzhuanyongjiaoche",
       "zh_CN": "家族专用轿车"
     },
@@ -13804,6 +13821,7 @@
     "names": {
       "code": "sa10",
       "fpy": "jzhhjc",
+      "ja_JP": "マフィアの専用高級車",
       "py": "jiazuhaohuajiaoche",
       "zh_CN": "家族豪华轿车"
     },
@@ -13818,6 +13836,7 @@
     "names": {
       "code": "sa11",
       "fpy": "jzjt",
+      "ja_JP": "マフィアの幹部",
       "py": "jiazujiaotou",
       "zh_CN": "家族角头"
     },
@@ -13832,6 +13851,7 @@
     "names": {
       "code": "sa12",
       "fpy": "jztwjt",
+      "ja_JP": "マフィアの敏腕幹部",
       "py": "jiazutiewanjiaotou",
       "zh_CN": "家族铁腕角头"
     },
@@ -13846,6 +13866,7 @@
     "names": {
       "code": "sa13",
       "fpy": "jzmjr",
+      "ja_JP": "マフィアの掃除人",
       "py": "jiazumiejiren",
       "zh_CN": "家族灭迹人"
     },
@@ -13860,6 +13881,7 @@
     "names": {
       "code": "sa14",
       "fpy": "jzaymjr",
+      "ja_JP": "マフィアの一流掃除人",
       "py": "jiazuanyingmiejiren",
       "zh_CN": "家族暗影灭迹人"
     },
@@ -13874,6 +13896,7 @@
     "names": {
       "code": "sa15",
       "fpy": "agnesf",
+      "ja_JP": "アグニル神父",
       "py": "ageniershenfu",
       "zh_CN": "阿格尼尔神父"
     },
@@ -13888,6 +13911,7 @@
     "names": {
       "code": "sa16",
       "fpy": "“ywwg”",
+      "ja_JP": "「関係ない」男",
       "py": "“yuwowuguan”",
       "zh_CN": "“与我无关”"
     },
@@ -15706,6 +15730,7 @@
     "names": {
       "code": "za",
       "fpy": "zl，“lzz” ",
+      "ja_JP": "「狼主」ザーロ",
       "py": "zhaluo，“langzhizhu” ",
       "zh_CN": "扎罗，“狼之主” "
     },
@@ -16152,6 +16177,7 @@
     "names": {
       "code": "sy1",
       "fpy": "ghplt",
+      "ja_JP": "骨海のワンダラー",
       "py": "guhaipiaoliuti",
       "zh_CN": "骨海漂流体"
     },
@@ -16166,6 +16192,7 @@
     "names": {
       "code": "sy2",
       "fpy": "ghzsz",
+      "ja_JP": "固海のメイソン",
       "py": "guhaizaoshizhe",
       "zh_CN": "固海凿石者"
     },
@@ -16180,6 +16207,7 @@
     "names": {
       "code": "sy3",
       "fpy": "tsym",
+      "ja_JP": "仔を投げる母体",
       "py": "tousiyumu",
       "zh_CN": "投嗣育母"
     },
@@ -16194,6 +16222,7 @@
     "names": {
       "code": "sy4",
       "fpy": "zwns",
+      "ja_JP": "見放されたダミー",
       "py": "zhuwangnisi",
       "zh_CN": "注亡拟嗣"
     },
@@ -16208,6 +16237,7 @@
     "names": {
       "code": "sy5",
       "fpy": "lhpyt",
+      "ja_JP": "掠海のフローター",
       "py": "lvehaipiaoyiti",
       "zh_CN": "掠海漂移体"
     },
@@ -16222,6 +16252,7 @@
     "names": {
       "code": "ugf",
       "fpy": "stkm",
+      "ja_JP": "聖徒カルメン",
       "py": "shengtukamen",
       "zh_CN": "圣徒卡门"
     },
@@ -16236,6 +16267,7 @@
     "names": {
       "code": "ugs",
       "fpy": "stybly",
+      "ja_JP": "聖徒イベリア",
       "py": "shengtuyibiliya",
       "zh_CN": "圣徒伊比利亚"
     },
@@ -16250,6 +16282,7 @@
     "names": {
       "code": "sev",
       "fpy": "jczj",
+      "ja_JP": "験潮の司教",
       "py": "jiechaozhujiao",
       "zh_CN": "接潮主教"
     },
@@ -16264,6 +16297,7 @@
     "names": {
       "code": "smf",
       "fpy": "jcmst",
+      "ja_JP": "験潮の蔑死者",
       "py": "jiechaomiesiti",
       "zh_CN": "接潮蔑死体"
     },
@@ -16278,6 +16312,7 @@
     "names": {
       "code": "sms",
       "fpy": "jccwt",
+      "ja_JP": "験潮の斥死者",
       "py": "jiechaochiwangti",
       "zh_CN": "接潮斥亡体"
     },
@@ -16292,6 +16327,7 @@
     "names": {
       "code": "srf",
       "fpy": "slz",
+      "ja_JP": "パスファインダー",
       "py": "suluzhe",
       "zh_CN": "塑路者"
     },
@@ -16306,6 +16342,7 @@
     "names": {
       "code": "srs",
       "fpy": "ymslz",
+      "ja_JP": "延命するパスファインダー",
       "py": "yanmingsuluzhe",
       "zh_CN": "延命塑路者"
     },
@@ -16320,6 +16357,7 @@
     "names": {
       "code": "sy6",
       "fpy": "slzfx",
+      "ja_JP": "パスファインダーの影",
       "py": "suluzhefenxing",
       "zh_CN": "塑路者分形"
     },
@@ -16334,6 +16372,7 @@
     "names": {
       "code": "thf",
       "fpy": "llxz",
+      "ja_JP": "涙目の坊や",
       "py": "liuleixiaozi",
       "zh_CN": "流泪小子"
     },
@@ -16348,6 +16387,7 @@
     "names": {
       "code": "sy9",
       "fpy": "xxky",
+      "ja_JP": "宝箱形恐魚",
       "py": "xiangxingkongyu",
       "zh_CN": "箱形恐鱼"
     },
@@ -16362,6 +16402,7 @@
     "names": {
       "code": "knt",
       "fpy": "knt",
+      "ja_JP": "キャノット",
       "py": "kannuote",
       "zh_CN": "坎诺特"
     },
@@ -16376,6 +16417,7 @@
     "names": {
       "code": "gir",
       "fpy": "“pzpy”",
+      "ja_JP": "「偏執の泡沫」",
       "py": "“pianzhipaoying”",
       "zh_CN": "“偏执泡影”"
     },
@@ -16390,6 +16432,7 @@
     "names": {
       "code": "doq",
       "fpy": "zhdqs",
+      "ja_JP": "最後の騎士",
       "py": "zuihoudeqishi",
       "zh_CN": "最后的骑士"
     },
@@ -16404,6 +16447,7 @@
     "names": {
       "code": "ska",
       "fpy": "ysml，fhzx",
+      "ja_JP": "イシャームラ、腐蝕された心",
       "py": "yishamala，fuhuazhixin",
       "zh_CN": "伊莎玛拉，腐化之心"
     },
@@ -16418,6 +16462,7 @@
     "names": {
       "code": "sy7",
       "fpy": "ysmlzl",
+      "ja_JP": "イシャームラの涙",
       "py": "yishamalazhilei",
       "zh_CN": "伊莎玛拉之泪"
     },
@@ -16508,6 +16553,7 @@
     "names": {
       "code": "sa17",
       "fpy": "xlgpm",
+      "ja_JP": "シラクーザの市民",
       "py": "xulagupingmin",
       "zh_CN": "叙拉古平民"
     },
@@ -17675,6 +17721,7 @@
   "token_10028_vigil_wolf": {
     "names": {
       "fpy": "lq",
+      "ja_JP": "狼の群れ",
       "py": "langqun",
       "zh_CN": "狼群"
     },
@@ -18209,6 +18256,7 @@
   "trap_067_dice": {
     "names": {
       "fpy": "tz",
+      "ja_JP": "ダイス",
       "py": "touzi",
       "zh_CN": "骰子"
     },
@@ -18417,6 +18465,7 @@
   "trap_083_bunker": {
     "names": {
       "fpy": "yt",
+      "ja_JP": "掩体",
       "py": "yanti",
       "zh_CN": "掩体"
     },
@@ -18430,6 +18479,7 @@
   "trap_084_aidkit": {
     "names": {
       "fpy": "jjb",
+      "ja_JP": "救急バッグ",
       "py": "jijiubao",
       "zh_CN": "急救包"
     },
@@ -18488,6 +18538,7 @@
   "trap_088_dice2": {
     "names": {
       "fpy": "8mtz",
+      "ja_JP": "8面ダイス",
       "py": "8miantouzi",
       "zh_CN": "8面骰子"
     },
@@ -18501,6 +18552,7 @@
   "trap_089_dice3": {
     "names": {
       "fpy": "12mtz",
+      "ja_JP": "12面ダイス",
       "py": "12miantouzi",
       "zh_CN": "12面骰子"
     },
