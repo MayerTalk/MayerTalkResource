@@ -46,6 +46,8 @@ class ArknightsResource(Resource):
                     char.add_name('code', data['displayNumber'])
 
         res: dict = await self.json(self.enemy_data_url % lang, 'enemy_data')
+        if 'enemyData' in res:
+            res = res['enemyData']
         print('get arknights %s enemy data' % lang)
         for enemy_id, data in res.items():
             char = self.enemy(enemy_id)
