@@ -5228,7 +5228,7 @@
   },
   "enemy_1002_nsabr": {
     "names": {
-      "code": "01",
+      "code": "1",
       "en_US": "soldier",
       "fpy": "sb",
       "ja_JP": "兵士",
@@ -5356,7 +5356,7 @@
   },
   "enemy_1006_shield": {
     "names": {
-      "code": "08",
+      "code": "8",
       "en_US": "heavy defender",
       "fpy": "zzfyz",
       "ja_JP": "重装兵",
@@ -5372,7 +5372,7 @@
   },
   "enemy_1006_shield_2": {
     "names": {
-      "code": "09",
+      "code": "9",
       "en_US": "heavy defender leader",
       "fpy": "zzfyzz",
       "ja_JP": "重装隊長",
@@ -5580,7 +5580,7 @@
   },
   "enemy_1013_airdrp": {
     "names": {
-      "code": "02",
+      "code": "2",
       "en_US": "airborne soldier",
       "fpy": "kjb",
       "ja_JP": "空挺兵",
@@ -5596,7 +5596,7 @@
   },
   "enemy_1013_airdrp_2": {
     "names": {
-      "code": "03",
+      "code": "3",
       "en_US": "airborne soldier leader",
       "fpy": "kjzz",
       "ja_JP": "空挺隊長",
@@ -5612,7 +5612,7 @@
   },
   "enemy_1014_rogue": {
     "names": {
-      "code": "04",
+      "code": "4",
       "en_US": "dual swordsman",
       "fpy": "scjs",
       "ja_JP": "双剣士",
@@ -5628,7 +5628,7 @@
   },
   "enemy_1014_rogue_2": {
     "names": {
-      "code": "05",
+      "code": "5",
       "en_US": "dual swordsman leader",
       "fpy": "scjszz",
       "ja_JP": "双剣隊長",
@@ -5644,7 +5644,7 @@
   },
   "enemy_1015_litamr": {
     "names": {
-      "code": "06",
+      "code": "6",
       "en_US": "light-armored soldier",
       "fpy": "qjwb",
       "ja_JP": "軽装兵",
@@ -5660,7 +5660,7 @@
   },
   "enemy_1015_litamr_2": {
     "names": {
-      "code": "07",
+      "code": "7",
       "en_US": "light-armored soldier leader",
       "fpy": "qjwbzz",
       "ja_JP": "軽装隊長",
@@ -15466,10 +15466,10 @@
     "names": {
       "code": "bsn",
       "en_US": "'the deathless black snake'",
-      "fpy": "\"bsdhs\"",
+      "fpy": "“bsdhs”",
       "ja_JP": "「不死の黒蛇」",
-      "py": "\"busideheishe\"",
-      "zh_CN": "\"不死的黑蛇\""
+      "py": "“busideheishe”",
+      "zh_CN": "“不死的黑蛇”"
     },
     "avatars": [
       ""
@@ -15754,10 +15754,10 @@
     "names": {
       "code": "za",
       "en_US": "zaaro, signore dei lupi",
-      "fpy": "zl，“lzz” ",
+      "fpy": "zl，“lzz”",
       "ja_JP": "「狼主」ザーロ",
-      "py": "zhaluo，“langzhizhu” ",
-      "zh_CN": "扎罗，“狼之主” "
+      "py": "zhaluo，“langzhizhu”",
+      "zh_CN": "扎罗，“狼之主”"
     },
     "avatars": [
       ""
@@ -15769,9 +15769,9 @@
   "enemy_1536_ncrmcr": {
     "names": {
       "code": "eb",
-      "fpy": "“lx” ",
-      "py": "“lingxiu” ",
-      "zh_CN": "“领袖” "
+      "fpy": "“lx”",
+      "py": "“lingxiu”",
+      "zh_CN": "“领袖”"
     },
     "avatars": [
       ""
@@ -16694,10 +16694,10 @@
     "names": {
       "code": "-",
       "en_US": "-",
-      "fpy": "-",
+      "fpy": "ysdcb!",
       "ja_JP": "-",
-      "py": "-",
-      "zh_CN": "-"
+      "py": "yishudecibei!",
+      "zh_CN": "艺术的慈悲!"
     },
     "avatars": [
       ""
@@ -16710,10 +16710,10 @@
     "names": {
       "code": "-",
       "en_US": "-",
-      "fpy": "-",
+      "fpy": "ysdjs!",
       "ja_JP": "-",
-      "py": "-",
-      "zh_CN": "-"
+      "py": "yishudejuesha!",
+      "zh_CN": "艺术的绝杀!"
     },
     "avatars": [
       ""
