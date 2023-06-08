@@ -366,6 +366,21 @@
       "operator"
     ]
   },
+  "char_1032_excu2": {
+    "names": {
+      "code": "lt40",
+      "fpy": "syszr",
+      "py": "shengyuesongzangren",
+      "zh_CN": "圣约送葬人"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_103_angel": {
     "names": {
       "code": "pl03",
@@ -596,7 +611,8 @@
       "zh_CN": "炎熔"
     },
     "avatars": [
-      ""
+      "",
+      "_sale#9"
     ],
     "tags": [
       "operator"
@@ -3148,7 +3164,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_sale#9"
     ],
     "tags": [
       "operator"
@@ -3539,6 +3556,21 @@
       "operator"
     ]
   },
+  "char_4015_spuria": {
+    "names": {
+      "code": "lt12",
+      "fpy": "kg",
+      "py": "konggou",
+      "zh_CN": "空构"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_4016_kazema": {
     "names": {
       "code": "hk09",
@@ -3619,7 +3651,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_whirlwind#5"
     ],
     "tags": [
       "operator"
@@ -4018,7 +4051,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_whirlwind#5"
     ],
     "tags": [
       "operator"
@@ -4332,7 +4366,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_whirlwind#5"
     ],
     "tags": [
       "operator"
@@ -4898,6 +4933,21 @@
       "",
       "_2",
       "_nian#9"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_498_inside": {
+    "names": {
+      "code": "lt13",
+      "fpy": "yx",
+      "py": "yinxian",
+      "zh_CN": "隐现"
+    },
+    "avatars": [
+      "",
+      "_2"
     ],
     "tags": [
       "operator"
@@ -15206,6 +15256,216 @@
       "enemy"
     ]
   },
+  "enemy_1335_bldrat": {
+    "names": {
+      "code": "he1",
+      "fpy": "ncs",
+      "py": "niechishou",
+      "zh_CN": "啮齿兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1335_bldrat_2": {
+    "names": {
+      "code": "he2",
+      "fpy": "jencs",
+      "py": "jieniechishou",
+      "zh_CN": "饥饿啮齿兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1336_bldbat": {
+    "names": {
+      "code": "he3",
+      "fpy": "fys",
+      "py": "fuyishou",
+      "zh_CN": "伏翼兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1336_bldbat_2": {
+    "names": {
+      "code": "he4",
+      "fpy": "jzfys",
+      "py": "jingzaofuyishou",
+      "zh_CN": "惊躁伏翼兽"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1337_bhrknf": {
+    "names": {
+      "code": "he5",
+      "fpy": "hyqdz",
+      "py": "huangyuanqiedaozhe",
+      "zh_CN": "荒原窃盗者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1337_bhrknf_2": {
+    "names": {
+      "code": "he6",
+      "fpy": "hyqdzjy",
+      "py": "huangyuanqiedaozhejingying",
+      "zh_CN": "荒原窃盗者精英"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1338_bhrjst": {
+    "names": {
+      "code": "he7",
+      "fpy": "hyqfz",
+      "py": "huangyuanqianfuzhe",
+      "zh_CN": "荒原潜伏者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1338_bhrjst_2": {
+    "names": {
+      "code": "he8",
+      "fpy": "hyqfzjy",
+      "py": "huangyuanqianfuzhejingying",
+      "zh_CN": "荒原潜伏者精英"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1339_bhrgrd": {
+    "names": {
+      "code": "he9",
+      "fpy": "hyjlz",
+      "py": "huangyuanjielvezhe",
+      "zh_CN": "荒原劫掠者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1339_bhrgrd_2": {
+    "names": {
+      "code": "he10",
+      "fpy": "hyjlzjy",
+      "py": "huangyuanjielvezhejingying",
+      "zh_CN": "荒原劫掠者精英"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1340_bthtbw": {
+    "names": {
+      "code": "bh1",
+      "fpy": "sjlrns",
+      "py": "shangjinlierennushou",
+      "zh_CN": "赏金猎人弩手"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1340_bthtbw_2": {
+    "names": {
+      "code": "bh2",
+      "fpy": "sjlrnsdz",
+      "py": "shangjinlierennushouduizhang",
+      "zh_CN": "赏金猎人弩手队长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1341_bthtms": {
+    "names": {
+      "code": "bh3",
+      "fpy": "sjlrrlz",
+      "py": "shangjinlierenraoluanzhe",
+      "zh_CN": "赏金猎人扰乱者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1341_bthtms_2": {
+    "names": {
+      "code": "bh4",
+      "fpy": "sjlrrlzdz",
+      "py": "shangjinlierenraoluanzheduizhang",
+      "zh_CN": "赏金猎人扰乱者队长"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1342_frtuna": {
+    "names": {
+      "code": "fa",
+      "fpy": "dtsfetn",
+      "py": "duotianshifuertuna",
+      "zh_CN": "堕天使福尔图娜"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "enemy_1500_skulsr": {
     "names": {
       "code": "ss",
@@ -15870,6 +16130,20 @@
       "fpy": "klst",
       "py": "kelisiteng",
       "zh_CN": "克丽斯腾"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_1544_cledub": {
+    "names": {
+      "code": "cd",
+      "fpy": "“hj”",
+      "py": "“huajiang”",
+      "zh_CN": "“花匠”"
     },
     "avatars": [
       ""
@@ -16602,6 +16876,34 @@
       "ja_JP": "シラクーザの市民",
       "py": "xulagupingmin",
       "zh_CN": "叙拉古平民"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_3005_lpeopl": {
+    "names": {
+      "code": "sa1",
+      "fpy": "xdyjm",
+      "py": "xiudaoyuanjumin",
+      "zh_CN": "修道院居民"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_3005_lpeopl_2": {
+    "names": {
+      "code": "sa2",
+      "fpy": "xdyjm",
+      "py": "xiudaoyuanjumin",
+      "zh_CN": "修道院居民"
     },
     "avatars": [
       ""
@@ -18758,6 +19060,58 @@
       "fpy": "“gqdw”",
       "py": "“guoqudewo”",
       "zh_CN": "“过去的我”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_117_ltstat": {
+    "names": {
+      "fpy": "sx",
+      "py": "shengxiang",
+      "zh_CN": "圣像"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_118_rockfl": {
+    "names": {
+      "fpy": "tldqy",
+      "py": "taluodeqiangyuan",
+      "zh_CN": "塌落的墙垣"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_119_rdrepair": {
+    "names": {
+      "fpy": "bymc",
+      "py": "beiyongmucai",
+      "zh_CN": "备用木材"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_120_rdblock": {
+    "names": {
+      "fpy": "pjdml",
+      "py": "pojiudemuli",
+      "zh_CN": "破旧的木篱"
     },
     "avatars": [
       ""
