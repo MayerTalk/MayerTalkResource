@@ -1529,6 +1529,21 @@
       "operator"
     ]
   },
+  "char_2012_typhon": {
+    "names": {
+      "code": "si07",
+      "fpy": "tf",
+      "py": "tifeng",
+      "zh_CN": "提丰"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_2013_cerber": {
     "names": {
       "code": "r155",
@@ -2696,7 +2711,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_summer#11"
     ],
     "tags": [
       "operator"
@@ -2955,6 +2971,21 @@
       "operator"
     ]
   },
+  "char_341_sntlla": {
+    "names": {
+      "code": "si02",
+      "fpy": "ht",
+      "py": "hantan",
+      "zh_CN": "寒檀"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_343_tknogi": {
     "names": {
       "code": "r129",
@@ -2985,7 +3016,8 @@
     "avatars": [
       "",
       "_2",
-      "_epoque#9"
+      "_epoque#9",
+      "_summer#11"
     ],
     "tags": [
       "operator"
@@ -4071,7 +4103,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_summer#11"
     ],
     "tags": [
       "operator"
@@ -4777,7 +4810,8 @@
     "avatars": [
       "",
       "_2",
-      "_epoque#14"
+      "_epoque#14",
+      "_summer#11"
     ],
     "tags": [
       "operator"
@@ -17765,7 +17799,8 @@
       "zh_CN": "沙之碑"
     },
     "avatars": [
-      ""
+      "",
+      "_summer#11"
     ],
     "tags": [
       "token"
@@ -18032,7 +18067,8 @@
       "zh_CN": "白铁™多功能平台"
     },
     "avatars": [
-      ""
+      "",
+      "_summer#11"
     ],
     "tags": [
       "token"
@@ -18047,7 +18083,8 @@
       "zh_CN": "白铁™多功能平台"
     },
     "avatars": [
-      ""
+      "",
+      "_summer#11"
     ],
     "tags": [
       "token"
@@ -18062,7 +18099,8 @@
       "zh_CN": "铁钳号·原型机"
     },
     "avatars": [
-      ""
+      "",
+      "_summer#11"
     ],
     "tags": [
       "token"
