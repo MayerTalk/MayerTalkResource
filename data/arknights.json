@@ -4231,6 +4231,21 @@
       "operator"
     ]
   },
+  "char_4102_threye": {
+    "names": {
+      "code": "si06",
+      "fpy": "ls",
+      "py": "linshi",
+      "zh_CN": "凛视"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_411_tomimi": {
     "names": {
       "code": "sg05",
@@ -16877,6 +16892,216 @@
       "enemy"
     ]
   },
+  "enemy_2043_smsbr": {
+    "names": {
+      "code": "ej1",
+      "fpy": "rwqq",
+      "py": "ranwuquqiao",
+      "zh_CN": "染污躯壳"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2044_smwiz": {
+    "names": {
+      "code": "ej2",
+      "fpy": "wqsfz",
+      "py": "waiqushifazhe",
+      "zh_CN": "歪曲施法者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2045_smdrn": {
+    "names": {
+      "code": "ej3",
+      "fpy": "tsgzt",
+      "py": "tansuogouzaoti",
+      "zh_CN": "坍缩构造体"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2046_smwar": {
+    "names": {
+      "code": "ej4",
+      "fpy": "mlzs",
+      "py": "muliezhanshi",
+      "zh_CN": "木裂战士"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2047_smtree": {
+    "names": {
+      "code": "-",
+      "fpy": "jxys",
+      "py": "jixueyinsong",
+      "zh_CN": "积雪银凇"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2048_smgrd": {
+    "names": {
+      "code": "db",
+      "fpy": "“xmdlr”",
+      "py": "“xiemodeliren”",
+      "zh_CN": "“邪魔的利刃”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2049_smgrd2": {
+    "names": {
+      "code": "dbv",
+      "fpy": "“xmdlr”，ydz",
+      "py": "“xiemodeliren”，youdangzhe",
+      "zh_CN": "“邪魔的利刃”，游荡者"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2050_smsha": {
+    "names": {
+      "code": "fsp",
+      "fpy": "xlxs",
+      "py": "xianluoxuesi",
+      "zh_CN": "陷落雪祀"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2051_smsha2": {
+    "names": {
+      "code": "hsp",
+      "fpy": "kdxs",
+      "py": "kongdongxuesi",
+      "zh_CN": "空洞雪祀"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2052_smgia": {
+    "names": {
+      "code": "wvc",
+      "fpy": "jctw",
+      "py": "jiuchantengwan",
+      "zh_CN": "纠缠藤蔓"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2053_smgia2": {
+    "names": {
+      "code": "evc",
+      "fpy": "gltw",
+      "py": "gulaotengwan",
+      "zh_CN": "古老藤蔓"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2054_smdeer": {
+    "names": {
+      "code": "sam",
+      "fpy": "“smdyz”",
+      "py": "“samideyizhi”",
+      "zh_CN": "“萨米的意志”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2055_smlead": {
+    "names": {
+      "code": "eik",
+      "fpy": "“ml”aktene",
+      "py": "“mulie”aiketiernier",
+      "zh_CN": "“木裂”埃克提尔尼尔"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2056_smedzi": {
+    "names": {
+      "code": "ces",
+      "fpy": "wyhdkls",
+      "py": "wuyinhuidangkeleisong",
+      "zh_CN": "无垠回荡克雷松"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
+  "enemy_2059_smbox": {
+    "names": {
+      "code": "ej5",
+      "fpy": "jktw",
+      "py": "juketengwan",
+      "zh_CN": "巨壳藤蔓"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "enemy"
+    ]
+  },
   "enemy_3001_upeopl": {
     "names": {
       "code": "u16",
@@ -19099,6 +19324,58 @@
       "ja_JP": "改良型植物ホルモン",
       "py": "gaixingzhiwujisu",
       "zh_CN": "改性植物激素"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_106_smtree": {
+    "names": {
+      "fpy": "jxys ",
+      "py": "jixueyinsong ",
+      "zh_CN": "积雪银凇 "
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_108_smbox": {
+    "names": {
+      "fpy": "bx",
+      "py": "baoxiang",
+      "zh_CN": "宝箱"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_109_smrbox": {
+    "names": {
+      "fpy": "jcbx",
+      "py": "jiancibaoxiang",
+      "zh_CN": "尖刺宝箱"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_110_smbbox": {
+    "names": {
+      "fpy": "jktw",
+      "py": "juketengwan",
+      "zh_CN": "巨壳藤蔓"
     },
     "avatars": [
       ""
