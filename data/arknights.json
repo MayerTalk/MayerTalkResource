@@ -186,6 +186,7 @@
   "char_1020_reed2": {
     "names": {
       "code": "db02",
+      "en_US": "reed the flame shadow",
       "fpy": "yywc",
       "ja_JP": "焔影リード",
       "py": "yanyingweicao",
@@ -2636,6 +2637,7 @@
   "char_297_hamoni": {
     "names": {
       "code": "db03",
+      "en_US": "harmonie",
       "fpy": "hx",
       "ja_JP": "ハーモニー",
       "py": "hexian",
@@ -3627,6 +3629,7 @@
   "char_4017_puzzle": {
     "names": {
       "code": "vc21",
+      "en_US": "puzzle",
       "fpy": "mt",
       "ja_JP": "パズル",
       "py": "mitu",
@@ -14053,6 +14056,7 @@
   "enemy_1286_dumcy": {
     "names": {
       "code": "du23",
+      "en_US": "special forces soldier",
       "fpy": "tbxddsb",
       "ja_JP": "特殊行動隊兵士",
       "py": "tebiexingdongduishibing",
@@ -14068,6 +14072,7 @@
   "enemy_1286_dumcy_2": {
     "names": {
       "code": "du24",
+      "en_US": "special forces captain",
       "fpy": "tbxdddz",
       "ja_JP": "特殊行動隊隊長",
       "py": "tebiexingdongduiduizhang",
@@ -14083,6 +14088,7 @@
   "enemy_1287_ducrb": {
     "names": {
       "code": "du25",
+      "en_US": "swamp gloompincer",
       "fpy": "zzqs",
       "ja_JP": "沼地の鉗獣",
       "py": "zhaozeqianshou",
@@ -14098,6 +14104,7 @@
   "enemy_1287_ducrb_2": {
     "names": {
       "code": "du26",
+      "en_US": "enraged swamp gloompincer",
       "fpy": "kbzzqs",
       "ja_JP": "凶暴な沼地の鉗獣",
       "py": "kuangbaozhaozeqianshou",
@@ -14113,6 +14120,7 @@
   "enemy_1288_duskls": {
     "names": {
       "code": "du27",
+      "en_US": "dublinn flamechaser soldier",
       "fpy": "sczhzs",
       "ja_JP": "ダブリン追炎戦士",
       "py": "shenchizhuhuozhanshi",
@@ -14128,6 +14136,7 @@
   "enemy_1288_duskls_2": {
     "names": {
       "code": "du28",
+      "en_US": "dublinn flamechaser elite soldier",
       "fpy": "sczhjrzs",
       "ja_JP": "ダブリン精鋭追炎戦士",
       "py": "shenchizhuhuojingruizhanshi",
@@ -14143,6 +14152,7 @@
   "enemy_1289_dubmb": {
     "names": {
       "code": "du29",
+      "en_US": "dublinn cannoneer",
       "fpy": "scnps",
       "ja_JP": "ダブリン爆撃兵",
       "py": "shenchinupaoshou",
@@ -14158,6 +14168,7 @@
   "enemy_1289_dubmb_2": {
     "names": {
       "code": "du30",
+      "en_US": "dublinn cannoneer captain",
       "fpy": "scnpdz",
       "ja_JP": "ダブリン爆撃隊隊長",
       "py": "shenchinupaoduizhang",
@@ -14173,6 +14184,7 @@
   "enemy_1290_duflm": {
     "names": {
       "code": "du31",
+      "en_US": "dublinn flamecaller",
       "fpy": "scyhz",
       "ja_JP": "ダブリン発火術師",
       "py": "shenchiyinhuozhe",
@@ -14188,6 +14200,7 @@
   "enemy_1290_duflm_2": {
     "names": {
       "code": "du32",
+      "en_US": "dublinn flamecaller captain",
       "fpy": "scyhzdz",
       "ja_JP": "ダブリン発火術師隊長",
       "py": "shenchiyinhuozheduizhang",
@@ -14203,6 +14216,7 @@
   "enemy_1291_dusrch": {
     "names": {
       "code": "du33",
+      "en_US": "swamp rover",
       "fpy": "zztzc",
       "ja_JP": "沼地の偵察車",
       "py": "zhaozetanzhaoche",
@@ -14218,6 +14232,7 @@
   "enemy_1291_dusrch_2": {
     "names": {
       "code": "du34",
+      "en_US": "heavy swamp rover",
       "fpy": "zxzztzc",
       "ja_JP": "沼地の装甲偵察車",
       "py": "zhongxingzhaozetanzhaoche",
@@ -14233,6 +14248,7 @@
   "enemy_1292_duskld": {
     "names": {
       "code": "du35",
+      "en_US": "dublinn flamechaser guard",
       "fpy": "sczhhw",
       "ja_JP": "ダブリン追炎従兵",
       "py": "shenchizhuhuohuwei",
@@ -14248,6 +14264,7 @@
   "enemy_1292_duskld_2": {
     "names": {
       "code": "du36",
+      "en_US": "dublinn flamechaser elite guard",
       "fpy": "sczhjrhw",
       "ja_JP": "ダブリン精鋭追炎従兵",
       "py": "shenchizhuhuojingruihuwei",
@@ -14263,6 +14280,7 @@
   "enemy_1293_duswrd": {
     "names": {
       "code": "du37",
+      "en_US": "dublinn spec ops",
       "fpy": "schwdcy",
       "ja_JP": "ダブリン親衛隊隊員",
       "py": "shenchihuweiduichengyuan",
@@ -14278,6 +14296,7 @@
   "enemy_1293_duswrd_2": {
     "names": {
       "code": "du38",
+      "en_US": "dublinn elite spec ops",
       "fpy": "schwdjrcy",
       "ja_JP": "ダブリン親衛隊精鋭",
       "py": "shenchihuweiduijingruichengyuan",
@@ -14293,6 +14312,7 @@
   "enemy_1293_duswrd_3": {
     "names": {
       "code": "du39",
+      "en_US": "'the brigadier'",
       "fpy": "“xg”",
       "ja_JP": "「将校」",
       "py": "“xiaoguan”",
@@ -16100,6 +16120,7 @@
   "enemy_1536_ncrmcr": {
     "names": {
       "code": "eb",
+      "en_US": "'the leader' ",
       "fpy": "“lx”",
       "ja_JP": "「リーダー」",
       "py": "“lingxiu”",
@@ -17453,6 +17474,7 @@
   "enemy_6010_boxing": {
     "names": {
       "code": "dl10",
+      "en_US": "'boy wonder' sandel",
       "fpy": "“nqr”sde",
       "ja_JP": "「ヤングガイ」サンデル",
       "py": "“nianqingren”sangdeer",
@@ -17468,6 +17490,7 @@
   "enemy_6011_planty": {
     "names": {
       "code": "dl11",
+      "en_US": "'nature's compromise'",
       "fpy": "“zrdtx”",
       "ja_JP": "「自然の妥協」",
       "py": "“zirandetuoxie”",
@@ -17483,6 +17506,7 @@
   "enemy_6012_plants": {
     "names": {
       "code": "dl12",
+      "en_US": "small symbiont",
       "fpy": "xxgst",
       "ja_JP": "小型共生体",
       "py": "xiaoxinggongshengti",
@@ -19320,6 +19344,7 @@
   },
   "trap_104_dplant": {
     "names": {
+      "en_US": "modified phytohormone",
       "fpy": "gxzwjs",
       "ja_JP": "改良型植物ホルモン",
       "py": "gaixingzhiwujisu",
@@ -19750,6 +19775,7 @@
   },
   "trap_700_cdabyss": {
     "names": {
+      "en_US": "ægirian oscilloscope",
       "fpy": "agesbq",
       "ja_JP": "エーギル式振波計",
       "py": "ageershiboqi",
@@ -19764,6 +19790,7 @@
   },
   "trap_701_cdabyssa": {
     "names": {
+      "en_US": "ægirian oscilloscope",
       "fpy": "agesbq",
       "ja_JP": "エーギル式振波計",
       "py": "ageershiboqi",
@@ -19778,6 +19805,7 @@
   },
   "trap_702_cdabyssb": {
     "names": {
+      "en_US": "ægirian oscilloscope",
       "fpy": "agesbq",
       "ja_JP": "エーギル式振波計",
       "py": "ageershiboqi",
@@ -19792,6 +19820,7 @@
   },
   "trap_703_cdcredit": {
     "names": {
+      "en_US": "adaptive supply component",
       "fpy": "zsybjyj",
       "ja_JP": "多機能補給デバイス",
       "py": "zishiyingbujiyuanjian",
@@ -19806,6 +19835,7 @@
   },
   "trap_704_cdcredita": {
     "names": {
+      "en_US": "adaptive supply component",
       "fpy": "zsybjyj",
       "ja_JP": "多機能補給デバイス",
       "py": "zishiyingbujiyuanjian",
@@ -19820,6 +19850,7 @@
   },
   "trap_705_cdcreditb": {
     "names": {
+      "en_US": "adaptive supply component",
       "fpy": "zsybjyj",
       "ja_JP": "多機能補給デバイス",
       "py": "zishiyingbujiyuanjian",
@@ -19834,6 +19865,7 @@
   },
   "trap_706_cdshield": {
     "names": {
+      "en_US": "coating device conduction valve",
       "fpy": "dmzzdnf",
       "ja_JP": "コーティングデバイス",
       "py": "dumozhuangzhidaonengfa",
@@ -19848,6 +19880,7 @@
   },
   "trap_707_cdshielda": {
     "names": {
+      "en_US": "redeployment conduction component",
       "fpy": "zzdnzj",
       "ja_JP": "再稼働コンポーネント",
       "py": "zhongzhengdaonengzujian",
@@ -19862,6 +19895,7 @@
   },
   "trap_708_cdshieldb": {
     "names": {
+      "en_US": "coating device conduction valve",
       "fpy": "dmzzdnf",
       "ja_JP": "コーティングデバイス",
       "py": "dumozhuangzhidaonengfa",
@@ -19876,6 +19910,7 @@
   },
   "trap_709_cdbeacon": {
     "names": {
+      "en_US": "eunectes' beacon",
       "fpy": "clyszxb",
       "ja_JP": "ジャングル用追跡ビーコン",
       "py": "conglinyongshizongxinbiao",
@@ -19890,6 +19925,7 @@
   },
   "trap_710_cdbeacona": {
     "names": {
+      "en_US": "block wavelength",
       "fpy": "zdbc",
       "ja_JP": "遮断電波",
       "py": "zuduanbochang",
@@ -19904,6 +19940,7 @@
   },
   "trap_711_cdbeaconb": {
     "names": {
+      "en_US": "jam wavelength",
       "fpy": "grbc",
       "ja_JP": "妨害電波",
       "py": "ganraobochang",
@@ -19918,6 +19955,7 @@
   },
   "trap_712_cdhvrk": {
     "names": {
+      "en_US": "heavy insulated concrete",
       "fpy": "czjysn",
       "ja_JP": "超過重絶縁セメント",
       "py": "chaozhongjueyuanshuini",
@@ -19932,6 +19970,7 @@
   },
   "trap_713_cdflsb": {
     "names": {
+      "en_US": "shoddy flashbang",
       "fpy": "lzsgd",
       "ja_JP": "粗悪なスタングレネード",
       "py": "liezhishanguangdan",
