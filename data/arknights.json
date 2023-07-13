@@ -187,6 +187,7 @@
     "names": {
       "code": "db02",
       "fpy": "yywc",
+      "ja_JP": "焔影リード",
       "py": "yanyingweicao",
       "zh_CN": "焰影苇草"
     },
@@ -2636,6 +2637,7 @@
     "names": {
       "code": "db03",
       "fpy": "hx",
+      "ja_JP": "ハーモニー",
       "py": "hexian",
       "zh_CN": "和弦"
     },
@@ -3626,6 +3628,7 @@
     "names": {
       "code": "vc21",
       "fpy": "mt",
+      "ja_JP": "パズル",
       "py": "mitu",
       "zh_CN": "谜图"
     },
@@ -14036,6 +14039,7 @@
     "names": {
       "code": "du23",
       "fpy": "tbxddsb",
+      "ja_JP": "特殊行動隊兵士",
       "py": "tebiexingdongduishibing",
       "zh_CN": "特别行动队士兵"
     },
@@ -14050,6 +14054,7 @@
     "names": {
       "code": "du24",
       "fpy": "tbxdddz",
+      "ja_JP": "特殊行動隊隊長",
       "py": "tebiexingdongduiduizhang",
       "zh_CN": "特别行动队队长"
     },
@@ -14064,6 +14069,7 @@
     "names": {
       "code": "du25",
       "fpy": "zzqs",
+      "ja_JP": "沼地の鉗獣",
       "py": "zhaozeqianshou",
       "zh_CN": "沼泽钳兽"
     },
@@ -14078,6 +14084,7 @@
     "names": {
       "code": "du26",
       "fpy": "kbzzqs",
+      "ja_JP": "凶暴な沼地の鉗獣",
       "py": "kuangbaozhaozeqianshou",
       "zh_CN": "狂暴沼泽钳兽"
     },
@@ -14092,6 +14099,7 @@
     "names": {
       "code": "du27",
       "fpy": "sczhzs",
+      "ja_JP": "ダブリン追炎戦士",
       "py": "shenchizhuhuozhanshi",
       "zh_CN": "深池逐火战士"
     },
@@ -14106,6 +14114,7 @@
     "names": {
       "code": "du28",
       "fpy": "sczhjrzs",
+      "ja_JP": "ダブリン精鋭追炎戦士",
       "py": "shenchizhuhuojingruizhanshi",
       "zh_CN": "深池逐火精锐战士"
     },
@@ -14120,6 +14129,7 @@
     "names": {
       "code": "du29",
       "fpy": "scnps",
+      "ja_JP": "ダブリン爆撃兵",
       "py": "shenchinupaoshou",
       "zh_CN": "深池弩炮手"
     },
@@ -14134,6 +14144,7 @@
     "names": {
       "code": "du30",
       "fpy": "scnpdz",
+      "ja_JP": "ダブリン爆撃隊隊長",
       "py": "shenchinupaoduizhang",
       "zh_CN": "深池弩炮队长"
     },
@@ -14148,6 +14159,7 @@
     "names": {
       "code": "du31",
       "fpy": "scyhz",
+      "ja_JP": "ダブリン発火術師",
       "py": "shenchiyinhuozhe",
       "zh_CN": "深池引火者"
     },
@@ -14162,6 +14174,7 @@
     "names": {
       "code": "du32",
       "fpy": "scyhzdz",
+      "ja_JP": "ダブリン発火術師隊長",
       "py": "shenchiyinhuozheduizhang",
       "zh_CN": "深池引火者队长"
     },
@@ -14176,6 +14189,7 @@
     "names": {
       "code": "du33",
       "fpy": "zztzc",
+      "ja_JP": "沼地の偵察車",
       "py": "zhaozetanzhaoche",
       "zh_CN": "沼泽探照车"
     },
@@ -14190,6 +14204,7 @@
     "names": {
       "code": "du34",
       "fpy": "zxzztzc",
+      "ja_JP": "沼地の装甲偵察車",
       "py": "zhongxingzhaozetanzhaoche",
       "zh_CN": "重型沼泽探照车"
     },
@@ -14204,6 +14219,7 @@
     "names": {
       "code": "du35",
       "fpy": "sczhhw",
+      "ja_JP": "ダブリン追炎従兵",
       "py": "shenchizhuhuohuwei",
       "zh_CN": "深池逐火护卫"
     },
@@ -14218,6 +14234,7 @@
     "names": {
       "code": "du36",
       "fpy": "sczhjrhw",
+      "ja_JP": "ダブリン精鋭追炎従兵",
       "py": "shenchizhuhuojingruihuwei",
       "zh_CN": "深池逐火精锐护卫"
     },
@@ -14232,6 +14249,7 @@
     "names": {
       "code": "du37",
       "fpy": "schwdcy",
+      "ja_JP": "ダブリン親衛隊隊員",
       "py": "shenchihuweiduichengyuan",
       "zh_CN": "深池护卫队成员"
     },
@@ -14246,6 +14264,7 @@
     "names": {
       "code": "du38",
       "fpy": "schwdjrcy",
+      "ja_JP": "ダブリン親衛隊精鋭",
       "py": "shenchihuweiduijingruichengyuan",
       "zh_CN": "深池护卫队精锐成员"
     },
@@ -14260,6 +14279,7 @@
     "names": {
       "code": "du39",
       "fpy": "“xg”",
+      "ja_JP": "「将校」",
       "py": "“xiaoguan”",
       "zh_CN": "“校官”"
     },
@@ -16066,6 +16086,7 @@
     "names": {
       "code": "eb",
       "fpy": "“lx”",
+      "ja_JP": "「リーダー」",
       "py": "“lingxiu”",
       "zh_CN": "“领袖”"
     },
@@ -17208,6 +17229,7 @@
     "names": {
       "code": "dl10",
       "fpy": "“nqr”sde",
+      "ja_JP": "「ヤングガイ」サンデル",
       "py": "“nianqingren”sangdeer",
       "zh_CN": "“年轻人”桑德尔"
     },
@@ -17222,6 +17244,7 @@
     "names": {
       "code": "dl11",
       "fpy": "“zrdtx”",
+      "ja_JP": "「自然の妥協」",
       "py": "“zirandetuoxie”",
       "zh_CN": "“自然的妥协”"
     },
@@ -17236,6 +17259,7 @@
     "names": {
       "code": "dl12",
       "fpy": "xxgst",
+      "ja_JP": "小型共生体",
       "py": "xiaoxinggongshengti",
       "zh_CN": "小型共生体"
     },
@@ -19072,6 +19096,7 @@
   "trap_104_dplant": {
     "names": {
       "fpy": "gxzwjs",
+      "ja_JP": "改良型植物ホルモン",
       "py": "gaixingzhiwujisu",
       "zh_CN": "改性植物激素"
     },
@@ -19449,6 +19474,7 @@
   "trap_700_cdabyss": {
     "names": {
       "fpy": "agesbq",
+      "ja_JP": "エーギル式振波計",
       "py": "ageershiboqi",
       "zh_CN": "阿戈尔示波器"
     },
@@ -19462,6 +19488,7 @@
   "trap_701_cdabyssa": {
     "names": {
       "fpy": "agesbq",
+      "ja_JP": "エーギル式振波計",
       "py": "ageershiboqi",
       "zh_CN": "阿戈尔示波器"
     },
@@ -19475,6 +19502,7 @@
   "trap_702_cdabyssb": {
     "names": {
       "fpy": "agesbq",
+      "ja_JP": "エーギル式振波計",
       "py": "ageershiboqi",
       "zh_CN": "阿戈尔示波器"
     },
@@ -19488,6 +19516,7 @@
   "trap_703_cdcredit": {
     "names": {
       "fpy": "zsybjyj",
+      "ja_JP": "多機能補給デバイス",
       "py": "zishiyingbujiyuanjian",
       "zh_CN": "自适应补给元件"
     },
@@ -19501,6 +19530,7 @@
   "trap_704_cdcredita": {
     "names": {
       "fpy": "zsybjyj",
+      "ja_JP": "多機能補給デバイス",
       "py": "zishiyingbujiyuanjian",
       "zh_CN": "自适应补给元件"
     },
@@ -19514,6 +19544,7 @@
   "trap_705_cdcreditb": {
     "names": {
       "fpy": "zsybjyj",
+      "ja_JP": "多機能補給デバイス",
       "py": "zishiyingbujiyuanjian",
       "zh_CN": "自适应补给元件"
     },
@@ -19527,6 +19558,7 @@
   "trap_706_cdshield": {
     "names": {
       "fpy": "dmzzdnf",
+      "ja_JP": "コーティングデバイス",
       "py": "dumozhuangzhidaonengfa",
       "zh_CN": "镀膜装置导能阀"
     },
@@ -19540,6 +19572,7 @@
   "trap_707_cdshielda": {
     "names": {
       "fpy": "zzdnzj",
+      "ja_JP": "再稼働コンポーネント",
       "py": "zhongzhengdaonengzujian",
       "zh_CN": "重整导能组件"
     },
@@ -19553,6 +19586,7 @@
   "trap_708_cdshieldb": {
     "names": {
       "fpy": "dmzzdnf",
+      "ja_JP": "コーティングデバイス",
       "py": "dumozhuangzhidaonengfa",
       "zh_CN": "镀膜装置导能阀"
     },
@@ -19566,6 +19600,7 @@
   "trap_709_cdbeacon": {
     "names": {
       "fpy": "clyszxb",
+      "ja_JP": "ジャングル用追跡ビーコン",
       "py": "conglinyongshizongxinbiao",
       "zh_CN": "丛林用示踪信标"
     },
@@ -19579,6 +19614,7 @@
   "trap_710_cdbeacona": {
     "names": {
       "fpy": "zdbc",
+      "ja_JP": "遮断電波",
       "py": "zuduanbochang",
       "zh_CN": "阻断波长"
     },
@@ -19592,6 +19628,7 @@
   "trap_711_cdbeaconb": {
     "names": {
       "fpy": "grbc",
+      "ja_JP": "妨害電波",
       "py": "ganraobochang",
       "zh_CN": "干扰波长"
     },
@@ -19605,6 +19642,7 @@
   "trap_712_cdhvrk": {
     "names": {
       "fpy": "czjysn",
+      "ja_JP": "超過重絶縁セメント",
       "py": "chaozhongjueyuanshuini",
       "zh_CN": "超重绝缘水泥"
     },
@@ -19618,6 +19656,7 @@
   "trap_713_cdflsb": {
     "names": {
       "fpy": "lzsgd",
+      "ja_JP": "粗悪なスタングレネード",
       "py": "liezhishanguangdan",
       "zh_CN": "劣质闪光弹"
     },
