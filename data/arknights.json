@@ -1643,6 +1643,7 @@
     "names": {
       "code": "nm04",
       "fpy": "zy",
+      "ja_JP": "チョンユエ",
       "py": "zhongyue",
       "zh_CN": "重岳"
     },
@@ -4136,6 +4137,7 @@
     "names": {
       "code": "yd15",
       "fpy": "jy",
+      "ja_JP": "ジエユン",
       "py": "jieyun",
       "zh_CN": "截云"
     },
@@ -4151,6 +4153,7 @@
     "names": {
       "code": "lm21",
       "fpy": "l",
+      "ja_JP": "リン",
       "py": "lin",
       "zh_CN": "林"
     },
@@ -4949,6 +4952,7 @@
     "names": {
       "code": "rb09",
       "fpy": "hs",
+      "ja_JP": "ファイヤーホイッスル",
       "py": "huoshao",
       "zh_CN": "火哨"
     },
@@ -14330,6 +14334,7 @@
     "names": {
       "code": "sh01",
       "fpy": "ds",
+      "ja_JP": "諦獣",
       "py": "dishou",
       "zh_CN": "谛兽"
     },
@@ -14344,6 +14349,7 @@
     "names": {
       "code": "sh02",
       "fpy": "znds",
+      "ja_JP": "怒れる諦獣",
       "py": "zaonudishou",
       "zh_CN": "躁怒谛兽"
     },
@@ -14358,6 +14364,7 @@
     "names": {
       "code": "sh03",
       "fpy": "shzsb",
+      "ja_JP": "山海衆雑兵",
       "py": "shanhaizhongsanbing",
       "zh_CN": "山海众散兵"
     },
@@ -14372,6 +14379,7 @@
     "names": {
       "code": "sh04",
       "fpy": "shzyy",
+      "ja_JP": "山海衆遊撃隊",
       "py": "shanhaizhongyouyong",
       "zh_CN": "山海众游勇"
     },
@@ -14386,6 +14394,7 @@
     "names": {
       "code": "sh05",
       "fpy": "shzcls",
+      "ja_JP": "山海衆伝令兵",
       "py": "shanhaizhongchuanlingshou",
       "zh_CN": "山海众传令手"
     },
@@ -14400,6 +14409,7 @@
     "names": {
       "code": "sh06",
       "fpy": "shzzls",
+      "ja_JP": "山海衆伝令官",
       "py": "shanhaizhongzhanglingshi",
       "zh_CN": "山海众掌令使"
     },
@@ -14414,6 +14424,7 @@
     "names": {
       "code": "sh07",
       "fpy": "shzmsz",
+      "ja_JP": "山海衆守護者",
       "py": "shanhaizhongmaoshizhe",
       "zh_CN": "山海众冒矢者"
     },
@@ -14428,6 +14439,7 @@
     "names": {
       "code": "sh08",
       "fpy": "shzlzz",
+      "ja_JP": "山海衆連陣守護者",
       "py": "shanhaizhonglianzhenzhe",
       "zh_CN": "山海众连阵者"
     },
@@ -14442,6 +14454,7 @@
     "names": {
       "code": "sh09",
       "fpy": "shztm",
+      "ja_JP": "山海衆精鋭",
       "py": "shanhaizhongtoumu",
       "zh_CN": "山海众头目"
     },
@@ -14456,6 +14469,7 @@
     "names": {
       "code": "sh10",
       "fpy": "shzms",
+      "ja_JP": "山海衆密使",
       "py": "shanhaizhongmishi",
       "zh_CN": "山海众秘使"
     },
@@ -14470,6 +14484,7 @@
     "names": {
       "code": "sh11",
       "fpy": "shzkmr",
+      "ja_JP": "山海衆霊視者",
       "py": "shanhaizhongkuimeiren",
       "zh_CN": "山海众窥魅人"
     },
@@ -14484,6 +14499,7 @@
     "names": {
       "code": "sh12",
       "fpy": "shzsmr",
+      "ja_JP": "山海衆怪術師",
       "py": "shanhaizhongsimeiren",
       "zh_CN": "山海众司魅人"
     },
@@ -14498,6 +14514,7 @@
     "names": {
       "code": "sh13",
       "fpy": "“pj”",
+      "ja_JP": "「破堅」",
       "py": "“pojian”",
       "zh_CN": "“破坚”"
     },
@@ -14512,6 +14529,7 @@
     "names": {
       "code": "sh14",
       "fpy": "“sb”",
+      "ja_JP": "「砕壁」",
       "py": "“suibi”",
       "zh_CN": "“碎壁”"
     },
@@ -14526,6 +14544,7 @@
     "names": {
       "code": "sh15",
       "fpy": "“lps”",
+      "ja_JP": "「砂行」",
       "py": "“lvpingsha”",
       "zh_CN": "“履平沙”"
     },
@@ -14540,6 +14559,7 @@
     "names": {
       "code": "sh16",
       "fpy": "“yzc”",
+      "ja_JP": "「長塵」",
       "py": "“yuezhangchen”",
       "zh_CN": "“越长尘”"
     },
@@ -16152,6 +16172,7 @@
     "names": {
       "code": "ya01",
       "fpy": "“y”",
+      "ja_JP": "「睚」",
       "py": "“ya”",
       "zh_CN": "“睚”"
     },
