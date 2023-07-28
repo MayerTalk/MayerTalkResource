@@ -1642,6 +1642,7 @@
   "char_2024_chyue": {
     "names": {
       "code": "nm04",
+      "en_US": "chongyue",
       "fpy": "zy",
       "ja_JP": "チョンユエ",
       "py": "zhongyue",
@@ -4136,6 +4137,7 @@
   "char_4078_bdhkgt": {
     "names": {
       "code": "yd15",
+      "en_US": "jieyun",
       "fpy": "jy",
       "ja_JP": "ジエユン",
       "py": "jieyun",
@@ -4152,6 +4154,7 @@
   "char_4080_lin": {
     "names": {
       "code": "lm21",
+      "en_US": "lin",
       "fpy": "l",
       "ja_JP": "リン",
       "py": "lin",
@@ -4951,6 +4954,7 @@
   "char_493_firwhl": {
     "names": {
       "code": "rb09",
+      "en_US": "firewhistle",
       "fpy": "hs",
       "ja_JP": "ファイヤーホイッスル",
       "py": "huoshao",
@@ -14333,6 +14337,7 @@
   "enemy_1295_ymph": {
     "names": {
       "code": "sh01",
+      "en_US": "di beast",
       "fpy": "ds",
       "ja_JP": "諦獣",
       "py": "dishou",
@@ -14348,6 +14353,7 @@
   "enemy_1295_ymph_2": {
     "names": {
       "code": "sh02",
+      "en_US": "raging di beast",
       "fpy": "znds",
       "ja_JP": "怒れる諦獣",
       "py": "zaonudishou",
@@ -14363,6 +14369,7 @@
   "enemy_1296_ymknif": {
     "names": {
       "code": "sh03",
+      "en_US": "shanhaizhong skirmisher",
       "fpy": "shzsb",
       "ja_JP": "山海衆雑兵",
       "py": "shanhaizhongsanbing",
@@ -14378,6 +14385,7 @@
   "enemy_1296_ymknif_2": {
     "names": {
       "code": "sh04",
+      "en_US": "shanhaizhong vigilante",
       "fpy": "shzyy",
       "ja_JP": "山海衆遊撃隊",
       "py": "shanhaizhongyouyong",
@@ -14393,6 +14401,7 @@
   "enemy_1297_ymflag": {
     "names": {
       "code": "sh05",
+      "en_US": "shanhaizhong relayer",
       "fpy": "shzcls",
       "ja_JP": "山海衆伝令兵",
       "py": "shanhaizhongchuanlingshou",
@@ -14408,6 +14417,7 @@
   "enemy_1297_ymflag_2": {
     "names": {
       "code": "sh06",
+      "en_US": "shanhaizhong harbinger",
       "fpy": "shzzls",
       "ja_JP": "山海衆伝令官",
       "py": "shanhaizhongzhanglingshi",
@@ -14423,6 +14433,7 @@
   "enemy_1298_ymmonk": {
     "names": {
       "code": "sh07",
+      "en_US": "shanhaizhong desperado",
       "fpy": "shzmsz",
       "ja_JP": "山海衆守護者",
       "py": "shanhaizhongmaoshizhe",
@@ -14438,6 +14449,7 @@
   "enemy_1298_ymmonk_2": {
     "names": {
       "code": "sh08",
+      "en_US": "shanhaizhong phalanx",
       "fpy": "shzlzz",
       "ja_JP": "山海衆連陣守護者",
       "py": "shanhaizhonglianzhenzhe",
@@ -14453,6 +14465,7 @@
   "enemy_1299_ymkilr": {
     "names": {
       "code": "sh09",
+      "en_US": "shanhaizhong ringleader",
       "fpy": "shztm",
       "ja_JP": "山海衆精鋭",
       "py": "shanhaizhongtoumu",
@@ -14468,6 +14481,7 @@
   "enemy_1299_ymkilr_2": {
     "names": {
       "code": "sh10",
+      "en_US": "shanhaizhong secret-keeper",
       "fpy": "shzms",
       "ja_JP": "山海衆密使",
       "py": "shanhaizhongmishi",
@@ -14483,6 +14497,7 @@
   "enemy_1300_ymmir": {
     "names": {
       "code": "sh11",
+      "en_US": "shanhaizhong seer",
       "fpy": "shzkmr",
       "ja_JP": "山海衆霊視者",
       "py": "shanhaizhongkuimeiren",
@@ -14498,6 +14513,7 @@
   "enemy_1300_ymmir_2": {
     "names": {
       "code": "sh12",
+      "en_US": "shanhaizhong oracle",
       "fpy": "shzsmr",
       "ja_JP": "山海衆怪術師",
       "py": "shanhaizhongsimeiren",
@@ -14513,6 +14529,7 @@
   "enemy_1301_ymcnon": {
     "names": {
       "code": "sh13",
+      "en_US": "'wallbreaker'",
       "fpy": "“pj”",
       "ja_JP": "「破堅」",
       "py": "“pojian”",
@@ -14528,6 +14545,7 @@
   "enemy_1301_ymcnon_2": {
     "names": {
       "code": "sh14",
+      "en_US": "'fortbreaker'",
       "fpy": "“sb”",
       "ja_JP": "「砕壁」",
       "py": "“suibi”",
@@ -14543,6 +14561,7 @@
   "enemy_1302_ymtro": {
     "names": {
       "code": "sh15",
+      "en_US": "'sandwalker'",
       "fpy": "“lps”",
       "ja_JP": "「砂行」",
       "py": "“lvpingsha”",
@@ -14558,6 +14577,7 @@
   "enemy_1302_ymtro_2": {
     "names": {
       "code": "sh16",
+      "en_US": "'sand voyager'",
       "fpy": "“yzc”",
       "ja_JP": "「長塵」",
       "py": "“yuezhangchen”",
@@ -16171,6 +16191,7 @@
   "enemy_1538_ymmons": {
     "names": {
       "code": "ya01",
+      "en_US": "'ya'",
       "fpy": "“y”",
       "ja_JP": "「睚」",
       "py": "“ya”",
