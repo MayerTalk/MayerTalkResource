@@ -164,6 +164,21 @@
       "operator"
     ]
   },
+  "char_1016_agoat2": {
+    "names": {
+      "code": "ln10",
+      "fpy": "cjayfl",
+      "py": "chunjinaiyafala",
+      "zh_CN": "纯烬艾雅法拉"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_101_sora": {
     "names": {
       "code": "pl05",
@@ -264,7 +279,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_summer#12"
     ],
     "tags": [
       "operator"
@@ -375,6 +391,21 @@
       "fpy": "syszr",
       "py": "shengyuesongzangren",
       "zh_CN": "圣约送葬人"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_1033_swire2": {
+    "names": {
+      "code": "lm22",
+      "fpy": "llshy",
+      "py": "linlangshihuaiya",
+      "zh_CN": "琳琅诗怀雅"
     },
     "avatars": [
       "",
@@ -1043,7 +1074,8 @@
     "avatars": [
       "",
       "_2",
-      "_epoque#12"
+      "_epoque#12",
+      "_summer#12"
     ],
     "tags": [
       "operator"
@@ -3346,7 +3378,8 @@
     "avatars": [
       "",
       "_2",
-      "_snow#5"
+      "_snow#5",
+      "_summer#12"
     ],
     "tags": [
       "operator"
@@ -3816,7 +3849,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_summer#12"
     ],
     "tags": [
       "operator"
@@ -4247,6 +4281,21 @@
       "fpy": "ls",
       "py": "linshi",
       "zh_CN": "凛视"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4106_bryota": {
+    "names": {
+      "code": "ss03",
+      "fpy": "ct",
+      "py": "cangtai",
+      "zh_CN": "苍苔"
     },
     "avatars": [
       "",
@@ -4896,6 +4945,21 @@
       "",
       "_2",
       "_ambienceSynesthesia#2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_488_buildr": {
+    "names": {
+      "code": "ss04",
+      "fpy": "qz",
+      "py": "qingzhi",
+      "zh_CN": "青枳"
+    },
+    "avatars": [
+      "",
+      "_2"
     ],
     "tags": [
       "operator"
@@ -18125,10 +18189,10 @@
   "token_10013_robin_mine": {
     "names": {
       "en_US": "'clip'",
-      "fpy": "\"jz\"",
+      "fpy": "“jz”",
       "ja_JP": "「クリップ」",
-      "py": "\"jiazi\"",
-      "zh_CN": "\"夹子\""
+      "py": "“jiazi”",
+      "zh_CN": "“夹子”"
     },
     "avatars": [
       "",
@@ -18157,10 +18221,10 @@
   "token_10015_dusk_drgn": {
     "names": {
       "en_US": "'freeling'",
-      "fpy": "\"xzz\"",
+      "fpy": "“xzz”",
       "ja_JP": "「小自在」",
-      "py": "\"xiaozizai\"",
-      "zh_CN": "\"小自在\""
+      "py": "“xiaozizai”",
+      "zh_CN": "“小自在”"
     },
     "avatars": [
       ""
@@ -18455,6 +18519,19 @@
       "fpy": "lx",
       "py": "liuxing",
       "zh_CN": "流形"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "token"
+    ]
+  },
+  "token_10031_swire2_gdtrap": {
+    "names": {
+      "fpy": "xbzd",
+      "py": "xiangbinzhadan",
+      "zh_CN": "香槟炸弹"
     },
     "avatars": [
       ""
@@ -19522,6 +19599,32 @@
       "fpy": "pjdml",
       "py": "pojiudemuli",
       "zh_CN": "破旧的木篱"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_122_stmpq": {
+    "names": {
+      "fpy": "jgpq",
+      "py": "jingguanpenquan",
+      "zh_CN": "景观喷泉"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_123_stmbot": {
+    "names": {
+      "fpy": "sqqsp",
+      "py": "shuiqiqishuiping",
+      "zh_CN": "水汽汽水瓶"
     },
     "avatars": [
       ""
