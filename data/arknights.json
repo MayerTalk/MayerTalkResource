@@ -4207,6 +4207,7 @@
   "char_4082_qiubai": {
     "names": {
       "code": "yd20",
+      "en_US": "qiubai",
       "fpy": "cb",
       "ja_JP": "チューバイ",
       "py": "choubai",
@@ -4223,6 +4224,7 @@
   "char_4083_chimes": {
     "names": {
       "code": "yd17",
+      "en_US": "wind chimes",
       "fpy": "dl",
       "ja_JP": "ウィンドチャイム",
       "py": "duoling",
