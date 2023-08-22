@@ -4208,6 +4208,7 @@
     "names": {
       "code": "yd20",
       "fpy": "cb",
+      "ja_JP": "チューバイ",
       "py": "choubai",
       "zh_CN": "仇白"
     },
@@ -4223,6 +4224,7 @@
     "names": {
       "code": "yd17",
       "fpy": "dl",
+      "ja_JP": "ウィンドチャイム",
       "py": "duoling",
       "zh_CN": "铎铃"
     },
