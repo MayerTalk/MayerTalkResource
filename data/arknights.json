@@ -415,6 +415,21 @@
       "operator"
     ]
   },
+  "char_1034_jesca2": {
+    "names": {
+      "code": "bs30",
+      "fpy": "dhjxk",
+      "py": "dihuojiexika",
+      "zh_CN": "涤火杰西卡"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_103_angel": {
     "names": {
       "code": "pl03",
@@ -446,7 +461,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_ncg#1"
     ],
     "tags": [
       "operator"
@@ -1666,6 +1682,7 @@
     "avatars": [
       "",
       "_2",
+      "_ncg#1",
       "_nian#9"
     ],
     "tags": [
@@ -4217,7 +4234,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_ncg#1"
     ],
     "tags": [
       "operator"
@@ -4289,6 +4307,36 @@
       "fpy": "ls",
       "py": "linshi",
       "zh_CN": "凛视"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4104_coldst": {
+    "names": {
+      "code": "cb28",
+      "fpy": "bn",
+      "py": "bingniang",
+      "zh_CN": "冰酿"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4105_almond": {
+    "names": {
+      "code": "bs05",
+      "fpy": "xr",
+      "py": "xingren",
+      "zh_CN": "杏仁"
     },
     "avatars": [
       "",
@@ -18314,6 +18362,7 @@
     },
     "avatars": [
       "",
+      "_ncg#1",
       "_nian#9"
     ],
     "tags": [
@@ -18330,6 +18379,7 @@
     },
     "avatars": [
       "",
+      "_ncg#1",
       "_nian#9"
     ],
     "tags": [
@@ -18346,6 +18396,7 @@
     },
     "avatars": [
       "",
+      "_ncg#1",
       "_nian#9"
     ],
     "tags": [
@@ -18540,6 +18591,19 @@
       "fpy": "xbzd",
       "py": "xiangbinzhadan",
       "zh_CN": "香槟炸弹"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "token"
+    ]
+  },
+  "token_10032_jesca2_jckshd": {
+    "names": {
+      "fpy": "jddp",
+      "py": "jidongdunpai",
+      "zh_CN": "机动盾牌"
     },
     "avatars": [
       ""
@@ -19633,6 +19697,19 @@
       "fpy": "sqqsp",
       "py": "shuiqiqishuiping",
       "zh_CN": "水汽汽水瓶"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_124_eradio": {
+    "names": {
+      "fpy": "frpk",
+      "py": "feirepenkou",
+      "zh_CN": "废热喷口"
     },
     "avatars": [
       ""
