@@ -324,6 +324,7 @@
   "char_1029_yato2": {
     "names": {
       "code": "mh02",
+      "en_US": "kirin r yato",
       "fpy": "qlryd",
       "ja_JP": "キリンrヤトウ",
       "py": "qilinryedao",
@@ -359,6 +360,7 @@
   "char_1030_noirc2": {
     "names": {
       "code": "mh03",
+      "en_US": "rathalos s noir corne",
       "fpy": "hlshj",
       "ja_JP": "レウスsノイルホーン",
       "py": "huolongsheijiao",
@@ -4179,6 +4181,7 @@
   "char_4077_palico": {
     "names": {
       "code": "mh01",
+      "en_US": "terra research commission",
       "fpy": "tldldct",
       "ja_JP": "テラ大陸調査団",
       "py": "tailadaludiaochatuan",
@@ -14716,6 +14719,7 @@
   "enemy_1303_mhshep": {
     "names": {
       "code": "hs01",
+      "en_US": "hornbeast",
       "fpy": "js",
       "ja_JP": "ツノシゲミ",
       "py": "jiaoshou",
@@ -14731,6 +14735,7 @@
   "enemy_1303_mhshep_2": {
     "names": {
       "code": "hs02",
+      "en_US": "hardy hornbeast",
       "fpy": "kjs",
       "ja_JP": "ツノシゲミ亜種",
       "py": "kangjiaoshou",
@@ -14746,6 +14751,7 @@
   "enemy_1304_mhwolf": {
     "names": {
       "code": "hs03",
+      "en_US": "oxmane",
       "fpy": "ljs",
       "ja_JP": "タテガミツキ",
       "py": "liejishou",
@@ -14761,6 +14767,7 @@
   "enemy_1304_mhwolf_2": {
     "names": {
       "code": "hs04",
+      "en_US": "keenfanged oxmane",
       "fpy": "lcljs",
       "ja_JP": "タテガミツキ亜種",
       "py": "lichiliejishou",
@@ -14776,6 +14783,7 @@
   "enemy_1305_mhslim": {
     "names": {
       "code": "hs05",
+      "en_US": "blazing originium slug",
       "fpy": "zrysc",
       "ja_JP": "灼熱オリジムシ",
       "py": "zhuoreyuanshichong",
@@ -14791,6 +14799,7 @@
   "enemy_1305_mhslim_2": {
     "names": {
       "code": "hs06",
+      "en_US": "pyric originium slug",
       "fpy": "cyysc",
       "ja_JP": "猛焔オリジムシ",
       "py": "chiyanyuanshichong",
@@ -14806,6 +14815,7 @@
   "enemy_1306_mhtrtl": {
     "names": {
       "code": "hs07",
+      "en_US": "chitotex clawbeast",
       "fpy": "yjzs",
       "ja_JP": "キッコウソウ",
       "py": "yingjiazhaoshou",
@@ -14821,6 +14831,7 @@
   "enemy_1306_mhtrtl_2": {
     "names": {
       "code": "hs08",
+      "en_US": "keratex clawbeast",
       "fpy": "gjzs",
       "ja_JP": "キッコウソウ亜種",
       "py": "gangjiazhaoshou",
@@ -14836,6 +14847,7 @@
   "enemy_1307_mhrhcr": {
     "names": {
       "code": "hs09",
+      "en_US": "basorobeast",
       "fpy": "ygs",
       "ja_JP": "イワカムリ",
       "py": "yanguanshou",
@@ -14851,6 +14863,7 @@
   "enemy_1307_mhrhcr_2": {
     "names": {
       "code": "hs10",
+      "en_US": "gravorobeast",
       "fpy": "jygs",
       "ja_JP": "イワカムリ亜種",
       "py": "jianyanguanshou",
@@ -14866,6 +14879,7 @@
   "enemy_1308_mheagl": {
     "names": {
       "code": "hs11",
+      "en_US": "serrant fowlbeast",
       "fpy": "fys",
       "ja_JP": "カゼツカミ",
       "py": "fengyushou",
@@ -14881,6 +14895,7 @@
   "enemy_1308_mheagl_2": {
     "names": {
       "code": "hs12",
+      "en_US": "daimoserrant fowlbeast",
       "fpy": "xmfys",
       "ja_JP": "カゼツカミ亜種",
       "py": "xunmengfengyushou",
@@ -14896,6 +14911,7 @@
   "enemy_1309_mhboar": {
     "names": {
       "code": "hs13",
+      "en_US": "direswine",
       "fpy": "xss",
       "ja_JP": "キバタケリ",
       "py": "xiongshishou",
@@ -14911,6 +14927,7 @@
   "enemy_1309_mhboar_2": {
     "names": {
       "code": "hs14",
+      "en_US": "raging direswine",
       "fpy": "kbxss",
       "ja_JP": "猛進キバタケリ",
       "py": "kuangbaoxiongshishou",
@@ -14926,6 +14943,7 @@
   "enemy_1310_mhprpn": {
     "names": {
       "code": "hs15",
+      "en_US": "haribeast",
       "fpy": "js",
       "ja_JP": "トゲアラシ",
       "py": "jishou",
@@ -14941,6 +14959,7 @@
   "enemy_1310_mhprpn_2": {
     "names": {
       "code": "hs16",
+      "en_US": "rainer haribeast",
       "fpy": "jjs",
       "ja_JP": "撃烈トゲアラシ",
       "py": "jianjishou",
@@ -14956,6 +14975,7 @@
   "enemy_1311_mhkryk": {
     "names": {
       "code": "hs17",
+      "en_US": "cautelotaur",
       "fpy": "js",
       "ja_JP": "アクドウジ",
       "py": "jiaoshou",
@@ -14971,6 +14991,7 @@
   "enemy_1311_mhkryk_2": {
     "names": {
       "code": "hs18",
+      "en_US": "kouaku cautelotaur",
       "fpy": "ejs",
       "ja_JP": "狡虐アクドウジ",
       "py": "ejiaoshou",
@@ -16318,6 +16339,7 @@
   "enemy_1537_mhrors": {
     "names": {
       "code": "6935",
+      "en_US": "rathalos",
       "fpy": "hl",
       "ja_JP": "リオレウス",
       "py": "huolong",
@@ -17735,6 +17757,7 @@
   "enemy_7001_blwzad": {
     "names": {
       "code": "sd1",
+      "en_US": "tribal shaman",
       "fpy": "bzwss",
       "ja_JP": "部族呪術師",
       "py": "buzuwushushi",
@@ -17750,6 +17773,7 @@
   "enemy_7001_blwzad_2": {
     "names": {
       "code": "sd2",
+      "en_US": "lord ameer shaman",
       "fpy": "wqwss",
       "ja_JP": "首長呪術師",
       "py": "wangqiuwushushi",
@@ -17765,6 +17789,7 @@
   "enemy_7002_veingd": {
     "names": {
       "code": "sd3",
+      "en_US": "vein guardian",
       "fpy": "kmsw",
       "ja_JP": "鉱脈の守護者",
       "py": "kuangmaishouwei",
@@ -17780,6 +17805,7 @@
   "enemy_7002_veingd_2": {
     "names": {
       "code": "sd4",
+      "en_US": "maddened vein guardian",
       "fpy": "khkmsw",
       "ja_JP": "狂える鉱脈の守護者",
       "py": "kuanghuakuangmaishouwei",
@@ -17795,6 +17821,7 @@
   "enemy_7003_catapt": {
     "names": {
       "code": "sd5",
+      "en_US": "'anything can be broken'",
       "fpy": "“dkyz”",
       "ja_JP": "「ブッコワセール」",
       "py": "“doukeyiza”",
@@ -17810,6 +17837,7 @@
   "enemy_7003_catapt_2": {
     "names": {
       "code": "sd6",
+      "en_US": "'everything should be smashed'",
       "fpy": "“dygz”",
       "ja_JP": "「ブッツブスーゾ」",
       "py": "“douyinggaiza”",
@@ -17825,6 +17853,7 @@
   "enemy_7004_xbdeer": {
     "names": {
       "code": "sd7",
+      "en_US": "leporibeast shorthorn",
       "fpy": "xjts",
       "ja_JP": "小角跳獣",
       "py": "xiaojiaotiaoshou",
@@ -17840,6 +17869,7 @@
   "enemy_7004_xbdeer_2": {
     "names": {
       "code": "sd8",
+      "en_US": "leporibeast longhorn",
       "fpy": "djts",
       "ja_JP": "大角跳獣",
       "py": "dajiaotiaoshou",
@@ -17855,6 +17885,7 @@
   "enemy_7005_xbbull": {
     "names": {
       "code": "sd9",
+      "en_US": "mossback beast",
       "fpy": "tss",
       "ja_JP": "苔生獣",
       "py": "taishengshou",
@@ -17870,6 +17901,7 @@
   "enemy_7005_xbbull_2": {
     "names": {
       "code": "sd10",
+      "en_US": "lush mossback beast",
       "fpy": "mmtss",
       "ja_JP": "生い茂る苔生獣",
       "py": "maomitaishengshou",
@@ -17885,6 +17917,7 @@
   "enemy_7006_xbcrab": {
     "names": {
       "code": "sd11",
+      "en_US": "cragpincer",
       "fpy": "ykx",
       "ja_JP": "ガンセキガニ",
       "py": "yankexie",
@@ -17900,6 +17933,7 @@
   "enemy_7006_xbcrab_2": {
     "names": {
       "code": "sd12",
+      "en_US": "crystalline cragpincer",
       "fpy": "jjykx",
       "ja_JP": "ケッショウガニ",
       "py": "jiejingyankexie",
@@ -17915,6 +17949,7 @@
   "enemy_7007_xbbird": {
     "names": {
       "code": "sd14",
+      "en_US": "sandfall crystalhoof",
       "fpy": "lsjts",
       "ja_JP": "金砂晶蹄獣",
       "py": "luoshajingtishou",
@@ -17930,6 +17965,7 @@
   "enemy_7008_wrkwrk": {
     "names": {
       "code": "sd15",
+      "en_US": "basic harvester",
       "fpy": "cjsxs",
       "ja_JP": "採取ロボ",
       "py": "caijishixisheng",
@@ -17945,6 +17981,7 @@
   "enemy_7009_mtmoun": {
     "names": {
       "code": "sd16",
+      "en_US": "'the immortal'",
       "fpy": "“bxzr”",
       "ja_JP": "「イモータル」",
       "py": "“buxiuzhiren”",
@@ -17960,6 +17997,7 @@
   "enemy_7010_bldrgn": {
     "names": {
       "code": "sd17",
+      "en_US": "great wingbeast",
       "fpy": "jys",
       "ja_JP": "巨翼獣",
       "py": "juyishou",
@@ -17975,6 +18013,7 @@
   "enemy_7011_paki": {
     "names": {
       "code": "sd18",
+      "en_US": "sargonian contract assassin",
       "fpy": "segqyck",
       "ja_JP": "サルゴンの雇われ暗殺者",
       "py": "saergongqiyuecike",
@@ -17990,6 +18029,7 @@
   "enemy_7012_wilder": {
     "names": {
       "code": "sd19",
+      "en_US": "dauntless linebreaker",
       "fpy": "wzcfg",
       "ja_JP": "首長軍切り込み隊長",
       "py": "wuzuchongfengguan",
@@ -18005,6 +18045,7 @@
   "enemy_7013_slwazd": {
     "names": {
       "code": "sd20",
+      "en_US": "'the ruinbringer'",
       "fpy": "“zhz”",
       "ja_JP": "「破滅を呼ぶ者」",
       "py": "“zhaohuizhe”",
@@ -18020,6 +18061,7 @@
   "enemy_7014_dva": {
     "names": {
       "code": "sd21",
+      "en_US": "'al-rafiq'",
       "fpy": "“dd”",
       "ja_JP": "「バディ」",
       "py": "“dadang”",
@@ -18035,6 +18077,7 @@
   "enemy_7015_xbcrab2": {
     "names": {
       "code": "sd13",
+      "en_US": "'consortium of pincers'",
       "fpy": "“qqsf”",
       "ja_JP": "「カニキング」",
       "py": "“qianqianshengfeng”",
@@ -19527,6 +19570,7 @@
   },
   "trap_099_mhflsb": {
     "names": {
+      "en_US": "flash grenade",
       "fpy": "xgsl",
       "ja_JP": "閃光爆弾",
       "py": "xuanguangshoulei",
@@ -19541,6 +19585,7 @@
   },
   "trap_100_mhlbmb": {
     "names": {
+      "en_US": "high-energy originium barrel bomb",
       "fpy": "gnysbt",
       "ja_JP": "源石タル爆弾",
       "py": "gaonengyuanshibaotong",
@@ -19555,6 +19600,7 @@
   },
   "trap_101_mhshok": {
     "names": {
+      "en_US": "high-voltage shock trap",
       "fpy": "gymcgl",
       "ja_JP": "高電圧シビレ罠",
       "py": "gaoyamaichongguilei",
@@ -19569,6 +19615,7 @@
   },
   "trap_102_mhwrbg": {
     "names": {
+      "en_US": "wiredrone",
       "fpy": "zkqywrj",
       "ja_JP": "滞空牽引ドローン",
       "py": "zhikongqianyinwurenji",
@@ -19767,6 +19814,7 @@
   },
   "trap_400_xbfarm": {
     "names": {
+      "en_US": "portable planting trough",
       "fpy": "bxszzc",
       "ja_JP": "栽培ポット",
       "py": "bianxieshizhongzhicao",
@@ -19781,6 +19829,7 @@
   },
   "trap_401_xbfato": {
     "names": {
+      "en_US": "basic gathering hub",
       "fpy": "cjsxz",
       "ja_JP": "採取ロボ用基地",
       "py": "caijishixizhan",
@@ -19795,6 +19844,7 @@
   },
   "trap_403_wfactory": {
     "names": {
+      "en_US": "crabbie pumpie",
       "fpy": "xxcsb",
       "ja_JP": "カニカニポンプ",
       "py": "xiexiechoushuibeng",
@@ -19809,6 +19859,7 @@
   },
   "trap_404_xbfortress": {
     "names": {
+      "en_US": "firm platform",
       "fpy": "jgzt",
       "ja_JP": "堅牢な台",
       "py": "jianguzhutai",
@@ -19823,6 +19874,7 @@
   },
   "trap_405_xbroadblock": {
     "names": {
+      "en_US": "urban style barrier",
       "fpy": "dsfbz",
       "ja_JP": "都市様式障壁",
       "py": "dushifengbizhang",
@@ -19837,6 +19889,7 @@
   },
   "trap_406_xboverwatch": {
     "names": {
+      "en_US": "monitoring tower",
       "fpy": "jkt",
       "ja_JP": "監視塔",
       "py": "jiankongta",
@@ -19851,6 +19904,7 @@
   },
   "trap_415_trademan": {
     "names": {
+      "en_US": "liaison",
       "fpy": "lly",
       "ja_JP": "連絡員",
       "py": "lianluoyuan",
@@ -19865,6 +19919,7 @@
   },
   "trap_417_shielder": {
     "names": {
+      "en_US": "remote shield generator",
       "fpy": "hdykq",
       "ja_JP": "シールドリモコン",
       "py": "hudunyaokongqi",
@@ -19879,6 +19934,7 @@
   },
   "trap_418_smokebomb": {
     "names": {
+      "en_US": "hypnotic censer",
       "fpy": "ammx",
       "ja_JP": "安眠のお香",
       "py": "anmianmixiang",
@@ -19893,6 +19949,7 @@
   },
   "trap_419_enhancer": {
     "names": {
+      "en_US": "refreshing potion",
       "fpy": "xsmy",
       "ja_JP": "覚醒の秘薬",
       "py": "xingshenmiyao",
@@ -19907,6 +19964,7 @@
   },
   "trap_420_umbrella": {
     "names": {
+      "en_US": "camouflage device",
       "fpy": "fzccnj",
       "ja_JP": "隠密支援用マシン",
       "py": "fanzhenchacangniji",
@@ -19921,6 +19979,7 @@
   },
   "trap_421_repairman": {
     "names": {
+      "en_US": "emergency repair vehicle",
       "fpy": "yjxlc",
       "ja_JP": "緊急修理車両",
       "py": "yingjixiuliche",
@@ -19935,6 +19994,7 @@
   },
   "trap_423_bondtw": {
     "names": {
+      "en_US": "trap net launcher",
       "fpy": "fwfst",
       "ja_JP": "捕縛網発射台",
       "py": "fuwangfashetai",
@@ -19949,6 +20009,7 @@
   },
   "trap_424_pushtw": {
     "names": {
+      "en_US": "gas jet thrower",
       "fpy": "pjq",
       "ja_JP": "噴射式強制移動機",
       "py": "penjuqi",
@@ -19963,6 +20024,7 @@
   },
   "trap_425_xbwall": {
     "names": {
+      "en_US": "fortification",
       "fpy": "fygs",
       "ja_JP": "防御施設",
       "py": "fangyugongshi",
@@ -19977,6 +20039,7 @@
   },
   "trap_426_xbmrcl": {
     "names": {
+      "en_US": "modular computing station",
       "fpy": "mkysss",
       "ja_JP": "モジュラー演算所",
       "py": "mokuaiyansuansheshi",
@@ -19991,6 +20054,7 @@
   },
   "trap_427_xbprsh": {
     "names": {
+      "en_US": "resource planning station",
       "fpy": "zyghz",
       "ja_JP": "資源計画所",
       "py": "ziyuanguihuazhan",
@@ -20005,6 +20069,7 @@
   },
   "trap_428_xblrsh": {
     "names": {
+      "en_US": "combat readiness station",
       "fpy": "bqjhz",
       "ja_JP": "戦闘計画所",
       "py": "beiqinjihuozhan",
@@ -20019,6 +20084,7 @@
   },
   "trap_429_xbescp": {
     "names": {
+      "en_US": "transregional communication station",
       "fpy": "kdktxz",
       "ja_JP": "越境通信所",
       "py": "kuadikuaitongxunzhan",
@@ -20033,6 +20099,7 @@
   },
   "trap_431_xbgldn": {
     "names": {
+      "en_US": "mint",
       "fpy": "yzt",
       "ja_JP": "金床",
       "py": "yezhutai",
@@ -20047,6 +20114,7 @@
   },
   "trap_438_xbfato2": {
     "names": {
+      "en_US": "advanced gathering hub",
       "fpy": "cjzyz",
       "ja_JP": "スーパー採取ロボ用基地",
       "py": "caijizhuanyuanzhan",
@@ -20061,6 +20129,7 @@
   },
   "trap_439_xbfato3": {
     "names": {
+      "en_US": "executive gathering hub",
       "fpy": "cjzrz",
       "ja_JP": "ハイパー採取ロボ用基地",
       "py": "caijizhurenzhan",
