@@ -325,6 +325,7 @@
     "names": {
       "code": "mh02",
       "fpy": "qlryd",
+      "ja_JP": "キリンrヤトウ",
       "py": "qilinryedao",
       "zh_CN": "麒麟r夜刀"
     },
@@ -359,6 +360,7 @@
     "names": {
       "code": "mh03",
       "fpy": "hlshj",
+      "ja_JP": "レウスsノイルホーン",
       "py": "huolongsheijiao",
       "zh_CN": "火龙s黑角"
     },
@@ -4178,6 +4180,7 @@
     "names": {
       "code": "mh01",
       "fpy": "tldldct",
+      "ja_JP": "テラ大陸調査団",
       "py": "tailadaludiaochatuan",
       "zh_CN": "泰拉大陆调查团"
     },
@@ -14714,6 +14717,7 @@
     "names": {
       "code": "hs01",
       "fpy": "js",
+      "ja_JP": "ツノシゲミ",
       "py": "jiaoshou",
       "zh_CN": "角兽"
     },
@@ -14728,6 +14732,7 @@
     "names": {
       "code": "hs02",
       "fpy": "kjs",
+      "ja_JP": "ツノシゲミ亜種",
       "py": "kangjiaoshou",
       "zh_CN": "亢角兽"
     },
@@ -14742,6 +14747,7 @@
     "names": {
       "code": "hs03",
       "fpy": "ljs",
+      "ja_JP": "タテガミツキ",
       "py": "liejishou",
       "zh_CN": "鬣犄兽"
     },
@@ -14756,6 +14762,7 @@
     "names": {
       "code": "hs04",
       "fpy": "lcljs",
+      "ja_JP": "タテガミツキ亜種",
       "py": "lichiliejishou",
       "zh_CN": "利齿鬣犄兽"
     },
@@ -14770,6 +14777,7 @@
     "names": {
       "code": "hs05",
       "fpy": "zrysc",
+      "ja_JP": "灼熱オリジムシ",
       "py": "zhuoreyuanshichong",
       "zh_CN": "灼热源石虫"
     },
@@ -14784,6 +14792,7 @@
     "names": {
       "code": "hs06",
       "fpy": "cyysc",
+      "ja_JP": "猛焔オリジムシ",
       "py": "chiyanyuanshichong",
       "zh_CN": "炽焰源石虫"
     },
@@ -14798,6 +14807,7 @@
     "names": {
       "code": "hs07",
       "fpy": "yjzs",
+      "ja_JP": "キッコウソウ",
       "py": "yingjiazhaoshou",
       "zh_CN": "硬甲爪兽"
     },
@@ -14812,6 +14822,7 @@
     "names": {
       "code": "hs08",
       "fpy": "gjzs",
+      "ja_JP": "キッコウソウ亜種",
       "py": "gangjiazhaoshou",
       "zh_CN": "刚甲爪兽"
     },
@@ -14826,6 +14837,7 @@
     "names": {
       "code": "hs09",
       "fpy": "ygs",
+      "ja_JP": "イワカムリ",
       "py": "yanguanshou",
       "zh_CN": "岩冠兽"
     },
@@ -14840,6 +14852,7 @@
     "names": {
       "code": "hs10",
       "fpy": "jygs",
+      "ja_JP": "イワカムリ亜種",
       "py": "jianyanguanshou",
       "zh_CN": "坚岩冠兽"
     },
@@ -14854,6 +14867,7 @@
     "names": {
       "code": "hs11",
       "fpy": "fys",
+      "ja_JP": "カゼツカミ",
       "py": "fengyushou",
       "zh_CN": "锋羽兽"
     },
@@ -14868,6 +14882,7 @@
     "names": {
       "code": "hs12",
       "fpy": "xmfys",
+      "ja_JP": "カゼツカミ亜種",
       "py": "xunmengfengyushou",
       "zh_CN": "迅猛锋羽兽"
     },
@@ -14882,6 +14897,7 @@
     "names": {
       "code": "hs13",
       "fpy": "xss",
+      "ja_JP": "キバタケリ",
       "py": "xiongshishou",
       "zh_CN": "凶豕兽"
     },
@@ -14896,6 +14912,7 @@
     "names": {
       "code": "hs14",
       "fpy": "kbxss",
+      "ja_JP": "猛進キバタケリ",
       "py": "kuangbaoxiongshishou",
       "zh_CN": "狂暴凶豕兽"
     },
@@ -14910,6 +14927,7 @@
     "names": {
       "code": "hs15",
       "fpy": "js",
+      "ja_JP": "トゲアラシ",
       "py": "jishou",
       "zh_CN": "棘兽"
     },
@@ -14924,6 +14942,7 @@
     "names": {
       "code": "hs16",
       "fpy": "jjs",
+      "ja_JP": "撃烈トゲアラシ",
       "py": "jianjishou",
       "zh_CN": "箭棘兽"
     },
@@ -14938,6 +14957,7 @@
     "names": {
       "code": "hs17",
       "fpy": "js",
+      "ja_JP": "アクドウジ",
       "py": "jiaoshou",
       "zh_CN": "狡兽"
     },
@@ -14952,6 +14972,7 @@
     "names": {
       "code": "hs18",
       "fpy": "ejs",
+      "ja_JP": "狡虐アクドウジ",
       "py": "ejiaoshou",
       "zh_CN": "恶狡兽"
     },
@@ -16298,6 +16319,7 @@
     "names": {
       "code": "6935",
       "fpy": "hl",
+      "ja_JP": "リオレウス",
       "py": "huolong",
       "zh_CN": "火龙"
     },
@@ -17714,6 +17736,7 @@
     "names": {
       "code": "sd1",
       "fpy": "bzwss",
+      "ja_JP": "部族呪術師",
       "py": "buzuwushushi",
       "zh_CN": "部族巫术师"
     },
@@ -17728,6 +17751,7 @@
     "names": {
       "code": "sd2",
       "fpy": "wqwss",
+      "ja_JP": "首長呪術師",
       "py": "wangqiuwushushi",
       "zh_CN": "王酋巫术师"
     },
@@ -17742,6 +17766,7 @@
     "names": {
       "code": "sd3",
       "fpy": "kmsw",
+      "ja_JP": "鉱脈の守護者",
       "py": "kuangmaishouwei",
       "zh_CN": "矿脉守卫"
     },
@@ -17756,6 +17781,7 @@
     "names": {
       "code": "sd4",
       "fpy": "khkmsw",
+      "ja_JP": "狂える鉱脈の守護者",
       "py": "kuanghuakuangmaishouwei",
       "zh_CN": "狂化矿脉守卫"
     },
@@ -17770,6 +17796,7 @@
     "names": {
       "code": "sd5",
       "fpy": "“dkyz”",
+      "ja_JP": "「ブッコワセール」",
       "py": "“doukeyiza”",
       "zh_CN": "“都可以砸”"
     },
@@ -17784,6 +17811,7 @@
     "names": {
       "code": "sd6",
       "fpy": "“dygz”",
+      "ja_JP": "「ブッツブスーゾ」",
       "py": "“douyinggaiza”",
       "zh_CN": "“都应该砸”"
     },
@@ -17798,6 +17826,7 @@
     "names": {
       "code": "sd7",
       "fpy": "xjts",
+      "ja_JP": "小角跳獣",
       "py": "xiaojiaotiaoshou",
       "zh_CN": "小角跳兽"
     },
@@ -17812,6 +17841,7 @@
     "names": {
       "code": "sd8",
       "fpy": "djts",
+      "ja_JP": "大角跳獣",
       "py": "dajiaotiaoshou",
       "zh_CN": "大角跳兽"
     },
@@ -17826,6 +17856,7 @@
     "names": {
       "code": "sd9",
       "fpy": "tss",
+      "ja_JP": "苔生獣",
       "py": "taishengshou",
       "zh_CN": "苔生兽"
     },
@@ -17840,6 +17871,7 @@
     "names": {
       "code": "sd10",
       "fpy": "mmtss",
+      "ja_JP": "生い茂る苔生獣",
       "py": "maomitaishengshou",
       "zh_CN": "茂密苔生兽"
     },
@@ -17854,6 +17886,7 @@
     "names": {
       "code": "sd11",
       "fpy": "ykx",
+      "ja_JP": "ガンセキガニ",
       "py": "yankexie",
       "zh_CN": "岩壳蟹"
     },
@@ -17868,6 +17901,7 @@
     "names": {
       "code": "sd12",
       "fpy": "jjykx",
+      "ja_JP": "ケッショウガニ",
       "py": "jiejingyankexie",
       "zh_CN": "结晶岩壳蟹"
     },
@@ -17882,6 +17916,7 @@
     "names": {
       "code": "sd14",
       "fpy": "lsjts",
+      "ja_JP": "金砂晶蹄獣",
       "py": "luoshajingtishou",
       "zh_CN": "落沙晶蹄兽"
     },
@@ -17896,6 +17931,7 @@
     "names": {
       "code": "sd15",
       "fpy": "cjsxs",
+      "ja_JP": "採取ロボ",
       "py": "caijishixisheng",
       "zh_CN": "采集实习生"
     },
@@ -17910,6 +17946,7 @@
     "names": {
       "code": "sd16",
       "fpy": "“bxzr”",
+      "ja_JP": "「イモータル」",
       "py": "“buxiuzhiren”",
       "zh_CN": "“不朽之人”"
     },
@@ -17924,6 +17961,7 @@
     "names": {
       "code": "sd17",
       "fpy": "jys",
+      "ja_JP": "巨翼獣",
       "py": "juyishou",
       "zh_CN": "巨翼兽"
     },
@@ -17938,6 +17976,7 @@
     "names": {
       "code": "sd18",
       "fpy": "segqyck",
+      "ja_JP": "サルゴンの雇われ暗殺者",
       "py": "saergongqiyuecike",
       "zh_CN": "萨尔贡契约刺客"
     },
@@ -17952,6 +17991,7 @@
     "names": {
       "code": "sd19",
       "fpy": "wzcfg",
+      "ja_JP": "首長軍切り込み隊長",
       "py": "wuzuchongfengguan",
       "zh_CN": "无阻冲锋官"
     },
@@ -17966,6 +18006,7 @@
     "names": {
       "code": "sd20",
       "fpy": "“zhz”",
+      "ja_JP": "「破滅を呼ぶ者」",
       "py": "“zhaohuizhe”",
       "zh_CN": "“召毁者”"
     },
@@ -17980,6 +18021,7 @@
     "names": {
       "code": "sd21",
       "fpy": "“dd”",
+      "ja_JP": "「バディ」",
       "py": "“dadang”",
       "zh_CN": "“搭档”"
     },
@@ -17994,6 +18036,7 @@
     "names": {
       "code": "sd13",
       "fpy": "“qqsf”",
+      "ja_JP": "「カニキング」",
       "py": "“qianqianshengfeng”",
       "zh_CN": "“钳钳生风”"
     },
@@ -19485,6 +19528,7 @@
   "trap_099_mhflsb": {
     "names": {
       "fpy": "xgsl",
+      "ja_JP": "閃光爆弾",
       "py": "xuanguangshoulei",
       "zh_CN": "眩光手雷"
     },
@@ -19498,6 +19542,7 @@
   "trap_100_mhlbmb": {
     "names": {
       "fpy": "gnysbt",
+      "ja_JP": "源石タル爆弾",
       "py": "gaonengyuanshibaotong",
       "zh_CN": "高能源石爆桶"
     },
@@ -19511,6 +19556,7 @@
   "trap_101_mhshok": {
     "names": {
       "fpy": "gymcgl",
+      "ja_JP": "高電圧シビレ罠",
       "py": "gaoyamaichongguilei",
       "zh_CN": "高压脉冲诡雷"
     },
@@ -19524,6 +19570,7 @@
   "trap_102_mhwrbg": {
     "names": {
       "fpy": "zkqywrj",
+      "ja_JP": "滞空牽引ドローン",
       "py": "zhikongqianyinwurenji",
       "zh_CN": "滞空牵引无人机"
     },
@@ -19721,6 +19768,7 @@
   "trap_400_xbfarm": {
     "names": {
       "fpy": "bxszzc",
+      "ja_JP": "栽培ポット",
       "py": "bianxieshizhongzhicao",
       "zh_CN": "便携式种植槽"
     },
@@ -19734,6 +19782,7 @@
   "trap_401_xbfato": {
     "names": {
       "fpy": "cjsxz",
+      "ja_JP": "採取ロボ用基地",
       "py": "caijishixizhan",
       "zh_CN": "采集实习站"
     },
@@ -19747,6 +19796,7 @@
   "trap_403_wfactory": {
     "names": {
       "fpy": "xxcsb",
+      "ja_JP": "カニカニポンプ",
       "py": "xiexiechoushuibeng",
       "zh_CN": "蟹蟹抽水泵"
     },
@@ -19760,6 +19810,7 @@
   "trap_404_xbfortress": {
     "names": {
       "fpy": "jgzt",
+      "ja_JP": "堅牢な台",
       "py": "jianguzhutai",
       "zh_CN": "坚固筑台"
     },
@@ -19773,6 +19824,7 @@
   "trap_405_xbroadblock": {
     "names": {
       "fpy": "dsfbz",
+      "ja_JP": "都市様式障壁",
       "py": "dushifengbizhang",
       "zh_CN": "都市风壁障"
     },
@@ -19786,6 +19838,7 @@
   "trap_406_xboverwatch": {
     "names": {
       "fpy": "jkt",
+      "ja_JP": "監視塔",
       "py": "jiankongta",
       "zh_CN": "监控塔"
     },
@@ -19799,6 +19852,7 @@
   "trap_415_trademan": {
     "names": {
       "fpy": "lly",
+      "ja_JP": "連絡員",
       "py": "lianluoyuan",
       "zh_CN": "联络员"
     },
@@ -19812,6 +19866,7 @@
   "trap_417_shielder": {
     "names": {
       "fpy": "hdykq",
+      "ja_JP": "シールドリモコン",
       "py": "hudunyaokongqi",
       "zh_CN": "护盾遥控器"
     },
@@ -19825,6 +19880,7 @@
   "trap_418_smokebomb": {
     "names": {
       "fpy": "ammx",
+      "ja_JP": "安眠のお香",
       "py": "anmianmixiang",
       "zh_CN": "安眠迷香"
     },
@@ -19838,6 +19894,7 @@
   "trap_419_enhancer": {
     "names": {
       "fpy": "xsmy",
+      "ja_JP": "覚醒の秘薬",
       "py": "xingshenmiyao",
       "zh_CN": "醒神秘药"
     },
@@ -19851,6 +19908,7 @@
   "trap_420_umbrella": {
     "names": {
       "fpy": "fzccnj",
+      "ja_JP": "隠密支援用マシン",
       "py": "fanzhenchacangniji",
       "zh_CN": "反侦察藏匿机"
     },
@@ -19864,6 +19922,7 @@
   "trap_421_repairman": {
     "names": {
       "fpy": "yjxlc",
+      "ja_JP": "緊急修理車両",
       "py": "yingjixiuliche",
       "zh_CN": "应急修理车"
     },
@@ -19877,6 +19936,7 @@
   "trap_423_bondtw": {
     "names": {
       "fpy": "fwfst",
+      "ja_JP": "捕縛網発射台",
       "py": "fuwangfashetai",
       "zh_CN": "缚网发射台"
     },
@@ -19890,6 +19950,7 @@
   "trap_424_pushtw": {
     "names": {
       "fpy": "pjq",
+      "ja_JP": "噴射式強制移動機",
       "py": "penjuqi",
       "zh_CN": "喷拒器"
     },
@@ -19903,6 +19964,7 @@
   "trap_425_xbwall": {
     "names": {
       "fpy": "fygs",
+      "ja_JP": "防御施設",
       "py": "fangyugongshi",
       "zh_CN": "防御工事"
     },
@@ -19916,6 +19978,7 @@
   "trap_426_xbmrcl": {
     "names": {
       "fpy": "mkysss",
+      "ja_JP": "モジュラー演算所",
       "py": "mokuaiyansuansheshi",
       "zh_CN": "模块演算设施"
     },
@@ -19929,6 +19992,7 @@
   "trap_427_xbprsh": {
     "names": {
       "fpy": "zyghz",
+      "ja_JP": "資源計画所",
       "py": "ziyuanguihuazhan",
       "zh_CN": "资源规划站"
     },
@@ -19942,6 +20006,7 @@
   "trap_428_xblrsh": {
     "names": {
       "fpy": "bqjhz",
+      "ja_JP": "戦闘計画所",
       "py": "beiqinjihuozhan",
       "zh_CN": "备勤激活站"
     },
@@ -19955,6 +20020,7 @@
   "trap_429_xbescp": {
     "names": {
       "fpy": "kdktxz",
+      "ja_JP": "越境通信所",
       "py": "kuadikuaitongxunzhan",
       "zh_CN": "跨地块通讯站"
     },
@@ -19968,6 +20034,7 @@
   "trap_431_xbgldn": {
     "names": {
       "fpy": "yzt",
+      "ja_JP": "金床",
       "py": "yezhutai",
       "zh_CN": "冶铸台"
     },
@@ -19981,6 +20048,7 @@
   "trap_438_xbfato2": {
     "names": {
       "fpy": "cjzyz",
+      "ja_JP": "スーパー採取ロボ用基地",
       "py": "caijizhuanyuanzhan",
       "zh_CN": "采集专员站"
     },
@@ -19994,6 +20062,7 @@
   "trap_439_xbfato3": {
     "names": {
       "fpy": "cjzrz",
+      "ja_JP": "ハイパー採取ロボ用基地",
       "py": "caijizhurenzhan",
       "zh_CN": "采集主任站"
     },
