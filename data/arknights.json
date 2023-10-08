@@ -2739,7 +2739,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_witch#4"
     ],
     "tags": [
       "operator"
@@ -3983,7 +3984,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_witch#4"
     ],
     "tags": [
       "operator"
@@ -4281,6 +4283,21 @@
       "operator"
     ]
   },
+  "char_4088_hodrer": {
+    "names": {
+      "code": "b216",
+      "fpy": "hdl",
+      "py": "hedelei",
+      "zh_CN": "赫德雷"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
   "char_4091_ulika": {
     "names": {
       "code": "u007",
@@ -4360,6 +4377,36 @@
       "fpy": "ct",
       "py": "cangtai",
       "zh_CN": "苍苔"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4107_vrdant": {
+    "names": {
+      "code": "vc25",
+      "fpy": "wd",
+      "py": "weidi",
+      "zh_CN": "维荻"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_4110_delphn": {
+    "names": {
+      "code": "vc23",
+      "fpy": "dfe",
+      "py": "daifeien",
+      "zh_CN": "戴菲恩"
     },
     "avatars": [
       "",
@@ -4595,7 +4642,8 @@
     "avatars": [
       "",
       "_2",
-      "_nian#4"
+      "_nian#4",
+      "_witch#4"
     ],
     "tags": [
       "operator"
@@ -5073,7 +5121,8 @@
     "avatars": [
       "",
       "_2",
-      "_epoque#17"
+      "_epoque#17",
+      "_witch#4"
     ],
     "tags": [
       "operator"
@@ -5087,6 +5136,21 @@
       "ja_JP": "ファイヤーホイッスル",
       "py": "huoshao",
       "zh_CN": "火哨"
+    },
+    "avatars": [
+      "",
+      "_2"
+    ],
+    "tags": [
+      "operator"
+    ]
+  },
+  "char_494_vendla": {
+    "names": {
+      "code": "vc24",
+      "fpy": "cm",
+      "py": "cimei",
+      "zh_CN": "刺玫"
     },
     "avatars": [
       "",
@@ -18565,7 +18629,8 @@
       "zh_CN": "共振装置"
     },
     "avatars": [
-      ""
+      "",
+      "_witch#4"
     ],
     "tags": [
       "token"
@@ -19808,6 +19873,45 @@
       "fpy": "frpk",
       "py": "feirepenkou",
       "zh_CN": "废热喷口"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_125_bonore": {
+    "names": {
+      "fpy": "hxjt",
+      "py": "huanxuejitan",
+      "zh_CN": "唤血祭坛"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_126_outset": {
+    "names": {
+      "fpy": "zdzhd",
+      "py": "zhadanzaihedian",
+      "zh_CN": "炸弹载荷点"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_127_bldore": {
+    "names": {
+      "fpy": "lxwz",
+      "py": "lixuewangzuo",
+      "zh_CN": "沥血王座"
     },
     "avatars": [
       ""
