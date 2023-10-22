@@ -4572,7 +4572,8 @@
     },
     "avatars": [
       "",
-      "_2"
+      "_2",
+      "_epoque#27"
     ],
     "tags": [
       "operator"
@@ -18709,7 +18710,8 @@
       "zh_CN": "狼群"
     },
     "avatars": [
-      ""
+      "",
+      "_epoque#27"
     ],
     "tags": [
       "token"
@@ -19912,6 +19914,71 @@
       "fpy": "lxwz",
       "py": "lixuewangzuo",
       "zh_CN": "沥血王座"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_128_toolore": {
+    "names": {
+      "fpy": "jtsld",
+      "py": "jitanshileida",
+      "zh_CN": "祭坛式雷达"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_129_tooltower": {
+    "names": {
+      "fpy": "r-45bxs“lsj”",
+      "py": "r-45bianxieshi“liushengji”",
+      "zh_CN": "r-45便携式“留声机”"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_130_tooltree": {
+    "names": {
+      "fpy": "jgjx",
+      "py": "jingguanjuxun",
+      "zh_CN": "景观巨蕈"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_132_toolinvert": {
+    "names": {
+      "fpy": "“etj”xsjsjzz",
+      "py": "“ertijiao”xingshujushoujizhuangzhi",
+      "zh_CN": "“二踢脚”型数据收集装置"
+    },
+    "avatars": [
+      ""
+    ],
+    "tags": [
+      "trap"
+    ]
+  },
+  "trap_133_toolgarage": {
+    "names": {
+      "fpy": "kcyzzc",
+      "py": "kanchayongzizouche",
+      "zh_CN": "勘察用自走车"
     },
     "avatars": [
       ""
