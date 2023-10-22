@@ -5,6 +5,7 @@ from urllib.parse import quote
 from pypinyin import lazy_pinyin, Style
 
 from util.resource import Resource, Character
+from util.cc import s2t
 
 
 class ArknightsCharacter(Character):
@@ -34,6 +35,7 @@ class ArknightsResource(Resource):
             char = self.char(char_id)
             char.add_name(lang, data['name'])
             if lang == 'zh_CN':
+                char.add_name('zh_TW', s2t(data['name']))
                 char.add_name('py', ''.join(lazy_pinyin(data['name'])))
                 char.add_name('fpy', ''.join(lazy_pinyin(data['name'], style=Style.FIRST_LETTER)))
                 if data['profession'] == 'TRAP':
@@ -48,14 +50,17 @@ class ArknightsResource(Resource):
         res: dict = await self.json(self.enemy_data_url % lang, 'enemy_data')
         if 'enemyData' in res:
             res = res['enemyData']
+
         print('get arknights %s enemy data' % lang)
         for enemy_id, data in res.items():
             char = self.enemy(enemy_id)
             char.add_name(lang, data['name'])
+
             if lang == 'zh_CN':
                 char.add_name('py', ''.join(lazy_pinyin(data['name'])))
                 char.add_name('fpy', ''.join(lazy_pinyin(data['name'], style=Style.FIRST_LETTER)))
                 char.add_name('code', data['enemyIndex'])
+                char.add_name('zh_TW', s2t(data['name']))
                 char.add_avatar(enemy_id)
                 char.add_tag('enemy')
 
