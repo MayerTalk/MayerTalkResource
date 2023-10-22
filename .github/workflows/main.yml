@@ -26,7 +26,7 @@ jobs:
           python -m venv venv
           source venv/bin/activate
           pip install --upgrade pip wheel setuptools
-          pip install aiohttp pillow pypinyin
+          pip install aiohttp pillow pypinyin opencc
           
       - name: Run
         env:
