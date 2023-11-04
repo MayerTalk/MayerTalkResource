@@ -13853,22 +13853,6 @@
       "enemy"
     ]
   ],
-  "enemy_1265_durcar": [
-    [
-      "自走车",
-      "自走車",
-      "zizouche",
-      "zzc",
-      "Self-Driving Cart",
-      "セルカー"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1266_nhapos": [
     [
       "食腐使徒",
@@ -15261,22 +15245,6 @@
       "enemy"
     ]
   ],
-  "enemy_1312_ymillu": [
-    [
-      "“无念之冬”",
-      "“無念之冬”",
-      "“wunianzhidong”",
-      "“wnzd”",
-      "'Winter's Void'",
-      "「無我の冬」"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1313_wdfmr": [
     [
       "诺伯特平民",
@@ -15901,22 +15869,6 @@
       "enemy"
     ]
   ],
-  "enemy_1334_ristar": [
-    [
-      "行星碎屑",
-      "行星碎屑",
-      "xingxingsuixie",
-      "xxsx",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1335_bldrat": [
     [
       "啮齿兽",
@@ -16147,1046 +16099,6 @@
       "墮天使福爾圖娜",
       "duotianshifuertuna",
       "dtsfetn",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1344_ddlamb": [
-    [
-      "温泉“淘气包”",
-      "溫泉“淘氣包”",
-      "wenquan“taoqibao”",
-      "wq“tqb”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1344_ddlamb_2": [
-    [
-      "温泉“乐淘淘气包”",
-      "溫泉“樂淘淘氣包”",
-      "wenquan“letaotaoqibao”",
-      "wq“lttqb”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1345_tplamb": [
-    [
-      "风情街“操盘手”",
-      "風情街“操盤手”",
-      "fengqingjie“caopanshou”",
-      "fqj“cps”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1345_tplamb_2": [
-    [
-      "风情街“健美操盘手”",
-      "風情街“健美操盤手”",
-      "fengqingjie“jianmeicaopanshou”",
-      "fqj“jmcps”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1346_ynshp": [
-    [
-      "温泉“流浪汉”",
-      "溫泉“流浪漢”",
-      "wenquan“liulanghan”",
-      "wq“llh”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1346_ynshp_2": [
-    [
-      "温泉“泥石流浪汉”",
-      "溫泉“泥石流浪漢”",
-      "wenquan“nishiliulanghan”",
-      "wq“nsllh”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1347_fyshp": [
-    [
-      "风情街“飞空员”",
-      "風情街“飛空員”",
-      "fengqingjie“feikongyuan”",
-      "fqj“fky”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1347_fyshp_2": [
-    [
-      "风情街“满天飞空员”",
-      "風情街“滿天飛空員”",
-      "fengqingjie“mantianfeikongyuan”",
-      "fqj“mtfky”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1348_rllamb": [
-    [
-      "城市“风行者”",
-      "城市“風行者”",
-      "chengshi“fengxingzhe”",
-      "cs“fxz”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1348_rllamb_2": [
-    [
-      "城市“龙卷风行者”",
-      "城市“龍捲風行者”",
-      "chengshi“longjuanfengxingzhe”",
-      "cs“ljfxz”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1349_rckshp": [
-    [
-      "“大个子”",
-      "“大個子”",
-      "“dagezi”",
-      "“dgz”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1349_rckshp_2": [
-    [
-      "“大哥大个子”",
-      "“大哥大個子”",
-      "“dagedagezi”",
-      "“dgdgz”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1350_mgcshp": [
-    [
-      "风情街“星术师”",
-      "風情街“星術師”",
-      "fengqingjie“xingshushi”",
-      "fqj“xss”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1350_mgcshp_2": [
-    [
-      "风情街“超新星术师”",
-      "風情街“超新星術師”",
-      "fengqingjie“chaoxinxingshushi”",
-      "fqj“cxxss”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1351_yhhshp": [
-    [
-      "“好朋友”",
-      "“好朋友”",
-      "“haopengyou”",
-      "“hpy”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1352_eslime": [
-    [
-      "辐能源石虫",
-      "輻能源石蟲",
-      "funengyuanshichong",
-      "fnysc",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1352_eslime_2": [
-    [
-      "辐能源石虫·α",
-      "輻能源石蟲·α",
-      "funengyuanshichong·α",
-      "fnysc·α",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1353_esabr": [
-    [
-      "匪帮混混",
-      "匪幫混混",
-      "feibanghunhun",
-      "fbhh",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1353_esabr_2": [
-    [
-      "匪帮混混头目",
-      "匪幫混混頭目",
-      "feibanghunhuntoumu",
-      "fbhhtm",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1354_eghost": [
-    [
-      "匪帮窃贼",
-      "匪幫竊賊",
-      "feibangqiezei",
-      "fbqz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1354_eghost_2": [
-    [
-      "匪帮窃贼头目",
-      "匪幫竊賊頭目",
-      "feibangqiezeitoumu",
-      "fbqztm",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1355_mrfly": [
-    [
-      "护障",
-      "護障",
-      "huzhang",
-      "hz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1355_mrfly_2": [
-    [
-      "护障·P",
-      "護障·P",
-      "huzhang·P",
-      "hz·P",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1356_egun": [
-    [
-      "匪帮射手",
-      "匪幫射手",
-      "feibangsheshou",
-      "fbss",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1356_egun_2": [
-    [
-      "匪帮射手头目",
-      "匪幫射手頭目",
-      "feibangsheshoutoumu",
-      "fbsstm",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1357_erob": [
-    [
-      "匪帮斧手",
-      "匪幫斧手",
-      "feibangfushou",
-      "fbfs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1357_erob_2": [
-    [
-      "匪帮斧手头目",
-      "匪幫斧手頭目",
-      "feibangfushoutoumu",
-      "fbfstm",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1358_esheld": [
-    [
-      "匪帮防御者",
-      "匪幫防禦者",
-      "feibangfangyuzhe",
-      "fbfyz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1358_esheld_2": [
-    [
-      "匪帮防御者头目",
-      "匪幫防禦者頭目",
-      "feibangfangyuzhetoumu",
-      "fbfyztm",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1359_ekulsr": [
-    [
-      "匪帮轰击者",
-      "匪幫轟擊者",
-      "feibanghongjizhe",
-      "fbhjz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1359_ekulsr_2": [
-    [
-      "匪帮轰击者头目",
-      "匪幫轟擊者頭目",
-      "feibanghongjizhetoumu",
-      "fbhjztm",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1360_dfello": [
-    [
-      "新生血裔",
-      "新生血裔",
-      "xinshengxueyi",
-      "xsxy",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1361_dthrow": [
-    [
-      "萨卡兹子裔轰击者",
-      "薩卡茲子裔轟擊者",
-      "sakaziziyihongjizhe",
-      "skzzyhjz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1361_dthrow_2": [
-    [
-      "萨卡兹子裔毁击者",
-      "薩卡茲子裔毀擊者",
-      "sakaziziyihuijizhe",
-      "skzzyhjz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1362_dfat": [
-    [
-      "萨卡兹子裔责罚者",
-      "薩卡茲子裔責罰者",
-      "sakaziziyizefazhe",
-      "skzzyzfz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1362_dfat_2": [
-    [
-      "萨卡兹子裔惩戒者",
-      "薩卡茲子裔懲戒者",
-      "sakaziziyichengjiezhe",
-      "skzzycjz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1363_spnshd": [
-    [
-      "萨卡兹骸骨卫士",
-      "薩卡茲骸骨衛士",
-      "sakazihaiguweishi",
-      "skzhgws",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1363_spnshd_2": [
-    [
-      "萨卡兹骸骨卫士长",
-      "薩卡茲骸骨衛士長",
-      "sakazihaiguweishizhang",
-      "skzhgwsz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1364_spnaxe": [
-    [
-      "萨卡兹骸骨鞭笞者",
-      "薩卡茲骸骨鞭笞者",
-      "sakazihaigubianchizhe",
-      "skzhgbcz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1364_spnaxe_2": [
-    [
-      "萨卡兹骸骨拷打者",
-      "薩卡茲骸骨拷打者",
-      "sakazihaigukaodazhe",
-      "skzhgkdz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1365_spnwiz": [
-    [
-      "萨卡兹骸骨漂泊术师",
-      "薩卡茲骸骨漂泊術師",
-      "sakazihaigupiaoboshushi",
-      "skzhgpbss",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1365_spnwiz_2": [
-    [
-      "萨卡兹骸骨漂泊术师长\n",
-      "薩卡茲骸骨漂泊術師長\n",
-      "sakazihaigupiaoboshushizhang\n",
-      "skzhgpbssz\n",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1366_dcolle": [
-    [
-      "萨卡兹敛血行者",
-      "薩卡茲斂血行者",
-      "sakazilianxuexingzhe",
-      "skzlxxz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1366_dcolle_2": [
-    [
-      "萨卡兹萃血行者",
-      "薩卡茲萃血行者",
-      "sakazicuixuexingzhe",
-      "skzcxxz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1367_dseed": [
-    [
-      "血珀",
-      "血珀",
-      "xuepo",
-      "xp",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1368_spilot": [
-    [
-      "指挥官厄尔苏拉",
-      "指揮官厄爾蘇拉",
-      "zhihuiguaneersula",
-      "zhgeesl",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1369_bmbcar1": [
-    [
-      "反巫术变位炸弹",
-      "反巫術變位炸彈",
-      "fanwushubianweizhadan",
-      "fwsbwzd",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1371_ltnflu": [
-    [
-      "残党乐团长笛手",
-      "殘黨樂團長笛手",
-      "candangyuetuanchangdishou",
-      "cdytcds",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1371_ltnflu_2": [
-    [
-      "巫王乐团长笛手",
-      "巫王樂團長笛手",
-      "wuwangyuetuanchangdishou",
-      "wwytcds",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1372_ltntpt": [
-    [
-      "残党乐团小号手",
-      "殘黨樂團小號手",
-      "candangyuetuanxiaohaoshou",
-      "cdytxhs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1372_ltntpt_2": [
-    [
-      "巫王乐团小号手",
-      "巫王樂團小號手",
-      "wuwangyuetuanxiaohaoshou",
-      "wwytxhs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1373_ltnhor": [
-    [
-      "残党乐团圆号手",
-      "殘黨樂團圓號手",
-      "candangyuetuanyuanhaoshou",
-      "cdytyhs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1373_ltnhor_2": [
-    [
-      "巫王乐团圆号手",
-      "巫王樂團圓號手",
-      "wuwangyuetuanyuanhaoshou",
-      "wwytyhs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1374_ltnhap": [
-    [
-      "残党乐团颂诗者",
-      "殘黨樂團頌詩者",
-      "candangyuetuansongshizhe",
-      "cdytssz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1374_ltnhap_2": [
-    [
-      "巫王乐团颂诗者",
-      "巫王樂團頌詩者",
-      "wuwangyuetuansongshizhe",
-      "wwytssz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1375_ltnclr": [
-    [
-      "残党乐团管乐家",
-      "殘黨樂團管樂家",
-      "candangyuetuanguanyuejia",
-      "cdytgyj",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1375_ltnclr_2": [
-    [
-      "巫王乐团管乐家",
-      "巫王樂團管樂家",
-      "wuwangyuetuanguanyuejia",
-      "wwytgyj",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1376_ltndru": [
-    [
-      "残党乐团鼓手",
-      "殘黨樂團鼓手",
-      "candangyuetuangushou",
-      "cdytgs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1376_ltndru_2": [
-    [
-      "巫王乐团鼓手",
-      "巫王樂團鼓手",
-      "wuwangyuetuangushou",
-      "wwytgs",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1377_ltnclo": [
-    [
-      "残党乐团大提琴家",
-      "殘黨樂團大提琴家",
-      "candangyuetuandatiqinjia",
-      "cdytdtqj",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1377_ltnclo_2": [
-    [
-      "巫王乐团大提琴家",
-      "巫王樂團大提琴家",
-      "wuwangyuetuandatiqinjia",
-      "wwytdtqj",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1378_ltnmst": [
-    [
-      "残党乐团调律师",
-      "殘黨樂團調律師",
-      "candangyuetuandiaolvshi",
-      "cdytdls",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1378_ltnmst_2": [
-    [
-      "巫王乐团调律师",
-      "巫王樂團調律師",
-      "wuwangyuetuandiaolvshi",
-      "wwytdls",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1379_ltncdt": [
-    [
-      "残党乐团指挥家",
-      "殘黨樂團指揮家",
-      "candangyuetuanzhihuijia",
-      "cdytzhj",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1379_ltncdt_2": [
-    [
-      "巫王乐团指挥家",
-      "巫王樂團指揮家",
-      "wuwangyuetuanzhihuijia",
-      "wwytzhj",
       0,
       0
     ],
@@ -17805,38 +16717,6 @@
       "enemy"
     ]
   ],
-  "enemy_1538_ymmons_2": [
-    [
-      "蜃景",
-      "蜃景",
-      "shenjing",
-      "sj",
-      "Mirage",
-      "蜃気楼"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1538_ymmons_3": [
-    [
-      "妄境",
-      "妄境",
-      "wangjing",
-      "wj",
-      "Delusion",
-      "妄境"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1539_reid": [
     [
       "“复仇者”",
@@ -17923,70 +16803,6 @@
       "“花匠”",
       "“huajiang”",
       "“hj”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1545_shpkg": [
-    [
-      "多利，“羊之主”",
-      "多利，“羊之主”",
-      "duoli，“yangzhizhu”",
-      "dl，“yzz”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1546_cliff": [
-    [
-      "“桥夹”克里夫",
-      "“橋夾”克里夫",
-      "“qiaojia”kelifu",
-      "“qj”klf",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1547_blord": [
-    [
-      "杜卡雷，“君主之红”",
-      "杜卡雷，“君主之紅”",
-      "dukalei，“junzhuzhihong”",
-      "dkl，“jzzh”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1548_ltniak": [
-    [
-      "赫尔昏佐伦，“巫王”",
-      "赫爾昏佐倫，“巫王”",
-      "heerhunzuolun，“wuwang”",
-      "hehzl，“ww”",
       0,
       0
     ],
@@ -18909,22 +17725,6 @@
       "enemy"
     ]
   ],
-  "enemy_2062_smcar": [
-    [
-      "勘察用自走车",
-      "勘察用自走車",
-      "kanchayongzizouche",
-      "kcyzzc",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_3001_upeopl": [
     [
       "乌萨斯平民",
@@ -19123,22 +17923,6 @@
       "藝術的絕殺!",
       "yishudejuesha!",
       "ysdjs!",
-      "-",
-      "-"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_5010_catrdg": [
-    [
-      "弱弹",
-      "弱彈",
-      "ruodan",
-      "rd",
       "-",
       "-"
     ],
@@ -19363,54 +18147,6 @@
       "“毒瘤”",
       "“duliu”",
       "“dl”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_6015_ictruck": [
-    [
-      "“超甜微笑”",
-      "“超甜微笑”",
-      "“chaotianweixiao”",
-      "“ctwx”",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_6016_splash": [
-    [
-      "干渴者",
-      "乾渴者",
-      "gankezhe",
-      "gkz",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_6017_icdrone": [
-    [
-      "甜蜜派送机",
-      "甜蜜派送機",
-      "tianmipaisongji",
-      "tmpsj",
       0,
       0
     ],
@@ -19757,70 +18493,6 @@
       "enemy"
     ]
   ],
-  "enemy_8001_flmlod": [
-    [
-      "熔戈者，护王余火",
-      "熔戈者，護王餘火",
-      "ronggezhe，huwangyuhuo",
-      "rgz，hwyh",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_8001_flmlod_2": [
-    [
-      "熔戈者，护王余火",
-      "熔戈者，護王餘火",
-      "ronggezhe，huwangyuhuo",
-      "rgz，hwyh",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_8001_flmlod_3": [
-    [
-      "熔戈者，护王余火",
-      "熔戈者，護王餘火",
-      "ronggezhe，huwangyuhuo",
-      "rgz，hwyh",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_8006_flmgd": [
-    [
-      "再铸扈从",
-      "再鑄扈從",
-      "zaizhuhucong",
-      "zzhc",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "npc_007_closure": [
     [
       "可露希尔",
@@ -20017,8 +18689,7 @@
       "サプライズ！"
     ],
     [
-      "",
-      "_epoque#7"
+      ""
     ],
     [
       "token"
@@ -20069,26 +18740,7 @@
     ],
     [
       "",
-      "_epoque#9",
       "_summer#11"
-    ],
-    [
-      "token"
-    ]
-  ],
-  "token_10012_rosmon_shield": [
-    [
-      "迷迭香的战术装备",
-      "迷迭香的戰術裝備",
-      "midiexiangdezhanshuzhuangbei",
-      "mdxdzszb",
-      "Rosmontis's Tactical Equipment",
-      "ロスモンティスの戦術装備"
-    ],
-    [
-      "",
-      "_2",
-      "_epoque#17"
     ],
     [
       "token"
@@ -20138,9 +18790,7 @@
       "「小自在」"
     ],
     [
-      "",
-      "_2",
-      "_nian#7"
+      ""
     ],
     [
       "token"
@@ -20207,9 +18857,7 @@
       "「ブレイジング・サン」"
     ],
     [
-      "",
-      "_2",
-      "_epoque#17"
+      ""
     ],
     [
       "token"
@@ -20298,7 +18946,6 @@
     ],
     [
       "",
-      "_2",
       "_witch#3"
     ],
     [
@@ -20331,8 +18978,7 @@
       "過去の残像"
     ],
     [
-      "",
-      "_boc#6"
+      ""
     ],
     [
       "token"
@@ -20482,8 +19128,7 @@
       0
     ],
     [
-      "",
-      "_2"
+      ""
     ],
     [
       "token"
@@ -20521,54 +19166,6 @@
       "trap"
     ]
   ],
-  "trap_002_emp": [
-    [
-      "震撼装置",
-      "震撼裝置",
-      "zhenhanzhuangzhi",
-      "zhzz",
-      "Stun Generator",
-      "EMP発生装置"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_003_gate": [
-    [
-      "闸门",
-      "閘門",
-      "zhamen",
-      "zm",
-      "Gate",
-      "シャッター"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_005_sensor": [
-    [
-      "侦测器",
-      "偵測器",
-      "zhenceqi",
-      "zcq",
-      "Detector",
-      "探知機"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_006_antidr": [
     [
       "干扰装置",
@@ -20577,22 +19174,6 @@
       "grzz",
       "Jammer",
       "妨害装置"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_007_ballis": [
-    [
-      "弩炮",
-      "弩炮",
-      "nupao",
-      "np",
-      "Turret",
-      "バリスタ"
     ],
     [
       ""
@@ -20649,22 +19230,6 @@
       "trap"
     ]
   ],
-  "trap_011_ore": [
-    [
-      "源石祭坛",
-      "源石祭壇",
-      "yuanshijitan",
-      "ysjt",
-      "Originium Altar",
-      "源石祭壇"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_012_mine": [
     [
       "干扰地雷",
@@ -20673,38 +19238,6 @@
       "grdl",
       "Interference Mine",
       "妨害地雷"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_013_blower": [
-    [
-      "源石流发生装置",
-      "源石流發生裝置",
-      "yuanshiliufashengzhuangzhi",
-      "yslfszz",
-      "Originium Flow Generator",
-      "源石気流発生装置"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_014_tower": [
-    [
-      "L-44\"留声机\"",
-      "L-44\"留聲機\"",
-      "L-44\"liushengji\"",
-      "L-44\"lsj\"",
-      "L-44 'Gramophone'",
-      "L-44「蓄音機」"
     ],
     [
       ""
@@ -20777,86 +19310,6 @@
       "trap"
     ]
   ],
-  "trap_020_roadblock": [
-    [
-      "道路障碍物",
-      "道路障礙物",
-      "daoluzhangaiwu",
-      "dlzaw",
-      "Static Roadblock",
-      "道路障害物"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_021_flame": [
-    [
-      "能量聚合体",
-      "能量聚合體",
-      "nengliangjuheti",
-      "nljht",
-      "Energy Aggregate",
-      "エネルギークリスタル"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_022_frosts_friend": [
-    [
-      "霜星的源石冰晶",
-      "霜星的源石冰晶",
-      "shuangxingdeyuanshibingjing",
-      "sxdysbj",
-      "FrostNova's Originium Ice Crystal",
-      "フロストノヴァの源石氷晶"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_023_ore_friend": [
-    [
-      "爱国者的源石祭坛",
-      "愛國者的源石祭壇",
-      "aiguozhedeyuanshijitan",
-      "agzdysjt",
-      "Patriot's Originium Altar",
-      "パトリオットの源石祭壇"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_024_npcsld": [
-    [
-      "盾卫",
-      "盾衛",
-      "dunwei",
-      "dw",
-      "Shieldguard",
-      "盾兵"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_025_prison": [
     [
       "禁锢装置",
@@ -20905,54 +19358,6 @@
       "trap"
     ]
   ],
-  "trap_028_cannon": [
-    [
-      "脉冲防御模组",
-      "脈衝防禦模組",
-      "maichongfangyumozu",
-      "mcfymz",
-      "Pulse Defense Module",
-      "衝撃防御モジュール"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_029_poison": [
-    [
-      "催泪瓦斯控制阀",
-      "催淚瓦斯控制閥",
-      "cuileiwasikongzhifa",
-      "clwskzf",
-      "Teargas Control Valve",
-      "催涙ガス制御弁"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_030_factory": [
-    [
-      "无人机工厂",
-      "無人機工廠",
-      "wurenjigongchang",
-      "wrjgc",
-      "Drone Factory",
-      "ドローン工場"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_031_sleep": [
     [
       "雪雉的安全起重机",
@@ -20961,22 +19366,6 @@
       "xzdaqqzj",
       "Snowsant's Safe Escape Crane",
       "スノーズントの安全クレーン"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_032_mound": [
-    [
-      "土石结构",
-      "土石結構",
-      "tushijiegou",
-      "tsjg",
-      "Dirt Mound",
-      "土石構造"
     ],
     [
       ""
@@ -21025,22 +19414,6 @@
       "dd",
       "Emperor",
       "エンペラー"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_036_storm": [
-    [
-      "沙尘暴",
-      "沙塵暴",
-      "shachenbao",
-      "scb",
-      "Sandstorm",
-      "砂嵐"
     ],
     [
       ""
@@ -21129,54 +19502,6 @@
       "trap"
     ]
   ],
-  "trap_042_tidectrl": [
-    [
-      "涨潮控制",
-      "漲潮控制",
-      "zhangchaokongzhi",
-      "zckz",
-      "Tide Controller",
-      "潮高制御装置"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_043_dupilr": [
-    [
-      "破碎支柱",
-      "破碎支柱",
-      "posuizhizhu",
-      "pszz",
-      "Tattered Pillar",
-      "脆い石柱"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_044_duruin": [
-    [
-      "战场废墟",
-      "戰場廢墟",
-      "zhanchangfeixu",
-      "zcfx",
-      "Battlefield Ruins",
-      "瓦礫"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_045_dublst": [
     [
       "爆破装置",
@@ -21241,38 +19566,6 @@
       "trap"
     ]
   ],
-  "trap_050_blizzard": [
-    [
-      "暴风雪",
-      "暴風雪",
-      "baofengxue",
-      "bfx",
-      "Blizzard",
-      "猛吹雪"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_051_vultres": [
-    [
-      "无主的财富",
-      "無主的財富",
-      "wuzhudecaifu",
-      "wzdcf",
-      "Unowned Treasure",
-      "主なき財宝"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_052_slowfd": [
     [
       "失修舞台雾机",
@@ -21305,54 +19598,6 @@
       "trap"
     ]
   ],
-  "trap_054_dancdol": [
-    [
-      "“报幕助手”",
-      "“報幕助手”",
-      "“baomuzhushou”",
-      "“bmzs”",
-      "'Host's Assistant'",
-      "「司会アシスタント」"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_055_tileblock": [
-    [
-      "封印的地面",
-      "封印的地面",
-      "fengyindedimian",
-      "fyddm",
-      "Sealed Floor",
-      "封じられた地面"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_056_sfsuifire": [
-    [
-      "丹田",
-      "丹田",
-      "dantian",
-      "dt",
-      "Dantian",
-      "丹田"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_057_wpnsts": [
     [
       "“冰淇淋机”",
@@ -21369,38 +19614,6 @@
       "trap"
     ]
   ],
-  "trap_058_gunctrl": [
-    [
-      "伦蒂尼姆城防副炮",
-      "倫蒂尼姆城防副炮",
-      "lundinimuchengfangfupao",
-      "ldnmcffp",
-      "Londinium Secondary Defense Artillery",
-      "ロンディニウム都市防衛副砲"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_059_peacokfool": [
-    [
-      "断罪者",
-      "斷罪者",
-      "duanzuizhe",
-      "dzz",
-      "Conviction",
-      "コンビクション"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_060_bouncy": [
     [
       "圣徒之手",
@@ -21409,22 +19622,6 @@
       "stzs",
       "Hand of the Saint",
       "聖徒の御手"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_061_creep": [
-    [
-      "溟痕",
-      "溟痕",
-      "minghen",
-      "mh",
-      "Nethersea Brand",
-      "溟痕"
     ],
     [
       ""
@@ -21481,38 +19678,6 @@
       "trap"
     ]
   ],
-  "trap_065_normbox": [
-    [
-      "宝箱",
-      "寶箱",
-      "baoxiang",
-      "bx",
-      "Treasure Chest",
-      "宝箱"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_066_rarebox": [
-    [
-      "尖刺宝箱",
-      "尖刺寶箱",
-      "jiancibaoxiang",
-      "jcbx",
-      "Spiked Treasure Chest",
-      "トゲトゲ宝箱"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_067_dice": [
     [
       "骰子",
@@ -21521,22 +19686,6 @@
       "tz",
       "Dice",
       "ダイス"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_068_badbox": [
-    [
-      "箱形恐鱼",
-      "箱形恐魚",
-      "xiangxingkongyu",
-      "xxky",
-      "Chest Seaborn",
-      "宝箱形恐魚"
     ],
     [
       ""
@@ -21703,22 +19852,6 @@
     ],
     [
       "trap"
-    ]
-  ],
-  "trap_079_allydonq": [
-    [
-      "猎潮的骑士",
-      "獵潮的騎士",
-      "liechaodeqishi",
-      "lcdqs",
-      "Tide-Hunt Knight",
-      "猟潮の騎士"
-    ],
-    [
-      ""
-    ],
-    [
-      "token"
     ]
   ],
   "trap_080_garage": [
@@ -21897,38 +20030,6 @@
       "trap"
     ]
   ],
-  "trap_091_brctrl": [
-    [
-      "实体程式控制",
-      "實體程式控制",
-      "shitichengshikongzhi",
-      "stcskz",
-      "Entitative Program Controller",
-      "実体プログラム制御"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_092_vgctrl": [
-    [
-      "复仇黑手",
-      "復仇黑手",
-      "fuchouheishou",
-      "fchs",
-      "Vengeful Mafioso",
-      "報復の爪痕"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_093_tbattbc": [
     [
       "钳兽壳粉",
@@ -21969,54 +20070,6 @@
       "fxjy",
       "Fragrant Essential Oil",
       "エッセンシャルオイル"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_096_gflag": [
-    [
-      "山海密语仪",
-      "山海密語儀",
-      "shanhaimiyuyi",
-      "shmyy",
-      "Shanhaizhong Cipher Machine",
-      "山海密令柱"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_097_hstone": [
-    [
-      "城防路障",
-      "城防路障",
-      "chengfangluzhang",
-      "cflz",
-      "Roadblocks",
-      "都市防衛柵"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_098_mire": [
-    [
-      "沼泽控制",
-      "沼澤控制",
-      "zhaozekongzhi",
-      "zzkz",
-      "Mire Control",
-      "沼地制御"
     ],
     [
       ""
@@ -22089,22 +20142,6 @@
       "trap"
     ]
   ],
-  "trap_103_ymdgct": [
-    [
-      "地形增伤控制",
-      "地形增傷控制",
-      "dixingzengshangkongzhi",
-      "dxzskz",
-      "Mire Controller",
-      "地形ダメージ制御"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_104_dplant": [
     [
       "改性植物激素",
@@ -22121,44 +20158,12 @@
       "trap"
     ]
   ],
-  "trap_105_mhwrct": [
-    [
-      "滞空牵引无人机",
-      "滯空牽引無人機",
-      "zhikongqianyinwurenji",
-      "zkqywrj",
-      "Wiredrone",
-      "滞空牽引ドローン"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_106_smtree": [
     [
       "积雪银凇 ",
       "積雪銀凇 ",
       "jixueyinsong ",
       "jxys ",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_107_smpow": [
-    [
-      "空间稳定设施",
-      "空間穩定設施",
-      "kongjianwendingsheshi",
-      "kjwdss",
       0,
       0
     ],
@@ -22217,76 +20222,12 @@
       "trap"
     ]
   ],
-  "trap_111_wdfarm": [
-    [
-      "街头应急储备",
-      "街頭應急儲備",
-      "jietouyingjichubei",
-      "jtyjcb",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_112_crsbow": [
-    [
-      "解雇者清债程序",
-      "解僱者清債程序",
-      "jieguzheqingzhaichengxu",
-      "jgzqzcx",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_113_snflwr": [
-    [
-      "全自动划账器",
-      "全自動劃賬器",
-      "quanzidonghuazhangqi",
-      "qzdhzq",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_114_smkbmb": [
     [
       "爆裂毒气罐",
       "爆裂毒氣罐",
       "baolieduqiguan",
       "bldqg",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_115_gasctrl": [
-    [
-      "毒雾塔控制",
-      "毒霧塔控制",
-      "duwutakongzhi",
-      "dwtkz",
       0,
       0
     ],
@@ -22367,22 +20308,6 @@
       "破舊的木籬",
       "pojiudemuli",
       "pjdml",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_121_gractrl": [
-    [
-      "重力",
-      "重力",
-      "zhongli",
-      "zl",
       0,
       0
     ],
@@ -22537,22 +20462,6 @@
       "trap"
     ]
   ],
-  "trap_131_toolgun": [
-    [
-      "战场装置LUD-99X",
-      "戰場裝置LUD-99X",
-      "zhanchangzhuangzhiLUD-99X",
-      "zczzLUD-99X",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_132_toolinvert": [
     [
       "“二踢脚”型数据收集装置",
@@ -22585,44 +20494,12 @@
       "trap"
     ]
   ],
-  "trap_134_condtr": [
-    [
-      "调谐节点",
-      "調諧節點",
-      "tiaoxiejiedian",
-      "txjd",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_135_portlent": [
     [
       "湮灭之相",
       "湮滅之相",
       "yanmiezhixiang",
       "ymzx",
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_136_portlexi": [
-    [
-      "创生之相",
-      "創生之相",
-      "chuangshengzhixiang",
-      "cszx",
       0,
       0
     ],
@@ -22729,118 +20606,6 @@
       "trap"
     ]
   ],
-  "trap_408_xbbase": [
-    [
-      "基地",
-      "基地",
-      "jidi",
-      "jd",
-      "Base",
-      "基地"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_409_xbwood": [
-    [
-      "杂木林",
-      "雜木林",
-      "zamulin",
-      "zml",
-      "Thickets",
-      "雑木林"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_410_xbstone": [
-    [
-      "巨大岩石",
-      "巨大岩石",
-      "judayanshi",
-      "jdys",
-      "Monoliths",
-      "巨大な岩"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_411_xbiron": [
-    [
-      "奇异矿脉",
-      "奇異礦脈",
-      "qiyikuangmai",
-      "qykm",
-      "Strange Ore Vein",
-      "レアな鉱脈"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_412_redtower": [
-    [
-      "移动战塔",
-      "移動戰塔",
-      "yidongzhanta",
-      "ydzt",
-      "Mobile Battle Tower",
-      "可動式戦術塔"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_413_hiddenstone": [
-    [
-      "遗迹残骸",
-      "遺蹟殘骸",
-      "yijicanhai",
-      "yjch",
-      "Historical Remains",
-      "遺跡の残骸"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_414_vegetation": [
-    [
-      "灌木丛",
-      "灌木叢",
-      "guanmucong",
-      "gmc",
-      "Bush",
-      "茂み"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_415_trademan": [
     [
       "联络员",
@@ -22849,22 +20614,6 @@
       "lly",
       "Liaison",
       "連絡員"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_416_gtreasure": [
-    [
-      "埋没金属箱",
-      "埋沒金屬箱",
-      "maimojinshuxiang",
-      "mmjsx",
-      "Buried Metal Chest",
-      "埋もれた金属の箱"
     ],
     [
       ""
@@ -22945,22 +20694,6 @@
       "yjxlc",
       "Emergency Repair Vehicle",
       "緊急修理車両"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_422_streasure": [
-    [
-      "宝刺金属箱",
-      "寶刺金屬箱",
-      "baocijinshuxiang",
-      "bcjsx",
-      "Thorned Treasure Chest",
-      "棘の生えた金属の箱"
     ],
     [
       ""
@@ -23081,22 +20814,6 @@
       "trap"
     ]
   ],
-  "trap_430_wdescp": [
-    [
-      "逃脱点",
-      "逃脫點",
-      "taotuodian",
-      "ttd",
-      "Escape Route",
-      "脱出地点"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_431_xbgldn": [
     [
       "冶铸台",
@@ -23105,86 +20822,6 @@
       "yzt",
       "Mint",
       "金床"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_432_oldisin": [
-    [
-      "老伊辛",
-      "老伊辛",
-      "laoyixin",
-      "lyx",
-      "Old Isin",
-      "イシン"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_433_sandsdr": [
-    [
-      "“沙卒”",
-      "“沙卒”",
-      "“shazu”",
-      "“sz”",
-      "'Sand Soldier'",
-      "「サンドソルジャー」"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_434_klmantc": [
-    [
-      "曼提柯杀手",
-      "曼提柯殺手",
-      "mantikeshashou",
-      "mtkss",
-      "Manticore Killer",
-      "殺し屋のマンティコア"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_435_trsrhuntr": [
-    [
-      "寻宝人",
-      "尋寶人",
-      "xunbaoren",
-      "xbr",
-      "Treasure Hunter",
-      "トレジャーハンター"
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_437_poachr": [
-    [
-      "老练猎手",
-      "老練獵手",
-      "laolianlieshou",
-      "llls",
-      "Veteran Hunter",
-      "手練れのハンター"
     ],
     [
       ""
