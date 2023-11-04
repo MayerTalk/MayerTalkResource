@@ -55,9 +55,9 @@ class Character:
     @property
     def hash(self) -> str:
         return 'name:' + ','.join(sorted(self.names.values())) \
-               + ' avatars:' + ','.join(sorted(self.avatars.keys())) \
-               + ' types:' + ','.join(sorted(self.type)) \
-               + ' tags:' + ','.join(self.tags)
+            + ' avatars:' + ','.join(sorted(self.avatars.keys())) \
+            + ' types:' + ','.join(sorted(self.type)) \
+            + ' tags:' + ','.join(self.tags)
 
     @property
     def is_invalid(self):
@@ -93,10 +93,14 @@ class Resource:
         return self.req(static_url + version_url % self.series, 'version',
                         headers={'Referer': 'https://www.mayertalk.top'})
 
+    async def _remote_data(self):
+        data = await self.json(static_url + data_url % self.series, 'data',
+                               headers={'Referer': 'https://www.mayertalk.top'})
+        return self.parse_data(data)
+
     @property
     def remote_data(self) -> Awaitable[dict]:
-        return self.json(static_url + data_url % self.series, 'data',
-                         headers={'Referer': 'https://www.mayertalk.top'})
+        return self._remote_data()
 
     @property
     def special_char(self) -> Awaitable[dict]:
@@ -122,13 +126,24 @@ class Resource:
     @property
     def data(self) -> dict:
         return {
-            char_id: {
-                'names': {k: v.lower() for k, v in sorted(data.names.items(), key=lambda x: x[0])},
-                'avatars': [data.avatars[i].short for i in sorted(data.avatars.keys())],
-                'tags': data.tags
-            }
+            char_id: [
+                # 0-names
+                [data.names.get(i, 0) for i in lang_order],
+                # 1-avatars,
+                [data.avatars[i].short for i in sorted(data.avatars.keys())],
+                # 2-tags
+                data.tags
+            ]
             for char_id, data in sorted(self.chars.items(), key=lambda x: x[0])
         }
+
+    @staticmethod
+    def parse_data(data: dict) -> dict:
+        return {k: {
+            'names': {lang_order[i]: v2 for i, v2 in enumerate(v[0]) if v2},
+            'avatars': v[1],
+            'tags': v[2]
+        } for k, v in data.items()}
 
     async def run(self):
         self.client = aiohttp.ClientSession()
@@ -189,6 +204,7 @@ class Resource:
 
         version = self.version
         if version == remote_version:
+            # 因为char avatar上传失败，char list发生变动，使得version与云端一致
             print(f'update {self.series} failed (same pass)')
             return
         await self.upload(version_url % self.series, version.encode('utf-8'))
