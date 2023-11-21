@@ -404,8 +404,8 @@
       "淬羽赫默",
       "cuiyuhemo",
       "cyhm",
-      0,
-      0,
+      "Silence the Paradigmatic",
+      "淬羽サイレンス",
       "RL10"
     ],
     [
@@ -1182,8 +1182,8 @@
       "摩根",
       "mogen",
       "mg",
-      0,
-      0,
+      "Morgan",
+      "モーガン",
       "GG02"
     ],
     [
@@ -2342,8 +2342,8 @@
       "繆爾賽思",
       "mouersaisi",
       "mess",
-      0,
-      0,
+      "Muelsyse",
+      "ミュルジス",
       "RL09"
     ],
     [
@@ -3815,8 +3815,8 @@
       "玫拉",
       "meila",
       "ml",
-      0,
-      0,
+      "Melanite",
+      "メラナイト",
       "CB22"
     ],
     [
@@ -4040,8 +4040,8 @@
       "霍爾海雅",
       "huoerhaiya",
       "hehy",
-      0,
-      0,
+      "Ho'olheyak",
+      "ホルハイヤ",
       "CB88"
     ],
     [
@@ -4581,8 +4581,8 @@
       "伊內絲",
       "yineisi",
       "yns",
-      0,
-      0,
+      "Ines",
+      "イネス",
       "B215"
     ],
     [
@@ -5249,8 +5249,8 @@
       "洋灰",
       "yanghui",
       "yh",
-      0,
-      0,
+      "Cement",
+      "セメント",
       "RB11"
     ],
     [
@@ -5535,8 +5535,8 @@
       "休謨斯",
       "xiumosi",
       "xms",
-      0,
-      0,
+      "Humus",
+      "ヒューマス",
       "R171"
     ],
     [
@@ -16171,8 +16171,8 @@
       "諾伯特平民",
       "nuobotepingmin",
       "nbtpm",
-      0,
-      0,
+      "Norport Civilian",
+      "ノーポート民間人",
       "LUD5"
     ],
     [
@@ -16188,8 +16188,8 @@
       "諾伯特暗探",
       "nuoboteantan",
       "nbtat",
-      0,
-      0,
+      "Norport Spy",
+      "ノーポート諜報員",
       "LUD6"
     ],
     [
@@ -16205,8 +16205,8 @@
       "尋路密探",
       "xunlumitan",
       "xlmt",
-      0,
-      0,
+      "Pathfinder Spy",
+      "偵察密偵",
       "LUD7"
     ],
     [
@@ -16222,8 +16222,8 @@
       "尋路密探長",
       "xunlumitanzhang",
       "xlmtz",
-      0,
-      0,
+      "Pathfinder Spymaster",
+      "偵察密偵隊長",
       "LUD8"
     ],
     [
@@ -16239,8 +16239,8 @@
       "崗哨密探",
       "gangshaomitan",
       "gsmt",
-      0,
-      0,
+      "Sentry Spy",
+      "哨戒密偵",
       "LUD9"
     ],
     [
@@ -16256,8 +16256,8 @@
       "崗哨密探長",
       "gangshaomitanzhang",
       "gsmtz",
-      0,
-      0,
+      "Sentry Spymaster",
+      "哨戒密偵隊長",
       "LUD10"
     ],
     [
@@ -16273,8 +16273,8 @@
       "武裝密探",
       "wuzhuangmitan",
       "wzmt",
-      0,
-      0,
+      "Armed Spy",
+      "武装密偵",
       "LUD11"
     ],
     [
@@ -16290,8 +16290,8 @@
       "武裝密探長",
       "wuzhuangmitanzhang",
       "wzmtz",
-      0,
-      0,
+      "Armed Spymaster",
+      "武装密偵隊長",
       "LUD12"
     ],
     [
@@ -16307,8 +16307,8 @@
       "薩卡茲悖謬諜報官",
       "sakazibeimiudiebaoguan",
       "skzbmdbg",
-      0,
-      0,
+      "Sarkaz Absurdist Operative",
+      "サルカズ悖理諜報員",
       "SHD1"
     ],
     [
@@ -16324,8 +16324,8 @@
       "薩卡茲悖謬諜報長",
       "sakazibeimiudiebaozhang",
       "skzbmdbz",
-      0,
-      0,
+      "Sarkaz Absurdist Operative Leader",
+      "サルカズ悖理諜報隊長",
       "SHD2"
     ],
     [
@@ -16341,8 +16341,8 @@
       "薩卡茲悖謬裂變學徒",
       "sakazibeimiuliebianxuetu",
       "skzbmlbxt",
-      0,
-      0,
+      "Sarkaz Absurdist Splitcaster Apprentice",
+      "サルカズ悖理分裂術師",
       "SHD3"
     ],
     [
@@ -16358,8 +16358,8 @@
       "薩卡茲悖謬裂變術師",
       "sakazibeimiuliebianshushi",
       "skzbmlbss",
-      0,
-      0,
+      "Sarkaz Absurdist Splitcaster",
+      "サルカズ悖理分裂術師隊長",
       "SHD4"
     ],
     [
@@ -16375,8 +16375,8 @@
       "叛亂煽動者",
       "panluanshandongzhe",
       "plsdz",
-      0,
-      0,
+      "Rebellion Instigator",
+      "反乱の扇動者",
       "SHD7"
     ],
     [
@@ -16392,8 +16392,8 @@
       "叛亂鼓動者",
       "panluangudongzhe",
       "plgdz",
-      0,
-      0,
+      "Rebellion Agitator",
+      "反乱の教唆者",
       "SHD8"
     ],
     [
@@ -16409,8 +16409,8 @@
       "薩卡茲悖謬暴虐兵",
       "sakazibeimiubaonvebing",
       "skzbmbnb",
-      0,
-      0,
+      "Sarkaz Absurdist Tyrant",
+      "サルカズ悖理暴虐兵",
       "SHD5"
     ],
     [
@@ -16426,8 +16426,8 @@
       "薩卡茲悖謬暴虐兵長",
       "sakazibeimiubaonvebingzhang",
       "skzbmbnbz",
-      0,
-      0,
+      "Sarkaz Absurdist Tyrant Captain",
+      "サルカズ悖理暴虐兵士長",
       "SHD6"
     ],
     [
@@ -16443,8 +16443,8 @@
       "枯朽萃聚使徒",
       "kuxiucuijushitu",
       "kxcjst",
-      0,
-      0,
+      "Withering Collector Disciple",
+      "枯朽凝集使徒",
       "NAC16"
     ],
     [
@@ -16460,8 +16460,8 @@
       "腐敗萃聚使徒",
       "fubaicuijushitu",
       "fbcjst",
-      0,
-      0,
+      "Decaying Collector Disciple",
+      "腐敗凝集使徒",
       "NAC17"
     ],
     [
@@ -16477,8 +16477,8 @@
       "“灰禮帽”",
       "“huilimao”",
       "“hlm”",
-      0,
-      0,
+      "'Trilby Asher'",
+      "「グレーシルクハット」",
       "LUD13"
     ],
     [
@@ -16494,8 +16494,8 @@
       "“見習灰禮帽”",
       "“jianxihuilimao”",
       "“jxhlm”",
-      0,
-      0,
+      "'Shadowing Trilby Asher'",
+      "「グレーシルクハット見習い」",
       "LUD14"
     ],
     [
@@ -16511,8 +16511,8 @@
       "解構畸變體",
       "jiegoujibianti",
       "jgjbt",
-      0,
-      0,
+      "Deconstructed Distortion",
+      "デコンニュータント",
       "DC2"
     ],
     [
@@ -16528,8 +16528,8 @@
       "軍用獵狗",
       "junyongliegou",
       "jylg",
-      0,
-      0,
+      "Military Hound",
+      "軍用猟犬",
       "LT1"
     ],
     [
@@ -16545,8 +16545,8 @@
       "高級軍用獵狗",
       "gaojijunyongliegou",
       "gjjylg",
-      0,
-      0,
+      "Elite Military Hound",
+      "精鋭軍用猟犬",
       "LT2"
     ],
     [
@@ -16562,8 +16562,8 @@
       "特里蒙城防軍",
       "telimengchengfangjun",
       "tlmcfj",
-      0,
-      0,
+      "Trimounts City Defender",
+      "トリマウンツ都市防衛軍兵士",
       "LT3"
     ],
     [
@@ -16579,8 +16579,8 @@
       "特里蒙城防軍隊長",
       "telimengchengfangjunduizhang",
       "tlmcfjdz",
-      0,
-      0,
+      "Trimounts City Defender Captain",
+      "トリマウンツ都市防衛軍隊長",
       "LT4"
     ],
     [
@@ -16596,8 +16596,8 @@
       "弧光突擊隊",
       "huguangtujidui",
       "hgtjd",
-      0,
-      0,
+      "Arc Commando",
+      "アーク突撃隊隊員",
       "LT5"
     ],
     [
@@ -16613,8 +16613,8 @@
       "弧光突擊隊隊長",
       "huguangtujiduiduizhang",
       "hgtjddz",
-      0,
-      0,
+      "Arc Commando Captain",
+      "アーク突撃隊隊長",
       "LT6"
     ],
     [
@@ -16630,8 +16630,8 @@
       "弧光鋒衛",
       "huguangfengwei",
       "hgfw",
-      0,
-      0,
+      "Arc Frontliner",
+      "アーク鋒衛",
       "LT7"
     ],
     [
@@ -16647,8 +16647,8 @@
       "弧光鋒衛長",
       "huguangfengweizhang",
       "hgfwz",
-      0,
-      0,
+      "Arc Frontliner Leader",
+      "アーク鋒衛隊長",
       "LT8"
     ],
     [
@@ -16664,8 +16664,8 @@
       "弧光鏡衛",
       "huguangjingwei",
       "hgjw",
-      0,
-      0,
+      "Arc Screenguard",
+      "アーク鏡衛",
       "LT9"
     ],
     [
@@ -16681,8 +16681,8 @@
       "弧光鏡衛長",
       "huguangjingweizhang",
       "hgjwz",
-      0,
-      0,
+      "Arc Screenguard Captain",
+      "アーク鏡衛隊長",
       "LT10"
     ],
     [
@@ -16698,8 +16698,8 @@
       "“肇事者”量產型",
       "“zhaoshizhe”liangchanxing",
       "“zsz”lcx",
-      0,
-      0,
+      "'Offender' Production Model",
+      "「トラブルメーカー」量産型",
       "LT11"
     ],
     [
@@ -16715,8 +16715,8 @@
       "“肇事者”試做型",
       "“zhaoshizhe”shizuoxing",
       "“zsz”szx",
-      0,
-      0,
+      "'Offender' Prototype",
+      "「トラブルメーカー」試作型",
       "LT12"
     ],
     [
@@ -16732,8 +16732,8 @@
       "“十字路口”量產型",
       "“shizilukou”liangchanxing",
       "“szlk”lcx",
-      0,
-      0,
+      "'Crossroads' Production Model",
+      "「クロスロード」量産型",
       "LT13"
     ],
     [
@@ -16749,8 +16749,8 @@
       "“十字路口”試做型",
       "“shizilukou”shizuoxing",
       "“szlk”szx",
-      0,
-      0,
+      "'Crossroads' Prototype",
+      "「クロスロード」試作型",
       "LT14"
     ],
     [
@@ -16766,8 +16766,8 @@
       "“交通亭”量產型",
       "“jiaotongting”liangchanxing",
       "“jtt”lcx",
-      0,
-      0,
+      "'Traffic Tower' Production Model",
+      "「トラフィックタワー」量産型",
       "LT15"
     ],
     [
@@ -16783,8 +16783,8 @@
       "“交通亭”試做型",
       "“jiaotongting”shizuoxing",
       "“jtt”szx",
-      0,
-      0,
+      "'Traffic Tower' Prototype",
+      "「トラフィックタワー」試作型",
       "LT16"
     ],
     [
@@ -16800,8 +16800,8 @@
       "“交通警察”",
       "“jiaotongjingcha”",
       "“jtjc”",
-      0,
-      0,
+      "'Traffic Officer'",
+      "「交通巡査」",
       "LT17"
     ],
     [
@@ -16817,8 +16817,8 @@
       "“交通警長”",
       "“jiaotongjingzhang”",
       "“jtjz”",
-      0,
-      0,
+      "'Traffic Officer Captain'",
+      "「交通巡査長」",
       "LT18"
     ],
     [
@@ -17378,7 +17378,7 @@
       "傑斯頓·威廉姆斯",
       "jiesidun·weilianmusi",
       "jsd·wlms",
-      "Jesselton Miller",
+      "Jesselton Williams",
       "ジェッセルトン・ウィリアムズ",
       "JAK"
     ],
@@ -17752,8 +17752,8 @@
       "愛布拉娜",
       "aibulana",
       "abln",
-      0,
-      0,
+      "Eblana",
+      "エブラナ",
       "EB"
     ],
     [
@@ -17769,8 +17769,8 @@
       "“變形者集羣”",
       "“bianxingzhejiqun”",
       "“bxzjq”",
-      0,
-      0,
+      "'Damazti Cluster'",
+      "「変形者」",
       "DC3"
     ],
     [
@@ -17786,8 +17786,8 @@
       "“變形者集羣”",
       "“bianxingzhejiqun”",
       "“bxzjq”",
-      0,
-      0,
+      "'Damazti Cluster'",
+      "「変形者」",
       "DC1"
     ],
     [
@@ -17803,8 +17803,8 @@
       "克麗斯騰",
       "kelisiteng",
       "klst",
-      0,
-      0,
+      "Kristen",
+      "クリステン",
       "KW"
     ],
     [
@@ -18517,8 +18517,8 @@
       "伊祖米克的子代",
       "yizumikedezidai",
       "yzmkdzd",
-      0,
-      0,
+      "Izumik's Offspring",
+      "イズミックの後裔",
       "SY8"
     ],
     [
@@ -18534,8 +18534,8 @@
       "伊祖米克，生態泉源",
       "yizumike，shengtaiquanyuan",
       "yzmk，stqy",
-      0,
-      0,
+      "Izumik, Source of Ecology",
+      "イズミック、生態の源",
       "MZK"
     ],
     [
@@ -19231,8 +19231,8 @@
       "老媽的“逆女”",
       "laomade“ninv”",
       "lmd“nn”",
-      0,
-      0,
+      "Mama's 'Rebel Girl'",
+      "「家出した反逆娘」",
       "DL13"
     ],
     [
@@ -19248,8 +19248,8 @@
       "“毒瘤”",
       "“duliu”",
       "“dl”",
-      0,
-      0,
+      "'Tumor'",
+      "「チューマー」",
       "DL14"
     ],
     [
@@ -20250,8 +20250,8 @@
       "夜燈",
       "yedeng",
       "yd",
-      0,
-      0,
+      "Night Banisher",
+      "夜の灯火",
       0
     ],
     [
@@ -20267,8 +20267,8 @@
       "流形",
       "liuxing",
       "lx",
-      0,
-      0,
+      "Flowing Shape",
+      "うつろう水影",
       0
     ],
     [
@@ -21457,8 +21457,8 @@
       "爆裂毒氣罐",
       "baolieduqiguan",
       "bldqg",
-      0,
-      0,
+      "Rupturing Canister",
+      "毒ガスタンク",
       0
     ],
     [
@@ -22375,8 +22375,8 @@
       "能量擾動放大器",
       "nengliangraodongfangdaqi",
       "nlrdfdq",
-      0,
-      0,
+      "Energy Perturbation Amplifier",
+      "エネルギー摂動増幅器",
       0
     ],
     [
@@ -22392,8 +22392,8 @@
       "能量擾動放大器",
       "nengliangraodongfangdaqi",
       "nlrdfdq",
-      0,
-      0,
+      "Energy Perturbation Amplifier",
+      "エネルギー摂動増幅器",
       0
     ],
     [
@@ -22409,8 +22409,8 @@
       "能量擾動放大器",
       "nengliangraodongfangdaqi",
       "nlrdfdq",
-      0,
-      0,
+      "Energy Perturbation Amplifier",
+      "エネルギー摂動増幅器",
       0
     ],
     [
@@ -22426,8 +22426,8 @@
       "戰術裝備整理箱",
       "zhanshuzhuangbeizhenglixiang",
       "zszbzlx",
-      0,
-      0,
+      "Tactical Equipment Toolbox",
+      "戦術装備整理箱",
       0
     ],
     [
@@ -22443,8 +22443,8 @@
       "戰術裝備整理箱",
       "zhanshuzhuangbeizhenglixiang",
       "zszbzlx",
-      0,
-      0,
+      "Tactical Equipment Toolbox",
+      "戦術装備整理箱",
       0
     ],
     [
@@ -22460,8 +22460,8 @@
       "戰術裝備整理箱",
       "zhanshuzhuangbeizhenglixiang",
       "zszbzlx",
-      0,
-      0,
+      "Tactical Equipment Toolbox",
+      "戦術装備整理箱",
       0
     ],
     [
@@ -22477,8 +22477,8 @@
       "便攜式醫療設備",
       "bianxieshiyiliaoshebei",
       "bxsylsb",
-      0,
-      0,
+      "Portable First-aid Kit",
+      "携帯式医療設備",
       0
     ],
     [
@@ -22494,8 +22494,8 @@
       "便攜式醫療設備",
       "bianxieshiyiliaoshebei",
       "bxsylsb",
-      0,
-      0,
+      "Portable First-aid Kit",
+      "携帯式医療設備",
       0
     ],
     [
@@ -22511,8 +22511,8 @@
       "便攜式醫療設備",
       "bianxieshiyiliaoshebei",
       "bxsylsb",
-      0,
-      0,
+      "Portable First-aid Kit",
+      "携帯式医療設備",
       0
     ],
     [
