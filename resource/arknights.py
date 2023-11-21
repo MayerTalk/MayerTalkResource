@@ -20,16 +20,30 @@ class ArknightsResource(Resource):
         'en_US',
         'ja_JP',
     ]
-    char_data_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/%s/gamedata/excel/character_table.json'
+    main_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/'
+    yostar_url = 'https://github.com/Kengxxiao/ArknightsGameData_YoStar/raw/master/'
+    char_data_url = '%s/gamedata/excel/character_table.json'
+    enemy_data_url = '%s/gamedata/excel/enemy_handbook_table.json'
     char_skin_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/zh_CN/gamedata/excel/skin_table.json'
     char_avatar_url = 'https://github.com/yuanyan3060/ArknightsGameResource/raw/main/avatar/%s.png'
-    enemy_data_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/%s/gamedata/excel/enemy_handbook_table.json'
     enemy_avatar_url = 'https://github.com/yuanyan3060/ArknightsGameResource/raw/main/enemy/%s.png'
     chars: Dict[str, ArknightsCharacter]
     char_model = ArknightsCharacter
 
+    def data_url(self, lang: str, t: str):
+        if t == 'char':
+            url = self.char_data_url % lang
+        elif t == 'enemy':
+            url = self.enemy_data_url % lang
+        else:
+            raise ValueError('unknown data url type %s' % t)
+        if lang == 'zh_CN':
+            return self.main_url + url
+        else:
+            return self.yostar_url + url
+
     async def parse(self, lang):
-        res: dict = await self.json(self.char_data_url % lang, 'char_data')
+        res: dict = await self.json(self.data_url(lang, 'char'), 'char_data')
         print('get arknights %s char data' % lang)
         for char_id, data in res.items():
             char = self.char(char_id)
@@ -47,7 +61,7 @@ class ArknightsResource(Resource):
                 if data['displayNumber']:
                     char.add_name('code', data['displayNumber'])
 
-        res: dict = await self.json(self.enemy_data_url % lang, 'enemy_data')
+        res: dict = await self.json(self.data_url(lang, 'enemy'), 'enemy_data')
         if 'enemyData' in res:
             res = res['enemyData']
 
