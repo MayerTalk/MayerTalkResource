@@ -21,7 +21,7 @@ class ArknightsResource(Resource):
         'ja_JP',
     ]
     main_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/'
-    yostar_url = 'https://github.com/Kengxxiao/ArknightsGameData_YoStar/raw/master/'
+    yostar_url = 'https://github.com/Kengxxiao/ArknightsGameData_YoStar/raw/main/'
     char_data_url = '%s/gamedata/excel/character_table.json'
     enemy_data_url = '%s/gamedata/excel/enemy_handbook_table.json'
     char_skin_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/zh_CN/gamedata/excel/skin_table.json'
