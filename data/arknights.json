@@ -423,7 +423,7 @@
       "shengyuesongzangren",
       "syszr",
       0,
-      0,
+      "聖約イグゼキュター",
       "LT40"
     ],
     [
@@ -3947,7 +3947,7 @@
       "konggou",
       "kg",
       0,
-      0,
+      "スプリア",
       "LT12"
     ],
     [
@@ -5705,7 +5705,7 @@
       "yinxian",
       "yx",
       0,
-      0,
+      "インサイダー",
       "LT13"
     ],
     [
@@ -16892,7 +16892,7 @@
       "niechishou",
       "ncs",
       0,
-      0,
+      "齧歯獣",
       "HE1"
     ],
     [
@@ -16909,7 +16909,7 @@
       "jieniechishou",
       "jencs",
       0,
-      0,
+      "凶暴齧歯獣",
       "HE2"
     ],
     [
@@ -16926,7 +16926,7 @@
       "fuyishou",
       "fys",
       0,
-      0,
+      "伏翼獣",
       "HE3"
     ],
     [
@@ -16943,7 +16943,7 @@
       "jingzaofuyishou",
       "jzfys",
       0,
-      0,
+      "凶暴伏翼獣",
       "HE4"
     ],
     [
@@ -16960,7 +16960,7 @@
       "huangyuanqiedaozhe",
       "hyqdz",
       0,
-      0,
+      "荒野の盗賊",
       "HE5"
     ],
     [
@@ -16977,7 +16977,7 @@
       "huangyuanqiedaozhejingying",
       "hyqdzjy",
       0,
-      0,
+      "荒野の精鋭盗賊",
       "HE6"
     ],
     [
@@ -16994,7 +16994,7 @@
       "huangyuanqianfuzhe",
       "hyqfz",
       0,
-      0,
+      "荒野の暗躍者",
       "HE7"
     ],
     [
@@ -17011,7 +17011,7 @@
       "huangyuanqianfuzhejingying",
       "hyqfzjy",
       0,
-      0,
+      "荒野の精鋭暗躍者",
       "HE8"
     ],
     [
@@ -17028,7 +17028,7 @@
       "huangyuanjielvezhe",
       "hyjlz",
       0,
-      0,
+      "荒野の略奪者",
       "HE9"
     ],
     [
@@ -17045,7 +17045,7 @@
       "huangyuanjielvezhejingying",
       "hyjlzjy",
       0,
-      0,
+      "荒野の精鋭略奪者",
       "HE10"
     ],
     [
@@ -17062,7 +17062,7 @@
       "shangjinlierennushou",
       "sjlrns",
       0,
-      0,
+      "賞金稼ぎ射撃手",
       "BH1"
     ],
     [
@@ -17079,7 +17079,7 @@
       "shangjinlierennushouduizhang",
       "sjlrnsdz",
       0,
-      0,
+      "賞金稼ぎ精鋭射撃手",
       "BH2"
     ],
     [
@@ -17096,7 +17096,7 @@
       "shangjinlierenraoluanzhe",
       "sjlrrlz",
       0,
-      0,
+      "賞金稼ぎ撹乱者",
       "BH3"
     ],
     [
@@ -17113,7 +17113,7 @@
       "shangjinlierenraoluanzheduizhang",
       "sjlrrlzdz",
       0,
-      0,
+      "賞金稼ぎ精鋭撹乱者",
       "BH4"
     ],
     [
@@ -17130,7 +17130,7 @@
       "duotianshifuertuna",
       "dtsfetn",
       0,
-      0,
+      "堕天使フォルトゥナ",
       "FA"
     ],
     [
@@ -17793,7 +17793,7 @@
       "“fuchouzhe”",
       "“fcz”",
       "'Hateful Avenger'",
-      "\"Vendetta\"",
+      "Vendetta",
       "A15"
     ],
     [
@@ -17878,7 +17878,7 @@
       "“huajiang”",
       "“hj”",
       0,
-      0,
+      "「ガーデナー」",
       "CD"
     ],
     [
@@ -18932,7 +18932,7 @@
       "xiudaoyuanjumin",
       "xdyjm",
       0,
-      0,
+      "修道院の住民",
       "SA1"
     ],
     [
@@ -18949,7 +18949,7 @@
       "xiudaoyuanjumin",
       "xdyjm",
       0,
-      0,
+      "修道院の住民",
       "SA2"
     ],
     [
@@ -19051,7 +19051,7 @@
       "yishudecibei!",
       "ysdcb!",
       "-",
-      "-",
+      "芸術の慈悲！",
       "-"
     ],
     [
@@ -19068,7 +19068,7 @@
       "yishudejuesha!",
       "ysdjs!",
       "-",
-      "-",
+      "芸術の必殺技！",
       "-"
     ],
     [
@@ -21549,7 +21549,7 @@
       "shengxiang",
       "sx",
       0,
-      0,
+      "聖像",
       0
     ],
     [
@@ -21566,7 +21566,7 @@
       "taluodeqiangyuan",
       "tldqy",
       0,
-      0,
+      "崩れた壁",
       0
     ],
     [
@@ -21583,7 +21583,7 @@
       "beiyongmucai",
       "bymc",
       0,
-      0,
+      "予備木材",
       0
     ],
     [
@@ -21600,7 +21600,7 @@
       "pojiudemuli",
       "pjdml",
       0,
-      0,
+      "朽ちた木の柵",
       0
     ],
     [
