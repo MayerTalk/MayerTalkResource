@@ -422,7 +422,7 @@
       "聖約送葬人",
       "shengyuesongzangren",
       "syszr",
-      0,
+      "Executor the Ex Foedere",
       "聖約イグゼキュター",
       "LT40"
     ],
@@ -3946,7 +3946,7 @@
       "空構",
       "konggou",
       "kg",
-      0,
+      "Spuria",
       "スプリア",
       "LT12"
     ],
@@ -5704,7 +5704,7 @@
       "隱現",
       "yinxian",
       "yx",
-      0,
+      "Insider",
       "インサイダー",
       "LT13"
     ],
@@ -16891,7 +16891,7 @@
       "齧齒獸",
       "niechishou",
       "ncs",
-      0,
+      "Gnawbeast",
       "齧歯獣",
       "HE1"
     ],
@@ -16908,7 +16908,7 @@
       "飢餓齧齒獸",
       "jieniechishou",
       "jencs",
-      0,
+      "Starving Gnawbeast",
       "凶暴齧歯獣",
       "HE2"
     ],
@@ -16925,7 +16925,7 @@
       "伏翼獸",
       "fuyishou",
       "fys",
-      0,
+      "Vesperwing",
       "伏翼獣",
       "HE3"
     ],
@@ -16942,7 +16942,7 @@
       "驚躁伏翼獸",
       "jingzaofuyishou",
       "jzfys",
-      0,
+      "Startled Vesperwing",
       "凶暴伏翼獣",
       "HE4"
     ],
@@ -16959,7 +16959,7 @@
       "荒原竊盜者",
       "huangyuanqiedaozhe",
       "hyqdz",
-      0,
+      "Wasteland Robber",
       "荒野の盗賊",
       "HE5"
     ],
@@ -16976,7 +16976,7 @@
       "荒原竊盜者精英",
       "huangyuanqiedaozhejingying",
       "hyqdzjy",
-      0,
+      "Elite Wasteland Robber",
       "荒野の精鋭盗賊",
       "HE6"
     ],
@@ -16993,7 +16993,7 @@
       "荒原潛伏者",
       "huangyuanqianfuzhe",
       "hyqfz",
-      0,
+      "Wasteland Skulker",
       "荒野の暗躍者",
       "HE7"
     ],
@@ -17010,7 +17010,7 @@
       "荒原潛伏者精英",
       "huangyuanqianfuzhejingying",
       "hyqfzjy",
-      0,
+      "Elite Wasteland Skulker",
       "荒野の精鋭暗躍者",
       "HE8"
     ],
@@ -17027,7 +17027,7 @@
       "荒原劫掠者",
       "huangyuanjielvezhe",
       "hyjlz",
-      0,
+      "Wasteland Plunderer",
       "荒野の略奪者",
       "HE9"
     ],
@@ -17044,7 +17044,7 @@
       "荒原劫掠者精英",
       "huangyuanjielvezhejingying",
       "hyjlzjy",
-      0,
+      "Elite Wasteland Plunderer",
       "荒野の精鋭略奪者",
       "HE10"
     ],
@@ -17061,7 +17061,7 @@
       "賞金獵人弩手",
       "shangjinlierennushou",
       "sjlrns",
-      0,
+      "Bounty Hunter Crossbowman",
       "賞金稼ぎ射撃手",
       "BH1"
     ],
@@ -17078,7 +17078,7 @@
       "賞金獵人弩手隊長",
       "shangjinlierennushouduizhang",
       "sjlrnsdz",
-      0,
+      "Bounty Hunter Crossbowman Captain",
       "賞金稼ぎ精鋭射撃手",
       "BH2"
     ],
@@ -17095,7 +17095,7 @@
       "賞金獵人擾亂者",
       "shangjinlierenraoluanzhe",
       "sjlrrlz",
-      0,
+      "Bounty Hunter Disruptor",
       "賞金稼ぎ撹乱者",
       "BH3"
     ],
@@ -17112,7 +17112,7 @@
       "賞金獵人擾亂者隊長",
       "shangjinlierenraoluanzheduizhang",
       "sjlrrlzdz",
-      0,
+      "Bounty Hunter Disruptor Captain",
       "賞金稼ぎ精鋭撹乱者",
       "BH4"
     ],
@@ -17129,7 +17129,7 @@
       "墮天使福爾圖娜",
       "duotianshifuertuna",
       "dtsfetn",
-      0,
+      "Fortuna, Fallen Angel",
       "堕天使フォルトゥナ",
       "FA"
     ],
@@ -17418,7 +17418,7 @@
       "“不死的黑蛇”",
       "“busideheishe”",
       "“bsdhs”",
-      "'The Deathless Black Snake'",
+      "'Deathless Black Snake'",
       "「不死の黒蛇」",
       "BSN"
     ],
@@ -17741,7 +17741,7 @@
       "“領袖”",
       "“lingxiu”",
       "“lx”",
-      "'The Leader' ",
+      "'The Leader'",
       "「リーダー」",
       "EB"
     ],
@@ -17877,7 +17877,7 @@
       "“花匠”",
       "“huajiang”",
       "“hj”",
-      0,
+      "'The Gardener'",
       "「ガーデナー」",
       "CD"
     ],
@@ -18931,7 +18931,7 @@
       "修道院居民",
       "xiudaoyuanjumin",
       "xdyjm",
-      0,
+      "Monastery Inhabitant",
       "修道院の住民",
       "SA1"
     ],
@@ -18948,7 +18948,7 @@
       "修道院居民",
       "xiudaoyuanjumin",
       "xdyjm",
-      0,
+      "Monastery Inhabitant",
       "修道院の住民",
       "SA2"
     ],
@@ -19050,7 +19050,7 @@
       "藝術的慈悲!",
       "yishudecibei!",
       "ysdcb!",
-      "-",
+      "The Boons of Art!",
       "芸術の慈悲！",
       "-"
     ],
@@ -19067,7 +19067,7 @@
       "藝術的絕殺!",
       "yishudejuesha!",
       "ysdjs!",
-      "-",
+      "The Clutchness of Art!",
       "芸術の必殺技！",
       "-"
     ],
@@ -21548,7 +21548,7 @@
       "聖像",
       "shengxiang",
       "sx",
-      0,
+      "Holy Statue",
       "聖像",
       0
     ],
@@ -21565,7 +21565,7 @@
       "塌落的牆垣",
       "taluodeqiangyuan",
       "tldqy",
-      0,
+      "Crumbling Masonry",
       "崩れた壁",
       0
     ],
@@ -21582,7 +21582,7 @@
       "備用木材",
       "beiyongmucai",
       "bymc",
-      0,
+      "Spare Timber",
       "予備木材",
       0
     ],
@@ -21599,7 +21599,7 @@
       "破舊的木籬",
       "pojiudemuli",
       "pjdml",
-      0,
+      "Shabby Fence",
       "朽ちた木の柵",
       0
     ],
