@@ -1837,6 +1837,25 @@
     ],
     [
       "",
+      "_2",
+      "_nian#10"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_2025_shu": [
+    [
+      "黍",
+      "黍",
+      "shu",
+      "s",
+      0,
+      0,
+      "NM05"
+    ],
+    [
+      "",
       "_2"
     ],
     [
@@ -2580,6 +2599,7 @@
     [
       "",
       "_2",
+      "_unveiling#1",
       "_winter#2"
     ],
     [
@@ -2915,7 +2935,8 @@
     [
       "",
       "_2",
-      "_epoque#24"
+      "_epoque#24",
+      "_unveiling#1"
     ],
     [
       "operator"
@@ -4039,6 +4060,24 @@
       "operator"
     ]
   ],
+  "char_4023_rfalcn": [
+    [
+      "红隼",
+      "紅隼",
+      "hongsun",
+      "hs",
+      0,
+      0,
+      "SG12"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_4025_aprot2": [
     [
       "暮落",
@@ -4447,7 +4486,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_nian#10"
     ],
     [
       "operator"
@@ -4558,7 +4598,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_nian#10"
     ],
     [
       "operator"
@@ -4905,6 +4946,24 @@
       "operator"
     ]
   ],
+  "char_4119_wanqin": [
+    [
+      "万顷",
+      "萬頃",
+      "wanqing",
+      "wq",
+      0,
+      0,
+      "YD13"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_411_tomimi": [
     [
       "特米米",
@@ -4919,6 +4978,42 @@
       "",
       "_2",
       "_summer#5"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4121_zuole": [
+    [
+      "左乐",
+      "左樂",
+      "zuole",
+      "zl",
+      0,
+      0,
+      "YD06"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4122_grabds": [
+    [
+      "小满",
+      "小滿",
+      "xiaoman",
+      "xm",
+      0,
+      0,
+      "YD14"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -5204,7 +5299,8 @@
     [
       "",
       "_2",
-      "_epoque#17"
+      "_epoque#17",
+      "_nian#10"
     ],
     [
       "operator"
@@ -21890,6 +21986,40 @@
       "trap"
     ]
   ],
+  "trap_139_dhtl": [
+    [
+      "阻流阀",
+      "阻流閥",
+      "zuliufa",
+      "zlf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_140_dhsb": [
+    [
+      "泵站",
+      "泵站",
+      "bengzhan",
+      "bz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_400_xbfarm": [
     [
       "便携式种植槽",
@@ -21909,10 +22039,10 @@
   ],
   "trap_401_xbfato": [
     [
-      "采集实习站",
-      "採集實習站",
-      "caijishixizhan",
-      "cjsxz",
+      "木材采集站",
+      "木材採集站",
+      "mucaicaijizhan",
+      "mccjz",
       "Basic Gathering Hub",
       "採取ロボ用基地",
       0
@@ -22232,10 +22362,10 @@
   ],
   "trap_438_xbfato2": [
     [
-      "采集专员站",
-      "採集專員站",
-      "caijizhuanyuanzhan",
-      "cjzyz",
+      "石材采集站",
+      "石材採集站",
+      "shicaicaijizhan",
+      "sccjz",
       "Advanced Gathering Hub",
       "スーパー採取ロボ用基地",
       0
@@ -22249,12 +22379,369 @@
   ],
   "trap_439_xbfato3": [
     [
-      "采集主任站",
-      "採集主任站",
-      "caijizhurenzhan",
-      "cjzrz",
+      "铁矿采集站",
+      "鐵礦採集站",
+      "tiekuangcaijizhan",
+      "tkcjz",
       "Executive Gathering Hub",
       "ハイパー採取ロボ用基地",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_443_xbtent": [
+    [
+      "作战中心",
+      "作戰中心",
+      "zuozhanzhongxin",
+      "zzzx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_444_xbexbi": [
+    [
+      "“纪念”",
+      "“紀念”",
+      "“jinian”",
+      "“jn”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_445_xbfence": [
+    [
+      "兽栏",
+      "獸欄",
+      "shoulan",
+      "sl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_448_xbmire": [
+    [
+      "污浊泥沼",
+      "污濁泥沼",
+      "wuzhuonizhao",
+      "wznz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_449_xbspgun": [
+    [
+      "烟雾发射台",
+      "煙霧發射臺",
+      "yanwufashetai",
+      "ywfst",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_450_xbdrill": [
+    [
+      "澄亮采集站",
+      "澄亮採集站",
+      "chengliangcaijizhan",
+      "clcjz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_451_xbflare": [
+    [
+      "荧光棒",
+      "熒光棒",
+      "yingguangbang",
+      "ygb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_452_xbcage": [
+    [
+      "捕猎笼",
+      "捕獵籠",
+      "bulielong",
+      "bll",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_453_xbbee": [
+    [
+      "寻宝仪",
+      "尋寶儀",
+      "xunbaoyi",
+      "xby",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_454_xbember": [
+    [
+      "激励剂",
+      "激勵劑",
+      "jiliji",
+      "jlj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_455_xbistorm": [
+    [
+      "冰爆罐",
+      "冰爆罐",
+      "bingbaoguan",
+      "bbg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_456_xbfarmm": [
+    [
+      "种植箱集群\n",
+      "種植箱集羣\n",
+      "zhongzhixiangjiqun\n",
+      "zzxjq\n",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_457_xbfort": [
+    [
+      "高台工事",
+      "高臺工事",
+      "gaotaigongshi",
+      "gtgs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_458_xbbarir": [
+    [
+      "反应壁障",
+      "反應壁障",
+      "fanyingbizhang",
+      "fybz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_459_xblight": [
+    [
+      "监视哨站",
+      "監視哨站",
+      "jianshishaozhan",
+      "jssz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_462_xbsighta": [
+    [
+      "灵动清泉",
+      "靈動清泉",
+      "lingdongqingquan",
+      "ldqq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_463_xbsightb": [
+    [
+      "静谧盆栽",
+      "靜謐盆栽",
+      "jingmipenzai",
+      "jmpz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_464_xbsightc": [
+    [
+      "休闲长椅",
+      "休閒長椅",
+      "xiuxianzhangyi",
+      "xxzy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_475_xbcbag": [
+    [
+      "猎获笼",
+      "獵獲籠",
+      "liehuolong",
+      "lhl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_477_xbspps": [
+    [
+      "失衡异香",
+      "失衡異香",
+      "shihengyixiang",
+      "shyx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_478_xbcanoe": [
+    [
+      "特制水上平台",
+      "特製水上平臺",
+      "tezhishuishangpingtai",
+      "tzsspt",
+      0,
+      0,
       0
     ],
     [
