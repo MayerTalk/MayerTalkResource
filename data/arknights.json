@@ -1715,7 +1715,7 @@
       "提豐",
       "tifeng",
       "tf",
-      0,
+      "Typhon",
       "ティフォン",
       "SI07"
     ],
@@ -3291,7 +3291,7 @@
       "寒檀",
       "hantan",
       "ht",
-      0,
+      "Santalla",
       "サンタラ",
       "SI02"
     ],
@@ -4774,7 +4774,7 @@
       "凜視",
       "linshi",
       "ls",
-      0,
+      "Valarqvin",
       "ヴァラルクビン",
       "SI06"
     ],
@@ -18748,7 +18748,7 @@
       "染污軀殼",
       "ranwuquqiao",
       "rwqq",
-      0,
+      "Tainted Carcass",
       "穢された亡骸",
       "EJ1"
     ],
@@ -18765,7 +18765,7 @@
       "歪曲施法者",
       "waiqushifazhe",
       "wqsfz",
-      0,
+      "Distorted Caster",
       "歪なる術師",
       "EJ2"
     ],
@@ -18782,7 +18782,7 @@
       "坍縮構造體",
       "tansuogouzaoti",
       "tsgzt",
-      0,
+      "Collapsed Construct",
       "崩壊した構造体",
       "EJ3"
     ],
@@ -18799,7 +18799,7 @@
       "木裂戰士",
       "muliezhanshi",
       "mlzs",
-      0,
+      "Shattered Champion",
       "凍裂の戦士",
       "EJ4"
     ],
@@ -18816,7 +18816,7 @@
       "積雪銀凇",
       "jixueyinsong",
       "jxys",
-      0,
+      "Silvernwhite Bulwark",
       "積雪の銀樹",
       "-"
     ],
@@ -18833,7 +18833,7 @@
       "“邪魔的利刃”",
       "“xiemodeliren”",
       "“xmdlr”",
-      0,
+      "'Demon's Blade'",
       "「悪魔の利刃」",
       "DB"
     ],
@@ -18850,7 +18850,7 @@
       "“邪魔的利刃”，遊蕩者",
       "“xiemodeliren”，youdangzhe",
       "“xmdlr”，ydz",
-      0,
+      "'Demon's Blade,' the Vagabond",
       "「悪魔の利刃」、彷徨える者",
       "DBV"
     ],
@@ -18867,7 +18867,7 @@
       "陷落雪祀",
       "xianluoxuesi",
       "xlxs",
-      0,
+      "Fallen Snowpriest",
       "堕ちたる雪祭司",
       "FSP"
     ],
@@ -18884,7 +18884,7 @@
       "空洞雪祀",
       "kongdongxuesi",
       "kdxs",
-      0,
+      "Hollow Snowpriest",
       "虚ろなる雪祭司",
       "HSP"
     ],
@@ -18901,7 +18901,7 @@
       "糾纏藤蔓",
       "jiuchantengwan",
       "jctw",
-      0,
+      "Weaving Vinecreeps",
       "絡まるツル",
       "WVC"
     ],
@@ -18918,7 +18918,7 @@
       "古老藤蔓",
       "gulaotengwan",
       "gltw",
-      0,
+      "Elder Vinecreeps",
       "いにしえのツル",
       "EVC"
     ],
@@ -18935,7 +18935,7 @@
       "“薩米的意志”",
       "“samideyizhi”",
       "“smdyz”",
-      0,
+      "'Samivilinn,' the Resolution of the Very North",
       "「サーミの意志」",
       "SAM"
     ],
@@ -18952,7 +18952,7 @@
       "“木裂”埃克提爾尼爾",
       "“mulie”aiketiernier",
       "“ml”aktene",
-      0,
+      "'Eikthyrnir,' the Scar of the Shattered",
       "「凍裂」エイクティルニル",
       "EIK"
     ],
@@ -18969,7 +18969,7 @@
       "無垠迴盪克雷松",
       "wuyinhuidangkeleisong",
       "wyhdkls",
-      0,
+      "Crazelyseon, the Ascendant of Cosmoi",
       "天地に揺蕩う、クレイズセオン",
       "CES"
     ],
@@ -18986,7 +18986,7 @@
       "巨殼藤蔓",
       "juketengwan",
       "jktw",
-      0,
+      "Testaceous Vinecreeps",
       "巨殻のツル",
       "EJ5"
     ],
@@ -21603,7 +21603,7 @@
       "積雪銀凇 ",
       "jixueyinsong ",
       "jxys ",
-      0,
+      "Silvernwhite Bulwark",
       "積雪の銀樹",
       0
     ],
@@ -21620,7 +21620,7 @@
       "寶箱",
       "baoxiang",
       "bx",
-      0,
+      "Treasure Chest",
       "宝箱",
       0
     ],
@@ -21637,7 +21637,7 @@
       "尖刺寶箱",
       "jiancibaoxiang",
       "jcbx",
-      0,
+      "Spiked Treasure Chest",
       "トゲトゲ宝箱",
       0
     ],
@@ -21654,7 +21654,7 @@
       "巨殼藤蔓",
       "juketengwan",
       "jktw",
-      0,
+      "Testaceous Vinecreeps",
       "巨殻のツル",
       0
     ],
@@ -21807,7 +21807,7 @@
       "廢熱噴口",
       "feirepenkou",
       "frpk",
-      0,
+      "Waste Heat Vent",
       "廃熱噴出口",
       0
     ],
@@ -23150,7 +23150,7 @@
       "溢能回收轉化器",
       "yinenghuishouzhuanhuaqi",
       "ynhszhq",
-      0,
+      "Energy Overflow Converter",
       "オーバーフロー変換機",
       0
     ],
@@ -23167,7 +23167,7 @@
       "溢能回收轉化器",
       "yinenghuishouzhuanhuaqi",
       "ynhszhq",
-      0,
+      "Energy Overflow Converter",
       "オーバーフロー変換機",
       0
     ],
@@ -23184,7 +23184,7 @@
       "溢能回收轉化器",
       "yinenghuishouzhuanhuaqi",
       "ynhszhq",
-      0,
+      "Energy Overflow Converter",
       "オーバーフロー変換機",
       0
     ],
@@ -23201,7 +23201,7 @@
       "戰地援護無人機",
       "zhandiyuanhuwurenji",
       "zdyhwrj",
-      0,
+      "Field Support Drone",
       "戦場サポートドローン",
       0
     ],
@@ -23218,7 +23218,7 @@
       "戰地援護無人機",
       "zhandiyuanhuwurenji",
       "zdyhwrj",
-      0,
+      "Field Support Drone",
       "戦場サポートドローン",
       0
     ],
@@ -23235,7 +23235,7 @@
       "戰地援護無人機",
       "zhandiyuanhuwurenji",
       "zdyhwrj",
-      0,
+      "Field Support Drone",
       "戦場サポートドローン",
       0
     ],
@@ -23252,7 +23252,7 @@
       "競技記錄分析儀",
       "jingjijilufenxiyi",
       "jjjlfxy",
-      0,
+      "Competition Records Analyzer",
       "競技記録アナライザー",
       0
     ],
@@ -23269,7 +23269,7 @@
       "“甜蜜狂攪”",
       "“tianmikuangjiao”",
       "“tmkj”",
-      0,
+      "'Supersweetie Superblend'",
       "「スイート・スーパーブレンド」",
       0
     ],
@@ -23286,7 +23286,7 @@
       "神經再生",
       "shenjingzaisheng",
       "sjzs",
-      0,
+      "Neuronal Revival",
       "神経再生",
       0
     ],
@@ -23303,7 +23303,7 @@
       "競技記錄分析儀",
       "jingjijilufenxiyi",
       "jjjlfxy",
-      0,
+      "Competition Records Analyzer",
       "競技記録アナライザー",
       0
     ],
@@ -23320,7 +23320,7 @@
       "競技記錄分析儀",
       "jingjijilufenxiyi",
       "jjjlfxy",
-      0,
+      "Competition Records Analyzer",
       "競技記録アナライザー",
       0
     ],
@@ -23337,7 +23337,7 @@
       "汲取體",
       "jiquti",
       "jqt",
-      0,
+      "Absorber",
       "渇望の触手",
       0
     ],
