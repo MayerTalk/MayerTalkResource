@@ -5021,6 +5021,81 @@
       "operator"
     ]
   ],
+  "char_4123_ela": [
+    [
+      "艾拉",
+      "艾拉",
+      "aila",
+      "al",
+      0,
+      0,
+      "RS05"
+    ],
+    [
+      "",
+      "_2",
+      "_rainbow6#2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4124_iana": [
+    [
+      "双月",
+      "雙月",
+      "shuangyue",
+      "sy",
+      0,
+      0,
+      "RS07"
+    ],
+    [
+      "",
+      "_2",
+      "_rainbow6#2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4125_rdoc": [
+    [
+      "医生",
+      "醫生",
+      "yisheng",
+      "ys",
+      0,
+      0,
+      "RS06"
+    ],
+    [
+      "",
+      "_2",
+      "_rainbow6#2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4126_fuze": [
+    [
+      "导火索",
+      "導火索",
+      "daohuosuo",
+      "dhs",
+      0,
+      0,
+      "RS08"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_415_flint": [
     [
       "燧石",
@@ -7745,10 +7820,10 @@
   ],
   "enemy_1050_lslime": [
     [
-      "\"庞贝\"",
-      "\"龐貝\"",
-      "\"pangbei\"",
-      "\"pb\"",
+      "“庞贝”",
+      "“龐貝”",
+      "“pangbei”",
+      "“pb”",
       "'Pompeii'",
       "Pompeii",
       "UM1"
@@ -20509,6 +20584,24 @@
       "token"
     ]
   ],
+  "token_10033_ela_grzmot": [
+    [
+      "雷鸣地雷",
+      "雷鳴地雷",
+      "leimingdilei",
+      "lmdl",
+      0,
+      0,
+      0
+    ],
+    [
+      "",
+      "_rainbow6#2"
+    ],
+    [
+      "token"
+    ]
+  ],
   "token_10034_ray_sndbst": [
     [
       "沙地兽",
@@ -22011,6 +22104,91 @@
       "泵站",
       "bengzhan",
       "bz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_141_sheltr": [
+    [
+      "封阻物",
+      "封阻物",
+      "fengzuwu",
+      "fzw",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_142_barrel": [
+    [
+      "源石爆炸物",
+      "源石爆炸物",
+      "yuanshibaozhawu",
+      "ysbzw",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_143_rnfcar": [
+    [
+      "封阻加固装置",
+      "封阻加固裝置",
+      "fengzujiaguzhuangzhi",
+      "fzjgzz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_144_ads": [
+    [
+      "临时掩护装置",
+      "臨時掩護裝置",
+      "linshiyanhuzhuangzhi",
+      "lsyhzz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_145_edd": [
+    [
+      "诡雷布设装置",
+      "詭雷佈設裝置",
+      "guileibushezhuangzhi",
+      "glbszz",
       0,
       0,
       0
