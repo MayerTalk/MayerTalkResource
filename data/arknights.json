@@ -4639,6 +4639,7 @@
     [
       "",
       "_2",
+      "_epoque#31",
       "_ncg#1"
     ],
     [
@@ -5097,6 +5098,60 @@
       "operator"
     ]
   ],
+  "char_4130_luton": [
+    [
+      "露托",
+      "露託",
+      "lutuo",
+      "lt",
+      0,
+      0,
+      "BV33"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4131_odda": [
+    [
+      "奥达",
+      "奧達",
+      "aoda",
+      "ad",
+      0,
+      0,
+      "R167"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4132_ascln": [
+    [
+      "阿斯卡纶",
+      "阿斯卡綸",
+      "asikalun",
+      "askl",
+      0,
+      0,
+      "SW00"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_415_flint": [
     [
       "燧石",
@@ -5358,7 +5413,26 @@
     [
       "",
       "_2",
+      "_epoque#31",
       "_shining#1"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_446_aroma": [
+    [
+      "阿罗玛",
+      "阿羅瑪",
+      "aluoma",
+      "alm",
+      0,
+      0,
+      "SR39"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -5527,7 +5601,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#31"
     ],
     [
       "operator"
@@ -5796,7 +5871,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#31"
     ],
     [
       "operator"
@@ -22201,6 +22277,40 @@
       "trap"
     ]
   ],
+  "trap_147_spblls": [
+    [
+      "巫术弩炮",
+      "巫術弩炮",
+      "wushunupao",
+      "wsnp",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_148_amblls": [
+    [
+      "幽影门扉",
+      "幽影門扉",
+      "youyingmenfei",
+      "yymf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_400_xbfarm": [
     [
       "便携式种植槽",
@@ -23686,6 +23796,193 @@
       "“蜜釀萬歲！”",
       "“miniangwansui！”",
       "“mnws！”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_746_cdrhine": [
+    [
+      "尖端研究成果共享终端",
+      "尖端研究成果共享終端",
+      "jianduanyanjiuchengguogongxiangzhongduan",
+      "jdyjcggxzd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_747_cdrhinea": [
+    [
+      "尖端研究成果共享终端",
+      "尖端研究成果共享終端",
+      "jianduanyanjiuchengguogongxiangzhongduan",
+      "jdyjcggxzd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_748_cdrhineb": [
+    [
+      "尖端研究成果共享终端",
+      "尖端研究成果共享終端",
+      "jianduanyanjiuchengguogongxiangzhongduan",
+      "jdyjcggxzd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_749_cd1punch": [
+    [
+      "声波记录扩音器",
+      "聲波記錄擴音器",
+      "shengbojilukuoyinqi",
+      "sbjlkyq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_750_cd1puncha": [
+    [
+      "声波记录扩音器",
+      "聲波記錄擴音器",
+      "shengbojilukuoyinqi",
+      "sbjlkyq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_751_cd1punchb": [
+    [
+      "声波记录扩音器",
+      "聲波記錄擴音器",
+      "shengbojilukuoyinqi",
+      "sbjlkyq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_752_cdcaster": [
+    [
+      "法术调和能量场",
+      "法術調和能量場",
+      "fashutiaohenengliangchang",
+      "fsthnlc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_753_cdcastera": [
+    [
+      "法术调和能量场",
+      "法術調和能量場",
+      "fashutiaohenengliangchang",
+      "fsthnlc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_754_cdcasterb": [
+    [
+      "法术调和能量场",
+      "法術調和能量場",
+      "fashutiaohenengliangchang",
+      "fsthnlc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_755_cdsoul": [
+    [
+      "啸叫音响",
+      "嘯叫音響",
+      "xiaojiaoyinxiang",
+      "xjyx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_756_cdnest": [
+    [
+      "“黏黏的赠品”",
+      "“黏黏的贈品”",
+      "“nianniandezengpin”",
+      "“nndzp”",
       0,
       0,
       0
