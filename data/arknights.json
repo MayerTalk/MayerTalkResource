@@ -448,7 +448,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_ambienceSynesthesia#4"
     ],
     [
       "operator"
@@ -1361,6 +1362,7 @@
     [
       "",
       "_2",
+      "_ambienceSynesthesia#4",
       "_snow#1",
       "_summer#4"
     ],
@@ -4112,7 +4114,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_ambienceSynesthesia#4"
     ],
     [
       "operator"
@@ -20638,7 +20641,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_ambienceSynesthesia#4"
     ],
     [
       "token"
@@ -23031,6 +23035,40 @@
       "特製水上平臺",
       "tezhishuishangpingtai",
       "tzsspt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_482_xbblure": [
+    [
+      "源石虫引诱器",
+      "源石蟲引誘器",
+      "yuanshichongyinyouqi",
+      "yscyyq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_483_xbtrophy": [
+    [
+      "“源石虫之心”",
+      "“源石蟲之心”",
+      "“yuanshichongzhixin”",
+      "“ysczx”",
       0,
       0,
       0
