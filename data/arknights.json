@@ -17,7 +17,8 @@
       "_test#1",
       "_winter#1",
       "id:char_1001_amiya2_2",
-      "id:char_1001_amiya2_casc#1"
+      "id:char_1001_amiya2_casc#1",
+      "id:char_1037_amiya3_2"
     ],
     [
       "operator"
@@ -130,7 +131,8 @@
     [
       "",
       "_2",
-      "_boc#4"
+      "_boc#4",
+      "_iteration#2"
     ],
     [
       "operator"
@@ -464,6 +466,42 @@
       "Jessica the Liberated",
       "滌火ジェシカ",
       "BS30"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1035_wisdel": [
+    [
+      "维什戴尔",
+      "維什戴爾",
+      "weishendaier",
+      "wsde",
+      0,
+      0,
+      "B00W"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1036_fang2": [
+    [
+      "历阵锐枪芬",
+      "歷陣銳槍芬",
+      "lizhenruiqiangfen",
+      "lzrqf",
+      0,
+      0,
+      "RF04"
     ],
     [
       "",
@@ -848,6 +886,7 @@
     [
       "",
       "_2",
+      "_iteration#2",
       "_marthe#3"
     ],
     [
@@ -2202,7 +2241,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_boc#8"
     ],
     [
       "operator"
@@ -2392,7 +2432,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_boc#8"
     ],
     [
       "operator"
@@ -2901,6 +2942,7 @@
     [
       "",
       "_2",
+      "_boc#8",
       "_it#1"
     ],
     [
@@ -4679,7 +4721,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_boc#8"
     ],
     [
       "operator"
@@ -5150,6 +5193,59 @@
     [
       "",
       "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4133_logos": [
+    [
+      "逻各斯",
+      "邏各斯",
+      "luogesi",
+      "lgs",
+      0,
+      0,
+      "RE03"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4134_cetsyr": [
+    [
+      "魔王",
+      "魔王",
+      "mowang",
+      "mw",
+      0,
+      0,
+      "DWDB"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4136_phonor": [
+    [
+      "PhonoR-0",
+      "PhonoR-0",
+      "PhonoR-0",
+      "PhonoR-0",
+      0,
+      0,
+      "RCX6"
+    ],
+    [
+      ""
     ],
     [
       "operator"
@@ -20318,7 +20414,8 @@
     ],
     [
       "",
-      "_boc#4"
+      "_boc#4",
+      "_iteration#2"
     ],
     [
       "token"
@@ -20624,7 +20721,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_boc#8"
     ],
     [
       "token"
@@ -20689,6 +20787,23 @@
       "沙地獸",
       "shadishou",
       "sds",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10035_wisdel_wward": [
+    [
+      "魂灵之影",
+      "魂靈之影",
+      "hunlingzhiying",
+      "hlzy",
       0,
       0,
       0
@@ -22304,6 +22419,57 @@
       "幽影門扉",
       "youyingmenfei",
       "yymf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_158_lrsteam": [
+    [
+      "查尔斯·林奇",
+      "查爾斯·林奇",
+      "chaersi·linqi",
+      "ces·lq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_159_lrcore": [
+    [
+      "核心增幅器",
+      "核心增幅器",
+      "hexinzengfuqi",
+      "hxzfq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_161_lrcage": [
+    [
+      "枯朽祭坛",
+      "枯朽祭壇",
+      "kuxiujitan",
+      "kxjt",
       0,
       0,
       0
