@@ -3705,7 +3705,8 @@
       "RCX4"
     ],
     [
-      ""
+      "",
+      "_marthe#7"
     ],
     [
       "operator"
@@ -22470,6 +22471,40 @@
       "枯朽祭壇",
       "kuxiujitan",
       "kxjt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_165_muftbl": [
+    [
+      "足球",
+      "足球",
+      "zuqiu",
+      "zq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_166_muwork": [
+    [
+      "折叠设施维护员",
+      "摺疊設施維護員",
+      "zhediesheshiweihuyuan",
+      "zdsswhy",
       0,
       0,
       0
