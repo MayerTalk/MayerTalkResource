@@ -188,7 +188,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#34"
     ],
     [
       "operator"
@@ -1464,6 +1465,7 @@
     [
       "",
       "_2",
+      "_sightseer#1",
       "_witch#1"
     ],
     [
@@ -1897,7 +1899,7 @@
       "黍",
       "shu",
       "s",
-      0,
+      "Shu",
       "シュウ",
       "NM05"
     ],
@@ -3959,6 +3961,7 @@
     [
       "",
       "_2",
+      "_sightseer#1",
       "_snow#2"
     ],
     [
@@ -4122,7 +4125,7 @@
       "紅隼",
       "hongsun",
       "hs",
-      0,
+      "Kestrel",
       "ケストレル",
       "SG12"
     ],
@@ -4434,6 +4437,24 @@
       "",
       "_2",
       "_wild#7"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4058_pepe": [
+    [
+      "佩佩",
+      "佩佩",
+      "peipei",
+      "pp",
+      0,
+      0,
+      "SG14"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -4770,7 +4791,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sightseer#1"
     ],
     [
       "operator"
@@ -5033,7 +5055,7 @@
       "萬頃",
       "wanqing",
       "wq",
-      0,
+      "Wanqing",
       "ワンチィン",
       "YD13"
     ],
@@ -5070,7 +5092,7 @@
       "左樂",
       "zuole",
       "zl",
-      0,
+      "Zuo Le",
       "ズオ・ラウ",
       "YD06"
     ],
@@ -5088,7 +5110,7 @@
       "小滿",
       "xiaoman",
       "xm",
-      0,
+      "Grain Buds",
       "グレインバッズ",
       "YD14"
     ],
@@ -5292,6 +5314,60 @@
       0,
       0,
       "AE03"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4138_narant": [
+    [
+      "娜仁图亚",
+      "娜仁圖亞",
+      "narentuya",
+      "nrty",
+      0,
+      0,
+      "SG17"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4139_papyrs": [
+    [
+      "莎草",
+      "莎草",
+      "suocao",
+      "sc",
+      0,
+      0,
+      "SG19"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4140_lasher": [
+    [
+      "衡沙",
+      "衡沙",
+      "hengsha",
+      "hs",
+      0,
+      0,
+      "SG23"
     ],
     [
       "",
@@ -6075,7 +6151,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#34"
     ],
     [
       "operator"
@@ -20270,6 +20347,7 @@
     ],
     [
       "",
+      "_sightseer#1",
       "_witch#1"
     ],
     [
@@ -20414,6 +20492,7 @@
     ],
     [
       "",
+      "_sightseer#1",
       "_snow#2"
     ],
     [
@@ -20929,6 +21008,23 @@
       "魂靈之影",
       "hunlingzhiying",
       "hlzy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10036_lasher_mcbird": [
+    [
+      "发条羽兽",
+      "發條羽獸",
+      "fatiaoyushou",
+      "ftys",
       0,
       0,
       0
@@ -22425,7 +22521,7 @@
       "阻流閥",
       "zuliufa",
       "zlf",
-      0,
+      "Throttle Valve",
       "水門",
       0
     ],
@@ -22442,7 +22538,7 @@
       "泵站",
       "bengzhan",
       "bz",
-      0,
+      "Pumping Station",
       "給水ポンプ",
       0
     ],
@@ -22459,7 +22555,7 @@
       "封阻物",
       "fengzuwu",
       "fzw",
-      0,
+      "Barricade",
       "バリケード",
       0
     ],
@@ -22476,7 +22572,7 @@
       "源石爆炸物",
       "yuanshibaozhawu",
       "ysbzw",
-      0,
+      "Originium Explosive",
       "源石爆弾",
       0
     ],
@@ -22493,7 +22589,7 @@
       "封阻加固裝置",
       "fengzujiaguzhuangzhi",
       "fzjgzz",
-      0,
+      "Block Reinforcement Device",
       "バリケード補強装置",
       0
     ],
@@ -22510,7 +22606,7 @@
       "臨時掩護裝置",
       "linshiyanhuzhuangzhi",
       "lsyhzz",
-      0,
+      "Temporary Cover",
       "仮設掩体装置",
       0
     ],
@@ -22527,7 +22623,7 @@
       "詭雷佈設裝置",
       "guileibushezhuangzhi",
       "glbszz",
-      0,
+      "Mine Deployer",
       "トラップ設置装置",
       0
     ],
@@ -22674,6 +22770,40 @@
       "trap"
     ]
   ],
+  "trap_181_sgray": [
+    [
+      "结晶消除桩",
+      "結晶消除樁",
+      "jiejingxiaochuzhuang",
+      "jjxcz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_182_sglink": [
+    [
+      "纯净结晶",
+      "純淨結晶",
+      "chunjingjiejing",
+      "cjjj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_400_xbfarm": [
     [
       "便携式种植槽",
@@ -22697,7 +22827,7 @@
       "木材採集站",
       "mucaicaijizhan",
       "mccjz",
-      "Basic Gathering Hub",
+      "Sawing Harvester Hub",
       "木材採取基地",
       0
     ],
@@ -23020,7 +23150,7 @@
       "石材採集站",
       "shicaicaijizhan",
       "sccjz",
-      "Advanced Gathering Hub",
+      "Quarrying Harvester Hub",
       "石材採取基地",
       0
     ],
@@ -23037,7 +23167,7 @@
       "鐵礦採集站",
       "tiekuangcaijizhan",
       "tkcjz",
-      "Executive Gathering Hub",
+      "Mining Harvester Hub",
       "鉄鉱石採取基地",
       0
     ],
@@ -23054,7 +23184,7 @@
       "作戰中心",
       "zuozhanzhongxin",
       "zzzx",
-      0,
+      "Operations Station",
       "作戦司令部",
       0
     ],
@@ -23071,7 +23201,7 @@
       "“紀念”",
       "“jinian”",
       "“jn”",
-      0,
+      "Lootmark",
       "「記念」",
       0
     ],
@@ -23088,7 +23218,7 @@
       "獸欄",
       "shoulan",
       "sl",
-      0,
+      "Corral",
       "畜舎",
       0
     ],
@@ -23105,7 +23235,7 @@
       "污濁泥沼",
       "wuzhuonizhao",
       "wznz",
-      0,
+      "Cursed Mire",
       "汚濁した泥沼",
       0
     ],
@@ -23122,7 +23252,7 @@
       "煙霧發射臺",
       "yanwufashetai",
       "ywfst",
-      0,
+      "Smoke Launcher",
       "煙幕発射台",
       0
     ],
@@ -23139,7 +23269,7 @@
       "澄亮採集站",
       "chengliangcaijizhan",
       "clcjz",
-      0,
+      "Extracting Harvester Hub",
       "透珀石採取基地",
       0
     ],
@@ -23156,7 +23286,7 @@
       "熒光棒",
       "yingguangbang",
       "ygb",
-      0,
+      "Glow Stick",
       "ケミカルライト",
       0
     ],
@@ -23173,7 +23303,7 @@
       "捕獵籠",
       "bulielong",
       "bll",
-      0,
+      "Beast Trap",
       "捕獲カゴ",
       0
     ],
@@ -23190,7 +23320,7 @@
       "尋寶儀",
       "xunbaoyi",
       "xby",
-      0,
+      "Prospector",
       "金属探知機",
       0
     ],
@@ -23207,7 +23337,7 @@
       "激勵劑",
       "jiliji",
       "jlj",
-      0,
+      "Restanding Potion",
       "激励剤",
       0
     ],
@@ -23224,7 +23354,7 @@
       "冰爆罐",
       "bingbaoguan",
       "bbg",
-      0,
+      "Ice Bomb",
       "氷爆缶",
       0
     ],
@@ -23241,7 +23371,7 @@
       "種植箱集羣\n",
       "zhongzhixiangjiqun\n",
       "zzxjq\n",
-      0,
+      "Planting Box Group\n",
       "栽培ボックス",
       0
     ],
@@ -23258,7 +23388,7 @@
       "高臺工事",
       "gaotaigongshi",
       "gtgs",
-      0,
+      "Battlement",
       "臨時高台",
       0
     ],
@@ -23275,7 +23405,7 @@
       "反應壁障",
       "fanyingbizhang",
       "fybz",
-      0,
+      "Reactive Barrier",
       "反応障壁",
       0
     ],
@@ -23292,7 +23422,7 @@
       "監視哨站",
       "jianshishaozhan",
       "jssz",
-      0,
+      "Watch Tower",
       "監視塔",
       0
     ],
@@ -23309,7 +23439,7 @@
       "靈動清泉",
       "lingdongqingquan",
       "ldqq",
-      0,
+      "Fountain",
       "涼しげな泉",
       0
     ],
@@ -23326,7 +23456,7 @@
       "靜謐盆栽",
       "jingmipenzai",
       "jmpz",
-      0,
+      "Potting",
       "静かなる盆栽",
       0
     ],
@@ -23343,7 +23473,7 @@
       "休閒長椅",
       "xiuxianzhangyi",
       "xxzy",
-      0,
+      "Bench",
       "休憩用ベンチ",
       0
     ],
@@ -23360,7 +23490,7 @@
       "獵獲籠",
       "liehuolong",
       "lhl",
-      0,
+      "Game Holding Cage",
       "捕獲カゴ",
       0
     ],
@@ -23377,7 +23507,7 @@
       "失衡異香",
       "shihengyixiang",
       "shyx",
-      0,
+      "Overspeed Spice",
       "眩暈のお香",
       0
     ],
@@ -23394,7 +23524,7 @@
       "特製水上平臺",
       "tezhishuishangpingtai",
       "tzsspt",
-      0,
+      "Custom Floating Platform",
       "特設ボート",
       0
     ],
