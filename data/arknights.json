@@ -22805,6 +22805,23 @@
       "trap"
     ]
   ],
+  "trap_183_sheltk": [
+    [
+      "作战专用掩体",
+      "作戰專用掩體",
+      "zuozhanzhuanyongyanti",
+      "zzzyyt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_400_xbfarm": [
     [
       "便携式种植槽",
@@ -24511,6 +24528,176 @@
       "“黏黏的贈品”",
       "“nianniandezengpin”",
       "“nndzp”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_765_bmoney": [
+    [
+      "无可置疑的罪证",
+      "無可置疑的罪證",
+      "wukezhiyidezuizheng",
+      "wkzydzz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_768_godch": [
+    [
+      "保全人才合作协议",
+      "保全人才合作協議",
+      "baoquanrencaihezuoxieyi",
+      "bqrchzxy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_769_godcha": [
+    [
+      "加急许可条款",
+      "加急許可條款",
+      "jiajixuketiaokuan",
+      "jjxktk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_770_godchb": [
+    [
+      "临时任命条款",
+      "臨時任命條款",
+      "linshirenmingtiaokuan",
+      "lsrmtk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_771_bqrnge": [
+    [
+      "皇家科学院望远镜",
+      "皇家科學院望遠鏡",
+      "huangjiakexueyuanwangyuanjing",
+      "hjkxywyj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_772_bqrngea": [
+    [
+      "专业显示模块",
+      "專業顯示模塊",
+      "zhuanyexianshimokuai",
+      "zyxsmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_773_bqrngeb": [
+    [
+      "灵活架设模块",
+      "靈活架設模塊",
+      "linghuojiashemokuai",
+      "lhjsmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_774_bqmlee": [
+    [
+      "攀云机",
+      "攀雲機",
+      "panyunji",
+      "pyj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_775_bqmleea": [
+    [
+      "加固扩存改装",
+      "加固擴存改裝",
+      "jiagukuocungaizhuang",
+      "jgkcgz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_776_bqmleeb": [
+    [
+      "长距增运改装",
+      "長距增運改裝",
+      "zhangjuzengyungaizhuang",
+      "zjzygz",
       0,
       0,
       0
