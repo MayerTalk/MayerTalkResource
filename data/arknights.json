@@ -4864,7 +4864,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_summer#18"
     ],
     [
       "operator"
@@ -4936,7 +4937,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#34"
     ],
     [
       "operator"
@@ -23576,6 +23578,278 @@
       "“源石蟲之心”",
       "“yuanshichongzhixin”",
       "“ysczx”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_487_xblfen": [
+    [
+      "大型兽栏",
+      "大型獸欄",
+      "daxingshoulan",
+      "dxsl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_488_xbtwod": [
+    [
+      "全自动切木站",
+      "全自動切木站",
+      "quanzidongqiemuzhan",
+      "qzdqmz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_489_xbtrok": [
+    [
+      "全自动掘石站",
+      "全自動掘石站",
+      "quanzidongjueshizhan",
+      "qzdjsz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_490_xbtiro": [
+    [
+      "全自动采铁站",
+      "全自動採鐵站",
+      "quanzidongcaitiezhan",
+      "qzdctz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_491_xbtwal": [
+    [
+      "虚影壁障",
+      "虛影壁障",
+      "xuyingbizhang",
+      "xybz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_493_xbabal": [
+    [
+      "追猎发射台",
+      "追獵發射臺",
+      "zhuiliefashetai",
+      "zlfst",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_494_xbasky": [
+    [
+      "拟南盏",
+      "擬南盞",
+      "ninanzhan",
+      "nnz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_495_xbasmi": [
+    [
+      "草香粉",
+      "草香粉",
+      "caoxiangfen",
+      "cxf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_496_xbaasm": [
+    [
+      "稀有·草香粉",
+      "稀有·草香粉",
+      "xiyou·caoxiangfen",
+      "xy·cxf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_497_xbarok": [
+    [
+      "岩锤",
+      "巖錘",
+      "yanchui",
+      "yc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_498_xbaaro": [
+    [
+      "稀有·岩锤",
+      "稀有·巖錘",
+      "xiyou·yanchui",
+      "xy·yc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_499_xbaask": [
+    [
+      "稀有·拟南盏",
+      "稀有·擬南盞",
+      "xiyou·ninanzhan",
+      "xy·nnz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_509_xbf1g": [
+    [
+      "木材采集站·采购",
+      "木材採集站·採購",
+      "mucaicaijizhan·caigou",
+      "mccjz·cg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_510_xbf2g": [
+    [
+      "石材采集站·采购",
+      "石材採集站·採購",
+      "shicaicaijizhan·caigou",
+      "sccjz·cg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_511_xbf3g": [
+    [
+      "铁矿采集站·采购",
+      "鐵礦採集站·採購",
+      "tiekuangcaijizhan·caigou",
+      "tkcjz·cg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_512_xbwfg": [
+    [
+      "蟹蟹抽水泵·采购",
+      "蟹蟹抽水泵·採購",
+      "xiexiechoushuibeng·caigou",
+      "xxcsb·cg",
       0,
       0,
       0
