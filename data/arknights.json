@@ -248,6 +248,7 @@
     [
       "",
       "_2",
+      "_game#3",
       "_nian#8"
     ],
     [
@@ -3102,7 +3103,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_game#3"
     ],
     [
       "operator"
@@ -3943,7 +3945,8 @@
     [
       "",
       "_2",
-      "_ambienceSynesthesia#3"
+      "_ambienceSynesthesia#3",
+      "_game#3"
     ],
     [
       "operator"
@@ -5371,6 +5374,79 @@
       0,
       0,
       "SG23"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4141_marcil": [
+    [
+      "玛露西尔",
+      "瑪露西爾",
+      "maluxier",
+      "mlxe",
+      0,
+      0,
+      "DD02"
+    ],
+    [
+      "",
+      "_2",
+      "_dungeon#1"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4142_laios": [
+    [
+      "莱欧斯",
+      "萊歐斯",
+      "laiousi",
+      "los",
+      0,
+      0,
+      "DD01"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4143_sensi": [
+    [
+      "森西",
+      "森西",
+      "senxi",
+      "sx",
+      0,
+      0,
+      "DD04"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4144_chilc": [
+    [
+      "齐尔查克",
+      "齊爾查克",
+      "qierchake",
+      "qeck",
+      0,
+      0,
+      "DD03"
     ],
     [
       "",
@@ -22762,6 +22838,91 @@
       "摺疊設施維護員",
       "zhediesheshiweihuyuan",
       "zdsswhy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_173_slfrut": [
+    [
+      "闪亮果实",
+      "閃亮果實",
+      "shanliangguoshi",
+      "slgs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_174_smfrut": [
+    [
+      "奇异黑光果实",
+      "奇異黑光果實",
+      "qiyiheiguangguoshi",
+      "qyhggs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_175_frfrut": [
+    [
+      "香甜烤果子",
+      "香甜烤果子",
+      "xiangtiankaoguozi",
+      "xtkgz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_176_frutwn": [
+    [
+      "缤纷果酒",
+      "繽紛果酒",
+      "binfenguojiu",
+      "bfgj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_177_tentcl": [
+    [
+      "宝箱的肉？",
+      "寶箱的肉？",
+      "baoxiangderou？",
+      "bxdr？",
       0,
       0,
       0
