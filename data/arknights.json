@@ -93,7 +93,8 @@
     [
       "",
       "_2",
-      "_as#1"
+      "_as#1",
+      "_witch#5"
     ],
     [
       "operator"
@@ -190,6 +191,24 @@
       "",
       "_2",
       "_epoque#34"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1019_siege2": [
+    [
+      "维娜·维多利亚",
+      "維娜·維多利亞",
+      "weina·weiduoliya",
+      "wn·wdly",
+      0,
+      0,
+      "VC00"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -2785,7 +2804,8 @@
       "PA65"
     ],
     [
-      ""
+      "",
+      "_witch#5"
     ],
     [
       "operator"
@@ -4980,7 +5000,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_witch#5"
     ],
     [
       "operator"
@@ -5034,7 +5055,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_witch#5"
     ],
     [
       "operator"
@@ -5546,6 +5568,24 @@
       "",
       "_2",
       "_boc#3"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4162_cathy": [
+    [
+      "凯瑟琳",
+      "凱瑟琳",
+      "kaiselin",
+      "ksl",
+      0,
+      0,
+      "VC20"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -6217,6 +6257,24 @@
       "",
       "_2",
       "_ambienceSynesthesia#2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_487_bobb": [
+    [
+      "波卜",
+      "波卜",
+      "bobo",
+      "bb",
+      0,
+      0,
+      "CB32"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -21136,6 +21194,23 @@
       "token"
     ]
   ],
+  "token_10041_cathy_catsld": [
+    [
+      "爬行号·防护单元",
+      "爬行號·防護單元",
+      "paxinghao·fanghudanyuan",
+      "pxh·fhdy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
   "trap_001_crate": [
     [
       "障碍物",
@@ -22978,6 +23053,23 @@
       "作戰專用掩體",
       "zuozhanzhuanyongyanti",
       "zzzyyt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_184_vtarsn": [
+    [
+      "军工厂指令平台",
+      "軍工廠指令平臺",
+      "jungongchangzhilingpingtai",
+      "jgczlpt",
       0,
       0,
       0
