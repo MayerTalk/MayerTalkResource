@@ -6574,7 +6574,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#37"
     ],
     [
       "operator"
@@ -6827,6 +6828,278 @@
       "ybgy-zz",
       "Reserve Operator - Defender",
       "予備隊員-重装",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_600_cpione": [
+    [
+      "预备干员-先锋",
+      "預備幹員-先鋒",
+      "yubeiganyuan-xianfeng",
+      "ybgy-xf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_601_cguard": [
+    [
+      "预备干员-近卫",
+      "預備幹員-近衛",
+      "yubeiganyuan-jinwei",
+      "ybgy-jw",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_602_cdfend": [
+    [
+      "预备干员-重装",
+      "預備幹員-重裝",
+      "yubeiganyuan-zhongzhuang",
+      "ybgy-zz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_603_csnipe": [
+    [
+      "预备干员-狙击",
+      "預備幹員-狙擊",
+      "yubeiganyuan-juji",
+      "ybgy-jj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_604_ccast": [
+    [
+      "预备干员-术师",
+      "預備幹員-術師",
+      "yubeiganyuan-shushi",
+      "ybgy-ss",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_605_cmedic": [
+    [
+      "预备干员-医疗",
+      "預備幹員-醫療",
+      "yubeiganyuan-yiliao",
+      "ybgy-yl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_606_csuppo": [
+    [
+      "预备干员-辅助",
+      "預備幹員-輔助",
+      "yubeiganyuan-fuzhu",
+      "ybgy-fz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_607_cspec": [
+    [
+      "预备干员-特种",
+      "預備幹員-特種",
+      "yubeiganyuan-tezhong",
+      "ybgy-tz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_608_acpion": [
+    [
+      "郁金香",
+      "鬱金香",
+      "yujinxiang",
+      "yjx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_609_acguad": [
+    [
+      "Sharp",
+      "Sharp",
+      "Sharp",
+      "Sharp",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_610_acfend": [
+    [
+      "Mechanist",
+      "Mechanist",
+      "Mechanist",
+      "Mechanist",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_611_acnipe": [
+    [
+      "Stormeye",
+      "Stormeye",
+      "Stormeye",
+      "Stormeye",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_612_accast": [
+    [
+      "Pith",
+      "Pith",
+      "Pith",
+      "Pith",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_613_acmedc": [
+    [
+      "Touch",
+      "Touch",
+      "Touch",
+      "Touch",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_614_acsupo": [
+    [
+      "Raidian",
+      "Raidian",
+      "Raidian",
+      "Raidian",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_615_acspec": [
+    [
+      "Misery",
+      "Misery",
+      "Misery",
+      "Misery",
+      0,
+      0,
       0
     ],
     [
