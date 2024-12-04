@@ -4758,8 +4758,8 @@
       "海霓",
       "haini",
       "hn",
-      0,
-      0,
+      "Lucilla",
+      "ルシーラ",
       "AE05"
     ],
     [
@@ -5403,8 +5403,8 @@
       "深巡",
       "shenxun",
       "sx",
-      0,
-      0,
+      "Underflow",
+      "アンダーフロー",
       "AE03"
     ],
     [
@@ -5548,8 +5548,8 @@
       "烏爾比安",
       "wuerbian",
       "weba",
-      0,
-      0,
+      "Ulpianus",
+      "ウルピアヌス",
       "AA00"
     ],
     [
@@ -16414,7 +16414,7 @@
       "家族滅跡人",
       "jiazumiejiren",
       "jzmjr",
-      "Famiglia Cleaner",
+      "Famiglia Silencer",
       "マフィアの掃除人",
       "SA13"
     ],
@@ -16431,7 +16431,7 @@
       "家族暗影滅跡人",
       "jiazuanyingmiejiren",
       "jzaymjr",
-      "Famiglia Silent Cleaner",
+      "Famiglia Shadow Silencer",
       "マフィアの一流掃除人",
       "SA14"
     ],
@@ -23220,8 +23220,8 @@
       "小幫手",
       "xiaobangshou",
       "xbs",
-      0,
-      0,
+      "'Little Handy'",
+      "リトル・ハンディ",
       0
     ],
     [
@@ -23441,8 +23441,8 @@
       "作戰專用掩體",
       "zuozhanzhuanyongyanti",
       "zzzyyt",
-      0,
-      0,
+      "Combat Special Barricade",
+      "作戦用掩体",
       0
     ],
     [
@@ -23765,7 +23765,7 @@
       "ziyuanguihuazhan",
       "zyghz",
       "Resource Planning Station",
-      "資源計画所",
+      "人材計画所",
       0
     ],
     [
@@ -24172,7 +24172,7 @@
       "獵獲籠",
       "liehuolong",
       "lhl",
-      "Game Holding Cage",
+      "Beast Cage",
       "捕獲カゴ",
       0
     ],
@@ -25481,8 +25481,8 @@
       "無可置疑的罪證",
       "wukezhiyidezuizheng",
       "wkzydzz",
-      0,
-      0,
+      "Indisputable Evidence",
+      "決定的な証拠",
       0
     ],
     [
@@ -25498,8 +25498,8 @@
       "保全人才合作協議",
       "baoquanrencaihezuoxieyi",
       "bqrchzxy",
-      0,
-      0,
+      "Security Talent Agreement",
+      "保全人員協力協定",
       0
     ],
     [
@@ -25515,8 +25515,8 @@
       "加急許可條款",
       "jiajixuketiaokuan",
       "jjxktk",
-      0,
-      0,
+      "Expedited Licensing Terms",
+      "緊急派遣規約",
       0
     ],
     [
@@ -25532,8 +25532,8 @@
       "臨時任命條款",
       "linshirenmingtiaokuan",
       "lsrmtk",
-      0,
-      0,
+      "Interim Appointment Terms",
+      "臨時任命規約",
       0
     ],
     [
@@ -25549,8 +25549,8 @@
       "皇家科學院望遠鏡",
       "huangjiakexueyuanwangyuanjing",
       "hjkxywyj",
-      0,
-      0,
+      "Royal Academy of Sciences Telescope",
+      "科学研究用望遠鏡",
       0
     ],
     [
@@ -25566,8 +25566,8 @@
       "專業顯示模塊",
       "zhuanyexianshimokuai",
       "zyxsmk",
-      0,
-      0,
+      "Professional Display Module",
+      "プロ仕様モニターモジュール",
       0
     ],
     [
@@ -25583,8 +25583,8 @@
       "靈活架設模塊",
       "linghuojiashemokuai",
       "lhjsmk",
-      0,
-      0,
+      "Agile Installation Module",
+      "フレキシブル設置モジュール",
       0
     ],
     [
@@ -25600,8 +25600,8 @@
       "攀雲機",
       "panyunji",
       "pyj",
-      0,
-      0,
+      "Cloudstepper",
+      "登雲具",
       0
     ],
     [
@@ -25617,8 +25617,8 @@
       "加固擴存改裝",
       "jiagukuocungaizhuang",
       "jgkcgz",
-      0,
-      0,
+      "Reinforcement Expansion Modification",
+      "補強＆拡容改造",
       0
     ],
     [
@@ -25634,8 +25634,8 @@
       "長距增運改裝",
       "zhangjuzengyungaizhuang",
       "zjzygz",
-      0,
-      0,
+      "Long-Expansion Modification",
+      "遠距離＆効率化改造",
       0
     ],
     [
