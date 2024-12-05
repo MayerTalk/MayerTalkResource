@@ -554,6 +554,24 @@
       "operator"
     ]
   ],
+  "char_1039_thorn2": [
+    [
+      "引星棘刺",
+      "引星棘刺",
+      "yinxingjici",
+      "yxjc",
+      0,
+      0,
+      "II02"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_103_angel": [
     [
       "能天使",
@@ -5135,7 +5153,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_shining#2"
     ],
     [
       "operator"
@@ -5679,6 +5698,42 @@
       0,
       0,
       "VC20"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4163_rosesa": [
+    [
+      "瑰盐",
+      "瑰鹽",
+      "guiyan",
+      "gy",
+      0,
+      0,
+      "II11"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4164_tecno": [
+    [
+      "特克诺",
+      "特克諾",
+      "tekenuo",
+      "tkn",
+      0,
+      0,
+      "BV23"
     ],
     [
       "",
@@ -6371,7 +6426,8 @@
     [
       "",
       "_2",
-      "_ambienceSynesthesia#2"
+      "_ambienceSynesthesia#2",
+      "_shining#2"
     ],
     [
       "operator"
@@ -21525,7 +21581,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_shining#2"
     ],
     [
       "token"
@@ -21588,6 +21645,23 @@
       "爬行號·防護單元",
       "paxinghao·fanghudanyuan",
       "pxh·fhdy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10042_tecno_puppet": [
+    [
+      "木偶舞者",
+      "木偶舞者",
+      "muouwuzhe",
+      "mowz",
       0,
       0,
       0
@@ -25636,6 +25710,23 @@
       "zjzygz",
       "Long-Expansion Modification",
       "遠距離＆効率化改造",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_777_giacan": [
+    [
+      "“留声机”底座",
+      "“留聲機”底座",
+      "“liushengji”dizuo",
+      "“lsj”dz",
+      0,
+      0,
       0
     ],
     [
