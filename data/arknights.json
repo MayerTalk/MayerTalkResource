@@ -24336,7 +24336,7 @@
       "大型獸欄",
       "daxingshoulan",
       "dxsl",
-      0,
+      "Large Corral",
       "大型畜舎",
       0
     ],
@@ -24353,7 +24353,7 @@
       "全自動切木站",
       "quanzidongqiemuzhan",
       "qzdqmz",
-      0,
+      "Auto Sawing Hub",
       "全自動伐採基地",
       0
     ],
@@ -24370,7 +24370,7 @@
       "全自動掘石站",
       "quanzidongjueshizhan",
       "qzdjsz",
-      0,
+      "Auto Quarry Hub",
       "全自動採石基地",
       0
     ],
@@ -24387,7 +24387,7 @@
       "全自動採鐵站",
       "quanzidongcaitiezhan",
       "qzdctz",
-      0,
+      "Auto Mining Hub",
       "全自動採鉱基地",
       0
     ],
@@ -24404,7 +24404,7 @@
       "虛影壁障",
       "xuyingbizhang",
       "xybz",
-      0,
+      "Phantomic Barrier",
       "虚影障壁",
       0
     ],
@@ -24421,7 +24421,7 @@
       "追獵發射臺",
       "zhuiliefashetai",
       "zlfst",
-      0,
+      "Hunting Net Launcher",
       "狩猟用発射台",
       0
     ],
@@ -24438,7 +24438,7 @@
       "擬南盞",
       "ninanzhan",
       "nnz",
-      0,
+      "Thale Calyx",
       "ナズナモドキの花",
       0
     ],
@@ -24455,7 +24455,7 @@
       "草香粉",
       "caoxiangfen",
       "cxf",
-      0,
+      "Spicy Pollen",
       "香草の粉",
       0
     ],
@@ -24472,7 +24472,7 @@
       "稀有·草香粉",
       "xiyou·caoxiangfen",
       "xy·cxf",
-      0,
+      "Rare Spicy Pollen",
       "珍しい香草の粉",
       0
     ],
@@ -24489,7 +24489,7 @@
       "巖錘",
       "yanchui",
       "yc",
-      0,
+      "Rock Hammer",
       "ロックハンマー",
       0
     ],
@@ -24506,7 +24506,7 @@
       "稀有·巖錘",
       "xiyou·yanchui",
       "xy·yc",
-      0,
+      "Rare Rock Hammer",
       "珍しいロックハンマー",
       0
     ],
@@ -24523,7 +24523,7 @@
       "稀有·擬南盞",
       "xiyou·ninanzhan",
       "xy·nnz",
-      0,
+      "Rare Thale Calyx",
       "珍しいナズナモドキの花",
       0
     ],
@@ -24540,7 +24540,7 @@
       "木材採集站·採購",
       "mucaicaijizhan·caigou",
       "mccjz·cg",
-      0,
+      "Deluxe Sawing Harvester Hub",
       "既製品の木材採取基地",
       0
     ],
@@ -24557,7 +24557,7 @@
       "石材採集站·採購",
       "shicaicaijizhan·caigou",
       "sccjz·cg",
-      0,
+      "Deluxe Quarrying Harvester Hub",
       "既製品の石材採取基地",
       0
     ],
@@ -24574,7 +24574,7 @@
       "鐵礦採集站·採購",
       "tiekuangcaijizhan·caigou",
       "tkcjz·cg",
-      0,
+      "Deluxe Mining Harvester Hub",
       "既製品の鉄鉱石採取基地",
       0
     ],
@@ -24591,7 +24591,7 @@
       "蟹蟹抽水泵·採購",
       "xiexiechoushuibeng·caigou",
       "xxcsb·cg",
-      0,
+      "Deluxe Crabbie Pumpie",
       "既製品のカニカニポンプ",
       0
     ],
