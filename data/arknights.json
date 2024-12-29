@@ -3130,7 +3130,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_marthe#8"
     ],
     [
       "operator"
@@ -23555,6 +23556,125 @@
       "煙花發射器",
       "yanhuafasheqi",
       "yhfsq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_188_arcsum1": [
+    [
+      "街边电话亭",
+      "街邊電話亭",
+      "jiebiandianhuating",
+      "jbdht",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_189_arcsum2": [
+    [
+      "军营电话亭",
+      "軍營電話亭",
+      "junyingdianhuating",
+      "jydht",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_190_arcsum3": [
+    [
+      "超时空电话亭",
+      "超時空電話亭",
+      "chaoshikongdianhuating",
+      "cskdht",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_191_arcexpd": [
+    [
+      "菜单电话机",
+      "菜單電話機",
+      "caidandianhuaji",
+      "cddhj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_194_arcsoda": [
+    [
+      "口渴乐乐",
+      "口渴樂樂",
+      "koukelele",
+      "kkll",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_195_arcpw": [
+    [
+      "大力拳套",
+      "大力拳套",
+      "daliquantao",
+      "dlqt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_210_arcgrg": [
+    [
+      "两栖码头",
+      "兩棲碼頭",
+      "liangqimatou",
+      "lqmt",
       0,
       0,
       0
