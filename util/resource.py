@@ -13,6 +13,10 @@ from .upload import Uploader
 from .time import get_time
 
 
+class ServerError(Exception):
+    pass
+
+
 class Avatar:
     prefix = 'avatar/'
 
@@ -81,6 +85,8 @@ class Resource:
             if r.status != 200:
                 if r.status == 404:
                     raise FileNotFoundError(f'get {self.series} {target} failed {url} response 404')
+                elif 500 <= r.status < 600:
+                    raise ServerError(r.status)
                 else:
                     raise AssertionError(f'get {self.series} {target} failed {url} {r.status}')
             return await r.read() if byte else await r.text()
@@ -150,7 +156,7 @@ class Resource:
 
         try:
             res = await self.special_char
-        except (AssertionError, FileNotFoundError):
+        except (AssertionError, FileNotFoundError, ServerError):
             res = {}
 
         for char_id, data in res.items():
@@ -177,6 +183,8 @@ class Resource:
         except FileNotFoundError as e:
             print(f'upload {self.series} {char.avatars[avatar].raw} failed {e.args[0]}')
             char.avatars.pop(avatar)
+        except ServerError as e:
+            print(f'get {self.series} {char.avatars[avatar].raw} failed server error {e.args[0]}')
 
     async def update(self):
         self.clean()
