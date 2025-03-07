@@ -2676,7 +2676,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#42"
     ],
     [
       "operator"
@@ -3902,7 +3903,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_game#5"
     ],
     [
       "operator"
@@ -5072,7 +5074,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#42"
     ],
     [
       "operator"
@@ -5681,7 +5684,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#42"
     ],
     [
       "operator"
@@ -5870,6 +5874,24 @@
       "operator"
     ]
   ],
+  "char_4171_wulfen": [
+    [
+      "钼铅",
+      "鉬鉛",
+      "muqian",
+      "mq",
+      0,
+      0,
+      "SG27"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_4172_xingzh": [
     [
       "行箸",
@@ -5897,6 +5919,24 @@
       0,
       0,
       "VC29"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4177_brigid": [
+    [
+      "水灯心",
+      "水燈心",
+      "shuidengxin",
+      "sdx",
+      0,
+      0,
+      "DB04"
     ],
     [
       "",
@@ -6169,6 +6209,24 @@
       "_2",
       "_epoque#17",
       "_nian#10"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_450_necras": [
+    [
+      "死芒",
+      "死芒",
+      "simang",
+      "sm",
+      0,
+      0,
+      "DB01"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -21834,6 +21892,40 @@
       "token"
     ]
   ],
+  "token_10043_necras_skeltn": [
+    [
+      "悲叹的仆役",
+      "悲嘆的僕役",
+      "beitandepuyi",
+      "btdpy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10044_wulfen_mine": [
+    [
+      "矿石“杀手”",
+      "礦石“殺手”",
+      "kuangshi“shashou”",
+      "ks“ss”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
   "trap_001_crate": [
     [
       "障碍物",
@@ -23553,10 +23645,10 @@
   ],
   "trap_166_muwork": [
     [
-      "折叠设施维护员",
-      "摺疊設施維護員",
-      "zhediesheshiweihuyuan",
-      "zdsswhy",
+      "设施建筑工",
+      "設施建築工",
+      "sheshijianzhugong",
+      "ssjzg",
       "Foldable Facility Maintainer",
       "競技装置整備士",
       0
