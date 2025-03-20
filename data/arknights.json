@@ -1698,7 +1698,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#43"
     ],
     [
       "operator"
@@ -23938,6 +23939,108 @@
       "大力拳套",
       "daliquantao",
       "dlqt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_197_muulwr": [
+    [
+      "护具分发员",
+      "護具分發員",
+      "hujufenfayuan",
+      "hjffy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_198_muulas": [
+    [
+      "混乱烟花箱",
+      "混亂煙花箱",
+      "hunluanyanhuaxiang",
+      "hlyhx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_199_muulrg": [
+    [
+      "猛兽能量饮料",
+      "猛獸能量飲料",
+      "mengshounengliangyinliao",
+      "msnlyl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_200_muulcl": [
+    [
+      "喷射汽水机",
+      "噴射汽水機",
+      "pensheqishuiji",
+      "psqsj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_201_muulco": [
+    [
+      "赛场啦啦队",
+      "賽場啦啦隊",
+      "saichanglaladui",
+      "sclld",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_202_muworkg": [
+    [
+      "高级设施建筑工",
+      "高級設施建築工",
+      "gaojisheshijianzhugong",
+      "gjssjzg",
       0,
       0,
       0
