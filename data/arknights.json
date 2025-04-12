@@ -4814,6 +4814,7 @@
     [
       "",
       "_2",
+      "_ambienceSynesthesia#5",
       "_summer#11"
     ],
     [
@@ -4965,6 +4966,7 @@
     [
       "",
       "_2",
+      "_ambienceSynesthesia#5",
       "_boc#8"
     ],
     [
@@ -5433,7 +5435,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_whirlwind#8"
     ],
     [
       "operator"
@@ -5947,6 +5950,42 @@
       "operator"
     ]
   ],
+  "char_4178_alanna": [
+    [
+      "阿兰娜",
+      "阿蘭娜",
+      "alanna",
+      "aln",
+      0,
+      0,
+      "RB17"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4179_monstr": [
+    [
+      "Mon3tr",
+      "Mon3tr",
+      "Mon3tr",
+      "Mon3tr",
+      0,
+      0,
+      "R003"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_420_flamtl": [
     [
       "焰尾",
@@ -6172,6 +6211,24 @@
       "_2",
       "_epoque#31",
       "_shining#1"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_445_wscoot": [
+    [
+      "骋风",
+      "騁風",
+      "chengfeng",
+      "cf",
+      0,
+      0,
+      "YD22"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -7367,6 +7424,278 @@
     ],
     []
   ],
+  "enemy_10001_trslim": [
+    [
+      "简饲源石虫",
+      "簡飼源石蟲",
+      "jiansiyuanshichong",
+      "jsysc",
+      "Basic Slug",
+      "簡易飼育オリジムシ",
+      "DT1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10001_trslim_2": [
+    [
+      "精饲源石虫",
+      "精飼源石蟲",
+      "jingsiyuanshichong",
+      "jsysc",
+      "Gourmet Slug",
+      "丹精飼育オリジムシ",
+      "DT2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10002_trtrsl": [
+    [
+      "浆果虫",
+      "漿果蟲",
+      "jiangguochong",
+      "jgc",
+      "Berry Slug",
+      "フルーツムシ",
+      "DT3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10002_trtrsl_2": [
+    [
+      "硕果虫",
+      "碩果蟲",
+      "shuoguochong",
+      "sgc",
+      "Fruit Slug",
+      "完熟フルーツムシ",
+      "DT4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10003_trwlpl": [
+    [
+      "暴走食虫花",
+      "暴走食蟲花",
+      "baozoushichonghua",
+      "bzsch",
+      "Raging Slug Eater",
+      "暴走食虫花",
+      "DT5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10003_trwlpl_2": [
+    [
+      "暴走食人花",
+      "暴走食人花",
+      "baozoushirenhua",
+      "bzsrh",
+      "Raging Man Eater",
+      "暴走食人花",
+      "DT6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10004_trdiam": [
+    [
+      "浆果磐蟹",
+      "漿果磐蟹",
+      "jiangguopanxie",
+      "jgpx",
+      "Berry Metal Crab",
+      "フルーツガニ",
+      "DT7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10004_trdiam_2": [
+    [
+      "硕果磐蟹",
+      "碩果磐蟹",
+      "shuoguopanxie",
+      "sgpx",
+      "Fruit Metal Crab",
+      "完熟フルーツガニ",
+      "DT8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10005_trsmsb": [
+    [
+      "染污战士",
+      "染污戰士",
+      "ranwuzhanshi",
+      "rwzs",
+      "Corrupted Soldier",
+      "汚染戦士",
+      "DT9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10005_trsmsb_2": [
+    [
+      "染污勇士",
+      "染污勇士",
+      "ranwuyongshi",
+      "rwys",
+      "Corrupted Warrior",
+      "汚染勇士",
+      "DT10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10006_trsmgi": [
+    [
+      "染秽魔像",
+      "染穢魔像",
+      "ranhuimoxiang",
+      "rhmx",
+      "Corrupted Golem",
+      "汚穢ゴーレム",
+      "DT11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10006_trsmgi_2": [
+    [
+      "凶秽魔像",
+      "兇穢魔像",
+      "xionghuimoxiang",
+      "xhmx",
+      "Warped Golem",
+      "凶穢ゴーレム",
+      "DT12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10007_trspsb": [
+    [
+      "“酩酊”",
+      "“酩酊”",
+      "“mingding”",
+      "“md”",
+      "'Ink Brew'",
+      "「メイテイ」",
+      "DT13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10007_trspsb_2": [
+    [
+      "陶醉的“酩酊”",
+      "陶醉的“酩酊”",
+      "taozuide“mingding”",
+      "tzd“md”",
+      "Merry 'Ink Brew'",
+      "陶酔する「メイテイ」",
+      "DT14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10008_trbbox": [
+    [
+      "宝箱恐鱼",
+      "寶箱恐魚",
+      "baoxiangkongyu",
+      "bxky",
+      "Sea Terror Chest",
+      "宝箱恐魚",
+      "DT15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10008_trbbox_2": [
+    [
+      "宝箱海怪",
+      "寶箱海怪",
+      "baoxianghaiguai",
+      "bxhg",
+      "Sea Monster Chest",
+      "豪華宝箱恐魚",
+      "DT16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1000_gopro": [
     [
       "猎狗",
@@ -7418,6 +7747,346 @@
       "enemy"
     ]
   ],
+  "enemy_10010_sgnja": [
+    [
+      "市井盗贼",
+      "市井盜賊",
+      "shijingdaozei",
+      "sjdz",
+      "Street Bandit",
+      "市場の盗賊",
+      "GS1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10010_sgnja_2": [
+    [
+      "市井流窜盗贼",
+      "市井流竄盜賊",
+      "shijingliucuandaozei",
+      "sjlcdz",
+      "Roaming Street Bandit",
+      "放浪する市場の盗賊",
+      "GS2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10011_sgshot": [
+    [
+      "市井猎手",
+      "市井獵手",
+      "shijinglieshou",
+      "sjls",
+      "Street Hunter",
+      "市場の狩人",
+      "GS3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10011_sgshot_2": [
+    [
+      "市井流窜猎手",
+      "市井流竄獵手",
+      "shijingliucuanlieshou",
+      "sjlcls",
+      "Roaming Street Hunter",
+      "放浪する市場の狩人",
+      "GS4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10012_sgbtle": [
+    [
+      "237-1号展柜文物",
+      "237-1號展櫃文物",
+      "237-1haozhanguiwenwu",
+      "237-1hzgww",
+      "Exhibit 237-1",
+      "237-1号展示棚の文化財",
+      "GS5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10012_sgbtle_2": [
+    [
+      "237-2号展柜文物",
+      "237-2號展櫃文物",
+      "237-2haozhanguiwenwu",
+      "237-2hzgww",
+      "Exhibit 237-2",
+      "237-2号展示棚の文化財",
+      "GS6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10013_sgrob": [
+    [
+      "风情区小型车辇",
+      "風情區小型車輦",
+      "fengqingquxiaoxingchenian",
+      "fqqxxcn",
+      "Small Bejeweled Wagon",
+      "地域文化エリアの小型カート",
+      "GS7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10013_sgrob_2": [
+    [
+      "风情区大型车辇",
+      "風情區大型車輦",
+      "fengqingqudaxingchenian",
+      "fqqdxcn",
+      "Large Bejeweled Wagon",
+      "地域文化エリアの大型カート",
+      "GS8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10014_sgrich": [
+    [
+      "小型破损器皿",
+      "小型破損器皿",
+      "xiaoxingposunqimin",
+      "xxpsqm",
+      "Small Broken Vessel",
+      "壊れた小さな壺",
+      "GS9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10014_sgrich_2": [
+    [
+      "大型破碎器皿",
+      "大型破碎器皿",
+      "daxingposuiqimin",
+      "dxpsqm",
+      "Large Broken Vessel",
+      "壊れた大きな壺",
+      "GS10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10015_sgbird": [
+    [
+      "“滑翔的玩具”",
+      "“滑翔的玩具”",
+      "“huaxiangdewanju”",
+      "“hxdwj”",
+      "'Gliding Toy'",
+      "「空飛ぶおもちゃ」",
+      "GS11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10015_sgbird_2": [
+    [
+      "“喷射式冠冕”",
+      "“噴射式冠冕”",
+      "“pensheshiguanmian”",
+      "“pssgm”",
+      "'Gliding Crown'",
+      "「ジェット式王冠」",
+      "GS12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10016_sggint": [
+    [
+      "“愤怒蹬踏”",
+      "“憤怒蹬踏”",
+      "“fennudengta”",
+      "“fndt”",
+      "'Angry Stampede'",
+      "「怒りの一蹴」",
+      "GS13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10016_sggint_2": [
+    [
+      "“连续地愤怒蹬踏”",
+      "“連續地憤怒蹬踏”",
+      "“lianxudifennudengta”",
+      "“lxdfndt”",
+      "'Angry Rampage'",
+      "「止まらぬ怒りの連脚」",
+      "GS14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10017_sgass": [
+    [
+      "殿堂左侧雕像",
+      "殿堂左側雕像",
+      "diantangzuocediaoxiang",
+      "dtzcdx",
+      "Hall Statue (Left)",
+      "神殿左側の彫像",
+      "GS15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10017_sgass_2": [
+    [
+      "殿堂右侧雕像",
+      "殿堂右側雕像",
+      "diantangyoucediaoxiang",
+      "dtycdx",
+      "Hall Statue (Right)",
+      "神殿右側の彫像",
+      "GS16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10018_sgrobh": [
+    [
+      "“独轮车玩具”",
+      "“獨輪車玩具”",
+      "“dulunchewanju”",
+      "“dlcwj”",
+      "'Unicycle Toy'",
+      "「一輪車のおもちゃ」",
+      "GS17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10018_sgrobh_2": [
+    [
+      "“弹跳独轮车”",
+      "“彈跳獨輪車”",
+      "“dantiaodulunche”",
+      "“dtdlc”",
+      "'Bouncing Unicycle'",
+      "「飛び跳ねる一輪車」",
+      "GS18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10019_sgmum": [
+    [
+      "“以板之名”",
+      "“以板之名”",
+      "“yibanzhiming”",
+      "“ybzm”",
+      "'Bejeweled Slab Defender'",
+      "「石板の名において」",
+      "GS19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10019_sgmum_2": [
+    [
+      "“愿板与你同在”",
+      "“願板與你同在”",
+      "“yuanbanyunitongzai”",
+      "“ybyntz”",
+      "'Bejeweled Slab Guardian'",
+      "「石板と共にあらんことを」",
+      "GS20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1001_bigbo": [
     [
       "大鲍勃",
@@ -7452,6 +8121,261 @@
       "enemy"
     ]
   ],
+  "enemy_10020_sgcat": [
+    [
+      "米奥，热烈的考验者",
+      "米奧，熱烈的考驗者",
+      "miao，reliedekaoyanzhe",
+      "ma，rldkyz",
+      "Mio, the Eager Examinant",
+      "「試練を課す者」ミオ",
+      "MA"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10021_vtcar": [
+    [
+      "货运轨道车",
+      "貨運軌道車",
+      "huoyunguidaoche",
+      "hygdc",
+      "Freight Car",
+      "軌道貨車",
+      "LUD15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10022_vtskny": [
+    [
+      "新手拾荒者",
+      "新手拾荒者",
+      "xinshoushihuangzhe",
+      "xsshz",
+      "Novice Junkman",
+      "新入り流れ者",
+      "LUD16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10022_vtskny_2": [
+    [
+      "老练拾荒者",
+      "老練拾荒者",
+      "laolianshihuangzhe",
+      "llshz",
+      "Seasoned Junkman",
+      "熟練流れ者",
+      "LUD17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10023_vtsnky": [
+    [
+      "“护目镜”帮派窃贼",
+      "“護目鏡”幫派竊賊",
+      "“humujing”bangpaiqiezei",
+      "“hmj”bpqz",
+      "'Goggles' Gang Thief",
+      "「ゴーグル」のコソ泥",
+      "LUD18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10023_vtsnky_2": [
+    [
+      "“护目镜”帮派打手",
+      "“護目鏡”幫派打手",
+      "“humujing”bangpaidashou",
+      "“hmj”bpds",
+      "'Goggles' Gang Thug",
+      "「ゴーグル」の荒くれ者",
+      "LUD19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10024_vtstrn": [
+    [
+      "“街区自治队”成员",
+      "“街區自治隊”成員",
+      "“jiequzizhidui”chengyuan",
+      "“jqzzd”cy",
+      "'Neighborhood Watch' Member",
+      "「町内自治団」構成員",
+      "LUD20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10024_vtstrn_2": [
+    [
+      "“街区自治队”队长",
+      "“街區自治隊”隊長",
+      "“jiequzizhidui”duizhang",
+      "“jqzzd”dz",
+      "'Neighborhood Watch' Leader",
+      "「町内自治団」隊長",
+      "LUD21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10025_vtmstr": [
+    [
+      "“铣痕”团伙佣兵",
+      "“銑痕”團伙傭兵",
+      "“xihen”tuanhuoyongbing",
+      "“xh”thyb",
+      "'Millscar' Mercenary",
+      "「ミルスカー」の傭兵",
+      "LUD22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10025_vtmstr_2": [
+    [
+      "“铣痕”团伙精锐佣兵",
+      "“銑痕”團伙精銳傭兵",
+      "“xihen”tuanhuojingruiyongbing",
+      "“xh”thjryb",
+      "'Millscar' Elite Mercenary",
+      "「ミルスカー」の精鋭傭兵",
+      "LUD23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10026_vtzepl": [
+    [
+      "物资运输艇",
+      "物資運輸艇",
+      "wuziyunshuting",
+      "wzyst",
+      "Transport Vessel",
+      "物資輸送艇",
+      "LUD24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10026_vtzepl_2": [
+    [
+      "大容量物资运输艇",
+      "大容量物資運輸艇",
+      "darongliangwuziyunshuting",
+      "drlwzyst",
+      "Heavy Transport Vessel",
+      "大容量物資輸送艇",
+      "LUD25"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10027_vtsk": [
+    [
+      "“帝国的甲胄”",
+      "“帝國的甲冑”",
+      "“diguodejiazhou”",
+      "“dgdjz”",
+      "'Armor of the Empire'",
+      "「帝国の甲冑」",
+      "VSK1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10028_vtswd": [
+    [
+      "未装配刀片",
+      "未裝配刀片",
+      "weizhuangpeidaopian",
+      "wzpdp",
+      "Unequipped Blade",
+      "組み立て前の刃",
+      "LUD26"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10029_vtshld": [
+    [
+      "防护背心",
+      "防護背心",
+      "fanghubeixin",
+      "fhbx",
+      "Protective Vest",
+      "防護ベストの生地",
+      "LUD27"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1002_nsabr": [
     [
       "士兵",
@@ -7461,6 +8385,329 @@
       "Soldier",
       "兵士",
       "1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10030_vtwand": [
+    [
+      "冲击式施术单元",
+      "衝擊式施術單元",
+      "chongjishishishudanyuan",
+      "cjsssdy",
+      "Assault Arts Unit",
+      "アーツユニットの部品",
+      "LUD28"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10031_cnvsld": [
+    [
+      "业余竞演者",
+      "業餘競演者",
+      "yeyujingyanzhe",
+      "yyjyz",
+      0,
+      0,
+      "CNV1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10031_cnvsld_2": [
+    [
+      "专业竞演者",
+      "專業競演者",
+      "zhuanyejingyanzhe",
+      "zyjyz",
+      0,
+      0,
+      "CNV2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10032_cnvsnp": [
+    [
+      "礼花零售商",
+      "禮花零售商",
+      "lihualingshoushang",
+      "lhlss",
+      0,
+      0,
+      "CNV3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10032_cnvsnp_2": [
+    [
+      "礼花经销商",
+      "禮花經銷商",
+      "lihuajingxiaoshang",
+      "lhjxs",
+      0,
+      0,
+      "CNV4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10033_cnvbsk": [
+    [
+      "街头火舞艺人",
+      "街頭火舞藝人",
+      "jietouhuowuyiren",
+      "jthwyr",
+      0,
+      0,
+      "CNV5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10033_cnvbsk_2": [
+    [
+      "街头火舞明星",
+      "街頭火舞明星",
+      "jietouhuowumingxing",
+      "jthwmx",
+      0,
+      0,
+      "CNV6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10034_cnvsax": [
+    [
+      "节日爵士乐手",
+      "節日爵士樂手",
+      "jierijueshiyueshou",
+      "jrjsys",
+      0,
+      0,
+      "CNV7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10034_cnvsax_2": [
+    [
+      "巡游爵士乐手",
+      "巡遊爵士樂手",
+      "xunyoujueshiyueshou",
+      "xyjsys",
+      0,
+      0,
+      "CNV8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10035_cnvdnc": [
+    [
+      "热烈舞团独舞者",
+      "熱烈舞團獨舞者",
+      "reliewutuanduwuzhe",
+      "rlwtdwz",
+      0,
+      0,
+      "CNV9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10035_cnvdnc_2": [
+    [
+      "热烈舞团领舞者",
+      "熱烈舞團領舞者",
+      "reliewutuanlingwuzhe",
+      "rlwtlwz",
+      0,
+      0,
+      "CNV10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10036_cnvpvd": [
+    [
+      "节日零食商贩",
+      "節日零食商販",
+      "jierilingshishangfan",
+      "jrlssf",
+      0,
+      0,
+      "CNV11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10036_cnvpvd_2": [
+    [
+      "巡游零食商贩",
+      "巡遊零食商販",
+      "xunyoulingshishangfan",
+      "xylssf",
+      0,
+      0,
+      "CNV12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10037_cnvpcar": [
+    [
+      "节日零食车",
+      "節日零食車",
+      "jierilingshiche",
+      "jrlsc",
+      0,
+      0,
+      "CNV13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10037_cnvpcar_2": [
+    [
+      "巡游零食车",
+      "巡遊零食車",
+      "xunyoulingshiche",
+      "xylsc",
+      0,
+      0,
+      "CNV14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10038_cnvpiz": [
+    [
+      "“方便快餐”",
+      "“方便快餐”",
+      "“fangbiankuaican”",
+      "“fbkc”",
+      0,
+      0,
+      "CNV15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10038_cnvpiz_2": [
+    [
+      "“美食速递”",
+      "“美食速遞”",
+      "“meishisudi”",
+      "“mssd”",
+      0,
+      0,
+      "CNV16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10039_cnvber": [
+    [
+      "“开怀畅饮”",
+      "“開懷暢飲”",
+      "“kaihuaichangyin”",
+      "“khcy”",
+      0,
+      0,
+      "CNV17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10039_cnvber_2": [
+    [
+      "“醉后狂欢”",
+      "“醉後狂歡”",
+      "“zuihoukuanghuan”",
+      "“zhkh”",
+      0,
+      0,
+      "CNV18"
     ],
     [
       ""
@@ -7503,6 +8750,312 @@
       "enemy"
     ]
   ],
+  "enemy_10040_cnvbln": [
+    [
+      "节日气球",
+      "節日氣球",
+      "jieriqiqiu",
+      "jrqq",
+      0,
+      0,
+      "CNV19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10040_cnvbln_2": [
+    [
+      "巡游气球",
+      "巡遊氣球",
+      "xunyouqiqiu",
+      "xyqq",
+      0,
+      0,
+      "CNV20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10042_prtrop": [
+    [
+      "架桥船工",
+      "架橋船工",
+      "jiaqiaochuangong",
+      "jqcg",
+      0,
+      0,
+      "PI1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10042_prtrop_2": [
+    [
+      "扶桥老手",
+      "扶橋老手",
+      "fuqiaolaoshou",
+      "fqls",
+      0,
+      0,
+      "PI2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10043_sailor": [
+    [
+      "寻险水手",
+      "尋險水手",
+      "xunxianshuishou",
+      "xxss",
+      0,
+      0,
+      "PI3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10043_sailor_2": [
+    [
+      "历险水手",
+      "歷險水手",
+      "lixianshuishou",
+      "lxss",
+      0,
+      0,
+      "PI4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10044_wintun": [
+    [
+      "咸鳞汁推荐者",
+      "鹹鱗汁推薦者",
+      "xianlinzhituijianzhe",
+      "xlztjz",
+      0,
+      0,
+      "PI5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10044_wintun_2": [
+    [
+      "朗姆酒推荐者",
+      "朗姆酒推薦者",
+      "langmujiutuijianzhe",
+      "lmjtjz",
+      0,
+      0,
+      "PI6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10045_parrot": [
+    [
+      "吉兆飞鳞",
+      "吉兆飛鱗",
+      "jizhaofeilin",
+      "jzfl",
+      0,
+      0,
+      "PI7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10045_parrot_2": [
+    [
+      "噩兆飞鳞",
+      "噩兆飛鱗",
+      "ezhaofeilin",
+      "ezfl",
+      0,
+      0,
+      "PI8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10046_pshark": [
+    [
+      "撼地盐鳞",
+      "撼地鹽鱗",
+      "handiyanlin",
+      "hdyl",
+      0,
+      0,
+      "PI9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10046_pshark_2": [
+    [
+      "裂地盐鳞",
+      "裂地鹽鱗",
+      "liediyanlin",
+      "ldyl",
+      0,
+      0,
+      "PI10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10047_shrknt": [
+    [
+      "爆炸追寻者",
+      "爆炸追尋者",
+      "baozhazhuixunzhe",
+      "bzzxz",
+      0,
+      0,
+      "PI11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10047_shrknt_2": [
+    [
+      "爆炸信奉者",
+      "爆炸信奉者",
+      "baozhaxinfengzhe",
+      "bzxfz",
+      0,
+      0,
+      "PI12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10048_prtsld": [
+    [
+      "血腥厨子",
+      "血腥廚子",
+      "xuexingchuzi",
+      "xxcz",
+      0,
+      0,
+      "PI13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10048_prtsld_2": [
+    [
+      "恐怖厨子",
+      "恐怖廚子",
+      "kongbuchuzi",
+      "kbcz",
+      0,
+      0,
+      "PI14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10049_pcaptn": [
+    [
+      "爆鸣水手长",
+      "爆鳴水手長",
+      "baomingshuishouzhang",
+      "bmssz",
+      0,
+      0,
+      "PI15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10049_pcaptn_2": [
+    [
+      "美声水手长",
+      "美聲水手長",
+      "meishengshuishouzhang",
+      "msssz",
+      0,
+      0,
+      "PI16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1004_mslime": [
     [
       "酸液源石虫",
@@ -7529,6 +9082,329 @@
       "Acid Originium Slug α",
       "アシッドムシα",
       "B5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10050_cjmeat": [
+    [
+      "饔",
+      "饔",
+      "yong",
+      "y",
+      0,
+      0,
+      "OR1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10050_cjmeat_2": [
+    [
+      "飧",
+      "飧",
+      "sun",
+      "s",
+      0,
+      0,
+      "OR2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10051_cjmag": [
+    [
+      "“停箸”",
+      "“停箸”",
+      "“tingzhu”",
+      "“tz”",
+      0,
+      0,
+      "OR3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10051_cjmag_2": [
+    [
+      "“废食”",
+      "“廢食”",
+      "“feishi”",
+      "“fs”",
+      0,
+      0,
+      "OR4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10052_cjshld": [
+    [
+      "“果腹”",
+      "“果腹”",
+      "“guofu”",
+      "“gf”",
+      0,
+      0,
+      "OR5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10052_cjshld_2": [
+    [
+      "“饱食”",
+      "“飽食”",
+      "“baoshi”",
+      "“bs”",
+      0,
+      0,
+      "OR6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10053_cjman": [
+    [
+      "丑言",
+      "醜言",
+      "chouyan",
+      "cy",
+      0,
+      0,
+      "OR7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10053_cjman_2": [
+    [
+      "恶语",
+      "惡語",
+      "eyu",
+      "ey",
+      0,
+      0,
+      "OR8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10054_cjhot": [
+    [
+      "鼎沸",
+      "鼎沸",
+      "dingfei",
+      "df",
+      0,
+      0,
+      "OR9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10054_cjhot_2": [
+    [
+      "飘香",
+      "飄香",
+      "piaoxiang",
+      "px",
+      0,
+      0,
+      "OR10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10055_cjgost": [
+    [
+      "绸缪",
+      "綢繆",
+      "choumou",
+      "cm",
+      0,
+      0,
+      "OR11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10055_cjgost_2": [
+    [
+      "无患",
+      "無患",
+      "wuhuan",
+      "wh",
+      0,
+      0,
+      "OR12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10056_cjfish": [
+    [
+      "“面子”",
+      "“面子”",
+      "“mianzi”",
+      "“mz”",
+      0,
+      0,
+      "OR13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10056_cjfish_2": [
+    [
+      "“里子”",
+      "“裏子”",
+      "“lizi”",
+      "“lz”",
+      0,
+      0,
+      "OR14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10057_cjstel": [
+    [
+      "思旧",
+      "思舊",
+      "sijiu",
+      "sj",
+      0,
+      0,
+      "OR15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10057_cjstel_2": [
+    [
+      "念旧",
+      "念舊",
+      "nianjiu",
+      "nj",
+      0,
+      0,
+      "OR16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10058_cjfrog": [
+    [
+      "旺财",
+      "旺財",
+      "wangcai",
+      "wc",
+      0,
+      0,
+      "OR17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10058_cjfrog_2": [
+    [
+      "招财",
+      "招財",
+      "zhaocai",
+      "zc",
+      0,
+      0,
+      "OR18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10059_cjgfod": [
+    [
+      "饮啄",
+      "飲啄",
+      "yinzhuo",
+      "yz",
+      0,
+      0,
+      "OR19"
     ],
     [
       ""
@@ -7588,6 +9464,295 @@
       "enemy"
     ]
   ],
+  "enemy_10060_cjbfod": [
+    [
+      "无谓",
+      "無謂",
+      "wuwei",
+      "ww",
+      0,
+      0,
+      "OR20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10061_cjglon": [
+    [
+      "“人间烟火”",
+      "“人間煙火”",
+      "“renjianyanhuo”",
+      "“rjyh”",
+      0,
+      0,
+      "OR21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10062_cjblon": [
+    [
+      "“饮露餐风”",
+      "“飲露餐風”",
+      "“yinlucanfeng”",
+      "“ylcf”",
+      0,
+      0,
+      "OR22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10063_cjdoor": [
+    [
+      "湮没之口",
+      "湮沒之口",
+      "yanmozhikou",
+      "ymzk",
+      0,
+      0,
+      "OR23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10063_cjdoor_2": [
+    [
+      "造化之口",
+      "造化之口",
+      "zaohuazhikou",
+      "zhzk",
+      0,
+      0,
+      "OR24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10064_ftyzss": [
+    [
+      "巡游草叶",
+      "巡遊草葉",
+      "xunyoucaoye",
+      "xycy",
+      0,
+      0,
+      "EA1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10064_ftyzss_2": [
+    [
+      "巡游枯木",
+      "巡遊枯木",
+      "xunyoukumu",
+      "xykm",
+      0,
+      0,
+      "EA2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10065_ftzlc": [
+    [
+      "卷心籽",
+      "捲心籽",
+      "juanxinzi",
+      "jxz",
+      0,
+      0,
+      "EA3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10065_ftzlc_2": [
+    [
+      "卷心草",
+      "捲心草",
+      "juanxincao",
+      "jxc",
+      0,
+      0,
+      "EA4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10066_ftxjl": [
+    [
+      "“巢穴”",
+      "“巢穴”",
+      "“chaoxue”",
+      "“cx”",
+      0,
+      0,
+      "EA5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10066_ftxjl_2": [
+    [
+      "“襁褓”",
+      "“襁褓”",
+      "“qiangbao”",
+      "“qb”",
+      0,
+      0,
+      "EA6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10067_ftsjc": [
+    [
+      "灼藤",
+      "灼藤",
+      "zhuoteng",
+      "zt",
+      0,
+      0,
+      "EA7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10067_ftsjc_2": [
+    [
+      "灼芯",
+      "灼芯",
+      "zhuoxin",
+      "zx",
+      0,
+      0,
+      "EA8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10068_ftxsr": [
+    [
+      "指路芽",
+      "指路芽",
+      "zhiluya",
+      "zly",
+      0,
+      0,
+      "EA9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10068_ftxsr_2": [
+    [
+      "指路草",
+      "指路草",
+      "zhilucao",
+      "zlc",
+      0,
+      0,
+      "EA10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10069_ftlsj": [
+    [
+      "树盾",
+      "樹盾",
+      "shudun",
+      "sd",
+      0,
+      0,
+      "EA11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10069_ftlsj_2": [
+    [
+      "树墙",
+      "樹牆",
+      "shuqiang",
+      "sq",
+      0,
+      0,
+      "EA12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1006_shield": [
     [
       "重装防御者",
@@ -7639,6 +9804,329 @@
       "enemy"
     ]
   ],
+  "enemy_10070_ftkbtt": [
+    [
+      "灰烬造物",
+      "灰燼造物",
+      "huijinzaowu",
+      "hjzw",
+      0,
+      0,
+      "EA13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10070_ftkbtt_2": [
+    [
+      "灰烬艺术品",
+      "灰燼藝術品",
+      "huijinyishupin",
+      "hjysp",
+      0,
+      0,
+      "EA14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10071_ftprg": [
+    [
+      "“终点”",
+      "“終點”",
+      "“zhongdian”",
+      "“zd”",
+      0,
+      0,
+      "EA15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10071_ftprg_2": [
+    [
+      "“中点”",
+      "“中點”",
+      "“zhongdian”",
+      "“zd”",
+      0,
+      0,
+      "EA16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10072_mpprhd": [
+    [
+      "侵入式调用",
+      "侵入式調用",
+      "qinrushidiaoyong",
+      "qrsdy",
+      0,
+      0,
+      "PT1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10073_mpcar": [
+    [
+      "迷茫的修理小助手",
+      "迷茫的修理小助手",
+      "mimangdexiulixiaozhushou",
+      "mmdxlxzs",
+      0,
+      0,
+      "OG1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10073_mpcar_2": [
+    [
+      "失控的修理小助手",
+      "失控的修理小助手",
+      "shikongdexiulixiaozhushou",
+      "skdxlxzs",
+      0,
+      0,
+      "OG2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10074_mpcata": [
+    [
+      "冰镇饮料机",
+      "冰鎮飲料機",
+      "bingzhenyinliaoji",
+      "bzylj",
+      0,
+      0,
+      "OG3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10074_mpcata_2": [
+    [
+      "加热饮料机",
+      "加熱飲料機",
+      "jiareyinliaoji",
+      "jrylj",
+      0,
+      0,
+      "OG4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10075_mpwrj": [
+    [
+      "无忧货运帮手",
+      "無憂貨運幫手",
+      "wuyouhuoyunbangshou",
+      "wyhybs",
+      0,
+      0,
+      "OG5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10075_mpwrj_2": [
+    [
+      "防爆货运帮手",
+      "防爆貨運幫手",
+      "fangbaohuoyunbangshou",
+      "fbhybs",
+      0,
+      0,
+      "OG6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10076_mpgrou": [
+    [
+      "“寒灾回响”",
+      "“寒災迴響”",
+      "“hanzaihuixiang”",
+      "“hzhx”",
+      0,
+      0,
+      "OG7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10076_mpgrou_2": [
+    [
+      "“风雪中的影子”",
+      "“風雪中的影子”",
+      "“fengxuezhongdeyingzi”",
+      "“fxzdyz”",
+      0,
+      0,
+      "OG8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10077_mpbarr": [
+    [
+      "内测版自助出餐终端",
+      "內測版自助出餐終端",
+      "neicebanzizhuchucanzhongduan",
+      "ncbzzcczd",
+      0,
+      0,
+      "OG9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10077_mpbarr_2": [
+    [
+      "自助出餐终端原型机",
+      "自助出餐終端原型機",
+      "zizhuchucanzhongduanyuanxingji",
+      "zzcczdyxj",
+      0,
+      0,
+      "OG10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10078_mprein": [
+    [
+      "固化源石巨像",
+      "固化源石巨像",
+      "guhuayuanshijuxiang",
+      "ghysjx",
+      0,
+      0,
+      "OG11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10078_mprein_2": [
+    [
+      "活性源石巨像",
+      "活性源石巨像",
+      "huoxingyuanshijuxiang",
+      "hxysjx",
+      0,
+      0,
+      "OG12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10079_mpmage": [
+    [
+      "稳定态萨卡兹术师结晶",
+      "穩定態薩卡茲術師結晶",
+      "wendingtaisakazishushijiejing",
+      "wdtskzssjj",
+      0,
+      0,
+      "OG13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10079_mpmage_2": [
+    [
+      "活性态萨卡兹术师结晶",
+      "活性態薩卡茲術師結晶",
+      "huoxingtaisakazishushijiejing",
+      "hxtskzssjj",
+      0,
+      0,
+      "OG14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1007_slime": [
     [
       "源石虫",
@@ -7682,6 +10170,74 @@
       "Originium Slug β",
       "オリジムシβ",
       "B3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10080_mpiced": [
+    [
+      "静滞虚幻·α",
+      "靜滯虛幻·α",
+      "jingzhixuhuan·α",
+      "jzxh·α",
+      0,
+      0,
+      "OG15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10080_mpiced_2": [
+    [
+      "静滞虚幻·β",
+      "靜滯虛幻·β",
+      "jingzhixuhuan·β",
+      "jzxh·β",
+      0,
+      0,
+      "OG16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10081_mpplai": [
+    [
+      "转译基底·α",
+      "轉譯基底·α",
+      "zhuanyijidi·α",
+      "zyjd·α",
+      0,
+      0,
+      "OG17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10081_mpplai_2": [
+    [
+      "转译基底·β",
+      "轉譯基底·β",
+      "zhuanyijidi·β",
+      "zyjd·β",
+      0,
+      0,
+      "OG18"
     ],
     [
       ""
@@ -18502,6 +21058,2029 @@
       "enemy"
     ]
   ],
+  "enemy_1344_ddlamb": [
+    [
+      "温泉“淘气包”",
+      "溫泉“淘氣包”",
+      "wenquan“taoqibao”",
+      "wq“tqb”",
+      "Hot Spring 'Mischievous Rascal'",
+      "温泉「ノーティボーイ」",
+      "FF1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1344_ddlamb_2": [
+    [
+      "温泉“乐淘淘气包”",
+      "溫泉“樂淘淘氣包”",
+      "wenquan“letaotaoqibao”",
+      "wq“lttqb”",
+      "Hot Spring 'Jolly Rascal'",
+      "温泉「ジョイフルボーイ」",
+      "FF2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1345_tplamb": [
+    [
+      "风情街“操盘手”",
+      "風情街“操盤手”",
+      "fengqingjie“caopanshou”",
+      "fqj“cps”",
+      "Fashion Street 'Hearty Heavy'",
+      "商店街「フリスビー」",
+      "FF3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1345_tplamb_2": [
+    [
+      "风情街“健美操盘手”",
+      "風情街“健美操盤手”",
+      "fengqingjie“jianmeicaopanshou”",
+      "fqj“jmcps”",
+      "Fashion Street 'Robust Heavy'",
+      "商店街「マッスルフリスビー」",
+      "FF4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1346_ynshp": [
+    [
+      "温泉“流浪汉”",
+      "溫泉“流浪漢”",
+      "wenquan“liulanghan”",
+      "wq“llh”",
+      "Hot Spring 'Wandering Vagrant'",
+      "温泉「サーファー」",
+      "FF5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1346_ynshp_2": [
+    [
+      "温泉“泥石流浪汉”",
+      "溫泉“泥石流浪漢”",
+      "wenquan“nishiliulanghan”",
+      "wq“nsllh”",
+      "Hot Spring 'Wandering Slider'",
+      "温泉「シティサーファー」",
+      "FF6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1347_fyshp": [
+    [
+      "风情街“飞空员”",
+      "風情街“飛空員”",
+      "fengqingjie“feikongyuan”",
+      "fqj“fky”",
+      "Fashion Street 'Ordinary Aviator'",
+      "商店街「フライヤー」",
+      "FF7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1347_fyshp_2": [
+    [
+      "风情街“满天飞空员”",
+      "風情街“滿天飛空員”",
+      "fengqingjie“mantianfeikongyuan”",
+      "fqj“mtfky”",
+      "Fashion Street 'Hyperactive Aviator'",
+      "商店街「クラウドフライヤー」",
+      "FF8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1348_rllamb": [
+    [
+      "城市“风行者”",
+      "城市“風行者”",
+      "chengshi“fengxingzhe”",
+      "cs“fxz”",
+      "Urban 'Whirlwind Walker'",
+      "都市「ウィンドランナー」",
+      "FF9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1348_rllamb_2": [
+    [
+      "城市“龙卷风行者”",
+      "城市“龍捲風行者”",
+      "chengshi“longjuanfengxingzhe”",
+      "cs“ljfxz”",
+      "Urban 'Tornado Trendsetter'",
+      "都市「トルネードランナー」",
+      "FF10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1349_rckshp": [
+    [
+      "“大个子”",
+      "“大個子”",
+      "“dagezi”",
+      "“dgz”",
+      "'Big Fella'",
+      "「デカブツ」",
+      "FF11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1349_rckshp_2": [
+    [
+      "“大哥大个子”",
+      "“大哥大個子”",
+      "“dagedagezi”",
+      "“dgdgz”",
+      "'Big Man'",
+      "「デカブツ兄貴」",
+      "FF12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1350_mgcshp": [
+    [
+      "风情街“星术师”",
+      "風情街“星術師”",
+      "fengqingjie“xingshushi”",
+      "fqj“xss”",
+      "Fashion Street 'Stellar Caster'",
+      "商店街「スターマジシャン」",
+      "FF13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1350_mgcshp_2": [
+    [
+      "风情街“超新星术师”",
+      "風情街“超新星術師”",
+      "fengqingjie“chaoxinxingshushi”",
+      "fqj“cxxss”",
+      "Fashion Street 'Supernova Caster'",
+      "商店街「メテオマジシャン」",
+      "FF14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1351_yhhshp": [
+    [
+      "“好朋友”",
+      "“好朋友”",
+      "“haopengyou”",
+      "“hpy”",
+      "'Fluffy Buddy'",
+      "「ベストフレンド」",
+      "FF15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1352_eslime": [
+    [
+      "辐能源石虫",
+      "輻能源石蟲",
+      "funengyuanshichong",
+      "fnysc",
+      "Radioactive Originium Slug",
+      "ホウシャムシ",
+      "B11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1352_eslime_2": [
+    [
+      "辐能源石虫·α",
+      "輻能源石蟲·α",
+      "funengyuanshichong·α",
+      "fnysc·α",
+      "Radioactive Originium Slug α",
+      "ホウシャムシα",
+      "B12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1353_esabr": [
+    [
+      "匪帮混混",
+      "匪幫混混",
+      "feibanghunhun",
+      "fbhh",
+      "Paramilitary Gangster",
+      "野盗チンピラ",
+      "EG1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1353_esabr_2": [
+    [
+      "匪帮混混头目",
+      "匪幫混混頭目",
+      "feibanghunhuntoumu",
+      "fbhhtm",
+      "Paramilitary Gangster Leader",
+      "野盗チンピラの頭目",
+      "EG2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1354_eghost": [
+    [
+      "匪帮窃贼",
+      "匪幫竊賊",
+      "feibangqiezei",
+      "fbqz",
+      "Paramilitary Thief",
+      "野盗スリ師",
+      "EG3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1354_eghost_2": [
+    [
+      "匪帮窃贼头目",
+      "匪幫竊賊頭目",
+      "feibangqiezeitoumu",
+      "fbqztm",
+      "Paramilitary Thief Leader",
+      "野盗スリ師の頭目",
+      "EG4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1355_mrfly": [
+    [
+      "护障",
+      "護障",
+      "huzhang",
+      "hz",
+      "Blocker",
+      "バリケード",
+      "D11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1355_mrfly_2": [
+    [
+      "护障·P",
+      "護障·P",
+      "huzhang·P",
+      "hz·P",
+      "Blocker–P",
+      "バリケードP",
+      "D12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1356_egun": [
+    [
+      "匪帮射手",
+      "匪幫射手",
+      "feibangsheshou",
+      "fbss",
+      "Paramilitary Sniper",
+      "野盗ブラスター",
+      "EG5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1356_egun_2": [
+    [
+      "匪帮射手头目",
+      "匪幫射手頭目",
+      "feibangsheshoutoumu",
+      "fbsstm",
+      "Paramilitary Sniper Leader",
+      "野盗ブラスターの頭目",
+      "EG6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1357_erob": [
+    [
+      "匪帮斧手",
+      "匪幫斧手",
+      "feibangfushou",
+      "fbfs",
+      "Paramilitary Axeman",
+      "野盗ソーヤー",
+      "EG7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1357_erob_2": [
+    [
+      "匪帮斧手头目",
+      "匪幫斧手頭目",
+      "feibangfushoutoumu",
+      "fbfstm",
+      "Paramilitary Axeman Leader",
+      "野盗ソーヤーの頭目",
+      "EG8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1358_esheld": [
+    [
+      "匪帮防御者",
+      "匪幫防禦者",
+      "feibangfangyuzhe",
+      "fbfyz",
+      "Paramilitary Defender",
+      "野盗ディフェンダー",
+      "EG9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1358_esheld_2": [
+    [
+      "匪帮防御者头目",
+      "匪幫防禦者頭目",
+      "feibangfangyuzhetoumu",
+      "fbfyztm",
+      "Paramilitary Defender Leader",
+      "野盗ディフェンダーの頭目",
+      "EG10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1359_ekulsr": [
+    [
+      "匪帮轰击者",
+      "匪幫轟擊者",
+      "feibanghongjizhe",
+      "fbhjz",
+      "Paramilitary Bombardier",
+      "野盗ボマー",
+      "EG11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1359_ekulsr_2": [
+    [
+      "匪帮轰击者头目",
+      "匪幫轟擊者頭目",
+      "feibanghongjizhetoumu",
+      "fbhjztm",
+      "Paramilitary Bombardier Leader",
+      "野盗ボマーの頭目",
+      "EG12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1360_dfello": [
+    [
+      "新生血裔",
+      "新生血裔",
+      "xinshengxueyi",
+      "xsxy",
+      "Bloodborn Spawn",
+      "新生の血裔",
+      "SSK1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1361_dthrow": [
+    [
+      "萨卡兹子裔轰击者",
+      "薩卡茲子裔轟擊者",
+      "sakaziziyihongjizhe",
+      "skzzyhjz",
+      "Sarkaz Heirbearer Bombardier",
+      "サルカズ眷属砲撃者",
+      "SCI21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1361_dthrow_2": [
+    [
+      "萨卡兹子裔毁击者",
+      "薩卡茲子裔毀擊者",
+      "sakaziziyihuijizhe",
+      "skzzyhjz",
+      "Sarkaz Heirbearer Annihilator",
+      "サルカズ眷属砲撃隊長",
+      "SCI22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1362_dfat": [
+    [
+      "萨卡兹子裔责罚者",
+      "薩卡茲子裔責罰者",
+      "sakaziziyizefazhe",
+      "skzzyzfz",
+      "Sarkaz Heirbearer Punisher",
+      "サルカズ眷属懲戒者",
+      "SCI23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1362_dfat_2": [
+    [
+      "萨卡兹子裔惩戒者",
+      "薩卡茲子裔懲戒者",
+      "sakaziziyichengjiezhe",
+      "skzzycjz",
+      "Sarkaz Heirbearer Scourger",
+      "サルカズ眷属懲戒隊長",
+      "SCI24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1363_spnshd": [
+    [
+      "萨卡兹骸骨卫士",
+      "薩卡茲骸骨衛士",
+      "sakazihaiguweishi",
+      "skzhgws",
+      "Sarkaz Boneguard",
+      "サルカズ骨骸衛士",
+      "SSK2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1363_spnshd_2": [
+    [
+      "萨卡兹骸骨卫士长",
+      "薩卡茲骸骨衛士長",
+      "sakazihaiguweishizhang",
+      "skzhgwsz",
+      "Sarkaz Boneguard Captain",
+      "サルカズ骨骸衛士長",
+      "SSK3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1364_spnaxe": [
+    [
+      "萨卡兹骸骨鞭笞者",
+      "薩卡茲骸骨鞭笞者",
+      "sakazihaigubianchizhe",
+      "skzhgbcz",
+      "Sarkaz Boneguard Flayer",
+      "サルカズ骨骸拷問者",
+      "SSK4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1364_spnaxe_2": [
+    [
+      "萨卡兹骸骨拷打者",
+      "薩卡茲骸骨拷打者",
+      "sakazihaigukaodazhe",
+      "skzhgkdz",
+      "Sarkaz Boneguard Torturer",
+      "サルカズ骨骸拷問隊長",
+      "SSK5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1365_spnwiz": [
+    [
+      "萨卡兹骸骨漂泊术师",
+      "薩卡茲骸骨漂泊術師",
+      "sakazihaigupiaoboshushi",
+      "skzhgpbss",
+      "Sarkaz Boneguard Fluxcaster",
+      "サルカズ骨骸流浪術師",
+      "SSK6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1365_spnwiz_2": [
+    [
+      "萨卡兹骸骨漂泊术师长\n",
+      "薩卡茲骸骨漂泊術師長\n",
+      "sakazihaigupiaoboshushizhang\n",
+      "skzhgpbssz\n",
+      "Sarkaz Boneguard Fluxcaster Captain\n",
+      "サルカズ骨骸流浪術師長",
+      "SSK7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1366_dcolle": [
+    [
+      "萨卡兹敛血行者",
+      "薩卡茲斂血行者",
+      "sakazilianxuexingzhe",
+      "skzlxxz",
+      "Sarkaz Bloodwalker",
+      "サルカズ血珀収集者",
+      "SSK8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1366_dcolle_2": [
+    [
+      "萨卡兹萃血行者",
+      "薩卡茲萃血行者",
+      "sakazicuixuexingzhe",
+      "skzcxxz",
+      "Sarkaz Bloodnexus",
+      "サルカズ精鋭血珀収集者",
+      "SSK9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1367_dseed": [
+    [
+      "血珀",
+      "血珀",
+      "xuepo",
+      "xp",
+      "Blood Amber",
+      "血珀",
+      "SSK10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1368_spilot": [
+    [
+      "指挥官厄尔苏拉",
+      "指揮官厄爾蘇拉",
+      "zhihuiguaneersula",
+      "zhgeesl",
+      "Commander Ulšulah",
+      "指揮官ウルスラ",
+      "SSK11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1369_bmbcar1": [
+    [
+      "反巫术变位炸弹",
+      "反巫術變位炸彈",
+      "fanwushubianweizhadan",
+      "fwsbwzd",
+      "Anti-Witchcraft Repositionable Bomb",
+      "対巫術軌道式爆弾",
+      "LUD"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1371_ltnflu": [
+    [
+      "残党乐团长笛手",
+      "殘黨樂團長笛手",
+      "candangyuetuanchangdishou",
+      "cdytcds",
+      "Remnant Orchestra Flautist",
+      "楽団志望フルート奏者",
+      "OCS1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1371_ltnflu_2": [
+    [
+      "巫王乐团长笛手",
+      "巫王樂團長笛手",
+      "wuwangyuetuanchangdishou",
+      "wwytcds",
+      "Witch King's Orchestra Flautist",
+      "巫王楽団フルート奏者",
+      "OCS2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1372_ltntpt": [
+    [
+      "残党乐团小号手",
+      "殘黨樂團小號手",
+      "candangyuetuanxiaohaoshou",
+      "cdytxhs",
+      "Remnant Orchestra Trumpeter",
+      "楽団志望トランペット奏者",
+      "OCS3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1372_ltntpt_2": [
+    [
+      "巫王乐团小号手",
+      "巫王樂團小號手",
+      "wuwangyuetuanxiaohaoshou",
+      "wwytxhs",
+      "Witch King's Orchestra Trumpeter",
+      "巫王楽団トランペット奏者",
+      "OCS4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1373_ltnhor": [
+    [
+      "残党乐团圆号手",
+      "殘黨樂團圓號手",
+      "candangyuetuanyuanhaoshou",
+      "cdytyhs",
+      "Remnant Orchestra Hornist",
+      "楽団志望ホルン奏者",
+      "OCS5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1373_ltnhor_2": [
+    [
+      "巫王乐团圆号手",
+      "巫王樂團圓號手",
+      "wuwangyuetuanyuanhaoshou",
+      "wwytyhs",
+      "Witch King's Orchestra Hornist",
+      "巫王楽団ホルン奏者",
+      "OCS6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1374_ltnhap": [
+    [
+      "残党乐团颂诗者",
+      "殘黨樂團頌詩者",
+      "candangyuetuansongshizhe",
+      "cdytssz",
+      "Remnant Orchestra Chorister",
+      "楽団志望ハープ奏者",
+      "OCS7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1374_ltnhap_2": [
+    [
+      "巫王乐团颂诗者",
+      "巫王樂團頌詩者",
+      "wuwangyuetuansongshizhe",
+      "wwytssz",
+      "Witch King's Orchestra Chorister",
+      "巫王楽団ハープ奏者",
+      "OCS8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1375_ltnclr": [
+    [
+      "残党乐团管乐家",
+      "殘黨樂團管樂家",
+      "candangyuetuanguanyuejia",
+      "cdytgyj",
+      "Remnant Orchestra Wind Player",
+      "楽団志望クラリネット奏者",
+      "OCS9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1375_ltnclr_2": [
+    [
+      "巫王乐团管乐家",
+      "巫王樂團管樂家",
+      "wuwangyuetuanguanyuejia",
+      "wwytgyj",
+      "Witch King's Orchestra Wind Player",
+      "巫王楽団クラリネット奏者",
+      "OCS10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1376_ltndru": [
+    [
+      "残党乐团鼓手",
+      "殘黨樂團鼓手",
+      "candangyuetuangushou",
+      "cdytgs",
+      "Remnant Orchestra Drummer",
+      "楽団志望ドラム奏者",
+      "OCS11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1376_ltndru_2": [
+    [
+      "巫王乐团鼓手",
+      "巫王樂團鼓手",
+      "wuwangyuetuangushou",
+      "wwytgs",
+      "Witch King's Orchestra Drummer",
+      "巫王楽団ドラム奏者",
+      "OCS12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1377_ltnclo": [
+    [
+      "残党乐团大提琴家",
+      "殘黨樂團大提琴家",
+      "candangyuetuandatiqinjia",
+      "cdytdtqj",
+      "Remnant Orchestra Cellist",
+      "楽団志望チェロ奏者",
+      "OCS13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1377_ltnclo_2": [
+    [
+      "巫王乐团大提琴家",
+      "巫王樂團大提琴家",
+      "wuwangyuetuandatiqinjia",
+      "wwytdtqj",
+      "Witch King's Orchestra Cellist",
+      "巫王楽団チェロ奏者",
+      "OCS14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1378_ltnmst": [
+    [
+      "残党乐团调律师",
+      "殘黨樂團調律師",
+      "candangyuetuandiaolvshi",
+      "cdytdls",
+      "Remnant Orchestra Tuner",
+      "楽団志望調律師",
+      "OCS15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1378_ltnmst_2": [
+    [
+      "巫王乐团调律师",
+      "巫王樂團調律師",
+      "wuwangyuetuandiaolvshi",
+      "wwytdls",
+      "Witch King's Orchestra Tuner",
+      "巫王楽団調律師",
+      "OCS16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1379_ltncdt": [
+    [
+      "残党乐团指挥家",
+      "殘黨樂團指揮家",
+      "candangyuetuanzhihuijia",
+      "cdytzhj",
+      "Remnant Orchestra Conductor",
+      "楽団志望指揮者",
+      "MST1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1379_ltncdt_2": [
+    [
+      "巫王乐团指挥家",
+      "巫王樂團指揮家",
+      "wuwangyuetuanzhihuijia",
+      "wwytzhj",
+      "Witch King's Orchestra Conductor",
+      "巫王楽団指揮者",
+      "MST2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1381_winman": [
+    [
+      "访问团新兵",
+      "訪問團新兵",
+      "fangwentuanxinbing",
+      "fwtxb",
+      "Delegation Recruit",
+      "訪問団の新兵",
+      "VM1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1381_winman_2": [
+    [
+      "访问团老兵",
+      "訪問團老兵",
+      "fangwentuanlaobing",
+      "fwtlb",
+      "Delegation Veteran",
+      "訪問団の老兵",
+      "VM2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1382_winbal": [
+    [
+      "访问团突击新兵",
+      "訪問團突擊新兵",
+      "fangwentuantujixinbing",
+      "fwttjxb",
+      "Delegation Assault Recruit",
+      "訪問団の突撃新兵",
+      "VM3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1382_winbal_2": [
+    [
+      "访问团突击老兵",
+      "訪問團突擊老兵",
+      "fangwentuantujilaobing",
+      "fwttjlb",
+      "Delegation Assault Veteran",
+      "訪問団の突撃老兵",
+      "VM4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1383_windog": [
+    [
+      "发条巡逻机器",
+      "發條巡邏機器",
+      "fatiaoxunluojiqi",
+      "ftxljq",
+      "Clockwork Patroller",
+      "ゼンマイ式巡査兵",
+      "VM5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1383_windog_2": [
+    [
+      "发条战斗机器",
+      "發條戰鬥機器",
+      "fatiaozhandoujiqi",
+      "ftzdjq",
+      "Clockwork Warrior",
+      "ゼンマイ式戦闘兵",
+      "VM6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1384_winfrz": [
+    [
+      "封冻高山驮兽",
+      "封凍高山馱獸",
+      "fengdonggaoshantuoshou",
+      "fdgsts",
+      "Frozen Mountain Burdenbeast",
+      "カチコチ高山駄獣",
+      "VM7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1384_winfrz_2": [
+    [
+      "沉眠高山驮兽",
+      "沉眠高山馱獸",
+      "chenmiangaoshantuoshou",
+      "cmgsts",
+      "Slumbering Mountain Burdenbeast",
+      "ガチガチ高山駄獣",
+      "VM8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1385_winbom": [
+    [
+      "“喷射罐”",
+      "“噴射罐”",
+      "“pensheguan”",
+      "“psg”",
+      "'Jet Canister'",
+      "「ジェットボンベ」",
+      "VM9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1385_winbom_2": [
+    [
+      "“喷爆罐”",
+      "“噴爆罐”",
+      "“penbaoguan”",
+      "“pbg”",
+      "'Boom Canister'",
+      "「ジェットボンバー」",
+      "VM10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1386_winmag": [
+    [
+      "访问团术师",
+      "訪問團術師",
+      "fangwentuanshushi",
+      "fwtss",
+      "Delegation Caster",
+      "訪問団の術師",
+      "VM11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1386_winmag_2": [
+    [
+      "访问团术师长",
+      "訪問團術師長",
+      "fangwentuanshushizhang",
+      "fwtssz",
+      "Delegation Caster Commander",
+      "訪問団の術師長",
+      "VM12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1387_winshd": [
+    [
+      "访问团持盾者",
+      "訪問團持盾者",
+      "fangwentuanchidunzhe",
+      "fwtcdz",
+      "Delegation Shieldbearer",
+      "訪問団の盾兵",
+      "VM13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1387_winshd_2": [
+    [
+      "访问团持盾长",
+      "訪問團持盾長",
+      "fangwentuanchidunzhang",
+      "fwtcdz",
+      "Delegation Shieldbearer Captain",
+      "訪問団の盾兵長",
+      "VM14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1388_wingnt": [
+    [
+      "“投石机”",
+      "“投石機”",
+      "“toushiji”",
+      "“tsj”",
+      "'Catapult'",
+      "「投石機」",
+      "VM15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1388_wingnt_2": [
+    [
+      "“榴弹炮”",
+      "“榴彈炮”",
+      "“liudanpao”",
+      "“ldp”",
+      "'Mortar'",
+      "「榴弾砲」",
+      "VM16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1389_winbab": [
+    [
+      "访问团强攻手",
+      "訪問團強攻手",
+      "fangwentuanqianggongshou",
+      "fwtqgs",
+      "Delegation Centurion",
+      "訪問団の強襲者",
+      "VM17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1389_winbab_2": [
+    [
+      "访问团强攻冠军",
+      "訪問團強攻冠軍",
+      "fangwentuanqianggongguanjun",
+      "fwtqggj",
+      "Delegation Centurion Champion",
+      "訪問団の強襲王",
+      "VM18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1390_dhsbr": [
+    [
+      "秽",
+      "穢",
+      "hui",
+      "h",
+      "Filth",
+      "穢",
+      "HSL1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1390_dhsbr_2": [
+    [
+      "除秽",
+      "除穢",
+      "chuhui",
+      "ch",
+      "Expelled Filth",
+      "除穢",
+      "HSL2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1391_dhbow": [
+    [
+      "蚀",
+      "蝕",
+      "shi",
+      "s",
+      "Consumption",
+      "蝕",
+      "HSL3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1391_dhbow_2": [
+    [
+      "去蚀",
+      "去蝕",
+      "qushi",
+      "qs",
+      "Banished Consumption",
+      "去蝕",
+      "HSL4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1392_dhshld": [
+    [
+      "肮",
+      "骯",
+      "ang",
+      "a",
+      "Scum",
+      "骯",
+      "HSL5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1392_dhshld_2": [
+    [
+      "厌肮",
+      "厭骯",
+      "yanang",
+      "ya",
+      "Accursed Scum",
+      "厭骯",
+      "HSL6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1393_dhele": [
+    [
+      "玷",
+      "玷",
+      "dian",
+      "d",
+      "Blemish",
+      "玷",
+      "HSL7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1393_dhele_2": [
+    [
+      "勿玷",
+      "勿玷",
+      "wudian",
+      "wd",
+      "Renounced Blemish",
+      "勿玷",
+      "HSL8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1394_dhzts": [
+    [
+      "瘴",
+      "瘴",
+      "zhang",
+      "z",
+      "Miasma",
+      "瘴",
+      "HSL9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1394_dhzts_2": [
+    [
+      "鄙瘴",
+      "鄙瘴",
+      "bizhang",
+      "bz",
+      "Basal Miasma",
+      "鄙瘴",
+      "HSL10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1395_dhxts": [
+    [
+      "田鼷",
+      "田鼷",
+      "tianxi",
+      "tx",
+      "Fieldmus",
+      "田鼷",
+      "HSL11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1395_dhxts_2": [
+    [
+      "硬毫田鼷",
+      "硬毫田鼷",
+      "yinghaotianxi",
+      "yhtx",
+      "Hard-Snouted Fieldmus",
+      "狂暴田鼷",
+      "HSL12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1396_dhdts": [
+    [
+      "田鼷力士",
+      "田鼷力士",
+      "tianxilishi",
+      "txls",
+      "Fieldmus Bruiser",
+      "剛力田鼷",
+      "HSL13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1396_dhdts_2": [
+    [
+      "田鼷猛士",
+      "田鼷猛士",
+      "tianximengshi",
+      "txms",
+      "Fieldmus Ravager",
+      "猛士田鼷",
+      "HSL14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1397_dhtsxt": [
+    [
+      "田鼷飞贼",
+      "田鼷飛賊",
+      "tianxifeizei",
+      "txfz",
+      "Fieldmus Flying Thief",
+      "軽業田鼷",
+      "HSL15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1397_dhtsxt_2": [
+    [
+      "田鼷大盗",
+      "田鼷大盜",
+      "tianxidadao",
+      "txdd",
+      "Fieldmus Heistmaster",
+      "盗賊田鼷",
+      "HSL16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1398_dhdcr": [
+    [
+      "天桩-甲",
+      "天樁-甲",
+      "tianzhuang-jia",
+      "tz-j",
+      "Sky Pole - Jia",
+      "天杭-甲",
+      "HSL17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1398_dhdcr_2": [
+    [
+      "失控天桩-甲",
+      "失控天樁-甲",
+      "shikongtianzhuang-jia",
+      "sktz-j",
+      "Out of Control Sky Pole - Jia",
+      "暴走する天杭-甲",
+      "HSL18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1399_dhtb": [
+    [
+      "天桩-乙",
+      "天樁-乙",
+      "tianzhuang-yi",
+      "tz-y",
+      "Sky Pole - Yi",
+      "天杭-乙",
+      "HSL19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1399_dhtb_2": [
+    [
+      "失控天桩-乙",
+      "失控天樁-乙",
+      "shikongtianzhuang-yi",
+      "sktz-y",
+      "Out of Control Sky Pole - Yi",
+      "暴走する天杭-乙",
+      "HSL20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1401_pogpro": [
+    [
+      "联合政府军犬",
+      "聯合政府軍犬",
+      "lianhezhengfujunquan",
+      "lhzfjq",
+      "Coalition Army Hound",
+      "連合政府軍用犬",
+      "R18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1401_pogpro_2": [
+    [
+      "联合政府军犬pro",
+      "聯合政府軍犬pro",
+      "lianhezhengfujunquanpro",
+      "lhzfjqpro",
+      "Coalition Army Hound Pro",
+      "連合政府上級軍用犬",
+      "R19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1402_tgshd": [
+    [
+      "装甲侦察兵",
+      "裝甲偵察兵",
+      "zhuangjiazhenchabing",
+      "zjzcb",
+      "Armored Scout",
+      "装甲偵察兵",
+      "R20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1402_tgshd_2": [
+    [
+      "重装侦察兵",
+      "重裝偵察兵",
+      "zhongzhuangzhenchabing",
+      "zzzcb",
+      "Heavy Scout",
+      "重装偵察兵",
+      "R21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1403_gunsho": [
+    [
+      "速射轻弩手",
+      "速射輕弩手",
+      "susheqingnushou",
+      "ssqns",
+      "Light Rapid Crossbowman",
+      "軽型クロスボウ速射手",
+      "R22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1403_gunsho_2": [
+    [
+      "速射劲弩手",
+      "速射勁弩手",
+      "sushejinnushou",
+      "ssjns",
+      "Heavy Rapid Crossbowman",
+      "軽型クロスボウ猛射手",
+      "R23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1404_msnip": [
+    [
+      "重弩突袭者",
+      "重弩突襲者",
+      "zhongnutuxizhe",
+      "zntxz",
+      "Heavy Crossbowman Ambusher",
+      "重型クロスボウ強襲者",
+      "R24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1404_msnip_2": [
+    [
+      "重弩猎杀者",
+      "重弩獵殺者",
+      "zhongnulieshazhe",
+      "znlsz",
+      "Heavy Crossbowman Hunter",
+      "重型クロスボウ猛襲者",
+      "R25"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1405_boomer": [
+    [
+      "鲁莽掷弹兵",
+      "魯莽擲彈兵",
+      "lumangzhidanbing",
+      "lmzdb",
+      "Reckless Grenadier",
+      "無謀な擲弾兵",
+      "R26"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1405_boomer_2": [
+    [
+      "无畏掷弹兵",
+      "無畏擲彈兵",
+      "wuweizhidanbing",
+      "wwzdb",
+      "Impetuous Grenadier",
+      "不敵な擲弾兵",
+      "R27"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1406_chghmr": [
+    [
+      "战线推进者",
+      "戰線推進者",
+      "zhanxiantuijinzhe",
+      "zxtjz",
+      "Battleline Advance Guard",
+      "戦線推進兵",
+      "R28"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1406_chghmr_2": [
+    [
+      "战线突破者",
+      "戰線突破者",
+      "zhanxiantupozhe",
+      "zxtpz",
+      "Battleline Breacher",
+      "戦線突破兵",
+      "R29"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1407_hummbd": [
+    [
+      "远眺",
+      "遠眺",
+      "yuantiao",
+      "yt",
+      "Farseer",
+      "スコープ",
+      "R30"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1407_hummbd_2": [
+    [
+      "远眺·B",
+      "遠眺·B",
+      "yuantiao·B",
+      "yt·B",
+      "Farseer B",
+      "スコープ・B",
+      "R31"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1408_scotcn": [
+    [
+      "战场观测炮手",
+      "戰場觀測炮手",
+      "zhanchangguancepaoshou",
+      "zcgcps",
+      "Battlefield Observing Mortarman",
+      "戦場観測榴弾射手",
+      "R32"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1408_scotcn_2": [
+    [
+      "战场深视炮手",
+      "戰場深視炮手",
+      "zhanchangshenshipaoshou",
+      "zcssps",
+      "Battlefield Surveying Mortarman",
+      "戦場分析榴弾射手",
+      "R33"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1409_bdguad": [
     [
       "马特奥的警卫",
@@ -18511,6 +23090,941 @@
       "Mateo's Security Guard",
       "マッテオの警護兵",
       "R34"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1409_bdguad_2": [
+    [
+      "马特奥的近卫",
+      "馬特奧的近衛",
+      "mateaodejinwei",
+      "mtadjw",
+      "Mateo's Guard",
+      "マッテオの近衛兵",
+      "R35"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1409_bdguad_3": [
+    [
+      "马特奥的亲卫",
+      "馬特奧的親衛",
+      "mateaodeqinwei",
+      "mtadqw",
+      "Mateo's Bodyguard",
+      "マッテオの親衛兵",
+      "R36"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1410_mmelee": [
+    [
+      "“飞鞋党”佣兵",
+      "“飛鞋黨”傭兵",
+      "“feixiedang”yongbing",
+      "“fxd”yb",
+      "'Flying Boots' Mercenary",
+      "「ジェットブーツ」傭兵",
+      "SMN1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1410_mmelee_2": [
+    [
+      "“飞鞋党”精锐佣兵",
+      "“飛鞋黨”精銳傭兵",
+      "“feixiedang”jingruiyongbing",
+      "“fxd”jryb",
+      "'Flying Boots' Elite Mercenary",
+      "「ジェットブーツ」精鋭傭兵",
+      "SMN2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1411_mmrnge": [
+    [
+      "“锅盖头”射手",
+      "“鍋蓋頭”射手",
+      "“guogaitou”sheshou",
+      "“ggt”ss",
+      "'Pothelm' Marksman",
+      "「鍋頭」狙撃手",
+      "SMN3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1411_mmrnge_2": [
+    [
+      "“锅盖头”劲弩射手",
+      "“鍋蓋頭”勁弩射手",
+      "“guogaitou”jinnusheshou",
+      "“ggt”jnss",
+      "'Pothelm' Arbalest",
+      "「鍋頭」精鋭狙撃手",
+      "SMN4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1412_mmjump": [
+    [
+      "破烂拼凑者",
+      "破爛拼湊者",
+      "polanpincouzhe",
+      "plpcz",
+      "Scrap Assembler",
+      "ガラクタクラフター",
+      "SMN5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1412_mmjump_2": [
+    [
+      "破烂发明家",
+      "破爛發明家",
+      "polanfamingjia",
+      "plfmj",
+      "Scrap Inventor",
+      "ガラクタクリエイター",
+      "SMN6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1413_mmstck": [
+    [
+      "赏金猎人“骑士”",
+      "賞金獵人“騎士”",
+      "shangjinlieren“qishi”",
+      "sjlr“qs”",
+      "Bounty Hunter 'Knight'",
+      "賞金稼ぎ「騎士」",
+      "SMN7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1413_mmstck_2": [
+    [
+      "赏金猎人“大骑士”",
+      "賞金獵人“大騎士”",
+      "shangjinlieren“daqishi”",
+      "sjlr“dqs”",
+      "Bounty Hunter 'Grand Knight'",
+      "賞金稼ぎ「大騎士」",
+      "SMN8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1414_mmleak": [
+    [
+      "爆燃厨具巨人",
+      "爆燃廚具巨人",
+      "baoranchujujuren",
+      "brcjjr",
+      "Spatula Giant",
+      "キッチンジャイアント",
+      "SMN9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1414_mmleak_2": [
+    [
+      "增强型爆燃厨具巨人",
+      "增強型爆燃廚具巨人",
+      "zengqiangxingbaoranchujujuren",
+      "zqxbrcjjr",
+      "Enraged Spatula Giant",
+      "強化型キッチンジャイアント",
+      "SMN10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1415_mmkabi": [
+    [
+      "温顺的武装驮兽",
+      "溫順的武裝馱獸",
+      "wenshundewuzhuangtuoshou",
+      "wsdwzts",
+      "Armored Burdenbeast",
+      "温厚な武装駄獣",
+      "SMN11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1415_mmkabi_2": [
+    [
+      "温顺的武装大驮兽",
+      "溫順的武裝大馱獸",
+      "wenshundewuzhuangdatuoshou",
+      "wsdwzdts",
+      "Greater Armored Burdenbeast",
+      "温厚な武装大駄獣",
+      "SMN12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1416_mmfarm": [
+    [
+      "流浪佣兵“剪刀手”",
+      "流浪傭兵“剪刀手”",
+      "liulangyongbing“jiandaoshou”",
+      "llyb“jds”",
+      "'Shearclaws'",
+      "放浪傭兵「カーヴァー」",
+      "SMN13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1416_mmfarm_2": [
+    [
+      "流浪佣兵“编织者”",
+      "流浪傭兵“編織者”",
+      "liulangyongbing“bianzhizhe”",
+      "llyb“bzz”",
+      "'Weaver'",
+      "放浪傭兵「ウィーバー」",
+      "SMN14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1417_mmdudu": [
+    [
+      "自由佣兵“贝斯”",
+      "自由傭兵“貝斯”",
+      "ziyouyongbing“beisi”",
+      "zyyb“bs”",
+      "Rogue Mercenary 'Bass'",
+      "フリー傭兵「ベース」",
+      "SMN15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1417_mmdudu_2": [
+    [
+      "自由佣兵“主音吉他”",
+      "自由傭兵“主音吉他”",
+      "ziyouyongbing“zhuyinjita”",
+      "zyyb“zyjt”",
+      "Rogue Mercenary 'Lead Guitar'",
+      "フリー傭兵「リードギター」",
+      "SMN16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1418_mmkonm": [
+    [
+      "流浪工匠“修补工”",
+      "流浪工匠“修補工”",
+      "liulanggongjiang“xiubugong”",
+      "llgj“xbg”",
+      "'Tinkerer'",
+      "放浪職人「リペアラー」",
+      "SMN17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1418_mmkonm_2": [
+    [
+      "流浪工匠“修补工头”",
+      "流浪工匠“修補工頭”",
+      "liulanggongjiang“xiubugongtou”",
+      "llgj“xbgt”",
+      "'Mechanic'",
+      "放浪職人「リペアマスター」",
+      "SMN18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1419_mmcike": [
+    [
+      "裹骸死士",
+      "裹骸死士",
+      "guohaisishi",
+      "ghss",
+      "Deathveil Assassin",
+      "捨身の死士",
+      "UDF1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1422_lrsldr": [
+    [
+      "萨卡兹枯朽前锋",
+      "薩卡茲枯朽前鋒",
+      "sakazikuxiuqianfeng",
+      "skzkxqf",
+      "Sarkaz Wither Vanguard",
+      "枯朽サルカズ先鋒",
+      "NAC18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1422_lrsldr_2": [
+    [
+      "萨卡兹枯朽辟路前锋",
+      "薩卡茲枯朽闢路前鋒",
+      "sakazikuxiupiluqianfeng",
+      "skzkxplqf",
+      "Elite Sarkaz Wither Vanguard",
+      "枯朽サルカズ切込み先鋒",
+      "NAC19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1423_lrfkkt": [
+    [
+      "萨卡兹枯朽宿卫",
+      "薩卡茲枯朽宿衛",
+      "sakazikuxiusuwei",
+      "skzkxsw",
+      "Sarkaz Wither Bulwark",
+      "枯朽サルカズ宿衛",
+      "NAC20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1423_lrfkkt_2": [
+    [
+      "萨卡兹枯朽不屈宿卫",
+      "薩卡茲枯朽不屈宿衛",
+      "sakazikuxiubuqusuwei",
+      "skzkxbqsw",
+      "Sarkaz Wither Aegis",
+      "枯朽サルカズ不屈宿衛",
+      "NAC21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1424_lrboom": [
+    [
+      "恶尘源石虫",
+      "惡塵源石蟲",
+      "echenyuanshichong",
+      "ecysc",
+      "Caustic Originium Slug",
+      "悪塵オリジムシ",
+      "B13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1424_lrboom_2": [
+    [
+      "恶尘源石虫·α",
+      "惡塵源石蟲·α",
+      "echenyuanshichong·α",
+      "ecysc·α",
+      "Caustic Originium Slug α",
+      "悪塵オリジムシα",
+      "B14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1425_lrcmra": [
+    [
+      "孽罪奇美拉",
+      "孽罪奇美拉",
+      "niezuiqimeila",
+      "nzqml",
+      "Profane Chimera",
+      "大罪のキメラ",
+      "ABS1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1425_lrcmra_2": [
+    [
+      "渎罪奇美拉",
+      "瀆罪奇美拉",
+      "duzuiqimeila",
+      "dzqml",
+      "Sacrilegious Chimera",
+      "冒涜のキメラ",
+      "ABS2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1426_lrthef": [
+    [
+      "萨卡兹祭坛看护者",
+      "薩卡茲祭壇看護者",
+      "sakazijitankanhuzhe",
+      "skzjtkhz",
+      "Sarkaz Altar Keeper",
+      "サルカズ祭壇守護者",
+      "NAC22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1426_lrthef_2": [
+    [
+      "萨卡兹祭坛奉养者",
+      "薩卡茲祭壇奉養者",
+      "sakazijitanfengyangzhe",
+      "skzjtfyz",
+      "Sarkaz Altar Nourisher",
+      "サルカズ祭壇奉仕者",
+      "NAC23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1427_lrnazg": [
+    [
+      "“灵幛”",
+      "“靈幛”",
+      "“lingzhang”",
+      "“lz”",
+      "Sudaram",
+      "「霊骸布」",
+      "NAC24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1427_lrnazg_2": [
+    [
+      "“慰朽灵幛”",
+      "“慰朽靈幛”",
+      "“weixiulingzhang”",
+      "“wxlz”",
+      "Putrefied Sudaram",
+      "「慰撫の霊骸布」",
+      "NAC25"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1428_lrsoul": [
+    [
+      "魂灵涡流",
+      "魂靈渦流",
+      "hunlingwoliu",
+      "hlwl",
+      "Soul Maelstrom",
+      "ソウルボルテックス",
+      "ABS3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1429_lrwzrd": [
+    [
+      "聚焦魂灵残迹",
+      "聚焦魂靈殘跡",
+      "jujiaohunlingcanji",
+      "jjhlcj",
+      "Focused Soul Remnant",
+      "集束せし魂の残滓",
+      "ABS4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1429_lrwzrd_2": [
+    [
+      "棱镜魂灵残迹",
+      "棱鏡魂靈殘跡",
+      "lengjinghunlingcanji",
+      "ljhlcj",
+      "Prism Soul Remnant",
+      "反照せし魂の残滓",
+      "ABS5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1430_lrrook": [
+    [
+      "愧悔魂灵圣杯",
+      "愧悔魂靈聖盃",
+      "kuihuihunlingshengbei",
+      "khhlsb",
+      "Chalice of Regret",
+      "慚愧せし魂の聖杯",
+      "ABS6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1430_lrrook_2": [
+    [
+      "殉亡魂灵圣杯",
+      "殉亡魂靈聖盃",
+      "xunwanghunlingshengbei",
+      "xwhlsb",
+      "Chalice of Mortality",
+      "殉死せし魂の聖杯",
+      "ABS7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1431_lrmzrd": [
+    [
+      "注能魂灵法骸",
+      "注能魂靈法骸",
+      "zhunenghunlingfahai",
+      "znhlfh",
+      "Infused Soul Husk",
+      "混成せし魂の法骸",
+      "ABS8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1431_lrmzrd_2": [
+    [
+      "粹影魂灵法骸",
+      "粹影魂靈法骸",
+      "cuiyinghunlingfahai",
+      "cyhlfh",
+      "Penumbral Soul Husk",
+      "集粋せし魂の法骸",
+      "ABS9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1433_dsbasi": [
+    [
+      "单核掠食者",
+      "單核掠食者",
+      "danhelveshizhe",
+      "dhlsz",
+      "Unicellular Predator",
+      "単核のプレデター",
+      "SM33"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1433_dsbasi_2": [
+    [
+      "异光体掠食者",
+      "異光體掠食者",
+      "yiguangtilveshizhe",
+      "ygtlsz",
+      "Allotropic Predator",
+      "異光体プレデター",
+      "SM34"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1434_dsshel": [
+    [
+      "微核沉积者",
+      "微核沉積者",
+      "weihechenjizhe",
+      "whcjz",
+      "Exocellular Depositor",
+      "小核のデポジッター",
+      "SM35"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1435_dsflys": [
+    [
+      "纤核漂游者",
+      "纖核漂游者",
+      "xianhepiaoyouzhe",
+      "xhpyz",
+      "Toxocellular Drifter",
+      "繊核のドリフター",
+      "SM36"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1435_dsflys_2": [
+    [
+      "异光体漂游者",
+      "異光體漂游者",
+      "yiguangtipiaoyouzhe",
+      "ygtpyz",
+      "Allotropic Drifter",
+      "異光体ドリフター",
+      "SM37"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1436_dsdivi": [
+    [
+      "诡核集养者",
+      "詭核集養者",
+      "guihejiyangzhe",
+      "ghjyz",
+      "Divicellular Hoarder",
+      "詭核のホーダー",
+      "SM38"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1436_dsdivi_2": [
+    [
+      "异光体集养者",
+      "異光體集養者",
+      "yiguangtijiyangzhe",
+      "ygtjyz",
+      "Allotropic Hoarder",
+      "異光体ホーダー",
+      "SM39"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1437_dsfull": [
+    [
+      "蕴核饲育者",
+      "蘊核飼育者",
+      "yunhesiyuzhe",
+      "yhsyz",
+      "Matrocellular Nurse",
+      "蔵核のナース",
+      "SM40"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1437_dsfull_2": [
+    [
+      "异光体饲育者",
+      "異光體飼育者",
+      "yiguangtisiyuzhe",
+      "ygtsyz",
+      "Allotropic Nurse",
+      "異光体ナース",
+      "SM41"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1438_dspred": [
+    [
+      "复核洋流使者",
+      "複覈洋流使者",
+      "fuheyangliushizhe",
+      "fhylsz",
+      "Multicellular Herald",
+      "複核のヘラルド",
+      "SM42"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1438_dspred_2": [
+    [
+      "异光体洋流使者",
+      "異光體洋流使者",
+      "yiguangtiyangliushizhe",
+      "ygtylsz",
+      "Allotropic Herald",
+      "異光体ヘラルド",
+      "SM43"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1439_dslntf": [
+    [
+      "元核孽生者",
+      "元核孽生者",
+      "yuanhenieshengzhe",
+      "yhnsz",
+      "Nucleic Maleficent",
+      "元核のマレフィセント",
+      "SM44"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1439_dslntf_2": [
+    [
+      "异光体孽生者",
+      "異光體孽生者",
+      "yiguangtinieshengzhe",
+      "ygtnsz",
+      "Allotropic Maleficent",
+      "異光体マレフィセント",
+      "SM45"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1440_dselec": [
+    [
+      "“被弃者”",
+      "“被棄者”",
+      "“beiqizhe”",
+      "“bqz”",
+      "'The Abandoned'",
+      "「棄てられし者」",
+      "FC1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1440_dselec_2": [
+    [
+      "“受诅者”",
+      "“受詛者”",
+      "“shouzuzhe”",
+      "“szz”",
+      "'The Cursed'",
+      "「呪われし者」",
+      "FC2"
     ],
     [
       ""
@@ -19259,6 +24773,363 @@
       "'The Gardener'",
       "「ガーデナー」",
       "CD"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1545_shpkg": [
+    [
+      "多利，“羊之主”",
+      "多利，“羊之主”",
+      "duoli，“yangzhizhu”",
+      "dl，“yzz”",
+      "Dolly, Sovereign of Sheep",
+      "「羊主」ドリー",
+      "DLY"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1546_cliff": [
+    [
+      "“桥夹”克里夫",
+      "“橋夾”克里夫",
+      "“qiaojia”kelifu",
+      "“qj”klf",
+      "'Clip' Cliff",
+      "「クリップ」クリフ",
+      "BSC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1547_blord": [
+    [
+      "杜卡雷，“君主之红”",
+      "杜卡雷，“君主之紅”",
+      "dukalei，“junzhuzhihong”",
+      "dkl，“jzzh”",
+      "Duq'arael, 'Regent's Crimson'",
+      "Duq'arael・「君主の紅」",
+      "PB"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1548_ltniak": [
+    [
+      "赫尔昏佐伦，“巫王”",
+      "赫爾昏佐倫，“巫王”",
+      "heerhunzuolun，“wuwang”",
+      "hehzl，“ww”",
+      "Herkunftshorn, 'Witch King'",
+      "Herkunftshorn・「巫王」",
+      "HH"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1549_windoc": [
+    [
+      "哈洛德·克雷加文",
+      "哈洛德·克雷加文",
+      "haluode·keleijiawen",
+      "hld·kljw",
+      "Harold Craigavon",
+      "ハロルド・クレイガボン",
+      "HC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1550_dhnzzh": [
+    [
+      "“祟”",
+      "“祟”",
+      "“sui”",
+      "“s”",
+      "'Slumbering of Sui'",
+      "「祟」",
+      "SUI"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1551_bolicp": [
+    [
+      "马特奥上尉",
+      "馬特奧上尉",
+      "mateaoshangwei",
+      "mtasw",
+      "Captain Mateo",
+      "マッテオ大尉",
+      "EC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1552_mmamiy": [
+    [
+      "“阿米娅”",
+      "“阿米婭”",
+      "“amiya”",
+      "“amy”",
+      "'Amiya'",
+      "「アーミヤ」",
+      "THA2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1553_lrdead": [
+    [
+      "引火的死魂灵",
+      "引火的死魂靈",
+      "yinhuodesihunling",
+      "yhdshl",
+      "Kindling Revenant",
+      "熾し火のレヴァナント",
+      "DS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1554_lrtsia": [
+    [
+      "特蕾西娅",
+      "特蕾西婭",
+      "teleixiya",
+      "tlxy",
+      "Theresa",
+      "Theresa",
+      "THA3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1556_dsbish": [
+    [
+      "玛利图斯，“海嗣”",
+      "瑪利圖斯，“海嗣”",
+      "malitusi，“haisi”",
+      "mlts，“hs”",
+      "Mártus, 'Seaborn'",
+      "「シーボーン」マルトゥス",
+      "MSB"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1557_trcerb": [
+    [
+      "“三头犬”",
+      "“三頭犬”",
+      "“santouquan”",
+      "“stq”",
+      "'Tri-Maw'",
+      "「ケルベロス」",
+      "DT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1558_sgactr": [
+    [
+      "祖巴伊达姆，从往昔来",
+      "祖巴伊達姆，從往昔來",
+      "zubayidamu，congwangxilai",
+      "zbydm，cwxl",
+      "Zubayidamu the Timeless",
+      "「過去の使者」ズバイダム",
+      "ZYA"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1559_vtlionk": [
+    [
+      "阿利斯泰尔，帝国余晖",
+      "阿利斯泰爾，帝國餘暉",
+      "alisitaier，diguoyuhui",
+      "alste，dgyh",
+      "Alistair, Final Flame of the Empire",
+      "「帝国の残光」アリステア",
+      "ALS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1560_cnvlap": [
+    [
+      "“狂欢之主”",
+      "“狂歡之主”",
+      "“kuanghuanzhizhu”",
+      "“khzz”",
+      0,
+      0,
+      "LOM"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1561_crzjdg": [
+    [
+      "安纳斯塔西奥，赎罪者",
+      "安納斯塔西奧，贖罪者",
+      "annasitaxiao，shuzuizhe",
+      "anstxa，szz",
+      0,
+      0,
+      "AR"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1562_cjtaot": [
+    [
+      "无餍",
+      "無饜",
+      "wuyan",
+      "wy",
+      0,
+      0,
+      "WY"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1563_fthlgj": [
+    [
+      "“万火归一”",
+      "“萬火歸一”",
+      "“wanhuoguiyi”",
+      "“whgy”",
+      0,
+      0,
+      "DR"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1564_mpprts": [
+    [
+      "PRTS，“源代码”",
+      "PRTS，“源代碼”",
+      "PRTS，“yuandaima”",
+      "PRTS，“ydm”",
+      0,
+      0,
+      "RI1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1565_mpprme": [
+    [
+      "拟态机械",
+      "擬態機械",
+      "nitaijixie",
+      "ntjx",
+      0,
+      0,
+      "RI2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1566_mpascl": [
+    [
+      "“阿斯卡纶”",
+      "“阿斯卡綸”",
+      "“asikalun”",
+      "“askl”",
+      0,
+      0,
+      "AC"
     ],
     [
       ""
@@ -20219,6 +26090,40 @@
       "enemy"
     ]
   ],
+  "enemy_2057_smkght": [
+    [
+      "哈兰杜汗，大地之鞭",
+      "哈蘭杜汗，大地之鞭",
+      "halanduhan，dadizhibian",
+      "hldh，ddzb",
+      "Kharanduu Khagan, the Scourge of the Land",
+      "「大地の鞭」ハランドゥハン",
+      "KSL"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2058_smlion": [
+    [
+      "路加萨尔古斯，历法之王",
+      "路加薩爾古斯，曆法之王",
+      "lujiasaergusi，lifazhiwang",
+      "ljsegs，lfzw",
+      "Lugalszargus, the Overlord of Ages",
+      "「暦法の王」ルガサルグス",
+      "LOA"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2059_smbox": [
     [
       "巨壳藤蔓",
@@ -20236,6 +26141,465 @@
       "enemy"
     ]
   ],
+  "enemy_2060_smshdw": [
+    [
+      "可汗片影",
+      "可汗片影",
+      "kehanpianying",
+      "khpy",
+      "Khaganshadow",
+      "ハガンの影",
+      "EJ6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2061_smhond": [
+    [
+      "王者友伴",
+      "王者友伴",
+      "wangzheyouban",
+      "wzyb",
+      "Royal Companion",
+      "王の友",
+      "EJ7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2063_skzlch": [
+    [
+      "萨卡兹迷宫劝导者",
+      "薩卡茲迷宮勸導者",
+      "sakazimigongquandaozhe",
+      "skzmgqdz",
+      "Sarkaz Maze Guide",
+      "サルカズ迷宮の忠告者",
+      "SFF1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2064_skzwdd": [
+    [
+      "萨卡兹迷宫归乡者",
+      "薩卡茲迷宮歸鄉者",
+      "sakazimigongguixiangzhe",
+      "skzmggxz",
+      "Sarkaz Maze Returner",
+      "サルカズ迷宮の帰郷者",
+      "SFF2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2065_skzjs": [
+    [
+      "恐卡兹",
+      "恐卡茲",
+      "kongkazi",
+      "kkz",
+      "Dreadkaz",
+      "ドレッドカズ",
+      "SFF3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2066_skzlcp": [
+    [
+      "萨卡兹迷宫织咒者",
+      "薩卡茲迷宮織咒者",
+      "sakazimigongzhizhouzhe",
+      "skzmgzzz",
+      "Sarkaz Maze Spellweaver",
+      "サルカズ迷宮の織呪者",
+      "SFF4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2067_skzcy": [
+    [
+      "“门”",
+      "“門”",
+      "“men”",
+      "“m”",
+      "'Portal'",
+      "「門」",
+      "SFF5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2068_skzirn": [
+    [
+      "圣卫自动机",
+      "聖衛自動機",
+      "shengweizidongji",
+      "swzdj",
+      "Holy Automaton",
+      "聖衛のオートマトン",
+      "SFF6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2069_skzbox": [
+    [
+      "迷珍巧械",
+      "迷珍巧械",
+      "mizhenqiaoxie",
+      "mzqx",
+      "Lost Contraption",
+      "珍妙な機械",
+      "SFF7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2070_skzfbx": [
+    [
+      "迷珍飞械",
+      "迷珍飛械",
+      "mizhenfeixie",
+      "mzfx",
+      "Lost Hovercraft",
+      "珍妙な飛行機械",
+      "SFF8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2071_skzdny": [
+    [
+      "菈玛莲",
+      "菈瑪蓮",
+      "lamalian",
+      "lml",
+      "Laqeramaline",
+      "ラケラマリン",
+      "LMR"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2072_skdny2": [
+    [
+      "编织泪水的术师",
+      "編織淚水的術師",
+      "bianzhileishuideshushi",
+      "bzlsdss",
+      "The Tear Weaver",
+      "涙を織りし術師",
+      "LMS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2074_skzgly": [
+    [
+      "歌利亚",
+      "歌利亞",
+      "geliya",
+      "gly",
+      "Goliath",
+      "ゴリアテ",
+      "GLT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2075_skgly2": [
+    [
+      "遗忘创伤的战士",
+      "遺忘創傷的戰士",
+      "yiwangchuangshangdezhanshi",
+      "ywcsdzs",
+      "Champion of Lost Agonies",
+      "傷を忘れし戦士",
+      "GLS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2076_skzklz": [
+    [
+      "凯尔希",
+      "凱爾希",
+      "kaierxi",
+      "kex",
+      "Kal'tsit",
+      "Kal'tsit",
+      "KST"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2077_skklz2": [
+    [
+      "预见末日的贤人",
+      "預見末日的賢人",
+      "yujianmoridexianren",
+      "yjmrdxr",
+      "The Doomsday Prophet",
+      "終末を予見せし賢者",
+      "KSS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2078_skzmst": [
+    [
+      "Mon2tr",
+      "Mon2tr",
+      "Mon2tr",
+      "Mon2tr",
+      "Mon2tr",
+      "Mon2tr",
+      "M2T"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2079_skmst2": [
+    [
+      "迭代的怪物",
+      "迭代的怪物",
+      "diedaideguaiwu",
+      "dddgw",
+      "Evolving Monster",
+      "世代交代を重ねし怪物",
+      "M2S"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2080_skzlwy": [
+    [
+      "弗莱蒙特，诸思之解答",
+      "弗萊蒙特，諸思之解答",
+      "fulaimengte，zhusizhijieda",
+      "flmt，zszjd",
+      "Fremont, Enlightener of Minds",
+      "「迷想の解」フレモント",
+      "FMT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2081_skztxs": [
+    [
+      "特雷西斯，黑冠尊主",
+      "特雷西斯，黑冠尊主",
+      "teleixisi，heiguanzunzhu",
+      "tlxs，hgzz",
+      "Theresis, Black Crowned Lord",
+      "「黒き王冠の主」テレシス",
+      "TRS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2082_skzdd": [
+    [
+      "博卓卡斯替，圣卫铳骑",
+      "博卓卡斯替，聖衛銃騎",
+      "bozhuokasiti，shengweichongqi",
+      "bzkst，swcq",
+      "Buldrokkas'tee, Holy Gun-Knight",
+      "「聖衛の銃騎士」ボジョカスティ",
+      "SPT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2084_skzcan": [
+    [
+      "古德因纳夫先生",
+      "古德因納夫先生",
+      "gudeyinnafuxiansheng",
+      "gdynfxs",
+      "Mr. Goodenough",
+      "Mr.グッドイナフ",
+      "KNS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2085_skzjxd": [
+    [
+      "圆仔",
+      "圓仔",
+      "yuanzai",
+      "yz",
+      "Fatty",
+      "マルッコ",
+      "FAT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2089_skzjkl": [
+    [
+      "奎隆，摩诃萨埵权化",
+      "奎隆，摩訶薩埵權化",
+      "kuilong，mohesaduoquanhua",
+      "kl，mhsdqh",
+      "Qui'lon, Avatar of the Mahasattva",
+      "「摩訶薩の権化」クイロン",
+      "QLN"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2090_skzjbc": [
+    [
+      "托生莲座",
+      "託生蓮座",
+      "tuoshenglianzuo",
+      "tslz",
+      "Padmasana of Rebirth",
+      "托生蓮座",
+      "SFF9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2091_skzgds": [
+    [
+      "“窗”",
+      "“窗”",
+      "“chuang”",
+      "“c”",
+      "'Window'",
+      "「窓」",
+      "SFF10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2092_skzamy": [
+    [
+      "“阿米娅”，炉芯终曲",
+      "“阿米婭”，爐芯終曲",
+      "“amiya”，luxinzhongqu",
+      "“amy”，lxzq",
+      0,
+      0,
+      "AFF"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2093_skzams": [
     [
       "终曲合声",
@@ -20245,6 +26609,74 @@
       0,
       0,
       "SFF11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2097_skzfdd": [
+    [
+      "博卓卡斯替，圣卫铳骑",
+      "博卓卡斯替，聖衛銃騎",
+      "bozhuokasiti，shengweichongqi",
+      "bzkst，swcq",
+      0,
+      0,
+      "SPT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2098_skzftx": [
+    [
+      "特雷西斯，黑冠尊主",
+      "特雷西斯，黑冠尊主",
+      "teleixisi，heiguanzunzhu",
+      "tlxs，hgzz",
+      0,
+      0,
+      "TRS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2099_skzfkl": [
+    [
+      "奎隆，摩诃萨埵权化",
+      "奎隆，摩訶薩埵權化",
+      "kuilong，mohesaduoquanhua",
+      "kl，mhsdqh",
+      0,
+      0,
+      "QLN"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2100_skzfmf": [
+    [
+      "曼弗雷德",
+      "曼弗雷德",
+      "manfuleide",
+      "mfld",
+      0,
+      0,
+      "MAN"
     ],
     [
       ""
@@ -20355,6 +26787,23 @@
       "enemy"
     ]
   ],
+  "enemy_3006_tersia": [
+    [
+      "特蕾西娅，“魔王”",
+      "特蕾西婭，“魔王”",
+      "teleixiya，“mowang”",
+      "tlxy，“mw”",
+      "Theresa, King of Sarkaz",
+      "Theresa・「魔王」",
+      "THA1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_4001_toxcar": [
     [
       "改造瓦斯车",
@@ -20440,6 +26889,907 @@
       "enemy"
     ]
   ],
+  "enemy_4004_muvltr": [
+    [
+      "赛场补给车",
+      "賽場補給車",
+      "saichangbujiche",
+      "scbjc",
+      "Supply Wagon",
+      "会場補給カート",
+      "IB1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4004_muvltr_2": [
+    [
+      "“天车散花”赛场补给车",
+      "“天車散花”賽場補給車",
+      "“tianchesanhua”saichangbujiche",
+      "“tcsh”scbjc",
+      "'Soda POP!' Supply Wagon",
+      "「まき散らし」会場補給カート",
+      "IB2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4005_musqrl": [
+    [
+      "鼷兽补给员",
+      "鼷獸補給員",
+      "xishoubujiyuan",
+      "xsbjy",
+      "Musbeast Supplier",
+      "鼷獣補給員",
+      "IB3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4005_musqrl_2": [
+    [
+      "“力大如驮”鼷兽补给员",
+      "“力大如馱”鼷獸補給員",
+      "“lidarutuo”xishoubujiyuan",
+      "“ldrt”xsbjy",
+      "'Big Brawn' Musbeast Supplier",
+      "「百万駄力」鼷獣補給員",
+      "IB4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4006_mumole": [
+    [
+      "沙地兽补给员",
+      "沙地獸補給員",
+      "shadishoubujiyuan",
+      "sdsbjy",
+      "Sandbeast Supplier",
+      "サンドビースト補給員",
+      "IB5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4006_mumole_2": [
+    [
+      "“雨露均沾”沙地兽补给员",
+      "“雨露均霑”沙地獸補給員",
+      "“yulujunzhan”shadishoubujiyuan",
+      "“yljz”sdsbjy",
+      "'Faircare' Sandbeast Supplier",
+      "「一視同仁」補給員",
+      "IB6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4007_murino": [
+    [
+      "驮兽补给员",
+      "馱獸補給員",
+      "tuoshoubujiyuan",
+      "tsbjy",
+      "Burdenbeast Supplier",
+      "駄獣補給員",
+      "IB7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4007_murino_2": [
+    [
+      "“胆小如鼷”驮兽补给员",
+      "“膽小如鼷”馱獸補給員",
+      "“danxiaoruxi”tuoshoubujiyuan",
+      "“dxrx”tsbjy",
+      "'Timidthy' Burdenbeast Supplier",
+      "「鼷心小胆」駄獣補給員",
+      "IB8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4008_mucat": [
+    [
+      "重锤补给员",
+      "重錘補給員",
+      "zhongchuibujiyuan",
+      "zcbjy",
+      "Hammer Supplier",
+      "メガハンマー補給員",
+      "IB9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4008_mucat_2": [
+    [
+      "“横冲直撞”重锤补给员",
+      "“橫衝直撞”重錘補給員",
+      "“hengchongzhizhuang”zhongchuibujiyuan",
+      "“hczz”zcbjy",
+      "'Rampage' Hammer Supplier",
+      "「縦横無尽」補給員",
+      "IB10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4009_murgby": [
+    [
+      "铁头前锋",
+      "鐵頭前鋒",
+      "tietouqianfeng",
+      "ttqf",
+      "Ironhead Forward",
+      "石頭ランニングバック",
+      "IB11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4009_murgby_2": [
+    [
+      "“一往无前”铁头前锋",
+      "“一往無前”鐵頭前鋒",
+      "“yiwangwuqian”tietouqianfeng",
+      "“ywwq”ttqf",
+      "'Charger' Ironhead Forward",
+      "「勇猛果敢」ランニングバック",
+      "IB12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4010_mubsbl": [
+    [
+      "长臂投手",
+      "長臂投手",
+      "zhangbitoushou",
+      "zbts",
+      "Long-Armed Pitcher",
+      "豪腕ピッチャー",
+      "IB13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4010_mubsbl_2": [
+    [
+      "“精准制导”长臂投手",
+      "“精準制導”長臂投手",
+      "“jingzhunzhidao”zhangbitoushou",
+      "“jzzd”zbts",
+      "'True Shot' Long-Armed Pitcher",
+      "「精密機械」豪腕ピッチャー",
+      "IB14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4012_mumssi": [
+    [
+      "阵地击球手",
+      "陣地擊球手",
+      "zhendijiqiushou",
+      "zdjqs",
+      "Field Shooter",
+      "ポジションストライカー",
+      "IB17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4012_mumssi_2": [
+    [
+      "“脚脚生风”阵地击球手",
+      "“腳腳生風”陣地擊球手",
+      "“jiaojiaoshengfeng”zhendijiqiushou",
+      "“jjsf”zdjqs",
+      "'Longshot' Field Shooter",
+      "「旋風脚」ストライカー",
+      "IB18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4013_mubufn": [
+    [
+      "阵地守门员",
+      "陣地守門員",
+      "zhendishoumenyuan",
+      "zdsmy",
+      "Field Goalie",
+      "ポジションキーパー",
+      "IB19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4013_mubufn_2": [
+    [
+      "“头头是门”阵地守门员",
+      "“頭頭是門”陣地守門員",
+      "“toutoushimen”zhendishoumenyuan",
+      "“ttsm”zdsmy",
+      "'Brain Barrier' Field Goalie",
+      "「鉄壁頭」キーパー",
+      "IB20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4014_mugnfu": [
+    [
+      "阵地击人手",
+      "陣地擊人手",
+      "zhendijirenshou",
+      "zdjrs",
+      "Field Bludgeoner",
+      "ポジションエースキラー",
+      "IB21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4014_mugnfu_2": [
+    [
+      "“锤锤到肉”阵地击人手",
+      "“錘錘到肉”陣地擊人手",
+      "“chuichuidaorou”zhendijirenshou",
+      "“ccdr”zdjrs",
+      "'Basher' Field Bludgeoner",
+      "「必殺槌」エースキラー",
+      "IB22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4015_musucr": [
+    [
+      "RMA70刺球",
+      "RMA70刺球",
+      "RMA70ciqiu",
+      "RMA70cq",
+      "RMA70 Spikeball",
+      "RMA70とげとげボール",
+      "IB23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4016_mubuln": [
+    [
+      "粉红绒气球",
+      "粉紅絨氣球",
+      "fenhongrongqiqiu",
+      "fhrqq",
+      "Fluffy Pink Balloon",
+      "ピンクもふもふボール",
+      "IB24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4017_muinbl": [
+    [
+      "压缩建材球",
+      "壓縮建材球",
+      "yasuojiancaiqiu",
+      "ysjcq",
+      "Compressed Ball",
+      "圧縮建材ボール",
+      "IB25"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4018_muboom": [
+    [
+      "高能源石球",
+      "高能源石球",
+      "gaonengyuanshiqiu",
+      "gnysq",
+      "Infused Originium Ball",
+      "バクダンムシボール",
+      "IB26"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4019_mugold": [
+    [
+      "至纯源石球",
+      "至純源石球",
+      "zhichunyuanshiqiu",
+      "zcysq",
+      "Originite Prime Ball",
+      "純正源石ボール",
+      "IB27"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4020_muboun": [
+    [
+      "无垠回荡球",
+      "無垠迴盪球",
+      "wuyinhuidangqiu",
+      "wyhdq",
+      "Perpetual Rebounder",
+      "天地に揺蕩うボール",
+      "IB28"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4022_mushtm": [
+    [
+      "战术队击球手",
+      "戰術隊擊球手",
+      "zhanshuduijiqiushou",
+      "zsdjqs",
+      0,
+      0,
+      "IB29"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4022_mushtm_2": [
+    [
+      "战术队精英击球手",
+      "戰術隊精英擊球手",
+      "zhanshuduijingyingjiqiushou",
+      "zsdjyjqs",
+      0,
+      0,
+      "IB30"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4023_mushtb": [
+    [
+      "战术队守门员",
+      "戰術隊守門員",
+      "zhanshuduishoumenyuan",
+      "zsdsmy",
+      0,
+      0,
+      "IB31"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4023_mushtb_2": [
+    [
+      "战术队精英守门员",
+      "戰術隊精英守門員",
+      "zhanshuduijingyingshoumenyuan",
+      "zsdjysmy",
+      0,
+      0,
+      "IB32"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4024_mushtg": [
+    [
+      "战术队击人手",
+      "戰術隊擊人手",
+      "zhanshuduijirenshou",
+      "zsdjrs",
+      0,
+      0,
+      "IB33"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4024_mushtg_2": [
+    [
+      "战术队精英击人手",
+      "戰術隊精英擊人手",
+      "zhanshuduijingyingjirenshou",
+      "zsdjyjrs",
+      0,
+      0,
+      "IB34"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4025_muhrym": [
+    [
+      "爱球会击球手",
+      "愛球會擊球手",
+      "aiqiuhuijiqiushou",
+      "aqhjqs",
+      0,
+      0,
+      "IB35"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4025_muhrym_2": [
+    [
+      "爱球会荣誉击球手",
+      "愛球會榮譽擊球手",
+      "aiqiuhuirongyujiqiushou",
+      "aqhryjqs",
+      0,
+      0,
+      "IB36"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4026_muhryb": [
+    [
+      "爱球会守门员",
+      "愛球會守門員",
+      "aiqiuhuishoumenyuan",
+      "aqhsmy",
+      0,
+      0,
+      "IB37"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4026_muhryb_2": [
+    [
+      "爱球会荣誉守门员",
+      "愛球會榮譽守門員",
+      "aiqiuhuirongyushoumenyuan",
+      "aqhrysmy",
+      0,
+      0,
+      "IB38"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4027_muhryg": [
+    [
+      "爱球会击人手",
+      "愛球會擊人手",
+      "aiqiuhuijirenshou",
+      "aqhjrs",
+      0,
+      0,
+      "IB39"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4027_muhryg_2": [
+    [
+      "爱球会荣誉击人手",
+      "愛球會榮譽擊人手",
+      "aiqiuhuirongyujirenshou",
+      "aqhryjrs",
+      0,
+      0,
+      "IB40"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4028_mukfum": [
+    [
+      "球德联击球手",
+      "球德聯擊球手",
+      "qiudelianjiqiushou",
+      "qdljqs",
+      0,
+      0,
+      "IB41"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4028_mukfum_2": [
+    [
+      "球德联老牌击球手",
+      "球德聯老牌擊球手",
+      "qiudelianlaopaijiqiushou",
+      "qdllpjqs",
+      0,
+      0,
+      "IB42"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4029_mukfub": [
+    [
+      "球德联守门员",
+      "球德聯守門員",
+      "qiudelianshoumenyuan",
+      "qdlsmy",
+      0,
+      0,
+      "IB43"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4029_mukfub_2": [
+    [
+      "球德联老牌守门员",
+      "球德聯老牌守門員",
+      "qiudelianlaopaishoumenyuan",
+      "qdllpsmy",
+      0,
+      0,
+      "IB44"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4030_mukfug": [
+    [
+      "球德联击人手",
+      "球德聯擊人手",
+      "qiudelianjirenshou",
+      "qdljrs",
+      0,
+      0,
+      "IB45"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4030_mukfug_2": [
+    [
+      "球德联老牌击人手",
+      "球德聯老牌擊人手",
+      "qiudelianlaopaijirenshou",
+      "qdllpjrs",
+      0,
+      0,
+      "IB46"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4031_muftsn": [
+    [
+      "漏气甲虫球",
+      "漏氣甲蟲球",
+      "louqijiachongqiu",
+      "lqjcq",
+      0,
+      0,
+      "IB47"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4032_muftmg": [
+    [
+      "膨胀甲虫球",
+      "膨脹甲蟲球",
+      "pengzhangjiachongqiu",
+      "pzjcq",
+      0,
+      0,
+      "IB48"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4033_muftic": [
+    [
+      "北境意志球",
+      "北境意志球",
+      "beijingyizhiqiu",
+      "bjyzq",
+      0,
+      0,
+      "IB49"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4034_muftgl": [
+    [
+      "底海滑动球",
+      "底海滑動球",
+      "dihaihuadongqiu",
+      "dhhdq",
+      0,
+      0,
+      "IB50"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4035_mufbsa": [
+    [
+      "巨力丰碑",
+      "巨力豐碑",
+      "julifengbei",
+      "jlfb",
+      0,
+      0,
+      "IB51"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4036_mufbsb": [
+    [
+      "坚韧丰碑",
+      "堅韌豐碑",
+      "jianrenfengbei",
+      "jrfb",
+      0,
+      0,
+      "IB52"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4037_mufbsc": [
+    [
+      "神射丰碑",
+      "神射豐碑",
+      "shenshefengbei",
+      "ssfb",
+      0,
+      0,
+      "IB53"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4038_mufbsd": [
+    [
+      "热情丰碑",
+      "熱情豐碑",
+      "reqingfengbei",
+      "rqfb",
+      0,
+      0,
+      "IB54"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4039_mufbse": [
+    [
+      "狂奔丰碑",
+      "狂奔豐碑",
+      "kuangbenfengbei",
+      "kbfb",
+      0,
+      0,
+      "IB55"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_5008_cstrwd": [
     [
       "艺术的慈悲!",
@@ -20466,6 +27816,125 @@
       "The Clutchness of Art!",
       "芸術の必殺技！",
       "-"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5501_arcbank": [
+    [
+      "大富翁",
+      "大富翁",
+      "dafuweng",
+      "dfw",
+      0,
+      0,
+      "PM06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5502_arcthf": [
+    [
+      "宝藏神偷",
+      "寶藏神偷",
+      "baozangshentou",
+      "bzst",
+      0,
+      0,
+      "PM07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5503_arcslma": [
+    [
+      "果冻小子",
+      "果凍小子",
+      "guodongxiaozi",
+      "gdxz",
+      0,
+      0,
+      "PM08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5504_arcslmi": [
+    [
+      "果冻丁",
+      "果凍丁",
+      "guodongding",
+      "gdd",
+      0,
+      0,
+      "PM09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5505_arctxi": [
+    [
+      "“两栖号”船车",
+      "“兩棲號”船車",
+      "“liangqihao”chuanche",
+      "“lqh”cc",
+      0,
+      0,
+      "PM10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5506_arcgo": [
+    [
+      "“搁浅零件”",
+      "“擱淺零件”",
+      "“geqianlingjian”",
+      "“gqlj”",
+      0,
+      0,
+      "PM11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5507_arctolm": [
+    [
+      "喷泉“汽水侠”",
+      "噴泉“汽水俠”",
+      "penquan“qishuixia”",
+      "pq“qsx”",
+      0,
+      0,
+      "PM12"
     ],
     [
       ""
@@ -20704,6 +28173,244 @@
       "'Tumor'",
       "「チューマー」",
       "DL14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6015_ictruck": [
+    [
+      "“超甜微笑”",
+      "“超甜微笑”",
+      "“chaotianweixiao”",
+      "“ctwx”",
+      "'Supersweetie Smiley'",
+      "「ビッグスイートスマイル」",
+      "DL15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6016_splash": [
+    [
+      "干渴者",
+      "乾渴者",
+      "gankezhe",
+      "gkz",
+      "Thirster",
+      "サースター",
+      "DL16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6017_icdrone": [
+    [
+      "甜蜜派送机",
+      "甜蜜派送機",
+      "tianmipaisongji",
+      "tmpsj",
+      "Supersweetie Delivery Drone",
+      "スイート・デリバリー",
+      "DL17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6018_carrier": [
+    [
+      "“无根之怨”",
+      "“無根之怨”",
+      "“wugenzhiyuan”",
+      "“wgzy”",
+      "'Hatred Without Root'",
+      "「根なしの恨み」",
+      "DL18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6019_escort": [
+    [
+      "播种无人机",
+      "播種無人機",
+      "bozhongwurenji",
+      "bzwrj",
+      "Seeding Drone",
+      "種まきドローン",
+      "DL19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6020_orang": [
+    [
+      "“烈酒金刚”",
+      "“烈酒金剛”",
+      "“liejiujingang”",
+      "“ljjg”",
+      "'Spirit of Liquor'",
+      "鉄人スピリッツ号",
+      "DL20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6021_cask": [
+    [
+      "桶陈蜜酿",
+      "桶陳蜜釀",
+      "tongchenminiang",
+      "tcmn",
+      "Aged Mead",
+      "ミードの樽",
+      "DL21"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6022_m2cnt": [
+    [
+      "“织郁伯爵”",
+      "“織鬱伯爵”",
+      "“zhiyubojue”",
+      "“zybj”",
+      "'Count Grimscore'",
+      "「鬱織りの伯爵」",
+      "DL22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6023_crane": [
+    [
+      "“贪婪捕手”",
+      "“貪婪捕手”",
+      "“tanlanbushou”",
+      "“tlbs”",
+      "'Greedy Catcher'",
+      "「グリーディーキャッチャー」",
+      "DL23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6024_crnbug": [
+    [
+      "“特别任性的生物”",
+      "“特別任性的生物”",
+      "“tebierenxingdeshengwu”",
+      "“tbrxdsw”",
+      "'Really Unruly Creature'",
+      "「勝手気ままな生物」",
+      "DL24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6025_tinker": [
+    [
+      "怨恨祭坛",
+      "怨恨祭壇",
+      "yuanhenjitan",
+      "yhjt",
+      "Altar of Hatred",
+      "怨恨の祭壇",
+      "DL25"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6026_techn": [
+    [
+      "巫术石球",
+      "巫術石球",
+      "wushushiqiu",
+      "wssq",
+      "Witchcraft Orb",
+      "巫術の石球",
+      "DL26"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6027_bqthie": [
+    [
+      "飞檐客-叶无轻",
+      "飛檐客-葉無輕",
+      "feiyanke-yewuqing",
+      "fyk-ywq",
+      "Ye Wuqing, Rooftop Runner",
+      "「飛侠」葉無軽",
+      "DL27"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_6028_cosgia": [
+    [
+      "“高亢群歌”",
+      "“高亢羣歌”",
+      "“gaokangqunge”",
+      "“gkqg”",
+      0,
+      0,
+      "DL28"
     ],
     [
       ""
@@ -21061,6 +28768,720 @@
       "'Consortium of Pincers'",
       "「カニキング」",
       "SD13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7016_shushu": [
+    [
+      "荒地鼷兽",
+      "荒地鼷獸",
+      "huangdixishou",
+      "hdxs",
+      "Barrenlands Musbeast",
+      "荒野鼷獣",
+      "SD22"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7017_miner": [
+    [
+      "采掘苦工",
+      "採掘苦工",
+      "caijuekugong",
+      "cjkg",
+      "Mine Drudge",
+      "採掘作業員",
+      "SD23"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7018_scarab": [
+    [
+      "爆裂源石虫",
+      "爆裂源石蟲",
+      "baolieyuanshichong",
+      "blysc",
+      "Volatile Originium Slug",
+      "爆裂オリジムシ",
+      "SD24"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7019_thief": [
+    [
+      "旷野流贼",
+      "曠野流賊",
+      "kuangyeliuzei",
+      "kylz",
+      "Wilderness Rogue",
+      "荒野のスリ師",
+      "SD25"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7020_xbtor": [
+    [
+      "刺棱壳兽",
+      "刺棱殼獸",
+      "cilengkeshou",
+      "clks",
+      "Spined Shellbeast",
+      "角棘甲獣",
+      "SD26"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7021_xbmoth": [
+    [
+      "荧羽兽",
+      "熒羽獸",
+      "yingyushou",
+      "yys",
+      "Luminous Fowlbeast",
+      "眩羽獣",
+      "SD27"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7022_gatgod": [
+    [
+      "翠梦祭司",
+      "翠夢祭司",
+      "cuimengjisi",
+      "cmjs",
+      "Zümrütrüyası Priestess",
+      "翠夢の祭司",
+      "SD28"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7023_gatbb": [
+    [
+      "翠梦使者",
+      "翠夢使者",
+      "cuimengshizhe",
+      "cmsz",
+      "Zümrütrüyası Acolyte",
+      "翠夢の使者",
+      "SD29"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7024_clking": [
+    [
+      "行脚艺人",
+      "行腳藝人",
+      "xingjiaoyiren",
+      "xjyr",
+      "Wandering Troubadour",
+      "旅芸人",
+      "SD30"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7025_clbb": [
+    [
+      "行脚艺徒",
+      "行腳藝徒",
+      "xingjiaoyitu",
+      "xjyt",
+      "Wandering Apprentice",
+      "旅芸人見習い",
+      "SD31"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7026_xbele": [
+    [
+      "时光守卫",
+      "時光守衛",
+      "shiguangshouwei",
+      "sgsw",
+      "Timestream Guardian",
+      "時の守護者",
+      "SD32"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7027_xbbtl": [
+    [
+      "晶玲兽",
+      "晶玲獸",
+      "jinglingshou",
+      "jls",
+      "Crystalline Titanibeast",
+      "晶玲獣",
+      "SD33"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7028_xbscp": [
+    [
+      "晶珑兽",
+      "晶瓏獸",
+      "jinglongshou",
+      "jls",
+      "Crystalline Oberobeast",
+      "晶瓏獣",
+      "SD34"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7029_pilot": [
+    [
+      "浮袭者",
+      "浮襲者",
+      "fuxizhe",
+      "fxz",
+      "Sailraider",
+      "セイルレイダー",
+      "SD35"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7030_skodo": [
+    [
+      "纵尘者",
+      "縱塵者",
+      "zongchenzhe",
+      "zcz",
+      "Dustweaver",
+      "ダストウィーバー",
+      "SD36"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7031_ghking": [
+    [
+      "湮灭者",
+      "湮滅者",
+      "yanmiezhe",
+      "ymz",
+      "Annihilator",
+      "アナイアレイター",
+      "SD37"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7034_xbmsn": [
+    [
+      "勤奋劳工",
+      "勤奮勞工",
+      "qinfenlaogong",
+      "qflg",
+      "Diligent Laborer",
+      "勤勉な労働者",
+      "SD38"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7044_xblbug": [
+    [
+      "振翅源石虫",
+      "振翅源石蟲",
+      "zhenchiyuanshichong",
+      "zcysc",
+      "Flying Originium Slug",
+      "羽オリジムシ",
+      "SD39"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7045_xbtd": [
+    [
+      "冲锋源石虫",
+      "衝鋒源石蟲",
+      "chongfengyuanshichong",
+      "cfysc",
+      "Charging Originium Slug",
+      "突撃オリジムシ",
+      "SD40"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7046_xbslug": [
+    [
+      "披甲源石虫",
+      "披甲源石蟲",
+      "pijiayuanshichong",
+      "pjysc",
+      "Armored Originium Slug",
+      "アーマーオリジムシ",
+      "SD41"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7047_xbdit": [
+    [
+      "“流质透镜”",
+      "“流質透鏡”",
+      "“liuzhitoujing”",
+      "“lztj”",
+      "'Liquid Shifter'",
+      "「リキッドレンズ」",
+      "SD42"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7049_xbnum": [
+    [
+      "放归驮兽",
+      "放歸馱獸",
+      "fangguituoshou",
+      "fgts",
+      "Rogue Burdenbeast",
+      "放たれた駄獣",
+      "SD43"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7051_xbcas": [
+    [
+      "拟南兽",
+      "擬南獸",
+      "ninanshou",
+      "nns",
+      "Thalebeast",
+      "ナズナモドキ獣",
+      "SD44"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7053_xbcasz": [
+    [
+      "拟南兽",
+      "擬南獸",
+      "ninanshou",
+      "nns",
+      "Thalebeast",
+      "ナズナモドキ獣",
+      "SD45"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7054_xbsmi": [
+    [
+      "香草翼兽",
+      "香草翼獸",
+      "xiangcaoyishou",
+      "xcys",
+      "Vanillawing",
+      "香草翼獣",
+      "SD46"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7056_xbsmiz": [
+    [
+      "香草翼兽",
+      "香草翼獸",
+      "xiangcaoyishou",
+      "xcys",
+      "Vanillawing",
+      "香草翼獣",
+      "SD47"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7057_xbrok": [
+    [
+      "游砂兽",
+      "遊砂獸",
+      "youshashou",
+      "yss",
+      "Quicksand Beast",
+      "遊砂獣",
+      "SD48"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_7059_xbrokz": [
+    [
+      "游砂兽",
+      "遊砂獸",
+      "youshashou",
+      "yss",
+      "Quicksand Beast",
+      "遊砂獣",
+      "SD49"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8001_flmlod": [
+    [
+      "熔戈者，护王余火",
+      "熔戈者，護王餘火",
+      "ronggezhe，huwangyuhuo",
+      "rgz，hwyh",
+      "Sverdsmeltr, Guardian Ember of the King",
+      "スヴェルドメルター、王を守る余炎",
+      "SFR01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8001_flmlod_2": [
+    [
+      "熔戈者，护王余火",
+      "熔戈者，護王餘火",
+      "ronggezhe，huwangyuhuo",
+      "rgz，hwyh",
+      "Sverdsmeltr, Guardian Ember of the King",
+      "スヴェルドメルター、王を守る余炎",
+      "SFR01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8001_flmlod_3": [
+    [
+      "熔戈者，护王余火",
+      "熔戈者，護王餘火",
+      "ronggezhe，huwangyuhuo",
+      "rgz，hwyh",
+      "Sverdsmeltr, Guardian Ember of the King",
+      "スヴェルドメルター、王を守る余炎",
+      "SFR01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8006_flmgd": [
+    [
+      "再铸扈从",
+      "再鑄扈從",
+      "zaizhuhucong",
+      "zzhc",
+      "Reforged Retinue",
+      "再鋳造されし忠僕",
+      "SFR02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8007_eltrsm": [
+    [
+      "“迷迭香”，虚实之握",
+      "“迷迭香”，虛實之握",
+      "“midiexiang”，xushizhiwo",
+      "“mdx”，xszw",
+      "Rosmontis, Simulated Sentry",
+      "「Rosmontis」・虚実の手",
+      "SFR03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8007_eltrsm_2": [
+    [
+      "“迷迭香”，虚实之握",
+      "“迷迭香”，虛實之握",
+      "“midiexiang”，xushizhiwo",
+      "“mdx”，xszw",
+      "Rosmontis, Simulated Sentry",
+      "「Rosmontis」・虚実の手",
+      "SFR03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8007_eltrsm_3": [
+    [
+      "“迷迭香”，虚实之握",
+      "“迷迭香”，虛實之握",
+      "“midiexiang”，xushizhiwo",
+      "“mdx”，xszw",
+      "Rosmontis, Simulated Sentry",
+      "「Rosmontis」・虚実の手",
+      "SFR03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8008_eltswd": [
+    [
+      "矢量战术装备",
+      "矢量戰術裝備",
+      "shiliangzhanshuzhuangbei",
+      "slzszb",
+      "V.T.E.",
+      "ベクトル戦術装備",
+      "SFR04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8009_eltufo": [
+    [
+      "“迷迭香”的无人机",
+      "“迷迭香”的無人機",
+      "“midiexiang”dewurenji",
+      "“mdx”dwrj",
+      "Rosmontis's Drone",
+      "「Rosmontis」のドローン",
+      "SFR05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9001_ayokai": [
+    [
+      "惊喜赞助无人机",
+      "驚喜贊助無人機",
+      "jingxizanzhuwurenji",
+      "jxzzwrj",
+      0,
+      0,
+      "PM01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9002_adsham": [
+    [
+      "萨卡兹渴血术师",
+      "薩卡茲渴血術師",
+      "sakazikexueshushi",
+      "skzkxss",
+      0,
+      0,
+      "PM02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9003_askate": [
+    [
+      "寻路者供弹手",
+      "尋路者供彈手",
+      "xunluzhegongdanshou",
+      "xlzgds",
+      0,
+      0,
+      "PM03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9004_anlock": [
+    [
+      "技师囚犯",
+      "技師囚犯",
+      "jishiqiufan",
+      "jsqf",
+      0,
+      0,
+      "PM04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9005_aicemn": [
+    [
+      "冰晶射手",
+      "冰晶射手",
+      "bingjingsheshou",
+      "bjss",
+      0,
+      0,
+      "PM05"
     ],
     [
       ""
@@ -21640,6 +30061,7 @@
     ],
     [
       "",
+      "_ambienceSynesthesia#5",
       "_summer#11"
     ],
     [
@@ -21658,6 +30080,7 @@
     ],
     [
       "",
+      "_ambienceSynesthesia#5",
       "_summer#11"
     ],
     [
@@ -21676,6 +30099,7 @@
     ],
     [
       "",
+      "_ambienceSynesthesia#5",
       "_summer#11"
     ],
     [
@@ -21916,6 +30340,40 @@
       "礦石“殺手”",
       "kuangshi“shashou”",
       "ks“ss”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10045_alanna_crane": [
+    [
+      "小螺帽",
+      "小螺帽",
+      "xiaoluomao",
+      "xlm",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10050_monstr_prosts": [
+    [
+      "重构体",
+      "重構體",
+      "zhonggouti",
+      "zgt",
       0,
       0,
       0
