@@ -34719,5 +34719,56 @@
     [
       "trap"
     ]
+  ],
+  "trap_780_supspt": [
+    [
+      "天工夜行套装",
+      "天工夜行套裝",
+      "tiangongyexingtaozhuang",
+      "tgyxtz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_781_supspta": [
+    [
+      "夜行斗篷模块",
+      "夜行斗篷模塊",
+      "yexingdoupengmokuai",
+      "yxdpmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_782_supsptb": [
+    [
+      "夜行钩爪模块",
+      "夜行鉤爪模塊",
+      "yexinggouzhaomokuai",
+      "yxgzmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
   ]
 }
