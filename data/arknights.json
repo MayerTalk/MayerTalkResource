@@ -545,7 +545,7 @@
       "荒蕪拉普蘭德",
       "huangwulapulande",
       "hwlpld",
-      0,
+      "Lappland the Decadenza",
       "荒蕪ラップランド",
       "SR04"
     ],
@@ -1269,7 +1269,7 @@
       "弒君者",
       "shijunzhe",
       "sjz",
-      0,
+      "CrownSlayer",
       "クラウンスレイヤー",
       "R315"
     ],
@@ -4315,7 +4315,7 @@
       "忍冬",
       "rendong",
       "rd",
-      0,
+      "Vulpisfoglia",
       "ウルピスフォリア",
       "SR40"
     ],
@@ -5719,7 +5719,7 @@
       "菲萊",
       "feilai",
       "fl",
-      0,
+      "Philae",
       "フィラエ",
       "SG10"
     ],
@@ -5756,7 +5756,7 @@
       "裁度",
       "caiduo",
       "cd",
-      0,
+      "Figurino",
       "フィグリーノ",
       "SR41"
     ],
@@ -5847,7 +5847,7 @@
       "雲跡",
       "yunji",
       "yj",
-      0,
+      "Contrail",
       "コントレイル",
       "CB33"
     ],
@@ -8416,7 +8416,7 @@
       "業餘競演者",
       "yeyujingyanzhe",
       "yyjyz",
-      0,
+      "Amateur Performer",
       "一般参加の競演者",
       "CNV1"
     ],
@@ -8433,7 +8433,7 @@
       "專業競演者",
       "zhuanyejingyanzhe",
       "zyjyz",
-      0,
+      "Professional Performer",
       "プロの競演者",
       "CNV2"
     ],
@@ -8450,7 +8450,7 @@
       "禮花零售商",
       "lihualingshoushang",
       "lhlss",
-      0,
+      "Fireworks Merchant",
       "クラッカーリテーラー",
       "CNV3"
     ],
@@ -8467,7 +8467,7 @@
       "禮花經銷商",
       "lihuajingxiaoshang",
       "lhjxs",
-      0,
+      "Fireworks Dealer",
       "クラッカーディーラー",
       "CNV4"
     ],
@@ -8484,7 +8484,7 @@
       "街頭火舞藝人",
       "jietouhuowuyiren",
       "jthwyr",
-      0,
+      "Streetside Fire Juggler",
       "ファイアダンサー",
       "CNV5"
     ],
@@ -8501,7 +8501,7 @@
       "街頭火舞明星",
       "jietouhuowumingxing",
       "jthwmx",
-      0,
+      "Streetside Fire Maestro",
       "ファイアダンススター",
       "CNV6"
     ],
@@ -8518,7 +8518,7 @@
       "節日爵士樂手",
       "jierijueshiyueshou",
       "jrjsys",
-      0,
+      "Festival Jazz Musician",
       "祝祭のジャズ奏者",
       "CNV7"
     ],
@@ -8535,7 +8535,7 @@
       "巡遊爵士樂手",
       "xunyoujueshiyueshou",
       "xyjsys",
-      0,
+      "Parading Jazz Musician",
       "パレードのジャズ奏者",
       "CNV8"
     ],
@@ -8552,7 +8552,7 @@
       "熱烈舞團獨舞者",
       "reliewutuanduwuzhe",
       "rlwtdwz",
-      0,
+      "Entusiasta Dancer",
       "熱烈ソロダンサー",
       "CNV9"
     ],
@@ -8569,7 +8569,7 @@
       "熱烈舞團領舞者",
       "reliewutuanlingwuzhe",
       "rlwtlwz",
-      0,
+      "Entusiasta Lead Dancer",
       "熱烈リードダンサー",
       "CNV10"
     ],
@@ -8586,7 +8586,7 @@
       "節日零食商販",
       "jierilingshishangfan",
       "jrlssf",
-      0,
+      "Carnevale Snack Seller",
       "祝祭の菓子売り",
       "CNV11"
     ],
@@ -8603,7 +8603,7 @@
       "巡遊零食商販",
       "xunyoulingshishangfan",
       "xylssf",
-      0,
+      "Parade Snack Seller",
       "パレードの菓子売り",
       "CNV12"
     ],
@@ -8620,7 +8620,7 @@
       "節日零食車",
       "jierilingshiche",
       "jrlsc",
-      0,
+      "Carnevale Snack Cart",
       "祝祭のおやつカート",
       "CNV13"
     ],
@@ -8637,7 +8637,7 @@
       "巡遊零食車",
       "xunyoulingshiche",
       "xylsc",
-      0,
+      "Parade Snack Cart",
       "パレードのおやつカート",
       "CNV14"
     ],
@@ -8654,7 +8654,7 @@
       "“方便快餐”",
       "“fangbiankuaican”",
       "“fbkc”",
-      0,
+      "'Convenient Eats'",
       "「ファストフード」",
       "CNV15"
     ],
@@ -8671,7 +8671,7 @@
       "“美食速遞”",
       "“meishisudi”",
       "“mssd”",
-      0,
+      "'Gourmet Delivery'",
       "「グルメデリバリー」",
       "CNV16"
     ],
@@ -8688,7 +8688,7 @@
       "“開懷暢飲”",
       "“kaihuaichangyin”",
       "“khcy”",
-      0,
+      "'Happy Drinking'",
       "「乾杯がぶ飲み」号",
       "CNV17"
     ],
@@ -8705,7 +8705,7 @@
       "“醉後狂歡”",
       "“zuihoukuanghuan”",
       "“zhkh”",
-      0,
+      "'Merrymaker Express'",
       "「泥酔お祭り」号",
       "CNV18"
     ],
@@ -8756,7 +8756,7 @@
       "節日氣球",
       "jieriqiqiu",
       "jrqq",
-      0,
+      "Carnevale Balloon",
       "祝祭のバルーン",
       "CNV19"
     ],
@@ -8773,7 +8773,7 @@
       "巡遊氣球",
       "xunyouqiqiu",
       "xyqq",
-      0,
+      "Parade Balloon",
       "パレードのバルーン",
       "CNV20"
     ],
@@ -25025,7 +25025,7 @@
       "“狂歡之主”",
       "“kuanghuanzhizhu”",
       "“khzz”",
-      0,
+      "'La Signora del Carnevale'",
       "「狂宴の主」",
       "LOM"
     ],
@@ -32295,7 +32295,7 @@
       "煙花發射器",
       "yanhuafasheqi",
       "yhfsq",
-      0,
+      "Firework Launcher",
       "花火打上装置",
       0
     ],
