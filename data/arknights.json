@@ -546,7 +546,7 @@
       "huangwulapulande",
       "hwlpld",
       0,
-      0,
+      "荒蕪ラップランド",
       "SR04"
     ],
     [
@@ -1270,7 +1270,7 @@
       "shijunzhe",
       "sjz",
       0,
-      0,
+      "クラウンスレイヤー",
       "R315"
     ],
     [
@@ -4316,7 +4316,7 @@
       "rendong",
       "rd",
       0,
-      0,
+      "ウルピスフォリア",
       "SR40"
     ],
     [
@@ -5720,7 +5720,7 @@
       "feilai",
       "fl",
       0,
-      0,
+      "フィラエ",
       "SG10"
     ],
     [
@@ -5757,7 +5757,7 @@
       "caiduo",
       "cd",
       0,
-      0,
+      "フィグリーノ",
       "SR41"
     ],
     [
@@ -5848,7 +5848,7 @@
       "yunji",
       "yj",
       0,
-      0,
+      "コントレイル",
       "CB33"
     ],
     [
@@ -8417,7 +8417,7 @@
       "yeyujingyanzhe",
       "yyjyz",
       0,
-      0,
+      "一般参加の競演者",
       "CNV1"
     ],
     [
@@ -8434,7 +8434,7 @@
       "zhuanyejingyanzhe",
       "zyjyz",
       0,
-      0,
+      "プロの競演者",
       "CNV2"
     ],
     [
@@ -8451,7 +8451,7 @@
       "lihualingshoushang",
       "lhlss",
       0,
-      0,
+      "クラッカーリテーラー",
       "CNV3"
     ],
     [
@@ -8468,7 +8468,7 @@
       "lihuajingxiaoshang",
       "lhjxs",
       0,
-      0,
+      "クラッカーディーラー",
       "CNV4"
     ],
     [
@@ -8485,7 +8485,7 @@
       "jietouhuowuyiren",
       "jthwyr",
       0,
-      0,
+      "ファイアダンサー",
       "CNV5"
     ],
     [
@@ -8502,7 +8502,7 @@
       "jietouhuowumingxing",
       "jthwmx",
       0,
-      0,
+      "ファイアダンススター",
       "CNV6"
     ],
     [
@@ -8519,7 +8519,7 @@
       "jierijueshiyueshou",
       "jrjsys",
       0,
-      0,
+      "祝祭のジャズ奏者",
       "CNV7"
     ],
     [
@@ -8536,7 +8536,7 @@
       "xunyoujueshiyueshou",
       "xyjsys",
       0,
-      0,
+      "パレードのジャズ奏者",
       "CNV8"
     ],
     [
@@ -8553,7 +8553,7 @@
       "reliewutuanduwuzhe",
       "rlwtdwz",
       0,
-      0,
+      "熱烈ソロダンサー",
       "CNV9"
     ],
     [
@@ -8570,7 +8570,7 @@
       "reliewutuanlingwuzhe",
       "rlwtlwz",
       0,
-      0,
+      "熱烈リードダンサー",
       "CNV10"
     ],
     [
@@ -8587,7 +8587,7 @@
       "jierilingshishangfan",
       "jrlssf",
       0,
-      0,
+      "祝祭の菓子売り",
       "CNV11"
     ],
     [
@@ -8604,7 +8604,7 @@
       "xunyoulingshishangfan",
       "xylssf",
       0,
-      0,
+      "パレードの菓子売り",
       "CNV12"
     ],
     [
@@ -8621,7 +8621,7 @@
       "jierilingshiche",
       "jrlsc",
       0,
-      0,
+      "祝祭のおやつカート",
       "CNV13"
     ],
     [
@@ -8638,7 +8638,7 @@
       "xunyoulingshiche",
       "xylsc",
       0,
-      0,
+      "パレードのおやつカート",
       "CNV14"
     ],
     [
@@ -8655,7 +8655,7 @@
       "“fangbiankuaican”",
       "“fbkc”",
       0,
-      0,
+      "「ファストフード」",
       "CNV15"
     ],
     [
@@ -8672,7 +8672,7 @@
       "“meishisudi”",
       "“mssd”",
       0,
-      0,
+      "「グルメデリバリー」",
       "CNV16"
     ],
     [
@@ -8689,7 +8689,7 @@
       "“kaihuaichangyin”",
       "“khcy”",
       0,
-      0,
+      "「乾杯がぶ飲み」号",
       "CNV17"
     ],
     [
@@ -8706,7 +8706,7 @@
       "“zuihoukuanghuan”",
       "“zhkh”",
       0,
-      0,
+      "「泥酔お祭り」号",
       "CNV18"
     ],
     [
@@ -8757,7 +8757,7 @@
       "jieriqiqiu",
       "jrqq",
       0,
-      0,
+      "祝祭のバルーン",
       "CNV19"
     ],
     [
@@ -8774,7 +8774,7 @@
       "xunyouqiqiu",
       "xyqq",
       0,
-      0,
+      "パレードのバルーン",
       "CNV20"
     ],
     [
@@ -25026,7 +25026,7 @@
       "“kuanghuanzhizhu”",
       "“khzz”",
       0,
-      0,
+      "「狂宴の主」",
       "LOM"
     ],
     [
@@ -32296,7 +32296,7 @@
       "yanhuafasheqi",
       "yhfsq",
       0,
-      0,
+      "花火打上装置",
       0
     ],
     [
