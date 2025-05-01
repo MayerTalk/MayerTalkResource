@@ -515,7 +515,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sale#14"
     ],
     [
       "operator"
@@ -605,6 +606,24 @@
       0,
       0,
       "REX1"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1041_angel2": [
+    [
+      "新约能天使",
+      "新約能天使",
+      "xinyuenengtianshi",
+      "xynts",
+      0,
+      0,
+      "PL08"
     ],
     [
       "",
@@ -892,6 +911,7 @@
     ],
     [
       "",
+      "_sale#14",
       "_witch#1"
     ],
     [
@@ -2371,7 +2391,8 @@
     [
       "",
       "_2",
-      "_boc#8"
+      "_boc#8",
+      "_kitchen#3"
     ],
     [
       "operator"
@@ -3157,6 +3178,7 @@
     [
       "",
       "_2",
+      "_boc#9",
       "_witch#4"
     ],
     [
@@ -3368,6 +3390,7 @@
     [
       "",
       "_2",
+      "_sale#14",
       "_shining#1"
     ],
     [
@@ -4721,7 +4744,8 @@
     [
       "",
       "_2",
-      "_epoque#28"
+      "_epoque#28",
+      "_iteration#3"
     ],
     [
       "operator"
@@ -5510,7 +5534,8 @@
       "RCX6"
     ],
     [
-      ""
+      "",
+      "_boc#9"
     ],
     [
       "operator"
@@ -5989,6 +6014,77 @@
       "operator"
     ]
   ],
+  "char_4187_graceb": [
+    [
+      "聆音",
+      "聆音",
+      "lingyin",
+      "ly",
+      0,
+      0,
+      "BV27"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4188_confes": [
+    [
+      "CONFESS-47",
+      "CONFESS-47",
+      "CONFESS-47",
+      "CONFESS-47",
+      0,
+      0,
+      "LT47"
+    ],
+    [
+      ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4193_lemuen": [
+    [
+      "蕾缪安",
+      "蕾繆安",
+      "leimouan",
+      "lma",
+      0,
+      0,
+      "LT17"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4194_rmixer": [
+    [
+      "信仰搅拌机",
+      "信仰攪拌機",
+      "xinyangjiaobanji",
+      "xyjbj",
+      0,
+      0,
+      "LT32"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_420_flamtl": [
     [
       "焰尾",
@@ -6193,6 +6289,7 @@
     [
       "",
       "_2",
+      "_game#6",
       "_sale#7"
     ],
     [
@@ -6840,6 +6937,7 @@
     [
       "",
       "_2",
+      "_epoque#44",
       "_nian#9"
     ],
     [
@@ -10249,6 +10347,244 @@
       "enemy"
     ]
   ],
+  "enemy_10083_hlbird": [
+    [
+      "“萨科塔之翼”",
+      "“薩科塔之翼”",
+      "“saketazhiyi”",
+      "“sktzy”",
+      0,
+      0,
+      "MT1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10083_hlbird_2": [
+    [
+      "“萨科塔展翅”",
+      "“薩科塔展翅”",
+      "“saketazhanchi”",
+      "“sktzc”",
+      0,
+      0,
+      "MT2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10084_hlegle": [
+    [
+      "“萨科塔之眼”",
+      "“薩科塔之眼”",
+      "“saketazhiyan”",
+      "“sktzy”",
+      0,
+      0,
+      "MT3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10084_hlegle_2": [
+    [
+      "“萨科塔见证”",
+      "“薩科塔見證”",
+      "“saketajianzheng”",
+      "“sktjz”",
+      0,
+      0,
+      "MT4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10085_hllevi": [
+    [
+      "“萨科塔之鳍”",
+      "“薩科塔之鰭”",
+      "“saketazhiqi”",
+      "“sktzq”",
+      0,
+      0,
+      "MT5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10085_hllevi_2": [
+    [
+      "“萨科塔昂首”",
+      "“薩科塔昂首”",
+      "“saketaangshou”",
+      "“sktas”",
+      0,
+      0,
+      "MT6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10086_hltigr": [
+    [
+      "“萨科塔之爪”",
+      "“薩科塔之爪”",
+      "“saketazhizhao”",
+      "“sktzz”",
+      0,
+      0,
+      "MT7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10086_hltigr_2": [
+    [
+      "“萨科塔匍匐”",
+      "“薩科塔匍匐”",
+      "“saketapufu”",
+      "“sktpf”",
+      0,
+      0,
+      "MT8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10087_hlchgr": [
+    [
+      "圣堂剑士",
+      "聖堂劍士",
+      "shengtangjianshi",
+      "stjs",
+      0,
+      0,
+      "MT9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10087_hlchgr_2": [
+    [
+      "精锐圣堂剑士",
+      "精銳聖堂劍士",
+      "jingruishengtangjianshi",
+      "jrstjs",
+      0,
+      0,
+      "MT10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10088_hlsnip": [
+    [
+      "圣堂射手",
+      "聖堂射手",
+      "shengtangsheshou",
+      "stss",
+      0,
+      0,
+      "MT11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10088_hlsnip_2": [
+    [
+      "精锐圣堂射手",
+      "精銳聖堂射手",
+      "jingruishengtangsheshou",
+      "jrstss",
+      0,
+      0,
+      "MT12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10089_hlsprt": [
+    [
+      "圣堂保育员",
+      "聖堂保育員",
+      "shengtangbaoyuyuan",
+      "stbyy",
+      0,
+      0,
+      "MT13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10089_hlsprt_2": [
+    [
+      "资深圣堂保育员",
+      "資深聖堂保育員",
+      "zishenshengtangbaoyuyuan",
+      "zsstbyy",
+      0,
+      0,
+      "MT14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1008_ghost": [
     [
       "幽灵",
@@ -10258,6 +10594,91 @@
       "Wraith",
       "ゴースト兵",
       "13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10090_hlgrd": [
+    [
+      "圣堂布道员",
+      "聖堂布道員",
+      "shengtangbudaoyuan",
+      "stbdy",
+      0,
+      0,
+      "MT15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10090_hlgrd_2": [
+    [
+      "资深圣堂布道员",
+      "資深聖堂布道員",
+      "zishenshengtangbudaoyuan",
+      "zsstbdy",
+      0,
+      0,
+      "MT16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10091_hlsttu": [
+    [
+      "圣徒像",
+      "聖徒像",
+      "shengtuxiang",
+      "stx",
+      0,
+      0,
+      "MT17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10091_hlsttu_2": [
+    [
+      "圣徒祈祷像",
+      "聖徒祈禱像",
+      "shengtuqidaoxiang",
+      "stqdx",
+      0,
+      0,
+      "MT18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10091_hlsttu_3": [
+    [
+      "“牧首”",
+      "“牧首”",
+      "“mushou”",
+      "“ms”",
+      0,
+      0,
+      "MT19"
     ],
     [
       ""
@@ -13634,10 +14055,10 @@
   ],
   "enemy_1111_ucommd_2": [
     [
-      "乌萨斯突击队队长",
-      "烏薩斯突擊隊隊長",
-      "wusasitujiduiduizhang",
-      "wsstjddz",
+      "乌萨斯突击者队长",
+      "烏薩斯突擊者隊長",
+      "wusasitujizheduizhang",
+      "wsstjzdz",
       "Ursus Raider Leader",
       "ウルサスコマンドス隊長",
       "U10"
@@ -21760,10 +22181,10 @@
   ],
   "enemy_1365_spnwiz_2": [
     [
-      "萨卡兹骸骨漂泊术师长\n",
-      "薩卡茲骸骨漂泊術師長\n",
-      "sakazihaigupiaoboshushizhang\n",
-      "skzhgpbssz\n",
+      "萨卡兹骸骨漂泊术师长",
+      "薩卡茲骸骨漂泊術師長",
+      "sakazihaigupiaoboshushizhang",
+      "skzhgpbssz",
       "Sarkaz Boneguard Fluxcaster Captain\n",
       "サルカズ骨骸流浪術師長",
       "SSK7"
@@ -25133,6 +25554,23 @@
       0,
       0,
       "AC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1567_pope": [
+    [
+      "“圣徒”",
+      "“聖徒”",
+      "“shengtu”",
+      "“st”",
+      0,
+      0,
+      "ST"
     ],
     [
       ""
@@ -30298,7 +30736,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_sale#14"
     ],
     [
       "token"
@@ -30429,6 +30868,23 @@
       "重構體",
       "zhonggouti",
       "zgt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10056_angel2_target": [
+    [
+      "投递坐标",
+      "投遞座標",
+      "toudizuobiao",
+      "tdzb",
       0,
       0,
       0
