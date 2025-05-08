@@ -7244,7 +7244,7 @@
       "預備幹員-先鋒",
       "yubeiganyuan-xianfeng",
       "ybgy-xf",
-      0,
+      "Reserve Operator - Vanguard",
       "予備隊員-先鋒",
       0
     ],
@@ -7261,7 +7261,7 @@
       "預備幹員-近衛",
       "yubeiganyuan-jinwei",
       "ybgy-jw",
-      0,
+      "Reserve Operator - Guard",
       "予備隊員-前衛",
       0
     ],
@@ -7278,7 +7278,7 @@
       "預備幹員-重裝",
       "yubeiganyuan-zhongzhuang",
       "ybgy-zz",
-      0,
+      "Reserve Operator - Defender",
       "予備隊員-重装",
       0
     ],
@@ -7295,7 +7295,7 @@
       "預備幹員-狙擊",
       "yubeiganyuan-juji",
       "ybgy-jj",
-      0,
+      "Reserve Operator - Sniper",
       "予備隊員-狙撃",
       0
     ],
@@ -7312,7 +7312,7 @@
       "預備幹員-術師",
       "yubeiganyuan-shushi",
       "ybgy-ss",
-      0,
+      "Reserve Operator - Caster",
       "予備隊員-術師",
       0
     ],
@@ -7329,7 +7329,7 @@
       "預備幹員-醫療",
       "yubeiganyuan-yiliao",
       "ybgy-yl",
-      0,
+      "Reserve Operator - Medic",
       "予備隊員-医療",
       0
     ],
@@ -7346,7 +7346,7 @@
       "預備幹員-輔助",
       "yubeiganyuan-fuzhu",
       "ybgy-fz",
-      0,
+      "Reserve Operator - Supporter",
       "予備隊員-補助",
       0
     ],
@@ -7363,7 +7363,7 @@
       "預備幹員-特種",
       "yubeiganyuan-tezhong",
       "ybgy-tz",
-      0,
+      "Reserve Operator - Specialist",
       "予備隊員-特殊",
       0
     ],
@@ -7380,7 +7380,7 @@
       "鬱金香",
       "yujinxiang",
       "yjx",
-      0,
+      "Tulip",
       "チューリップ",
       0
     ],
@@ -7397,7 +7397,7 @@
       "Sharp",
       "Sharp",
       "Sharp",
-      0,
+      "Sharp",
       "Sharp",
       0
     ],
@@ -7414,7 +7414,7 @@
       "Mechanist",
       "Mechanist",
       "Mechanist",
-      0,
+      "Mechanist",
       "Mechanist",
       0
     ],
@@ -7431,7 +7431,7 @@
       "Stormeye",
       "Stormeye",
       "Stormeye",
-      0,
+      "Stormeye",
       "Stormeye",
       0
     ],
@@ -7448,7 +7448,7 @@
       "Pith",
       "Pith",
       "Pith",
-      0,
+      "Pith",
       "Pith",
       0
     ],
@@ -7465,7 +7465,7 @@
       "Touch",
       "Touch",
       "Touch",
-      0,
+      "Touch",
       "Touch",
       0
     ],
@@ -7482,7 +7482,7 @@
       "Raidian",
       "Raidian",
       "Raidian",
-      0,
+      "Raidian",
       "Raidian",
       0
     ],
@@ -7499,7 +7499,7 @@
       "Misery",
       "Misery",
       "Misery",
-      0,
+      "Misery",
       "Misery",
       0
     ],
@@ -29903,7 +29903,7 @@
       "驚喜贊助無人機",
       "jingxizanzhuwurenji",
       "jxzzwrj",
-      0,
+      "Surprise Sponsor Drone",
       "サプライズ協賛ドローン",
       "PM01"
     ],
@@ -29920,7 +29920,7 @@
       "薩卡茲渴血術師",
       "sakazikexueshushi",
       "skzkxss",
-      0,
+      "Sarkaz Bloodthirst Caster",
       "サルカズ渇血術師",
       "PM02"
     ],
@@ -29937,7 +29937,7 @@
       "尋路者供彈手",
       "xunluzhegongdanshou",
       "xlzgds",
-      0,
+      "Pathfinder Armicustos",
       "求道供弾者",
       "PM03"
     ],
@@ -29954,7 +29954,7 @@
       "技師囚犯",
       "jishiqiufan",
       "jsqf",
-      0,
+      "Technician Prisoner",
       "囚人技師",
       "PM04"
     ],
@@ -29971,7 +29971,7 @@
       "冰晶射手",
       "bingjingsheshou",
       "bjss",
-      0,
+      "Glacial Archer",
       "氷晶の射手",
       "PM05"
     ],
@@ -31905,7 +31905,7 @@
       "短劍",
       "duanjian",
       "dj",
-      0,
+      "Dirk",
       "短剣",
       0
     ],
@@ -32007,7 +32007,7 @@
       "法術：貪婪",
       "fashu：tanlan",
       "fs：tl",
-      0,
+      "Arts: Greed",
       "アーツ：貪欲",
       0
     ],
