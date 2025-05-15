@@ -1446,7 +1446,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_boc#10"
     ],
     [
       "operator"
@@ -29889,6 +29890,108 @@
       "Rosmontis's Drone",
       "「Rosmontis」のドローン",
       "SFR05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8010_mcnist": [
+    [
+      "“Mechanist”，机械之心",
+      "“Mechanist”，機械之心",
+      "“Mechanist”，jixiezhixin",
+      "“Mechanist”，jxzx",
+      0,
+      0,
+      "SFR06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8011_mcndog": [
+    [
+      "结构性原理",
+      "結構性原理",
+      "jiegouxingyuanli",
+      "jgxyl",
+      0,
+      0,
+      "SFR07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8012_mcnd": [
+    [
+      "文档",
+      "文檔",
+      "wendang",
+      "wd",
+      0,
+      0,
+      "SFR08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8013_mcnrsh": [
+    [
+      "叶毯",
+      "葉毯",
+      "yetan",
+      "yt",
+      0,
+      0,
+      "SFR09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8014_mcnelp": [
+    [
+      "秒表",
+      "秒錶",
+      "miaobiao",
+      "mb",
+      0,
+      0,
+      "SFR10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8015_mcnrhd": [
+    [
+      "巨声",
+      "巨聲",
+      "jusheng",
+      "js",
+      0,
+      0,
+      "SFR11"
     ],
     [
       ""
