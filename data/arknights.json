@@ -29916,7 +29916,75 @@
       "enemy"
     ]
   ],
+  "enemy_8010_mcnist_2": [
+    [
+      "“Mechanist”，机械之心",
+      "“Mechanist”，機械之心",
+      "“Mechanist”，jixiezhixin",
+      "“Mechanist”，jxzx",
+      0,
+      0,
+      "SFR06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8010_mcnist_3": [
+    [
+      "“Mechanist”，机械之心",
+      "“Mechanist”，機械之心",
+      "“Mechanist”，jixiezhixin",
+      "“Mechanist”，jxzx",
+      0,
+      0,
+      "SFR06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_8011_mcndog": [
+    [
+      "结构性原理",
+      "結構性原理",
+      "jiegouxingyuanli",
+      "jgxyl",
+      0,
+      0,
+      "SFR07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8011_mcndog_2": [
+    [
+      "结构性原理",
+      "結構性原理",
+      "jiegouxingyuanli",
+      "jgxyl",
+      0,
+      0,
+      "SFR07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8011_mcndog_3": [
     [
       "结构性原理",
       "結構性原理",
