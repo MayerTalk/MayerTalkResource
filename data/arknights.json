@@ -633,6 +633,24 @@
       "operator"
     ]
   ],
+  "char_1042_phatm2": [
+    [
+      "酒神",
+      "酒神",
+      "jiushen",
+      "js",
+      0,
+      0,
+      "CT01"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_106_franka": [
     [
       "芙兰卡",
@@ -4785,6 +4803,7 @@
     [
       "",
       "_2",
+      "_epoque#45",
       "_nian#10"
     ],
     [
@@ -4897,7 +4916,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#45"
     ],
     [
       "operator"
@@ -5482,7 +5502,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_iteration#4"
     ],
     [
       "operator"
@@ -6051,6 +6072,24 @@
       "operator"
     ]
   ],
+  "char_4191_tippi": [
+    [
+      "蒂比",
+      "蒂比",
+      "dibi",
+      "db",
+      0,
+      0,
+      "CB25"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_4193_lemuen": [
     [
       "蕾缪安",
@@ -6078,6 +6117,24 @@
       0,
       0,
       "LT32"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4198_christ": [
+    [
+      "Miss.Christine",
+      "Miss.Christine",
+      "Miss.Christine",
+      "Miss.Christine",
+      0,
+      0,
+      "MEOW"
     ],
     [
       "",
@@ -10689,6 +10746,210 @@
       "enemy"
     ]
   ],
+  "enemy_10094_crstf": [
+    [
+      "临时收音师",
+      "臨時收音師",
+      "linshishouyinshi",
+      "lssys",
+      0,
+      0,
+      "WW01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10094_crstf_2": [
+    [
+      "执拗的收音师",
+      "執拗的收音師",
+      "zhiniudeshouyinshi",
+      "zndsys",
+      0,
+      0,
+      "WW02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10095_crgst": [
+    [
+      "加戏群演",
+      "加戲羣演",
+      "jiaxiqunyan",
+      "jxqy",
+      0,
+      0,
+      "WW03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10095_crgst_2": [
+    [
+      "沉浸艺术的群演",
+      "沉浸藝術的羣演",
+      "chenjinyishudequnyan",
+      "cjysdqy",
+      0,
+      0,
+      "WW04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10096_crprp": [
+    [
+      "疲倦道具师",
+      "疲倦道具師",
+      "pijuandaojushi",
+      "pjdjs",
+      0,
+      0,
+      "WW05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10096_crprp_2": [
+    [
+      "渴求瞩目的道具师",
+      "渴求矚目的道具師",
+      "keqiuzhumudidaojushi",
+      "kqzmddjs",
+      0,
+      0,
+      "WW06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10097_crshd": [
+    [
+      "心虚设计师",
+      "心虛設計師",
+      "xinxushejishi",
+      "xxsjs",
+      0,
+      0,
+      "WW07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10097_crshd_2": [
+    [
+      "顺从内心的设计师",
+      "順從內心的設計師",
+      "shuncongneixindeshejishi",
+      "scnxdsjs",
+      0,
+      0,
+      "WW08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10098_crhro": [
+    [
+      "主角阵营角色",
+      "主角陣營角色",
+      "zhujuezhenyingjuese",
+      "zjzyjs",
+      0,
+      0,
+      "WW09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10098_crhro_2": [
+    [
+      "命定的主角",
+      "命定的主角",
+      "mingdingdezhujue",
+      "mddzj",
+      0,
+      0,
+      "WW10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10099_crvln": [
+    [
+      "反派阵营角色",
+      "反派陣營角色",
+      "fanpaizhenyingjuese",
+      "fpzyjs",
+      0,
+      0,
+      "WW11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10099_crvln_2": [
+    [
+      "命定的反派",
+      "命定的反派",
+      "mingdingdefanpai",
+      "mddfp",
+      0,
+      0,
+      "WW12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1009_lurker": [
     [
       "潜伏者",
@@ -10698,6 +10959,74 @@
       "Lurker",
       "潜入者",
       "C0"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10100_crrol": [
+    [
+      "灵活假人",
+      "靈活假人",
+      "linghuojiaren",
+      "lhjr",
+      0,
+      0,
+      "WW13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10100_crrol_2": [
+    [
+      "意识自由的假人",
+      "意識自由的假人",
+      "yishiziyoudejiaren",
+      "yszydjr",
+      0,
+      0,
+      "WW14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10101_crgun": [
+    [
+      "不满摄影师",
+      "不滿攝影師",
+      "bumansheyingshi",
+      "bmsys",
+      0,
+      0,
+      "WW15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10101_crgun_2": [
+    [
+      "宣泄暴力的摄影师",
+      "宣泄暴力的攝影師",
+      "xuanxiebaolidesheyingshi",
+      "xxbldsys",
+      0,
+      0,
+      "WW16"
     ],
     [
       ""
@@ -25581,6 +25910,23 @@
       "enemy"
     ]
   ],
+  "enemy_1568_dirctr": [
+    [
+      "“酒神”",
+      "“酒神”",
+      "“jiushen”",
+      "“js”",
+      0,
+      0,
+      "TR"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2001_duckmi": [
     [
       "鸭爵",
@@ -31040,6 +31386,23 @@
       "重構體",
       "zhonggouti",
       "zgt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10054_phatm2_encdool": [
+    [
+      "本能的召唤",
+      "本能的召喚",
+      "bennengdezhaohuan",
+      "bndzh",
       0,
       0,
       0
