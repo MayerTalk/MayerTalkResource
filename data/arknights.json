@@ -564,8 +564,8 @@
       "引星棘刺",
       "yinxingjici",
       "yxjc",
-      0,
-      0,
+      "Thorns the Lodestar",
+      "引星ソーンズ",
       "II02"
     ],
     [
@@ -5862,8 +5862,8 @@
       "瑰鹽",
       "guiyan",
       "gy",
-      0,
-      0,
+      "Rose Salt",
+      "ローズソルト",
       "II11"
     ],
     [
@@ -5880,8 +5880,8 @@
       "特克諾",
       "tekenuo",
       "tkn",
-      0,
-      0,
+      "Tecno",
+      "テクノ",
       "BV23"
     ],
     [
@@ -8950,8 +8950,8 @@
       "架橋船工",
       "jiaqiaochuangong",
       "jqcg",
-      0,
-      0,
+      "Bridge Builder",
+      "橋架け船大工",
       "PI1"
     ],
     [
@@ -8967,8 +8967,8 @@
       "扶橋老手",
       "fuqiaolaoshou",
       "fqls",
-      0,
-      0,
+      "Bridge Holder",
+      "ベテラン橋持ち師",
       "PI2"
     ],
     [
@@ -8984,8 +8984,8 @@
       "尋險水手",
       "xunxianshuishou",
       "xxss",
-      0,
-      0,
+      "Risk-seeking Sailor",
+      "冒険水夫",
       "PI3"
     ],
     [
@@ -9001,8 +9001,8 @@
       "歷險水手",
       "lixianshuishou",
       "lxss",
-      0,
-      0,
+      "Risk-surviving Sailor",
+      "無鉄砲水夫",
       "PI4"
     ],
     [
@@ -9018,8 +9018,8 @@
       "鹹鱗汁推薦者",
       "xianlinzhituijianzhe",
       "xlztjz",
-      0,
-      0,
+      "Garum Gourmet",
+      "ガルム過激派",
       "PI5"
     ],
     [
@@ -9035,8 +9035,8 @@
       "朗姆酒推薦者",
       "langmujiutuijianzhe",
       "lmjtjz",
-      0,
-      0,
+      "Rum Gourmet",
+      "ラム酒過激派",
       "PI6"
     ],
     [
@@ -9052,8 +9052,8 @@
       "吉兆飛鱗",
       "jizhaofeilin",
       "jzfl",
-      0,
-      0,
+      "Lucky Flyfin",
+      "吉兆飛鱗獣",
       "PI7"
     ],
     [
@@ -9069,8 +9069,8 @@
       "噩兆飛鱗",
       "ezhaofeilin",
       "ezfl",
-      0,
-      0,
+      "Unlucky Flyfin",
+      "凶兆飛鱗獣",
       "PI8"
     ],
     [
@@ -9086,8 +9086,8 @@
       "撼地鹽鱗",
       "handiyanlin",
       "hdyl",
-      0,
-      0,
+      "Saltfin Shaker",
+      "地鳴らし塩鱗獣",
       "PI9"
     ],
     [
@@ -9103,8 +9103,8 @@
       "裂地鹽鱗",
       "liediyanlin",
       "ldyl",
-      0,
-      0,
+      "Saltfin Breaker",
+      "地割れ塩鱗獣",
       "PI10"
     ],
     [
@@ -9120,8 +9120,8 @@
       "爆炸追尋者",
       "baozhazhuixunzhe",
       "bzzxz",
-      0,
-      0,
+      "Explosion Chaser",
+      "爆発探求者",
       "PI11"
     ],
     [
@@ -9137,8 +9137,8 @@
       "爆炸信奉者",
       "baozhaxinfengzhe",
       "bzxfz",
-      0,
-      0,
+      "Explosion Devotee",
+      "爆発信奉者",
       "PI12"
     ],
     [
@@ -9154,8 +9154,8 @@
       "血腥廚子",
       "xuexingchuzi",
       "xxcz",
-      0,
-      0,
+      "Bloody Chef",
+      "テラーコック",
       "PI13"
     ],
     [
@@ -9171,8 +9171,8 @@
       "恐怖廚子",
       "kongbuchuzi",
       "kbcz",
-      0,
-      0,
+      "Terrible Chef",
+      "ホラーコック",
       "PI14"
     ],
     [
@@ -9188,8 +9188,8 @@
       "爆鳴水手長",
       "baomingshuishouzhang",
       "bmssz",
-      0,
-      0,
+      "Cacophonous Boatswain",
+      "爆音水兵長",
       "PI15"
     ],
     [
@@ -9205,8 +9205,8 @@
       "美聲水手長",
       "meishengshuishouzhang",
       "msssz",
-      0,
-      0,
+      "Bel Canto Boatswain",
+      "美声水兵長",
       "PI16"
     ],
     [
@@ -25797,8 +25797,8 @@
       "安納斯塔西奧，贖罪者",
       "annasitaxiao，shuzuizhe",
       "anstxa，szz",
-      0,
-      0,
+      "Anastasio, the Atoner",
+      "「贖罪者」アナスタシオ",
       "AR"
     ],
     [
@@ -28619,8 +28619,8 @@
       "大富翁",
       "dafuweng",
       "dfw",
-      0,
-      0,
+      "Tycoon",
+      "大富豪",
       "PM06"
     ],
     [
@@ -28636,8 +28636,8 @@
       "寶藏神偷",
       "baozangshentou",
       "bzst",
-      0,
-      0,
+      "Treasure Thief",
+      "お宝泥棒",
       "PM07"
     ],
     [
@@ -28653,8 +28653,8 @@
       "果凍小子",
       "guodongxiaozi",
       "gdxz",
-      0,
-      0,
+      "Jelly Kid",
+      "ゼリーモンスター",
       "PM08"
     ],
     [
@@ -28670,8 +28670,8 @@
       "果凍丁",
       "guodongding",
       "gdd",
-      0,
-      0,
+      "Jello",
+      "ゼリーキッド",
       "PM09"
     ],
     [
@@ -28687,8 +28687,8 @@
       "“兩棲號”船車",
       "“liangqihao”chuanche",
       "“lqh”cc",
-      0,
-      0,
+      "'The Amphibian' Ship-Car",
+      "ボトルカー「水陸両用号」",
       "PM10"
     ],
     [
@@ -28704,8 +28704,8 @@
       "“擱淺零件”",
       "“geqianlingjian”",
       "“gqlj”",
-      0,
-      0,
+      "'Washed-Up Parts'",
+      "「ボトルパーツ」",
       "PM11"
     ],
     [
@@ -28721,8 +28721,8 @@
       "噴泉“汽水俠”",
       "penquan“qishuixia”",
       "pq“qsx”",
-      0,
-      0,
+      "Fountain 'Soda Knight'",
+      "噴水「サイダーマン」",
       "PM12"
     ],
     [
@@ -29197,8 +29197,8 @@
       "“高亢羣歌”",
       "“gaokangqunge”",
       "“gkqg”",
-      0,
-      0,
+      "'Song of the Pack'",
+      "「高らかな合唱」",
       "DL28"
     ],
     [
@@ -31318,8 +31318,8 @@
       "木偶舞者",
       "muouwuzhe",
       "mowz",
-      0,
-      0,
+      "Puppet Dancer",
+      "パペットダンサー",
       0
     ],
     [
@@ -33358,8 +33358,8 @@
       "街邊電話亭",
       "jiebiandianhuating",
       "jbdht",
-      0,
-      0,
+      "Street Telephone Booth",
+      "道端の電話ボックス",
       0
     ],
     [
@@ -33375,8 +33375,8 @@
       "軍營電話亭",
       "junyingdianhuating",
       "jydht",
-      0,
-      0,
+      "Camp Telephone Booth",
+      "軍営の電話ボックス",
       0
     ],
     [
@@ -33392,8 +33392,8 @@
       "超時空電話亭",
       "chaoshikongdianhuating",
       "cskdht",
-      0,
-      0,
+      "Timey-Wimey Telephone Booth",
+      "次元超越電話ボックス",
       0
     ],
     [
@@ -33409,8 +33409,8 @@
       "菜單電話機",
       "caidandianhuaji",
       "cddhj",
-      0,
-      0,
+      "Menu Telephone",
+      "注文用電話機",
       0
     ],
     [
@@ -33426,8 +33426,8 @@
       "口渴樂樂",
       "koukelele",
       "kkll",
-      0,
-      0,
+      "Quenchy Cola",
+      "コカ・ラーラ",
       0
     ],
     [
@@ -33443,8 +33443,8 @@
       "大力拳套",
       "daliquantao",
       "dlqt",
-      0,
-      0,
+      "Power Gauntlet",
+      "怪力グローブ",
       0
     ],
     [
@@ -33579,8 +33579,8 @@
       "兩棲碼頭",
       "liangqimatou",
       "lqmt",
-      0,
-      0,
+      "Amphibious Dock",
+      "水陸両用埠頭",
       0
     ],
     [
@@ -35772,8 +35772,8 @@
       "“留聲機”底座",
       "“liushengji”dizuo",
       "“lsj”dz",
-      0,
-      0,
+      "Gramophone Pedestal",
+      "「蓄音機」の台座",
       0
     ],
     [
