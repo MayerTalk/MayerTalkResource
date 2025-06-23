@@ -32469,6 +32469,23 @@
       "trap"
     ]
   ],
+  "trap_1008_acarm008": [
+    [
+      "激光发射器",
+      "激光發射器",
+      "jiguangfasheqi",
+      "jgfsq",
+      "Laser Sighter",
+      "レーザー発射機",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_100_mhlbmb": [
     [
       "高能源石爆桶",
@@ -32477,6 +32494,23 @@
       "gnysbt",
       "High-Energy Originium Barrel Bomb",
       "源石タル爆弾",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1015_acarm015": [
+    [
+      "见钱眼开玩偶",
+      "見錢眼開玩偶",
+      "jianqianyankaiwanou",
+      "jqykwo",
+      "Money-Grubbing Doll",
+      "守銭奴の人形",
       0
     ],
     [
