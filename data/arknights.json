@@ -6151,6 +6151,24 @@
       "operator"
     ]
   ],
+  "char_4195_radian": [
+    [
+      "电弧",
+      "電弧",
+      "dianhu",
+      "dh",
+      0,
+      0,
+      "RE10"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_4196_reckpr": [
     [
       "录武官",
@@ -27517,6 +27535,363 @@
       "enemy"
     ]
   ],
+  "enemy_2101_dyspll": [
+    [
+      "便符",
+      "便符",
+      "bianfu",
+      "bf",
+      0,
+      0,
+      "JY1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2102_dytmbr": [
+    [
+      "皮书生",
+      "皮書生",
+      "pishusheng",
+      "pss",
+      0,
+      0,
+      "JY2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2103_dykens": [
+    [
+      "平剑客",
+      "平劍客",
+      "pingjianke",
+      "pjk",
+      0,
+      0,
+      "JY3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2104_dycast": [
+    [
+      "靳天师",
+      "靳天師",
+      "jintianshi",
+      "jts",
+      0,
+      0,
+      "JY4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2105_dyrnge": [
+    [
+      "似兽",
+      "似獸",
+      "shishou",
+      "ss",
+      0,
+      0,
+      "JY5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2106_dyremy": [
+    [
+      "怪葫芦",
+      "怪葫蘆",
+      "guaihulu",
+      "ghl",
+      0,
+      0,
+      "JY6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2107_dycant": [
+    [
+      "坎某人",
+      "坎某人",
+      "kanmouren",
+      "kmr",
+      0,
+      0,
+      "JY"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2108_dypryg": [
+    [
+      "夕娥",
+      "夕娥",
+      "xie",
+      "xe",
+      0,
+      0,
+      "XE"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2109_dypry2": [
+    [
+      "双月共主",
+      "雙月共主",
+      "shuangyuegongzhu",
+      "sygz",
+      0,
+      0,
+      "YZ"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2110_dyyrzf": [
+    [
+      "炭长矛",
+      "炭長矛",
+      "tanchangmao",
+      "tcm",
+      0,
+      0,
+      "TM"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2111_dyyrz2": [
+    [
+      "桓君",
+      "桓君",
+      "huanjun",
+      "hj",
+      0,
+      0,
+      "HJ"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2112_dyhlgy": [
+    [
+      "枣大刀",
+      "棗大刀",
+      "zaodadao",
+      "zdd",
+      0,
+      0,
+      "ZM"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2113_dyhlg2": [
+    [
+      "文衡君",
+      "文衡君",
+      "wenhengjun",
+      "whj",
+      0,
+      0,
+      "WHJ"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2114_dylbgg": [
+    [
+      "玉双剑",
+      "玉雙劍",
+      "yushuangjian",
+      "ysj",
+      0,
+      0,
+      "YM"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2115_dylbg2": [
+    [
+      "昭烈君",
+      "昭烈君",
+      "zhaoliejun",
+      "zlj",
+      0,
+      0,
+      "ZLJ"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2116_dyyysg": [
+    [
+      "师祖",
+      "師祖",
+      "shizu",
+      "sz",
+      0,
+      0,
+      "JSZ"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2117_dyyys2": [
+    [
+      "太公",
+      "太公",
+      "taigong",
+      "tg",
+      0,
+      0,
+      "JTG"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2118_dylbhm": [
+    [
+      "易",
+      "易",
+      "yi",
+      "y",
+      0,
+      0,
+      "YI"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2119_dyshhj": [
+    [
+      "“岁”",
+      "“歲”",
+      "“sui”",
+      "“s”",
+      0,
+      0,
+      "SUI"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2120_dywqgs": [
+    [
+      "“望”",
+      "“望”",
+      "“wang”",
+      "“w”",
+      0,
+      0,
+      "WAN"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2122_dybgzd": [
+    [
+      "梁",
+      "梁",
+      "liang",
+      "l",
+      0,
+      0,
+      "YIS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_3001_upeopl": [
     [
       "乌萨斯平民",
@@ -31441,6 +31816,57 @@
       "token"
     ]
   ],
+  "token_10051_radian_tower1": [
+    [
+      "戴乌",
+      "戴烏",
+      "daiwu",
+      "dw",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10052_radian_tower2": [
+    [
+      "赛柯",
+      "賽柯",
+      "saike",
+      "sk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10053_radian_tower3": [
+    [
+      "桑特拉",
+      "桑特拉",
+      "sangtela",
+      "stl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
   "token_10054_phatm2_encdool": [
     [
       "本能的召唤",
@@ -33676,6 +34102,23 @@
       "lqmt",
       "Amphibious Dock",
       "水陸両用埠頭",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_241_dyldlz": [
+    [
+      "聚宝斋",
+      "聚寶齋",
+      "jubaozhai",
+      "jbz",
+      0,
+      0,
       0
     ],
     [
