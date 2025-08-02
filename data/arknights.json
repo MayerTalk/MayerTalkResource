@@ -153,7 +153,8 @@
     [
       "",
       "_2",
-      "_boc#6"
+      "_boc#6",
+      "_summer#20"
     ],
     [
       "operator"
@@ -570,7 +571,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_marthe#9"
     ],
     [
       "operator"
@@ -660,6 +662,24 @@
       0,
       0,
       "YD25"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1044_hsgma2": [
+    [
+      "斩业星熊",
+      "斬業星熊",
+      "zhanyexingxiong",
+      "zyxx",
+      0,
+      0,
+      "LM23"
     ],
     [
       "",
@@ -1083,7 +1103,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_summer#20"
     ],
     [
       "operator"
@@ -4710,7 +4731,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sightseer#2"
     ],
     [
       "operator"
@@ -6206,6 +6228,60 @@
       "operator"
     ]
   ],
+  "char_4199_makiri": [
+    [
+      "松桐",
+      "松桐",
+      "songtong",
+      "st",
+      0,
+      0,
+      "HK17"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4202_haruka": [
+    [
+      "遥",
+      "遙",
+      "yao",
+      "y",
+      0,
+      0,
+      "HK15"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4203_kichi": [
+    [
+      "吉星",
+      "吉星",
+      "jixing",
+      "jx",
+      0,
+      0,
+      "HK16"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_420_flamtl": [
     [
       "焰尾",
@@ -6505,7 +6581,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_summer#20"
     ],
     [
       "operator"
@@ -11123,6 +11200,295 @@
       "Sarkaz Greatswordsman Leader",
       "サルカズ大剣隊長",
       "S2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10111_ymgpck": [
+    [
+      "“某种天命”",
+      "“某種天命”",
+      "“mouzhongtianming”",
+      "“mztm”",
+      0,
+      0,
+      "HI01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10111_ymgpck_2": [
+    [
+      "“某种天命”",
+      "“某種天命”",
+      "“mouzhongtianming”",
+      "“mztm”",
+      0,
+      0,
+      "HI02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10112_ymgds": [
+    [
+      "冒失的小弟",
+      "冒失的小弟",
+      "maoshidexiaodi",
+      "msdxd",
+      0,
+      0,
+      "HI03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10112_ymgds_2": [
+    [
+      "资深的小弟",
+      "資深的小弟",
+      "zishendexiaodi",
+      "zsdxd",
+      0,
+      0,
+      "HI04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10113_ymgung": [
+    [
+      "雷遁忍者",
+      "雷遁忍者",
+      "leidunrenzhe",
+      "ldrz",
+      0,
+      0,
+      "HI05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10113_ymgung_2": [
+    [
+      "雷遁宗师",
+      "雷遁宗師",
+      "leidunzongshi",
+      "ldzs",
+      0,
+      0,
+      "HI06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10114_ymgsld": [
+    [
+      "悲观的大哥",
+      "悲觀的大哥",
+      "beiguandedage",
+      "bgddg",
+      0,
+      0,
+      "HI07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10114_ymgsld_2": [
+    [
+      "绝望的大哥",
+      "絕望的大哥",
+      "juewangdedage",
+      "jwddg",
+      0,
+      0,
+      "HI08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10115_ymghol": [
+    [
+      "土遁忍者",
+      "土遁忍者",
+      "tudunrenzhe",
+      "tdrz",
+      0,
+      0,
+      "HI09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10115_ymghol_2": [
+    [
+      "土遁宗师",
+      "土遁宗師",
+      "tudunzongshi",
+      "tdzs",
+      0,
+      0,
+      "HI10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10116_ymgtop": [
+    [
+      "水遁忍者",
+      "水遁忍者",
+      "shuidunrenzhe",
+      "sdrz",
+      0,
+      0,
+      "HI11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10116_ymgtop_2": [
+    [
+      "水遁宗师",
+      "水遁宗師",
+      "shuidunzongshi",
+      "sdzs",
+      0,
+      0,
+      "HI12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10117_ymggld": [
+    [
+      "风遁忍者",
+      "風遁忍者",
+      "fengdunrenzhe",
+      "fdrz",
+      0,
+      0,
+      "HI13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10117_ymggld_2": [
+    [
+      "风遁宗师",
+      "風遁宗師",
+      "fengdunzongshi",
+      "fdzs",
+      0,
+      0,
+      "HI14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10118_ymgprc": [
+    [
+      "澪",
+      "澪",
+      "ling",
+      "l",
+      0,
+      0,
+      "MI01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10119_ymgbxm": [
+    [
+      "压力舒缓帮手",
+      "壓力舒緩幫手",
+      "yalishuhuanbangshou",
+      "ylshbs",
+      0,
+      0,
+      "HI15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10119_ymgbxm_2": [
+    [
+      "压力归零帮手",
+      "壓力歸零幫手",
+      "yaliguilingbangshou",
+      "ylglbs",
+      0,
+      0,
+      "HI16"
     ],
     [
       ""
@@ -25989,6 +26355,23 @@
       "enemy"
     ]
   ],
+  "enemy_1570_ymgscm": [
+    [
+      "三船光平",
+      "三船光平",
+      "sanchuanguangping",
+      "scgp",
+      0,
+      0,
+      "MF"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2001_duckmi": [
     [
       "鸭爵",
@@ -31760,7 +32143,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_summer#20"
     ],
     [
       "token"
@@ -34118,6 +34502,23 @@
       "聚寶齋",
       "jubaozhai",
       "jbz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_255_pckzhn": [
+    [
+      "“斩”",
+      "“斬”",
+      "“zhan”",
+      "“z”",
       0,
       0,
       0
