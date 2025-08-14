@@ -3857,6 +3857,7 @@
     [
       "",
       "_2",
+      "_summer#21",
       "_whirlwind#4"
     ],
     [
@@ -5677,7 +5678,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sightseer#3"
     ],
     [
       "operator"
@@ -30061,6 +30063,23 @@
       "enemy"
     ]
   ],
+  "enemy_6032_fxdjj": [
+    [
+      "“绝对安保”试做型 ",
+      "“絕對安保”試做型 ",
+      "“jueduianbao”shizuoxing ",
+      "“jdab”szx ",
+      0,
+      0,
+      "DL32"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_7001_blwzad": [
     [
       "部族巫术师",
@@ -32075,7 +32094,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_sightseer#3"
     ],
     [
       "token"
@@ -36763,6 +36783,57 @@
       "夜行鉤爪模塊",
       "yexinggouzhaomokuai",
       "yxgzmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_783_tnkspk": [
+    [
+      "反制装甲套组",
+      "反制裝甲套組",
+      "fanzhizhuangjiataozu",
+      "fzzjtz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_784_tnkspka": [
+    [
+      "微型尖刺配件",
+      "微型尖刺配件",
+      "weixingjiancipeijian",
+      "wxjcpj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_785_tnkspkb": [
+    [
+      "维生监测配件",
+      "維生監測配件",
+      "weishengjiancepeijian",
+      "wsjcpj",
       0,
       0,
       0
