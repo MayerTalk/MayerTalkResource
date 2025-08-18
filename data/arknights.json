@@ -32697,6 +32697,23 @@
       "trap"
     ]
   ],
+  "trap_042_tidectrl": [
+    [
+      "涨潮控制",
+      "漲潮控制",
+      "zhangchaokongzhi",
+      "zckz",
+      "Tide Controller",
+      "潮高制御装置",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_045_dublst": [
     [
       "爆破装置",
