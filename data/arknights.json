@@ -1346,7 +1346,7 @@
       "弒君者",
       "shijunzhe",
       "sjz",
-      "CrownSlayer",
+      "Crownslayer",
       "クラウンスレイヤー",
       "R315"
     ],
@@ -5986,8 +5986,8 @@
       "鉬鉛",
       "muqian",
       "mq",
-      0,
-      0,
+      "Wulfenite",
+      "ウルフェナイト",
       "SG27"
     ],
     [
@@ -6040,8 +6040,8 @@
       "水燈心",
       "shuidengxin",
       "sdx",
-      0,
-      0,
+      "Brigid",
+      "ブリギッド",
       "DB04"
     ],
     [
@@ -6673,8 +6673,8 @@
       "死芒",
       "simang",
       "sm",
-      0,
-      0,
+      "Necrass",
+      "ネクラス",
       "DB01"
     ],
     [
@@ -9952,8 +9952,8 @@
       "巡遊草葉",
       "xunyoucaoye",
       "xycy",
-      0,
-      0,
+      "Patrolling Foliage",
+      "ミマワリグサ",
       "EA1"
     ],
     [
@@ -9969,8 +9969,8 @@
       "巡遊枯木",
       "xunyoukumu",
       "xykm",
-      0,
-      0,
+      "Patrolling Witherbush",
+      "ミマワリカブ",
       "EA2"
     ],
     [
@@ -9986,8 +9986,8 @@
       "捲心籽",
       "juanxinzi",
       "jxz",
-      0,
-      0,
+      "Cabbage Seedling",
+      "バクダンダネ",
       "EA3"
     ],
     [
@@ -10003,8 +10003,8 @@
       "捲心草",
       "juanxincao",
       "jxc",
-      0,
-      0,
+      "Cabbage Weed",
+      "バクダンソウ",
       "EA4"
     ],
     [
@@ -10020,8 +10020,8 @@
       "“巢穴”",
       "“chaoxue”",
       "“cx”",
-      0,
-      0,
+      "'Nest'",
+      "「巣」",
       "EA5"
     ],
     [
@@ -10037,8 +10037,8 @@
       "“襁褓”",
       "“qiangbao”",
       "“qb”",
-      0,
-      0,
+      "'Cradle'",
+      "「おくるみ」",
       "EA6"
     ],
     [
@@ -10054,8 +10054,8 @@
       "灼藤",
       "zhuoteng",
       "zt",
-      0,
-      0,
+      "Burning Vine",
+      "ホテリツル",
       "EA7"
     ],
     [
@@ -10071,8 +10071,8 @@
       "灼芯",
       "zhuoxin",
       "zx",
-      0,
-      0,
+      "Burning Wick",
+      "ホテリエダ",
       "EA8"
     ],
     [
@@ -10088,8 +10088,8 @@
       "指路芽",
       "zhiluya",
       "zly",
-      0,
-      0,
+      "Guiding Sprout",
+      "ミチビキワカバ",
       "EA9"
     ],
     [
@@ -10105,8 +10105,8 @@
       "指路草",
       "zhilucao",
       "zlc",
-      0,
-      0,
+      "Guiding Shrub",
+      "ミチビキソウ",
       "EA10"
     ],
     [
@@ -10122,8 +10122,8 @@
       "樹盾",
       "shudun",
       "sd",
-      0,
-      0,
+      "Tree Shield",
+      "ツリーシールド",
       "EA11"
     ],
     [
@@ -10139,8 +10139,8 @@
       "樹牆",
       "shuqiang",
       "sq",
-      0,
-      0,
+      "Tree Wall",
+      "ツリーウォール",
       "EA12"
     ],
     [
@@ -10207,8 +10207,8 @@
       "灰燼造物",
       "huijinzaowu",
       "hjzw",
-      0,
-      0,
+      "Ash Creation",
+      "灰燼の創造物",
       "EA13"
     ],
     [
@@ -10224,8 +10224,8 @@
       "灰燼藝術品",
       "huijinyishupin",
       "hjysp",
-      0,
-      0,
+      "Ash Artwork",
+      "灰燼の芸術品",
       "EA14"
     ],
     [
@@ -10241,8 +10241,8 @@
       "“終點”",
       "“zhongdian”",
       "“zd”",
-      0,
-      0,
+      "'End Point'",
+      "「終着点」",
       "EA15"
     ],
     [
@@ -10258,8 +10258,8 @@
       "“中點”",
       "“zhongdian”",
       "“zd”",
-      0,
-      0,
+      "'Middle Point'",
+      "「中間点」",
       "EA16"
     ],
     [
@@ -14661,7 +14661,7 @@
       "鋒盔騎士團學徒",
       "fengkuiqishituanxuetu",
       "fkqstxt",
-      "Bladehelm Knightclub Trainee",
+      "Blade Helmet Knightclub Trainee",
       "ブレードヘルム見習い騎士",
       "K13"
     ],
@@ -14678,7 +14678,7 @@
       "鋒盔騎士團精銳",
       "fengkuiqishituanjingrui",
       "fkqstjr",
-      "Bladehelm Knightclub Elite",
+      "Blade Helmet Knightclub Elite",
       "ブレードヘルム精鋭騎士",
       "K14"
     ],
@@ -26357,8 +26357,8 @@
       "“萬火歸一”",
       "“wanhuoguiyi”",
       "“whgy”",
-      0,
-      0,
+      "'All Flames Returned'",
+      "「灯火の帰すところ」",
       "DR"
     ],
     [
@@ -26374,8 +26374,8 @@
       "PRTS，“源代碼”",
       "PRTS，“yuandaima”",
       "PRTS，“ydm”",
-      0,
-      0,
+      "PRTS, Source Code",
+      "PRTS、「ソースコード」",
       "RI1"
     ],
     [
@@ -29026,8 +29026,8 @@
       "戰術隊擊球手",
       "zhanshuduijiqiushou",
       "zsdjqs",
-      0,
-      0,
+      "Tactical Team Shooter",
+      "戦術組ストライカー",
       "IB29"
     ],
     [
@@ -29043,8 +29043,8 @@
       "戰術隊精英擊球手",
       "zhanshuduijingyingjiqiushou",
       "zsdjyjqs",
-      0,
-      0,
+      "Elite Tactical Team Shooter",
+      "戦術組精鋭ストライカー",
       "IB30"
     ],
     [
@@ -29060,8 +29060,8 @@
       "戰術隊守門員",
       "zhanshuduishoumenyuan",
       "zsdsmy",
-      0,
-      0,
+      "Tactical Team Goalie",
+      "戦術組キーパー",
       "IB31"
     ],
     [
@@ -29077,8 +29077,8 @@
       "戰術隊精英守門員",
       "zhanshuduijingyingshoumenyuan",
       "zsdjysmy",
-      0,
-      0,
+      "Elite Tactical Team Goalie",
+      "戦術組精鋭キーパー",
       "IB32"
     ],
     [
@@ -29094,8 +29094,8 @@
       "戰術隊擊人手",
       "zhanshuduijirenshou",
       "zsdjrs",
-      0,
-      0,
+      "Tactical Team Hitter",
+      "戦術組エースキラー",
       "IB33"
     ],
     [
@@ -29111,8 +29111,8 @@
       "戰術隊精英擊人手",
       "zhanshuduijingyingjirenshou",
       "zsdjyjrs",
-      0,
-      0,
+      "Elite Tactical Team Hitter",
+      "戦術組精鋭エースキラー",
       "IB34"
     ],
     [
@@ -29128,8 +29128,8 @@
       "愛球會擊球手",
       "aiqiuhuijiqiushou",
       "aqhjqs",
-      0,
-      0,
+      "Ball Mania Club Shooter",
+      "愛球会ストライカー",
       "IB35"
     ],
     [
@@ -29145,8 +29145,8 @@
       "愛球會榮譽擊球手",
       "aiqiuhuirongyujiqiushou",
       "aqhryjqs",
-      0,
-      0,
+      "Ball Mania Club Honorary Shooter",
+      "愛球会名誉ストライカー",
       "IB36"
     ],
     [
@@ -29162,8 +29162,8 @@
       "愛球會守門員",
       "aiqiuhuishoumenyuan",
       "aqhsmy",
-      0,
-      0,
+      "Ball Mania Club Goalie",
+      "愛球会キーパー",
       "IB37"
     ],
     [
@@ -29179,8 +29179,8 @@
       "愛球會榮譽守門員",
       "aiqiuhuirongyushoumenyuan",
       "aqhrysmy",
-      0,
-      0,
+      "Ball Mania Club Honorary Goalie",
+      "愛球会名誉キーパー",
       "IB38"
     ],
     [
@@ -29196,8 +29196,8 @@
       "愛球會擊人手",
       "aiqiuhuijirenshou",
       "aqhjrs",
-      0,
-      0,
+      "Ball Mania Club Hitter",
+      "愛球会エースキラー",
       "IB39"
     ],
     [
@@ -29213,8 +29213,8 @@
       "愛球會榮譽擊人手",
       "aiqiuhuirongyujirenshou",
       "aqhryjrs",
-      0,
-      0,
+      "Ball Mania Club Honorary Hitter",
+      "愛球会名誉エースキラー",
       "IB40"
     ],
     [
@@ -29230,8 +29230,8 @@
       "球德聯擊球手",
       "qiudelianjiqiushou",
       "qdljqs",
-      0,
-      0,
+      "Sportsmen United Shooter",
+      "公正連ストライカー",
       "IB41"
     ],
     [
@@ -29247,8 +29247,8 @@
       "球德聯老牌擊球手",
       "qiudelianlaopaijiqiushou",
       "qdllpjqs",
-      0,
-      0,
+      "Sportsmen United Veteran Shooter",
+      "公正連古参ストライカー",
       "IB42"
     ],
     [
@@ -29264,8 +29264,8 @@
       "球德聯守門員",
       "qiudelianshoumenyuan",
       "qdlsmy",
-      0,
-      0,
+      "Sportsmen United Goalie",
+      "公正連キーパー",
       "IB43"
     ],
     [
@@ -29281,8 +29281,8 @@
       "球德聯老牌守門員",
       "qiudelianlaopaishoumenyuan",
       "qdllpsmy",
-      0,
-      0,
+      "Sportsmen United Veteran Goalie",
+      "公正連古参キーパー",
       "IB44"
     ],
     [
@@ -29298,8 +29298,8 @@
       "球德聯擊人手",
       "qiudelianjirenshou",
       "qdljrs",
-      0,
-      0,
+      "Sportsmen United Hitter",
+      "公正連エースキラー",
       "IB45"
     ],
     [
@@ -29315,8 +29315,8 @@
       "球德聯老牌擊人手",
       "qiudelianlaopaijirenshou",
       "qdllpjrs",
-      0,
-      0,
+      "Sportsmen United Veteran Hitter",
+      "公正連古参エースキラー",
       "IB46"
     ],
     [
@@ -29332,8 +29332,8 @@
       "漏氣甲蟲球",
       "louqijiachongqiu",
       "lqjcq",
-      0,
-      0,
+      "Leaking Beetleball",
+      "空気漏れ甲虫ボール",
       "IB47"
     ],
     [
@@ -29349,8 +29349,8 @@
       "膨脹甲蟲球",
       "pengzhangjiachongqiu",
       "pzjcq",
-      0,
-      0,
+      "Bloated Beetleball",
+      "膨張甲虫ボール",
       "IB48"
     ],
     [
@@ -29366,8 +29366,8 @@
       "北境意志球",
       "beijingyizhiqiu",
       "bjyzq",
-      0,
-      0,
+      "Will of the North Ball",
+      "北境の意志ボール",
       "IB49"
     ],
     [
@@ -29383,8 +29383,8 @@
       "底海滑動球",
       "dihaihuadongqiu",
       "dhhdq",
-      0,
-      0,
+      "Deep Sea Slider Ball",
+      "淵海のスライドボール",
       "IB50"
     ],
     [
@@ -29400,8 +29400,8 @@
       "巨力豐碑",
       "julifengbei",
       "jlfb",
-      0,
-      0,
+      "Monument to Force",
+      "怪力記念碑",
       "IB51"
     ],
     [
@@ -29417,8 +29417,8 @@
       "堅韌豐碑",
       "jianrenfengbei",
       "jrfb",
-      0,
-      0,
+      "Monument to Toughness",
+      "強靭記念碑",
       "IB52"
     ],
     [
@@ -29434,8 +29434,8 @@
       "神射豐碑",
       "shenshefengbei",
       "ssfb",
-      0,
-      0,
+      "Monument to Accuracy",
+      "百発百中記念碑",
       "IB53"
     ],
     [
@@ -29451,8 +29451,8 @@
       "熱情豐碑",
       "reqingfengbei",
       "rqfb",
-      0,
-      0,
+      "Monument to Passion",
+      "情熱記念碑",
       "IB54"
     ],
     [
@@ -29468,8 +29468,8 @@
       "狂奔豐碑",
       "kuangbenfengbei",
       "kbfb",
-      0,
-      0,
+      "Monument to Swiftness",
+      "狂走記念碑",
       "IB55"
     ],
     [
@@ -32255,8 +32255,8 @@
       "悲嘆的僕役",
       "beitandepuyi",
       "btdpy",
-      0,
-      0,
+      "Servant of Lamentation",
+      "悲嘆する下僕",
       0
     ],
     [
@@ -32273,8 +32273,8 @@
       "礦石“殺手”",
       "kuangshi“shashou”",
       "ks“ss”",
-      0,
-      0,
+      "Ore 'Killer'",
+      "鉱石「キラー」",
       0
     ],
     [
@@ -34228,8 +34228,8 @@
       "設施建築工",
       "sheshijianzhugong",
       "ssjzg",
-      "Foldable Facility Maintainer",
-      "競技装置整備士",
+      "Facility Builder",
+      "施設建設作業員",
       0
     ],
     [
@@ -34517,8 +34517,8 @@
       "護具分發員",
       "hujufenfayuan",
       "hjffy",
-      0,
-      0,
+      "Protective Gear Giver",
+      "防具支給員",
       0
     ],
     [
@@ -34534,8 +34534,8 @@
       "混亂煙花箱",
       "hunluanyanhuaxiang",
       "hlyhx",
-      0,
-      0,
+      "Chaotic Fireworks",
+      "花火セット",
       0
     ],
     [
@@ -34551,8 +34551,8 @@
       "猛獸能量飲料",
       "mengshounengliangyinliao",
       "msnlyl",
-      0,
-      0,
+      "Beastmode Energy Drink",
+      "ニャンスターエナジー",
       0
     ],
     [
@@ -34568,8 +34568,8 @@
       "噴射汽水機",
       "pensheqishuiji",
       "psqsj",
-      0,
-      0,
+      "Soda Dispenser",
+      "サイダー噴射機",
       0
     ],
     [
@@ -34585,8 +34585,8 @@
       "賽場啦啦隊",
       "saichanglaladui",
       "sclld",
-      0,
-      0,
+      "Cheerleader",
+      "競技応援団",
       0
     ],
     [
@@ -34602,8 +34602,8 @@
       "高級設施建築工",
       "gaojisheshijianzhugong",
       "gjssjzg",
-      0,
-      0,
+      "Expert Facility Builder",
+      "上級施設建設作業員",
       0
     ],
     [
@@ -34619,8 +34619,8 @@
       "坍塌的雜物堆",
       "tantadezawudui",
       "ttdzwd",
-      0,
-      0,
+      "Collapsed Junk Pile",
+      "ガラクタのなだれ",
       0
     ],
     [
