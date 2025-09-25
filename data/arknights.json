@@ -38,7 +38,8 @@
     [
       "",
       "_2",
-      "_boc#6"
+      "_boc#6",
+      "_sale#14"
     ],
     [
       "operator"
@@ -114,7 +115,8 @@
     [
       "",
       "_2",
-      "_nian#6"
+      "_nian#6",
+      "_whirlwind#9"
     ],
     [
       "operator"
@@ -4316,7 +4318,8 @@
     [
       "",
       "_2",
-      "_epoque#29"
+      "_epoque#29",
+      "_shining#3"
     ],
     [
       "operator"
@@ -5864,7 +5867,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_yun#9"
     ],
     [
       "operator"
@@ -26471,6 +26475,142 @@
       "enemy"
     ]
   ],
+  "enemy_18001_lhship": [
+    [
+      "运输汽艇",
+      "運輸汽艇",
+      "yunshuqiting",
+      "ysqt",
+      0,
+      0,
+      "IL01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18002_lhbetl": [
+    [
+      "小颚虫",
+      "小顎蟲",
+      "xiaoechong",
+      "xec",
+      0,
+      0,
+      "IL02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18003_lhkarb": [
+    [
+      "吸气乱动机",
+      "吸氣亂動機",
+      "xiqiluandongji",
+      "xqldj",
+      0,
+      0,
+      "IL03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18004_lhbmom": [
+    [
+      "巨锹虫",
+      "巨鍬蟲",
+      "juqiaochong",
+      "jqc",
+      0,
+      0,
+      "IL04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18005_lhwand": [
+    [
+      "“徘徊者”",
+      "“徘徊者”",
+      "“paihuaizhe”",
+      "“phz”",
+      0,
+      0,
+      "IL05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18006_lhprie": [
+    [
+      "恩慈祷者",
+      "恩慈禱者",
+      "encidaozhe",
+      "ecdz",
+      0,
+      0,
+      "IL06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18007_lhbque": [
+    [
+      "斑斓虫",
+      "斑斕蟲",
+      "banlanchong",
+      "blc",
+      0,
+      0,
+      "IL07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_18008_lhbbos": [
+    [
+      "“老尖牙”",
+      "“老尖牙”",
+      "“laojianya”",
+      "“ljy”",
+      0,
+      0,
+      "IL08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2001_duckmi": [
     [
       "鸭爵",
@@ -34130,6 +34270,465 @@
       "yymf",
       "Umbral Door",
       "幽影の扉",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1500_lhgras": [
+    [
+      "草丛",
+      "草叢",
+      "caocong",
+      "cc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1501_lhpark": [
+    [
+      "花丛",
+      "花叢",
+      "huacong",
+      "hc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1502_lhrock": [
+    [
+      "岩石",
+      "岩石",
+      "yanshi",
+      "ys",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1503_lhshan": [
+    [
+      "山脉",
+      "山脈",
+      "shanmai",
+      "sm",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1504_lhtree": [
+    [
+      "林地",
+      "林地",
+      "lindi",
+      "ld",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1505_lhfrst": [
+    [
+      "密林",
+      "密林",
+      "milin",
+      "ml",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1506_lhhe": [
+    [
+      "河流",
+      "河流",
+      "heliu",
+      "hl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1508_lhmine": [
+    [
+      "源石矿场",
+      "源石礦場",
+      "yuanshikuangchang",
+      "yskc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1509_lhbot": [
+    [
+      "勘探器",
+      "勘探器",
+      "kantanqi",
+      "ktq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1510_lhplt": [
+    [
+      "源石晶簇",
+      "源石晶簇",
+      "yuanshijingcu",
+      "ysjc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1511_lhfac": [
+    [
+      "晶簇稳定器",
+      "晶簇穩定器",
+      "jingcuwendingqi",
+      "jcwdq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1512_lhfarm": [
+    [
+      "源石回收炉",
+      "源石回收爐",
+      "yuanshihuishoulu",
+      "yshsl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1513_lhshop": [
+    [
+      "冶铸车",
+      "冶鑄車",
+      "yezhuche",
+      "yzc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1514_lhpad": [
+    [
+      "田地",
+      "田地",
+      "tiandi",
+      "td",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1516_lhnat": [
+    [
+      "供能基站",
+      "供能基站",
+      "gongnengjizhan",
+      "gnjz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1517_lhcol": [
+    [
+      "藏书馆",
+      "藏書館",
+      "cangshuguan",
+      "csg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1518_lhdoor": [
+    [
+      "改良巫术祭坛",
+      "改良巫術祭壇",
+      "gailiangwushujitan",
+      "glwsjt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1522_lhvlg": [
+    [
+      "先遣侦测器",
+      "先遣偵測器",
+      "xianqianzhenceqi",
+      "xqzcq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1528_lhruin": [
+    [
+      "废墟",
+      "廢墟",
+      "feixu",
+      "fx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1529_lhsht": [
+    [
+      "岗哨",
+      "崗哨",
+      "gangshao",
+      "gs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1530_lhcamp": [
+    [
+      "荒野村落",
+      "荒野村落",
+      "huangyecunluo",
+      "hycl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1534_lheqp": [
+    [
+      "插件补给点",
+      "插件補給點",
+      "chajianbujidian",
+      "cjbjd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1535_lhupgd": [
+    [
+      "插件强化点",
+      "插件強化點",
+      "chajianqianghuadian",
+      "cjqhd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1536_lhbat": [
+    [
+      "噬血诅地",
+      "噬血詛地",
+      "shixuezudi",
+      "sxzd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1537_lhside": [
+    [
+      "信号基站",
+      "信號基站",
+      "xinhaojizhan",
+      "xhjz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1538_lhblod": [
+    [
+      "血裔胞体",
+      "血裔胞體",
+      "xueyibaoti",
+      "xybt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1539_lhflwr": [
+    [
+      "精怪实验室",
+      "精怪實驗室",
+      "jingguaishiyanshi",
+      "jgsys",
+      0,
+      0,
       0
     ],
     [
