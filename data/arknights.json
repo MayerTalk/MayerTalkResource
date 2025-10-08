@@ -6062,8 +6062,8 @@
       "阿蘭娜",
       "alanna",
       "aln",
-      0,
-      0,
+      "Alanna",
+      "アランナ",
       "RB17"
     ],
     [
@@ -6080,8 +6080,8 @@
       "Mon3tr",
       "Mon3tr",
       "Mon3tr",
-      0,
-      0,
+      "Mon3tr",
+      "Mon3tr",
       "R003"
     ],
     [
@@ -6621,8 +6621,8 @@
       "騁風",
       "chengfeng",
       "cf",
-      0,
-      0,
+      "Windscoot",
+      "ウィンドスクート",
       "YD22"
     ],
     [
@@ -10280,8 +10280,8 @@
       "侵入式調用",
       "qinrushidiaoyong",
       "qrsdy",
-      0,
-      0,
+      "Intrusive Call",
+      "侵入式コールコマンド",
       "PT1"
     ],
     [
@@ -10297,8 +10297,8 @@
       "迷茫的修理小助手",
       "mimangdexiulixiaozhushou",
       "mmdxlxzs",
-      0,
-      0,
+      "Confused Maintenance Helper",
+      "混乱する修理ロボット",
       "OG1"
     ],
     [
@@ -10314,8 +10314,8 @@
       "失控的修理小助手",
       "shikongdexiulixiaozhushou",
       "skdxlxzs",
-      0,
-      0,
+      "Rampaging Maintenance Helper",
+      "暴走する修理ロボット",
       "OG2"
     ],
     [
@@ -10331,8 +10331,8 @@
       "冰鎮飲料機",
       "bingzhenyinliaoji",
       "bzylj",
-      0,
-      0,
+      "Cold Drink Machine",
+      "アイスドリンクマシン",
       "OG3"
     ],
     [
@@ -10348,8 +10348,8 @@
       "加熱飲料機",
       "jiareyinliaoji",
       "jrylj",
-      0,
-      0,
+      "Hot Drink Machine",
+      "ホットドリンクマシン",
       "OG4"
     ],
     [
@@ -10365,8 +10365,8 @@
       "無憂貨運幫手",
       "wuyouhuoyunbangshou",
       "wyhybs",
-      0,
-      0,
+      "Worry-Free Cargo Helper",
+      "安心輸送ヘルパー",
       "OG5"
     ],
     [
@@ -10382,8 +10382,8 @@
       "防爆貨運幫手",
       "fangbaohuoyunbangshou",
       "fbhybs",
-      0,
-      0,
+      "Blast-Proof Cargo Helper",
+      "防爆輸送ヘルパー",
       "OG6"
     ],
     [
@@ -10399,8 +10399,8 @@
       "“寒災迴響”",
       "“hanzaihuixiang”",
       "“hzhx”",
-      0,
-      0,
+      "'Frozen Monstrosity's Echo'",
+      "「寒災の残響」",
       "OG7"
     ],
     [
@@ -10416,8 +10416,8 @@
       "“風雪中的影子”",
       "“fengxuezhongdeyingzi”",
       "“fxzdyz”",
-      0,
-      0,
+      "'Shadow in the Snow'",
+      "「風雪の中の影」",
       "OG8"
     ],
     [
@@ -10433,8 +10433,8 @@
       "內測版自助出餐終端",
       "neicebanzizhuchucanzhongduan",
       "ncbzzcczd",
-      0,
-      0,
+      "Mockup Auto Meal Distributor",
+      "セルフ配膳端末ベータ版",
       "OG9"
     ],
     [
@@ -10450,8 +10450,8 @@
       "自助出餐終端原型機",
       "zizhuchucanzhongduanyuanxingji",
       "zzcczdyxj",
-      0,
-      0,
+      "Prototype Auto Meal Distributor",
+      "セルフ配膳端末プロトタイプ",
       "OG10"
     ],
     [
@@ -10467,8 +10467,8 @@
       "固化源石巨像",
       "guhuayuanshijuxiang",
       "ghysjx",
-      0,
-      0,
+      "Solidified Originium Colossus",
+      "固体化源石巨像",
       "OG11"
     ],
     [
@@ -10484,8 +10484,8 @@
       "活性源石巨像",
       "huoxingyuanshijuxiang",
       "hxysjx",
-      0,
-      0,
+      "Active Originium Colossus",
+      "活性源石巨像",
       "OG12"
     ],
     [
@@ -10501,8 +10501,8 @@
       "穩定態薩卡茲術師結晶",
       "wendingtaisakazishushijiejing",
       "wdtskzssjj",
-      0,
-      0,
+      "Stable Sarkaz Caster Crystal",
+      "定常状態サルカズ術師結晶",
       "OG13"
     ],
     [
@@ -10518,8 +10518,8 @@
       "活性態薩卡茲術師結晶",
       "huoxingtaisakazishushijiejing",
       "hxtskzssjj",
-      0,
-      0,
+      "Active Sarkaz Caster Crystal",
+      "活性状態サルカズ術師結晶",
       "OG14"
     ],
     [
@@ -10586,8 +10586,8 @@
       "靜滯虛幻·α",
       "jingzhixuhuan·α",
       "jzxh·α",
-      0,
-      0,
+      "Static Oneiros α",
+      "テイシバチα",
       "OG15"
     ],
     [
@@ -10603,8 +10603,8 @@
       "靜滯虛幻·β",
       "jingzhixuhuan·β",
       "jzxh·β",
-      0,
-      0,
+      "Static Oneiros β",
+      "テイシバチβ",
       "OG16"
     ],
     [
@@ -10620,8 +10620,8 @@
       "轉譯基底·α",
       "zhuanyijidi·α",
       "zyjd·α",
-      0,
-      0,
+      "Decode Basis α",
+      "変換基底α",
       "OG17"
     ],
     [
@@ -10637,8 +10637,8 @@
       "轉譯基底·β",
       "zhuanyijidi·β",
       "zyjd·β",
-      0,
-      0,
+      "Decode Basis β",
+      "変換基底β",
       "OG18"
     ],
     [
@@ -26396,8 +26396,8 @@
       "擬態機械",
       "nitaijixie",
       "ntjx",
-      0,
-      0,
+      "Mimic Machine",
+      "擬態機械",
       "RI2"
     ],
     [
@@ -26413,8 +26413,8 @@
       "“阿斯卡綸”",
       "“asikalun”",
       "“askl”",
-      0,
-      0,
+      "'Ascalon'",
+      "「アスカロン」",
       "AC"
     ],
     [
@@ -32432,8 +32432,8 @@
       "小螺帽",
       "xiaoluomao",
       "xlm",
-      0,
-      0,
+      "Nutty",
+      "ナットちゃん",
       0
     ],
     [
@@ -32449,8 +32449,8 @@
       "重構體",
       "zhonggouti",
       "zgt",
-      0,
-      0,
+      "Reconstruction",
+      "再構成核",
       0
     ],
     [
