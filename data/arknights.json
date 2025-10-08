@@ -11277,6 +11277,244 @@
       "enemy"
     ]
   ],
+  "enemy_10103_mjcppp": [
+    [
+      "浅睡的臼齿",
+      "淺睡的臼齒",
+      "qianshuidejiuchi",
+      "qsdjc",
+      0,
+      0,
+      "SS01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10103_mjcppp_2": [
+    [
+      "沉睡的臼齿",
+      "沉睡的臼齒",
+      "chenshuidejiuchi",
+      "csdjc",
+      0,
+      0,
+      "SS02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10104_mjcbln": [
+    [
+      "布景小丑",
+      "佈景小丑",
+      "bujingxiaochou",
+      "bjxc",
+      0,
+      0,
+      "SS03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10104_mjcbln_2": [
+    [
+      "布景大师",
+      "佈景大師",
+      "bujingdashi",
+      "bjds",
+      0,
+      0,
+      "SS04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10105_mjcdol": [
+    [
+      "发条仆从",
+      "發條僕從",
+      "fatiaopucong",
+      "ftpc",
+      0,
+      0,
+      "SS05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10105_mjcdol_2": [
+    [
+      "暗黑发条仆从",
+      "暗黑發條僕從",
+      "anheifatiaopucong",
+      "ahftpc",
+      0,
+      0,
+      "SS06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10106_mjcbat": [
+    [
+      "玩耍的卡尔顿",
+      "玩耍的卡爾頓",
+      "wanshuadekaerdun",
+      "wsdked",
+      0,
+      0,
+      "SS07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10106_mjcbat_2": [
+    [
+      "欢快的卡尔顿",
+      "歡快的卡爾頓",
+      "huankuaidekaerdun",
+      "hkdked",
+      0,
+      0,
+      "SS08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10107_mjcdog": [
+    [
+      "安眠伴随兽",
+      "安眠伴隨獸",
+      "anmianbansuishou",
+      "ambss",
+      0,
+      0,
+      "SS09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10107_mjcdog_2": [
+    [
+      "沉眠伴随兽",
+      "沉眠伴隨獸",
+      "chenmianbansuishou",
+      "cmbss",
+      0,
+      0,
+      "SS10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10108_mjclun": [
+    [
+      "梦游管家",
+      "夢遊管家",
+      "mengyouguanjia",
+      "mygj",
+      0,
+      0,
+      "SS11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10108_mjclun_2": [
+    [
+      "梦游大总管",
+      "夢遊大總管",
+      "mengyoudazongguan",
+      "mydzg",
+      0,
+      0,
+      "SS12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10109_mjcgst": [
+    [
+      "沃尔夫之影",
+      "沃爾夫之影",
+      "woerfuzhiying",
+      "wefzy",
+      0,
+      0,
+      "SS13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10109_mjcgst_2": [
+    [
+      "沃尔夫幽影",
+      "沃爾夫幽影",
+      "woerfuyouying",
+      "wefyy",
+      0,
+      0,
+      "SS14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1010_demon": [
     [
       "萨卡兹大剑手",
@@ -11303,6 +11541,40 @@
       "Sarkaz Greatswordsman Leader",
       "サルカズ大剣隊長",
       "S2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10110_mjcsdw": [
+    [
+      "“破茧之梦”",
+      "“破繭之夢”",
+      "“pojianzhimeng”",
+      "“pjzm”",
+      0,
+      0,
+      "SS15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10110_mjcsdw_2": [
+    [
+      "“羽化之梦”",
+      "“羽化之夢”",
+      "“yuhuazhimeng”",
+      "“yhzm”",
+      0,
+      0,
+      "SS16"
     ],
     [
       ""
@@ -26450,6 +26722,23 @@
       0,
       0,
       "TR"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1569_ldevil": [
+    [
+      "莫菲丝",
+      "莫菲絲",
+      "mofeisi",
+      "mfs",
+      0,
+      0,
+      "MO"
     ],
     [
       ""
