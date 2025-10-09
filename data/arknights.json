@@ -348,6 +348,7 @@
     [
       "",
       "_2",
+      "_breaker#1",
       "_snow#5"
     ],
     [
@@ -1221,7 +1222,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_breaker#1"
     ],
     [
       "operator"
@@ -5646,7 +5648,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_breaker#1"
     ],
     [
       "operator"
@@ -5812,7 +5815,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_breaker#1"
     ],
     [
       "operator"
@@ -6384,6 +6388,60 @@
       "operator"
     ]
   ],
+  "char_4204_mantra": [
+    [
+      "真言",
+      "真言",
+      "zhenyan",
+      "zy",
+      0,
+      0,
+      "RE06"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4207_branch": [
+    [
+      "折桠",
+      "折椏",
+      "zheya",
+      "zy",
+      0,
+      0,
+      "US35"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4208_wintim": [
+    [
+      "冬时",
+      "冬時",
+      "dongshi",
+      "ds",
+      0,
+      0,
+      "US38"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_420_flamtl": [
     [
       "焰尾",
@@ -6627,7 +6685,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#49"
     ],
     [
       "operator"
@@ -11898,6 +11957,295 @@
       "Caster Leader",
       "術師隊長",
       "A4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10120_uaghst": [
+    [
+      "集团军潜行兵",
+      "集團軍潛行兵",
+      "jituanjunqianxingbing",
+      "jtjqxb",
+      0,
+      0,
+      "JTJ01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10120_uaghst_2": [
+    [
+      "集团军幽灵兵",
+      "集團軍幽靈兵",
+      "jituanjunyoulingbing",
+      "jtjylb",
+      0,
+      0,
+      "JTJ02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10121_uasnip": [
+    [
+      "集团军机动弩手",
+      "集團軍機動弩手",
+      "jituanjunjidongnushou",
+      "jtjjdns",
+      0,
+      0,
+      "JTJ03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10121_uasnip_2": [
+    [
+      "集团军精锐弩手",
+      "集團軍精銳弩手",
+      "jituanjunjingruinushou",
+      "jtjjrns",
+      0,
+      0,
+      "JTJ04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10122_uacann": [
+    [
+      "集团军轻型火炮",
+      "集團軍輕型火炮",
+      "jituanjunqingxinghuopao",
+      "jtjqxhp",
+      0,
+      0,
+      "JTJ05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10122_uacann_2": [
+    [
+      "集团军重型火炮",
+      "集團軍重型火炮",
+      "jituanjunzhongxinghuopao",
+      "jtjzxhp",
+      0,
+      0,
+      "JTJ06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10123_uareap": [
+    [
+      "破城者",
+      "破城者",
+      "pochengzhe",
+      "pcz",
+      0,
+      0,
+      "JTJ07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10123_uareap_2": [
+    [
+      "破城者·Ⅱ型",
+      "破城者·Ⅱ型",
+      "pochengzhe·Ⅱxing",
+      "pcz·Ⅱx",
+      0,
+      0,
+      "JTJ08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10124_uashld": [
+    [
+      "集团军盾卫",
+      "集團軍盾衛",
+      "jituanjundunwei",
+      "jtjdw",
+      0,
+      0,
+      "JTJ09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10124_uashld_2": [
+    [
+      "集团军中坚盾卫",
+      "集團軍中堅盾衛",
+      "jituanjunzhongjiandunwei",
+      "jtjzjdw",
+      0,
+      0,
+      "JTJ10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10125_uacomd": [
+    [
+      "集团军前线指挥员",
+      "集團軍前線指揮員",
+      "jituanjunqianxianzhihuiyuan",
+      "jtjqxzhy",
+      0,
+      0,
+      "JTJ11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10125_uacomd_2": [
+    [
+      "集团军核心指挥官",
+      "集團軍核心指揮官",
+      "jituanjunhexinzhihuiguan",
+      "jtjhxzhg",
+      0,
+      0,
+      "JTJ12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10126_rkbomb": [
+    [
+      "异质源石虫",
+      "異質源石蟲",
+      "yizhiyuanshichong",
+      "yzysc",
+      0,
+      0,
+      "KD01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10126_rkbomb_2": [
+    [
+      "异质源石虫·α",
+      "異質源石蟲·α",
+      "yizhiyuanshichong·α",
+      "yzysc·α",
+      0,
+      0,
+      "KD02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10127_rkmbst": [
+    [
+      "异质裂兽",
+      "異質裂獸",
+      "yizhilieshou",
+      "yzls",
+      0,
+      0,
+      "KD03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10127_rkmbst_2": [
+    [
+      "异质裂兽·α",
+      "異質裂獸·α",
+      "yizhilieshou·α",
+      "yzls·α",
+      0,
+      0,
+      "KD04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10128_fearpj": [
+    [
+      "“惘核”",
+      "“惘核”",
+      "“wanghe”",
+      "“wh”",
+      0,
+      0,
+      "GAB"
     ],
     [
       ""
@@ -26738,7 +27086,7 @@
       "mfs",
       0,
       0,
-      "MO"
+      "TR"
     ],
     [
       ""
@@ -26756,6 +27104,40 @@
       0,
       0,
       "MF"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1571_mirbst": [
+    [
+      "狂躁异质裂兽",
+      "狂躁異質裂獸",
+      "kuangzaoyizhilieshou",
+      "kzyzls",
+      0,
+      0,
+      "KD"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1572_folchr": [
+    [
+      "圣愚",
+      "聖愚",
+      "shengyu",
+      "sy",
+      0,
+      0,
+      "GAB"
     ],
     [
       ""
@@ -28915,6 +29297,40 @@
       "Theresa, King of Sarkaz",
       "Theresa・「魔王」",
       "THA1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_3010_mcreep": [
+    [
+      "矿工游击队",
+      "礦工游擊隊",
+      "kuanggongyoujidui",
+      "kgyjd",
+      0,
+      0,
+      "KG01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_3011_dyegrd": [
+    [
+      "“皇帝的利刃”，折戟者",
+      "“皇帝的利刃”，折戟者",
+      "“huangdideliren”，zhejizhe",
+      "“hddlr”，zjz",
+      0,
+      0,
+      "BBM"
     ],
     [
       ""
@@ -32640,7 +33056,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_breaker#1"
     ],
     [
       "token"
@@ -35560,6 +35977,40 @@
       "“斬”",
       "“zhan”",
       "“z”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_270_spawnp": [
+    [
+      "隐蔽矿道",
+      "隱蔽礦道",
+      "yinbikuangdao",
+      "ybkd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_271_fowstn": [
+    [
+      "严重污染设施",
+      "嚴重污染設施",
+      "yanzhongwuransheshi",
+      "yzwrss",
       0,
       0,
       0
