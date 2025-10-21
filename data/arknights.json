@@ -463,7 +463,8 @@
     [
       "",
       "_2",
-      "_sale#12"
+      "_sale#12",
+      "_sanrio#2"
     ],
     [
       "operator"
@@ -1669,6 +1670,7 @@
     [
       "",
       "_2",
+      "_sanrio#2",
       "_summer#5"
     ],
     [
@@ -3708,7 +3710,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_race#2"
     ],
     [
       "operator"
@@ -4568,7 +4571,8 @@
     [
       "",
       "_2",
-      "_ambienceSynesthesia#3"
+      "_ambienceSynesthesia#3",
+      "_sanrio#2"
     ],
     [
       "operator"
@@ -30376,6 +30380,312 @@
       "enemy"
     ]
   ],
+  "enemy_4040_mugoal": [
+    [
+      "终点信标塔",
+      "終點信標塔",
+      "zhongdianxinbiaota",
+      "zdxbt",
+      0,
+      0,
+      "IB56"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4041_mundr": [
+    [
+      "红宝石飞翼",
+      "紅寶石飛翼",
+      "hongbaoshifeiyi",
+      "hbsfy",
+      0,
+      0,
+      "IB57"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4042_murdr": [
+    [
+      "蓝宝石飞翼",
+      "藍寶石飛翼",
+      "lanbaoshifeiyi",
+      "lbsfy",
+      0,
+      0,
+      "IB58"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4043_muedr": [
+    [
+      "钻石飞翼",
+      "鑽石飛翼",
+      "zuanshifeiyi",
+      "zsfy",
+      0,
+      0,
+      "IB59"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4044_mutdek": [
+    [
+      "物资浮板",
+      "物資浮板",
+      "wuzifuban",
+      "wzfb",
+      0,
+      0,
+      "IB60"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4045_murtre": [
+    [
+      "沉水物资箱",
+      "沉水物資箱",
+      "chenshuiwuzixiang",
+      "cswzx",
+      0,
+      0,
+      "IB61"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4046_muobst": [
+    [
+      "定点浮标",
+      "定點浮標",
+      "dingdianfubiao",
+      "ddfb",
+      0,
+      0,
+      "IB62"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4047_mustak": [
+    [
+      "火盆浮标",
+      "火盆浮標",
+      "huopenfubiao",
+      "hpfb",
+      0,
+      0,
+      "IB63"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4048_mubarn": [
+    [
+      "盐水健身客",
+      "鹽水健身客",
+      "yanshuijianshenke",
+      "ysjsk",
+      0,
+      0,
+      "IB64"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4048_mubarn_2": [
+    [
+      "“超级钳”盐水健身客",
+      "“超級鉗”鹽水健身客",
+      "“chaojiqian”yanshuijianshenke",
+      "“cjq”ysjsk",
+      0,
+      0,
+      "IB65"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4049_muston": [
+    [
+      "引浪兽",
+      "引浪獸",
+      "yinlangshou",
+      "yls",
+      0,
+      0,
+      "IB66"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4049_muston_2": [
+    [
+      "“水上明珠”引浪兽",
+      "“水上明珠”引浪獸",
+      "“shuishangmingzhu”yinlangshou",
+      "“ssmz”yls",
+      0,
+      0,
+      "IB67"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4050_mubbar": [
+    [
+      "深水大力士",
+      "深水大力士",
+      "shenshuidalishi",
+      "ssdls",
+      0,
+      0,
+      "IB68"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4050_mubbar_2": [
+    [
+      "“举重王”深水大力士",
+      "“舉重王”深水大力士",
+      "“juzhongwang”shenshuidalishi",
+      "“jzw”ssdls",
+      0,
+      0,
+      "IB69"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4051_mublow": [
+    [
+      "潮风操控者",
+      "潮風操控者",
+      "chaofengcaokongzhe",
+      "cfckz",
+      0,
+      0,
+      "IB70"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4051_mublow_2": [
+    [
+      "“风向标”潮风操控者",
+      "“風向標”潮風操控者",
+      "“fengxiangbiao”chaofengcaokongzhe",
+      "“fxb”cfckz",
+      0,
+      0,
+      "IB71"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4052_mulaze": [
+    [
+      "眩光记录员",
+      "眩光記錄員",
+      "xuanguangjiluyuan",
+      "xgjly",
+      0,
+      0,
+      "IB72"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4052_mulaze_2": [
+    [
+      "“裁决者”眩光记录员",
+      "“裁決者”眩光記錄員",
+      "“caijuezhe”xuanguangjiluyuan",
+      "“cjz”xgjly",
+      0,
+      0,
+      "IB73"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_5008_cstrwd": [
     [
       "艺术的慈悲!",
@@ -36028,6 +36338,57 @@
       "“斬”",
       "“zhan”",
       "“z”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_257_muulct": [
+    [
+      "迷幻反射镜",
+      "迷幻反射鏡",
+      "mihuanfanshejing",
+      "mhfsj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_260_murbas": [
+    [
+      "基础浮板",
+      "基礎浮板",
+      "jichufuban",
+      "jcfb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_261_murmag": [
+    [
+      "引力浮板",
+      "引力浮板",
+      "yinlifuban",
+      "ylfb",
       0,
       0,
       0
