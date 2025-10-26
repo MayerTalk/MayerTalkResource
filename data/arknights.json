@@ -627,8 +627,8 @@
       "新約能天使",
       "xinyuenengtianshi",
       "xynts",
-      0,
-      0,
+      "Exusiai the New Covenant",
+      "新約エクシア",
       "PL08"
     ],
     [
@@ -6201,8 +6201,8 @@
       "聆音",
       "lingyin",
       "ly",
-      0,
-      0,
+      "Gracebearer",
+      "グレースベアラー",
       "BV27"
     ],
     [
@@ -6219,8 +6219,8 @@
       "CONFESS-47",
       "CONFESS-47",
       "CONFESS-47",
-      0,
-      0,
+      "CONFESS-47",
+      "CONFESS-47",
       "LT47"
     ],
     [
@@ -6254,8 +6254,8 @@
       "蕾繆安",
       "leimouan",
       "lma",
-      0,
-      0,
+      "Lemuen",
+      "レミュアン",
       "LT17"
     ],
     [
@@ -6272,8 +6272,8 @@
       "信仰攪拌機",
       "xinyangjiaobanji",
       "xyjbj",
-      0,
-      0,
+      "Sankta Miksaparato",
+      "サンクタ・ミキサー",
       "LT32"
     ],
     [
@@ -6326,8 +6326,8 @@
       "Miss.Christine",
       "Miss.Christine",
       "Miss.Christine",
-      0,
-      0,
+      "Miss.Christine",
+      "ミス・クリスティーン",
       "MEOW"
     ],
     [
@@ -10717,8 +10717,8 @@
       "“薩科塔之翼”",
       "“saketazhiyi”",
       "“sktzy”",
-      0,
-      0,
+      "'Wings of the Sankta'",
+      "「サンクタの翼」",
       "MT1"
     ],
     [
@@ -10734,8 +10734,8 @@
       "“薩科塔展翅”",
       "“saketazhanchi”",
       "“sktzc”",
-      0,
-      0,
+      "'Flight of the Sankta'",
+      "「サンクタの羽ばたき」",
       "MT2"
     ],
     [
@@ -10751,8 +10751,8 @@
       "“薩科塔之眼”",
       "“saketazhiyan”",
       "“sktzy”",
-      0,
-      0,
+      "'Eyes of the Sankta'",
+      "「サンクタの眼」",
       "MT3"
     ],
     [
@@ -10768,8 +10768,8 @@
       "“薩科塔見證”",
       "“saketajianzheng”",
       "“sktjz”",
-      0,
-      0,
+      "'Witness of the Sankta'",
+      "「サンクタの目配り」",
       "MT4"
     ],
     [
@@ -10785,8 +10785,8 @@
       "“薩科塔之鰭”",
       "“saketazhiqi”",
       "“sktzq”",
-      0,
-      0,
+      "'Flippers of the Sankta'",
+      "「サンクタのひれ」",
       "MT5"
     ],
     [
@@ -10802,8 +10802,8 @@
       "“薩科塔昂首”",
       "“saketaangshou”",
       "“sktas”",
-      0,
-      0,
+      "'Pride of the Sankta'",
+      "「サンクタの仰け反り」",
       "MT6"
     ],
     [
@@ -10819,8 +10819,8 @@
       "“薩科塔之爪”",
       "“saketazhizhao”",
       "“sktzz”",
-      0,
-      0,
+      "'Claws of the Sankta'",
+      "「サンクタの爪」",
       "MT7"
     ],
     [
@@ -10836,8 +10836,8 @@
       "“薩科塔匍匐”",
       "“saketapufu”",
       "“sktpf”",
-      0,
-      0,
+      "'Crawl of the Sankta'",
+      "「サンクタの這いずり」",
       "MT8"
     ],
     [
@@ -10853,8 +10853,8 @@
       "聖堂劍士",
       "shengtangjianshi",
       "stjs",
-      0,
-      0,
+      "Shrine Swordsman",
+      "聖堂剣士",
       "MT9"
     ],
     [
@@ -10870,8 +10870,8 @@
       "精銳聖堂劍士",
       "jingruishengtangjianshi",
       "jrstjs",
-      0,
-      0,
+      "Elite Shrine Swordsman",
+      "精鋭聖堂剣士",
       "MT10"
     ],
     [
@@ -10887,8 +10887,8 @@
       "聖堂射手",
       "shengtangsheshou",
       "stss",
-      0,
-      0,
+      "Shrine Marksman",
+      "聖堂狙撃手",
       "MT11"
     ],
     [
@@ -10904,8 +10904,8 @@
       "精銳聖堂射手",
       "jingruishengtangsheshou",
       "jrstss",
-      0,
-      0,
+      "Elite Shrine Marksman",
+      "精鋭聖堂狙撃手",
       "MT12"
     ],
     [
@@ -10921,8 +10921,8 @@
       "聖堂保育員",
       "shengtangbaoyuyuan",
       "stbyy",
-      0,
-      0,
+      "Shrine Nurturer",
+      "聖堂保育士",
       "MT13"
     ],
     [
@@ -10938,8 +10938,8 @@
       "資深聖堂保育員",
       "zishenshengtangbaoyuyuan",
       "zsstbyy",
-      0,
-      0,
+      "Veteran Shrine Nurturer",
+      "ベテラン聖堂保育士",
       "MT14"
     ],
     [
@@ -10972,8 +10972,8 @@
       "聖堂布道員",
       "shengtangbudaoyuan",
       "stbdy",
-      0,
-      0,
+      "Shrine Preacher",
+      "聖堂宣教師",
       "MT15"
     ],
     [
@@ -10989,8 +10989,8 @@
       "資深聖堂布道員",
       "zishenshengtangbudaoyuan",
       "zsstbdy",
-      0,
-      0,
+      "Veteran Shrine Preacher",
+      "ベテラン聖堂宣教師",
       "MT16"
     ],
     [
@@ -11006,8 +11006,8 @@
       "聖徒像",
       "shengtuxiang",
       "stx",
-      0,
-      0,
+      "Saint Statue",
+      "聖徒像",
       "MT17"
     ],
     [
@@ -11023,8 +11023,8 @@
       "聖徒祈禱像",
       "shengtuqidaoxiang",
       "stqdx",
-      0,
-      0,
+      "Praying Saint Statue",
+      "聖徒祈祷像",
       "MT18"
     ],
     [
@@ -11040,8 +11040,8 @@
       "“牧首”",
       "“mushou”",
       "“ms”",
-      0,
-      0,
+      "'Matriarch'",
+      "「総主教」",
       "MT19"
     ],
     [
@@ -23671,7 +23671,7 @@
       "薩卡茲骸骨漂泊術師長",
       "sakazihaigupiaoboshushizhang",
       "skzhgpbssz",
-      "Sarkaz Boneguard Fluxcaster Captain\n",
+      "Sarkaz Boneguard Fluxcaster Captain",
       "サルカズ骨骸流浪術師長",
       "SSK7"
     ],
@@ -27054,8 +27054,8 @@
       "“聖徒”",
       "“shengtu”",
       "“st”",
-      0,
-      0,
+      "'Saint'",
+      "「聖徒」",
       "ST"
     ],
     [
@@ -31321,8 +31321,8 @@
       "“晨音”",
       "“chenyin”",
       "“cy”",
-      0,
-      0,
+      "'Aubade'",
+      "「晨音」",
       "DL29"
     ],
     [
@@ -31338,8 +31338,8 @@
       "“鳴囀”",
       "“mingzhuan”",
       "“mz”",
-      0,
-      0,
+      "'Twitter'",
+      "「鳴囀」",
       "DL30"
     ],
     [
@@ -31355,8 +31355,8 @@
       "“木衣”",
       "“muyi”",
       "“my”",
-      0,
-      0,
+      "'Woodthreads'",
+      "「木衣」",
       "DL31"
     ],
     [
@@ -33601,8 +33601,8 @@
       "投遞座標",
       "toudizuobiao",
       "tdzb",
-      0,
-      0,
+      "Delivery Coordinates",
+      "配達先座標",
       0
     ],
     [
@@ -38633,8 +38633,8 @@
       "天工夜行套裝",
       "tiangongyexingtaozhuang",
       "tgyxtz",
-      0,
-      0,
+      "Master Who Walks the Night Gear",
+      "天工夜行セット",
       0
     ],
     [
@@ -38650,8 +38650,8 @@
       "夜行斗篷模塊",
       "yexingdoupengmokuai",
       "yxdpmk",
-      0,
-      0,
+      "Nightwalker's Cloak Module",
+      "夜行笠モジュール",
       0
     ],
     [
@@ -38667,8 +38667,8 @@
       "夜行鉤爪模塊",
       "yexinggouzhaomokuai",
       "yxgzmk",
-      0,
-      0,
+      "Nightwalker's Hook Module",
+      "夜行鉤爪モジュール",
       0
     ],
     [
