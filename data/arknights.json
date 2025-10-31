@@ -212,7 +212,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#50"
     ],
     [
       "operator"
@@ -557,7 +558,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sale#15"
     ],
     [
       "operator"
@@ -684,6 +686,60 @@
       0,
       0,
       "LM23"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1045_svash2": [
+    [
+      "凛御银灰",
+      "凜御銀灰",
+      "linyuyinhui",
+      "lyyh",
+      0,
+      0,
+      "KJ01"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1046_sbell2": [
+    [
+      "圣聆初雪",
+      "聖聆初雪",
+      "shenglingchuxue",
+      "slcx",
+      0,
+      0,
+      "KJ02"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1047_halo2": [
+    [
+      "溯光星源",
+      "溯光星源",
+      "suguangxingyuan",
+      "sgxy",
+      0,
+      0,
+      "RL12"
     ],
     [
       "",
@@ -1010,7 +1066,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#50"
     ],
     [
       "operator"
@@ -4102,6 +4159,24 @@
       "operator"
     ]
   ],
+  "char_394_hadiya": [
+    [
+      "哈蒂娅",
+      "哈蒂婭",
+      "hadiya",
+      "hdy",
+      0,
+      0,
+      "SG28"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_4000_jnight": [
     [
       "正义骑士号",
@@ -4437,7 +4512,8 @@
     [
       "",
       "_2",
-      "_ambienceSynesthesia#4"
+      "_ambienceSynesthesia#4",
+      "_epoque#50"
     ],
     [
       "operator"
@@ -4668,6 +4744,24 @@
       "",
       "_2",
       "_witch#4"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4051_akkord": [
+    [
+      "协律",
+      "協律",
+      "xielv",
+      "xl",
+      0,
+      0,
+      "LN22"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -5597,7 +5691,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#50"
     ],
     [
       "operator"
@@ -6460,6 +6555,24 @@
       "",
       "_2",
       "_game#2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4211_snhunt": [
+    [
+      "雪猎",
+      "雪獵",
+      "xuelie",
+      "xl",
+      0,
+      0,
+      "KJ07"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -12292,6 +12405,74 @@
       "enemy"
     ]
   ],
+  "enemy_10138_xdsnow": [
+    [
+      "雪孩子",
+      "雪孩子",
+      "xuehaizi",
+      "xhz",
+      0,
+      0,
+      "KL01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10138_xdsnow_2": [
+    [
+      "雪顽童",
+      "雪頑童",
+      "xuewantong",
+      "xwt",
+      0,
+      0,
+      "KL02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10139_xdseal": [
+    [
+      "蓬松雪球",
+      "蓬鬆雪球",
+      "pengsongxueqiu",
+      "psxq",
+      0,
+      0,
+      "KL03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10139_xdseal_2": [
+    [
+      "夜色雪球",
+      "夜色雪球",
+      "yesexueqiu",
+      "ysxq",
+      0,
+      0,
+      "KL04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1013_airdrp": [
     [
       "空降兵",
@@ -12318,6 +12499,210 @@
       "Airborne Soldier Leader",
       "空挺隊長",
       "3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10140_xdbird": [
+    [
+      "洞栖雪灵",
+      "洞棲雪靈",
+      "dongqixueling",
+      "dqxl",
+      0,
+      0,
+      "KL05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10140_xdbird_2": [
+    [
+      "山谷雪灵",
+      "山谷雪靈",
+      "shanguxueling",
+      "sgxl",
+      0,
+      0,
+      "KL06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10141_xdpeng": [
+    [
+      "抱蛋羽兽",
+      "抱蛋羽獸",
+      "baodanyushou",
+      "bdys",
+      0,
+      0,
+      "KL07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10141_xdpeng_2": [
+    [
+      "拥霜羽兽\n",
+      "擁霜羽獸\n",
+      "yongshuangyushou\n",
+      "ysys\n",
+      0,
+      0,
+      "KL08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10142_xdturt": [
+    [
+      "翻身甲",
+      "翻身甲",
+      "fanshenjia",
+      "fsj",
+      0,
+      0,
+      "KL09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10142_xdturt_2": [
+    [
+      "坚冰翻身甲",
+      "堅冰翻身甲",
+      "jianbingfanshenjia",
+      "jbfsj",
+      0,
+      0,
+      "KL10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10143_xdmush": [
+    [
+      "小雪伞",
+      "小雪傘",
+      "xiaoxuesan",
+      "xxs",
+      0,
+      0,
+      "KL11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10143_xdmush_2": [
+    [
+      "焕生雪伞",
+      "煥生雪傘",
+      "huanshengxuesan",
+      "hsxs",
+      0,
+      0,
+      "KL12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10144_xdelk": [
+    [
+      "巨角卢鲁",
+      "巨角盧魯",
+      "jujiaolulu",
+      "jjll",
+      0,
+      0,
+      "KL13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10144_xdelk_2": [
+    [
+      "乌顶巨角卢鲁",
+      "烏頂巨角盧魯",
+      "wudingjujiaolulu",
+      "wdjjll",
+      0,
+      0,
+      "KL14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10145_xdrock": [
+    [
+      "伊斯贝塔",
+      "伊斯貝塔",
+      "yisibeita",
+      "ysbt",
+      0,
+      0,
+      "KL15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10145_xdrock_2": [
+    [
+      "斯托斯贝塔",
+      "斯托斯貝塔",
+      "situosibeita",
+      "stsbt",
+      0,
+      0,
+      "KL16"
     ],
     [
       ""
@@ -27090,7 +27475,7 @@
       "mfs",
       0,
       0,
-      "TR"
+      "MO"
     ],
     [
       ""
@@ -27142,6 +27527,57 @@
       0,
       0,
       "GAB"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1574_xdagt": [
+    [
+      "披挂冰雪的少女",
+      "披掛冰雪的少女",
+      "piguabingxuedeshaonv",
+      "pgbxdsn",
+      0,
+      0,
+      "KL"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1575_xdmon": [
+    [
+      "耶拉冈德",
+      "耶拉岡德",
+      "yelagangde",
+      "ylgd",
+      0,
+      0,
+      "Kj"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1576_spbell": [
+    [
+      "喀兰圣女",
+      "喀蘭聖女",
+      "kalanshengnv",
+      "klsn",
+      0,
+      0,
+      "KL"
     ],
     [
       ""
@@ -32624,6 +33060,23 @@
       "enemy"
     ]
   ],
+  "enemy_9016_acstmr": [
+    [
+      "刺胄之弹",
+      "刺胄之彈",
+      "cizhouzhidan",
+      "czzd",
+      0,
+      0,
+      "SP11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "npc_007_closure": [
     [
       "可露希尔",
@@ -33603,6 +34056,57 @@
       "tdzb",
       "Delivery Coordinates",
       "配達先座標",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10057_svash2_eagle1": [
+    [
+      "风雪之眼",
+      "風雪之眼",
+      "fengxuezhiyan",
+      "fxzy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10057_svash2_eagle2": [
+    [
+      "风雪之眼",
+      "風雪之眼",
+      "fengxuezhiyan",
+      "fxzy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10057_svash2_eagle3": [
+    [
+      "风雪之眼",
+      "風雪之眼",
+      "fengxuezhiyan",
+      "fxzy",
+      0,
+      0,
       0
     ],
     [
@@ -36389,6 +36893,57 @@
       "引力浮板",
       "yinlifuban",
       "ylfb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_267_xdmac1": [
+    [
+      "雪崩触发装置",
+      "雪崩觸發裝置",
+      "xuebengchufazhuangzhi",
+      "xbcfzz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_268_xdmac2": [
+    [
+      "积雪固定装置",
+      "積雪固定裝置",
+      "jixuegudingzhuangzhi",
+      "jxgdzz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_269_xdmac3": [
+    [
+      "落雪防护装置",
+      "落雪防護裝置",
+      "luoxuefanghuzhuangzhi",
+      "lxfhzz",
       0,
       0,
       0
