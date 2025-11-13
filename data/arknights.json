@@ -647,7 +647,7 @@
       "酒神",
       "jiushen",
       "js",
-      0,
+      "Tragodia",
       "トラゴーディア",
       "CT01"
     ],
@@ -6331,7 +6331,7 @@
       "蒂比",
       "dibi",
       "db",
-      0,
+      "Tippi",
       "ティッピ",
       "CB25"
     ],
@@ -11170,7 +11170,7 @@
       "臨時收音師",
       "linshishouyinshi",
       "lssys",
-      0,
+      "Audio Technician",
       "臨時録音技師",
       "WW01"
     ],
@@ -11187,7 +11187,7 @@
       "執拗的收音師",
       "zhiniudeshouyinshi",
       "zndsys",
-      0,
+      "Audio Engineer",
       "執拗な録音技師",
       "WW02"
     ],
@@ -11204,7 +11204,7 @@
       "加戲羣演",
       "jiaxiqunyan",
       "jxqy",
-      0,
+      "Zealous Extra",
       "出しゃばりエキストラ",
       "WW03"
     ],
@@ -11221,7 +11221,7 @@
       "沉浸藝術的羣演",
       "chenjinyishudequnyan",
       "cjysdqy",
-      0,
+      "Artistic Extra",
       "芸術に浸るエキストラ",
       "WW04"
     ],
@@ -11238,7 +11238,7 @@
       "疲倦道具師",
       "pijuandaojushi",
       "pjdjs",
-      0,
+      "Tired Prop Technician",
       "くたびれた機材係",
       "WW05"
     ],
@@ -11255,7 +11255,7 @@
       "渴求矚目的道具師",
       "keqiuzhumudidaojushi",
       "kqzmddjs",
-      0,
+      "Attention-Seeking Prop Technician",
       "目立ちたがりの機材係",
       "WW06"
     ],
@@ -11272,7 +11272,7 @@
       "心虛設計師",
       "xinxushejishi",
       "xxsjs",
-      0,
+      "Uneasy Designer",
       "後ろめたいデザイナー",
       "WW07"
     ],
@@ -11289,7 +11289,7 @@
       "順從內心的設計師",
       "shuncongneixindeshejishi",
       "scnxdsjs",
-      0,
+      "Anguished Designer",
       "本心に従うデザイナー",
       "WW08"
     ],
@@ -11306,7 +11306,7 @@
       "主角陣營角色",
       "zhujuezhenyingjuese",
       "zjzyjs",
-      0,
+      "Hero's Sidekick",
       "主役側の脇役",
       "WW09"
     ],
@@ -11323,7 +11323,7 @@
       "命定的主角",
       "mingdingdezhujue",
       "mddzj",
-      0,
+      "Destined Hero",
       "定められし主役",
       "WW10"
     ],
@@ -11340,7 +11340,7 @@
       "反派陣營角色",
       "fanpaizhenyingjuese",
       "fpzyjs",
-      0,
+      "Villain's Minion",
       "悪役側の脇役",
       "WW11"
     ],
@@ -11357,7 +11357,7 @@
       "命定的反派",
       "mingdingdefanpai",
       "mddfp",
-      0,
+      "Destined Villain",
       "定められし悪役",
       "WW12"
     ],
@@ -11391,7 +11391,7 @@
       "靈活假人",
       "linghuojiaren",
       "lhjr",
-      0,
+      "Nimble Mannequin",
       "素早いマネキン",
       "WW13"
     ],
@@ -11408,7 +11408,7 @@
       "意識自由的假人",
       "yishiziyoudejiaren",
       "yszydjr",
-      0,
+      "Sentient Mannequin",
       "自我を持つマネキン",
       "WW14"
     ],
@@ -11425,7 +11425,7 @@
       "不滿攝影師",
       "bumansheyingshi",
       "bmsys",
-      0,
+      "Unhappy Cameraman",
       "不満げなカメラマン",
       "WW15"
     ],
@@ -11442,7 +11442,7 @@
       "宣泄暴力的攝影師",
       "xuanxiebaolidesheyingshi",
       "xxbldsys",
-      0,
+      "Violent Cameraman",
       "暴力的なカメラマン",
       "WW16"
     ],
@@ -27456,7 +27456,7 @@
       "“酒神”",
       "“jiushen”",
       "“js”",
-      0,
+      "'Tragodia'",
       "「Tragodia」",
       "TR"
     ],
@@ -34037,7 +34037,7 @@
       "本能的召喚",
       "bennengdezhaohuan",
       "bndzh",
-      0,
+      "Blood's Whisper",
       "本能の召喚",
       0
     ],
