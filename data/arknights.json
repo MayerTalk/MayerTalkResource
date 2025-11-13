@@ -648,7 +648,7 @@
       "jiushen",
       "js",
       0,
-      0,
+      "トラゴーディア",
       "CT01"
     ],
     [
@@ -6332,7 +6332,7 @@
       "dibi",
       "db",
       0,
-      0,
+      "ティッピ",
       "CB25"
     ],
     [
@@ -11171,7 +11171,7 @@
       "linshishouyinshi",
       "lssys",
       0,
-      0,
+      "臨時録音技師",
       "WW01"
     ],
     [
@@ -11188,7 +11188,7 @@
       "zhiniudeshouyinshi",
       "zndsys",
       0,
-      0,
+      "執拗な録音技師",
       "WW02"
     ],
     [
@@ -11205,7 +11205,7 @@
       "jiaxiqunyan",
       "jxqy",
       0,
-      0,
+      "出しゃばりエキストラ",
       "WW03"
     ],
     [
@@ -11222,7 +11222,7 @@
       "chenjinyishudequnyan",
       "cjysdqy",
       0,
-      0,
+      "芸術に浸るエキストラ",
       "WW04"
     ],
     [
@@ -11239,7 +11239,7 @@
       "pijuandaojushi",
       "pjdjs",
       0,
-      0,
+      "くたびれた機材係",
       "WW05"
     ],
     [
@@ -11256,7 +11256,7 @@
       "keqiuzhumudidaojushi",
       "kqzmddjs",
       0,
-      0,
+      "目立ちたがりの機材係",
       "WW06"
     ],
     [
@@ -11273,7 +11273,7 @@
       "xinxushejishi",
       "xxsjs",
       0,
-      0,
+      "後ろめたいデザイナー",
       "WW07"
     ],
     [
@@ -11290,7 +11290,7 @@
       "shuncongneixindeshejishi",
       "scnxdsjs",
       0,
-      0,
+      "本心に従うデザイナー",
       "WW08"
     ],
     [
@@ -11307,7 +11307,7 @@
       "zhujuezhenyingjuese",
       "zjzyjs",
       0,
-      0,
+      "主役側の脇役",
       "WW09"
     ],
     [
@@ -11324,7 +11324,7 @@
       "mingdingdezhujue",
       "mddzj",
       0,
-      0,
+      "定められし主役",
       "WW10"
     ],
     [
@@ -11341,7 +11341,7 @@
       "fanpaizhenyingjuese",
       "fpzyjs",
       0,
-      0,
+      "悪役側の脇役",
       "WW11"
     ],
     [
@@ -11358,7 +11358,7 @@
       "mingdingdefanpai",
       "mddfp",
       0,
-      0,
+      "定められし悪役",
       "WW12"
     ],
     [
@@ -11392,7 +11392,7 @@
       "linghuojiaren",
       "lhjr",
       0,
-      0,
+      "素早いマネキン",
       "WW13"
     ],
     [
@@ -11409,7 +11409,7 @@
       "yishiziyoudejiaren",
       "yszydjr",
       0,
-      0,
+      "自我を持つマネキン",
       "WW14"
     ],
     [
@@ -11426,7 +11426,7 @@
       "bumansheyingshi",
       "bmsys",
       0,
-      0,
+      "不満げなカメラマン",
       "WW15"
     ],
     [
@@ -11443,7 +11443,7 @@
       "xuanxiebaolidesheyingshi",
       "xxbldsys",
       0,
-      0,
+      "暴力的なカメラマン",
       "WW16"
     ],
     [
@@ -27457,7 +27457,7 @@
       "“jiushen”",
       "“js”",
       0,
-      0,
+      "「Tragodia」",
       "TR"
     ],
     [
@@ -34038,7 +34038,7 @@
       "bennengdezhaohuan",
       "bndzh",
       0,
-      0,
+      "本能の召喚",
       0
     ],
     [
