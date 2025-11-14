@@ -7320,7 +7320,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_marthe#10"
     ],
     [
       "operator"
@@ -7982,6 +7983,42 @@
     ],
     [
       ""
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_616_pithst": [
+    [
+      "盟约·辅助干员",
+      "盟約·輔助幹員",
+      "mengyue·fuzhuganyuan",
+      "my·fzgy",
+      0,
+      0,
+      0
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_617_sharp2": [
+    [
+      "领主·Sharp",
+      "領主·Sharp",
+      "lingzhu·Sharp",
+      "lz·Sharp",
+      0,
+      0,
+      0
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -33060,6 +33097,193 @@
       "enemy"
     ]
   ],
+  "enemy_9006_actoxi": [
+    [
+      "假想敌：蚀裂",
+      "假想敵：蝕裂",
+      "jiaxiangdi：shilie",
+      "jxd：sl",
+      0,
+      0,
+      "SP01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9007_acelem": [
+    [
+      "假想敌：淤困",
+      "假想敵：淤困",
+      "jiaxiangdi：yukun",
+      "jxd：yk",
+      0,
+      0,
+      "SP02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9008_acbunn": [
+    [
+      "假想敌：骨刺",
+      "假想敵：骨刺",
+      "jiaxiangdi：guci",
+      "jxd：gc",
+      0,
+      0,
+      "SP03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9009_acfort": [
+    [
+      "假想敌：黑云",
+      "假想敵：黑雲",
+      "jiaxiangdi：heiyun",
+      "jxd：hy",
+      0,
+      0,
+      "SP04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9010_acpupp": [
+    [
+      "假想敌：再生",
+      "假想敵：再生",
+      "jiaxiangdi：zaisheng",
+      "jxd：zs",
+      0,
+      0,
+      "SP05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9011_acrefr": [
+    [
+      "假想敌：镜膜",
+      "假想敵：鏡膜",
+      "jiaxiangdi：jingmo",
+      "jxd：jm",
+      0,
+      0,
+      "SP06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9012_acloon": [
+    [
+      "“炎佑”",
+      "“炎佑”",
+      "“yanyou”",
+      "“yy”",
+      0,
+      0,
+      "SP07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9013_acstmk": [
+    [
+      "假想敌：胄",
+      "假想敵：胄",
+      "jiaxiangdi：zhou",
+      "jxd：z",
+      0,
+      0,
+      "SP08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9013_acstmk_2": [
+    [
+      "假想敌：胄",
+      "假想敵：胄",
+      "jiaxiangdi：zhou",
+      "jxd：z",
+      0,
+      0,
+      "SP08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9014_acstma": [
+    [
+      "“斩胄之剑”",
+      "“斬胄之劍”",
+      "“zhanzhouzhijian”",
+      "“zzzj”",
+      0,
+      0,
+      "SP09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9015_acstmb": [
+    [
+      "“破胄之锤”",
+      "“破胄之錘”",
+      "“pozhouzhichui”",
+      "“pzzc”",
+      0,
+      0,
+      "SP10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_9016_acstmr": [
     [
       "刺胄之弹",
@@ -33069,6 +33293,193 @@
       0,
       0,
       "SP11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9017_achunt": [
+    [
+      "假想敌：铳",
+      "假想敵：銃",
+      "jiaxiangdi：chong",
+      "jxd：c",
+      0,
+      0,
+      "SP12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9017_achunt_2": [
+    [
+      "假想敌：铳",
+      "假想敵：銃",
+      "jiaxiangdi：chong",
+      "jxd：c",
+      0,
+      0,
+      "SP12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9018_actrpa": [
+    [
+      "“碎铳之簧”",
+      "“碎銃之簧”",
+      "“suichongzhihuang”",
+      "“sczh”",
+      0,
+      0,
+      "SP13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9019_actrpb": [
+    [
+      "“碎铳之簧”",
+      "“碎銃之簧”",
+      "“suichongzhihuang”",
+      "“sczh”",
+      0,
+      0,
+      "SP14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9020_actrpc": [
+    [
+      "“碎铳之簧”",
+      "“碎銃之簧”",
+      "“suichongzhihuang”",
+      "“sczh”",
+      0,
+      0,
+      "SP15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9021_acduml": [
+    [
+      "假想敌：管",
+      "假想敵：管",
+      "jiaxiangdi：guan",
+      "jxd：g",
+      0,
+      0,
+      "SP16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9021_acduml_2": [
+    [
+      "假想敌：管",
+      "假想敵：管",
+      "jiaxiangdi：guan",
+      "jxd：g",
+      0,
+      0,
+      "SP16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9022_acdumm": [
+    [
+      "假想敌：弦",
+      "假想敵：弦",
+      "jiaxiangdi：xian",
+      "jxd：x",
+      0,
+      0,
+      "SP17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9023_acdums": [
+    [
+      "“余音”",
+      "“餘音”",
+      "“yuyin”",
+      "“yy”",
+      0,
+      0,
+      "SP18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9032_aclionk": [
+    [
+      "阿利斯泰尔，帝国余晖",
+      "阿利斯泰爾，帝國餘暉",
+      "alisitaier，diguoyuhui",
+      "alste，dgyh",
+      0,
+      0,
+      "ALS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_9033_acdeer": [
+    [
+      "“萨米的意志”",
+      "“薩米的意志”",
+      "“samideyizhi”",
+      "“smdyz”",
+      0,
+      0,
+      "SAM"
     ],
     [
       ""
