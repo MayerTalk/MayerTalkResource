@@ -11490,6 +11490,23 @@
       "enemy"
     ]
   ],
+  "enemy_10102_crblt_2": [
+    [
+      "彻底报废的胶卷",
+      "徹底報廢的膠捲",
+      "chedibaofeidejiaojuan",
+      "cdbfdjj",
+      "Completely Scrapped Film",
+      "廃棄処分のビデオテープ",
+      "WW18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_10103_mjcppp": [
     [
       "浅睡的臼齿",
@@ -27011,6 +27028,40 @@
       "enemy"
     ]
   ],
+  "enemy_1538_ymmons_2": [
+    [
+      "蜃景",
+      "蜃景",
+      "shenjing",
+      "sj",
+      "Mirage",
+      "蜃気楼",
+      "YA02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1538_ymmons_3": [
+    [
+      "妄境",
+      "妄境",
+      "wangjing",
+      "wj",
+      "Delusion",
+      "妄境",
+      "YA03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1539_reid": [
     [
       "“复仇者”",
@@ -27776,6 +27827,23 @@
       "enemy"
     ]
   ],
+  "enemy_2001_duckmi_2": [
+    [
+      "鸭爵",
+      "鴨爵",
+      "yajue",
+      "yj",
+      0,
+      0,
+      "DLD"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2002_bearmi": [
     [
       "高普尼克",
@@ -27784,6 +27852,23 @@
       "gpnk",
       "Gopnik",
       "ゴプニク",
+      "GPN"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2002_bearmi_2": [
+    [
+      "高普尼克",
+      "高普尼克",
+      "gaopunike",
+      "gpnk",
+      0,
+      0,
       "GPN"
     ],
     [
@@ -28337,6 +28422,23 @@
       "enemy"
     ]
   ],
+  "enemy_2034_sythef_2": [
+    [
+      "流泪小子",
+      "流淚小子",
+      "liuleixiaozi",
+      "llxz",
+      0,
+      0,
+      "THF"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2035_sybox": [
     [
       "箱形恐鱼",
@@ -28796,6 +28898,23 @@
       "enemy"
     ]
   ],
+  "enemy_2062_smcar": [
+    [
+      "勘察用自走车",
+      "勘察用自走車",
+      "kanchayongzizouche",
+      "kcyzzc",
+      "Self-Driving Recon Cart",
+      "自走式探査車",
+      "SMC0"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_2063_skzlch": [
     [
       "萨卡兹迷宫劝导者",
@@ -29144,6 +29263,23 @@
       "yz",
       "Fatty",
       "マルッコ",
+      "FAT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2085_skzjxd_2": [
+    [
+      "圆仔",
+      "圓仔",
+      "yuanzai",
+      "yz",
+      0,
+      0,
       "FAT"
     ],
     [
@@ -29621,6 +29757,23 @@
       0,
       0,
       "SUI"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2119_dyshhj_2": [
+    [
+      "“岁躯”",
+      "“歲軀”",
+      "“suiqu”",
+      "“sq”",
+      0,
+      0,
+      "SQ"
     ],
     [
       ""
@@ -31184,6 +31337,23 @@
       "ysdjs!",
       "The Clutchness of Art!",
       "芸術の必殺技！",
+      "-"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5010_catrdg": [
+    [
+      "弱弹",
+      "弱彈",
+      "ruodan",
+      "rd",
+      "Weaksauce",
+      "弱い弾",
       "-"
     ],
     [
@@ -35700,6 +35870,23 @@
       "trap"
     ]
   ],
+  "trap_1075_acarm075": [
+    [
+      "寻呼模块",
+      "尋呼模塊",
+      "xunhumokuai",
+      "xhmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1083_acspell004": [
     [
       "法术：贪婪",
@@ -37247,6 +37434,23 @@
       "trap"
     ]
   ],
+  "trap_252_pckstp": [
+    [
+      "天命来袭",
+      "天命來襲",
+      "tianminglaixi",
+      "tmlx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_255_pckzhn": [
     [
       "“斩”",
@@ -37281,6 +37485,23 @@
       "trap"
     ]
   ],
+  "trap_259_murjet": [
+    [
+      "全手动推进器",
+      "全手動推進器",
+      "quanshoudongtuijinqi",
+      "qsdtjq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_260_murbas": [
     [
       "基础浮板",
@@ -37304,6 +37525,57 @@
       "引力浮板",
       "yinlifuban",
       "ylfb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_262_murtre": [
+    [
+      "物资浮板",
+      "物資浮板",
+      "wuzifuban",
+      "wzfb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_263_murbox": [
+    [
+      "防水物资箱",
+      "防水物資箱",
+      "fangshuiwuzixiang",
+      "fswzx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_265_xdice1": [
+    [
+      "圣女像",
+      "聖女像",
+      "shengnvxiang",
+      "snx",
       0,
       0,
       0
@@ -37389,6 +37661,23 @@
       "嚴重污染設施",
       "yanzhongwuransheshi",
       "yzwrss",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_278_dyfgdd": [
+    [
+      "狭路相逢",
+      "狹路相逢",
+      "xialuxiangfeng",
+      "xlxf",
       0,
       0,
       0
