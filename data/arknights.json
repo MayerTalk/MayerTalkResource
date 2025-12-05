@@ -253,6 +253,7 @@
       "",
       "_2",
       "_epoque#30",
+      "_snow#8",
       "_summer#17"
     ],
     [
@@ -540,7 +541,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_snow#8"
     ],
     [
       "operator"
@@ -6571,6 +6573,60 @@
       0,
       0,
       "KJ07"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4212_nasti": [
+    [
+      "娜斯提",
+      "娜斯提",
+      "nasiti",
+      "nst",
+      0,
+      0,
+      "RL11"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4213_skybx": [
+    [
+      "天空盒",
+      "天空盒",
+      "tiankonghe",
+      "tkh",
+      0,
+      0,
+      "CB54"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4214_cairn": [
+    [
+      "响石",
+      "響石",
+      "xiangshi",
+      "xs",
+      0,
+      0,
+      "CB31"
     ],
     [
       "",
@@ -12767,6 +12823,142 @@
       "enemy"
     ]
   ],
+  "enemy_10146_nscola": [
+    [
+      "开天汽水瓶",
+      "開天汽水瓶",
+      "kaitianqishuiping",
+      "ktqsp",
+      0,
+      0,
+      "AS01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10146_nscola_2": [
+    [
+      "开天汽水瓶·酸辣味",
+      "開天汽水瓶·酸辣味",
+      "kaitianqishuiping·suanlawei",
+      "ktqsp·slw",
+      0,
+      0,
+      "AS02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10147_nsbomb": [
+    [
+      "遮天面包机",
+      "遮天麪包機",
+      "zhetianmianbaoji",
+      "ztmbj",
+      0,
+      0,
+      "AS03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10147_nsbomb_2": [
+    [
+      "遮天面包机·果酱款",
+      "遮天麪包機·果醬款",
+      "zhetianmianbaoji·guojiangkuan",
+      "ztmbj·gjk",
+      0,
+      0,
+      "AS04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10148_nsmos": [
+    [
+      "啸天吸尘器",
+      "嘯天吸塵器",
+      "xiaotianxichenqi",
+      "xtxcq",
+      0,
+      0,
+      "AS05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10148_nsmos_2": [
+    [
+      "啸天吸尘器·大力版",
+      "嘯天吸塵器·大力版",
+      "xiaotianxichenqi·daliban",
+      "xtxcq·dlb",
+      0,
+      0,
+      "AS06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10149_nscan": [
+    [
+      "掀天汽水桶",
+      "掀天汽水桶",
+      "xiantianqishuitong",
+      "xtqst",
+      0,
+      0,
+      "AS07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10149_nscan_2": [
+    [
+      "掀天汽水桶·家庭装",
+      "掀天汽水桶·家庭裝",
+      "xiantianqishuitong·jiatingzhuang",
+      "xtqst·jtz",
+      0,
+      0,
+      "AS08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1014_rogue": [
     [
       "双持剑士",
@@ -12793,6 +12985,142 @@
       "Dual Swordsman Leader",
       "双剣隊長",
       "5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10150_nsheat": [
+    [
+      "炙烤螺旋桨",
+      "炙烤螺旋槳",
+      "zhikaoluoxuanjiang",
+      "zklxj",
+      0,
+      0,
+      "AS09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10150_nsheat_2": [
+    [
+      "焦香螺旋桨",
+      "焦香螺旋槳",
+      "jiaoxiangluoxuanjiang",
+      "jxlxj",
+      0,
+      0,
+      "AS10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10151_nspace": [
+    [
+      "行天卫生间",
+      "行天衛生間",
+      "xingtianweishengjian",
+      "xtwsj",
+      0,
+      0,
+      "AS11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10151_nspace_2": [
+    [
+      "行天救护车",
+      "行天救護車",
+      "xingtianjiuhuche",
+      "xtjhc",
+      0,
+      0,
+      "AS12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10152_nstree": [
+    [
+      "“自由的树”",
+      "“自由的樹”",
+      "“ziyoudeshu”",
+      "“zyds”",
+      0,
+      0,
+      "AS13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10152_nstree_2": [
+    [
+      "“逐日的树”",
+      "“逐日的樹”",
+      "“zhurideshu”",
+      "“zrds”",
+      0,
+      0,
+      "AS14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10153_nsblon": [
+    [
+      "热气球",
+      "熱氣球",
+      "reqiqiu",
+      "rqq",
+      0,
+      0,
+      "AS15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10153_nsblon_2": [
+    [
+      "强力热气球",
+      "強力熱氣球",
+      "qianglireqiqiu",
+      "qlrqq",
+      0,
+      0,
+      "AS16"
     ],
     [
       ""
@@ -27676,6 +28004,23 @@
       "enemy"
     ]
   ],
+  "enemy_1579_nstmom": [
+    [
+      "女妖河谷的拂哀菈",
+      "女妖河谷的拂哀菈",
+      "nvyaohegudefuaila",
+      "nyhgdfal",
+      0,
+      0,
+      "VOV"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_18001_lhship": [
     [
       "运输汽艇",
@@ -34688,6 +35033,57 @@
       "風雪之眼",
       "fengxuezhiyan",
       "fxzy",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10059_nasti_nstdef": [
+    [
+      "“质检专员”",
+      "“質檢專員”",
+      "“zhijianzhuanyuan”",
+      "“zjzy”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10060_nasti_nstchr": [
+    [
+      "“监工专员”",
+      "“監工專員”",
+      "“jiangongzhuanyuan”",
+      "“jgzy”",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10061_nasti_nstbld": [
+    [
+      "“应急承重小组”",
+      "“應急承重小組”",
+      "“yingjichengzhongxiaozu”",
+      "“yjczxz”",
       0,
       0,
       0
