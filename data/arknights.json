@@ -6030,7 +6030,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_game#7"
     ],
     [
       "operator"
@@ -32407,6 +32408,23 @@
       "enemy"
     ]
   ],
+  "enemy_6033_skagod": [
+    [
+      "冰滚兽 ",
+      "冰滾獸 ",
+      "binggunshou ",
+      "bgs ",
+      0,
+      0,
+      "DL33"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_7001_blwzad": [
     [
       "部族巫术师",
@@ -41988,6 +42006,57 @@
       "維生監測配件",
       "weishengjiancepeijian",
       "wsjcpj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_787_supctl": [
+    [
+      "冷爆机",
+      "冷爆機",
+      "lengbaoji",
+      "lbj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_788_supctla": [
+    [
+      "低温传导模块",
+      "低溫傳導模塊",
+      "diwenchuandaomokuai",
+      "dwcdmk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_789_supctlb": [
+    [
+      "冰浪脉冲模块",
+      "冰浪脈衝模塊",
+      "binglangmaichongmokuai",
+      "blmcmk",
       0,
       0,
       0
