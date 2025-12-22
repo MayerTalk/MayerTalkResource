@@ -35472,6 +35472,23 @@
       "trap"
     ]
   ],
+  "trap_030_factory": [
+    [
+      "无人机工厂",
+      "無人機工廠",
+      "wurenjigongchang",
+      "wrjgc",
+      "Drone Factory",
+      "ドローン工場",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_031_sleep": [
     [
       "雪雉的安全起重机",
