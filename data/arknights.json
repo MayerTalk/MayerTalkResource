@@ -18,6 +18,7 @@
       "_winter#1",
       "id:char_1001_amiya2_2",
       "id:char_1001_amiya2_casc#1",
+      "id:char_1001_amiya2_sale#16",
       "id:char_1037_amiya3_2",
       "id:char_1037_amiya3_sale#13"
     ],
@@ -4080,7 +4081,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_marthe#11"
     ],
     [
       "operator"
@@ -4157,7 +4159,8 @@
     [
       "",
       "_2",
-      "_epoque#17"
+      "_epoque#17",
+      "_sale#16"
     ],
     [
       "operator"
@@ -5507,7 +5510,8 @@
     [
       "",
       "_2",
-      "_nian#11"
+      "_nian#11",
+      "_sale#16"
     ],
     [
       "operator"
@@ -34342,7 +34346,8 @@
     [
       "",
       "_2",
-      "_epoque#17"
+      "_epoque#17",
+      "_sale#16"
     ],
     [
       "token"
