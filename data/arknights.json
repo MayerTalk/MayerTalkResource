@@ -37212,6 +37212,23 @@
       "trap"
     ]
   ],
+  "trap_1101_acplane": [
+    [
+      "补给驳船",
+      "補給駁船",
+      "bujibochuan",
+      "bjbc",
+      "Supply Barge",
+      "補給船",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_110_smbbox": [
     [
       "巨壳藤蔓",
