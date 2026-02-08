@@ -37085,6 +37085,23 @@
       "trap"
     ]
   ],
+  "trap_1026_acarm026": [
+    [
+      "术师无人机",
+      "術師無人機",
+      "shushiwurenji",
+      "sswrj",
+      "Caster Drone",
+      "術師ドローン",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1027_acarm027": [
     [
       "卡西米尔模型",
@@ -37136,6 +37153,23 @@
       "trap"
     ]
   ],
+  "trap_1030_acarm030": [
+    [
+      "精英重装套组",
+      "精英重裝套組",
+      "jingyingzhongzhuangtaozu",
+      "jyzztz",
+      "Elite Defender Set",
+      "エリート重装セット",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1031_acarm031": [
     [
       "精英狙击套组",
@@ -37144,6 +37178,23 @@
       "jyjjtz",
       "Elite Sniper Set",
       "エリート狙撃セット",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1032_acarm032": [
+    [
+      "精英术师套组",
+      "精英術師套組",
+      "jingyingshushitaozu",
+      "jysstz",
+      "Elite Caster Set",
+      "エリート術師セット",
       0
     ],
     [
