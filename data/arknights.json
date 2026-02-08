@@ -21727,6 +21727,23 @@
       "enemy"
     ]
   ],
+  "enemy_1265_durcar": [
+    [
+      "自走车",
+      "自走車",
+      "zizouche",
+      "zzc",
+      "Self-Driving Cart",
+      "セルカー",
+      "DUR0"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1266_nhapos": [
     [
       "食腐使徒",
@@ -23198,6 +23215,23 @@
       "Kouaku Cautelotaur",
       "狡虐アクドウジ",
       "HS18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1312_ymillu": [
+    [
+      "“无念之冬”",
+      "“無念之冬”",
+      "“wunianzhidong”",
+      "“wnzd”",
+      "'Winter's Void'",
+      "「無我の冬」",
+      "SH17"
     ],
     [
       ""
