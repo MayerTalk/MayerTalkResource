@@ -37884,6 +37884,23 @@
       "trap"
     ]
   ],
+  "trap_115_gasctrl": [
+    [
+      "毒雾塔控制",
+      "毒霧塔控制",
+      "duwutakongzhi",
+      "dwtkz",
+      "Gas Controller",
+      "毒霧タワー制御装置",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_116_stdurk": [
     [
       "“过去的我”",
