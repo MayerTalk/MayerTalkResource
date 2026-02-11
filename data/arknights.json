@@ -36557,6 +36557,23 @@
       "trap"
     ]
   ],
+  "trap_029_poison": [
+    [
+      "催泪瓦斯控制阀",
+      "催淚瓦斯控制閥",
+      "cuileiwasikongzhifa",
+      "clwskzf",
+      "Teargas Control Valve",
+      "催涙ガス制御弁",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_030_factory": [
     [
       "无人机工厂",
