@@ -37560,6 +37560,23 @@
       "trap"
     ]
   ],
+  "trap_1012_acarm012": [
+    [
+      "浓茶",
+      "濃茶",
+      "nongcha",
+      "nc",
+      "Strong Tea",
+      "渋茶",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1014_acarm014": [
     [
       "精打细算玩偶",
@@ -43720,6 +43737,23 @@
       "維生監測配件",
       "weishengjiancepeijian",
       "wsjcpj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_786_fxdtwr": [
+    [
+      "“绝对助手”",
+      "“絕對助手”",
+      "“jueduizhushou”",
+      "“jdzs”",
       0,
       0,
       0
