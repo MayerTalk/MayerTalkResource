@@ -36201,6 +36201,23 @@
       "token"
     ]
   ],
+  "token_10058_sbell2_icetgt": [
+    [
+      "保护目标（冻结状态）",
+      "保護目標（凍結狀態）",
+      "baohumubiao（dongjiezhuangtai）",
+      "bhmb（djzt）",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
   "token_10059_nasti_nstdef": [
     [
       "“质检专员”",
@@ -40604,6 +40621,23 @@
       "trap"
     ]
   ],
+  "trap_240_dyffdd": [
+    [
+      "狭路相逢",
+      "狹路相逢",
+      "xialuxiangfeng",
+      "xlxf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_241_dyldlz": [
     [
       "聚宝斋",
@@ -40629,6 +40663,23 @@
       "dgdj",
       "Lighting Prop",
       "照明機材",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_249_mjcsdw": [
+    [
+      "“月影之茧”",
+      "“月影之繭”",
+      "“yueyingzhijian”",
+      "“yyzj”",
+      0,
+      0,
       0
     ],
     [
