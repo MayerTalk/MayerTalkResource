@@ -37716,6 +37716,23 @@
       "trap"
     ]
   ],
+  "trap_1022_acarm022": [
+    [
+      "口袋法阵",
+      "口袋法陣",
+      "koudaifazhen",
+      "kdfz",
+      "Pocket Arts Circle",
+      "携帯式アーツバリア",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1026_acarm026": [
     [
       "术师无人机",
@@ -38164,6 +38181,23 @@
       "謝拉格不融冰",
       "xielageburongbing",
       "xlgbrb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1064_acarm064": [
+    [
+      "突袭手雷",
+      "突襲手雷",
+      "tuxishoulei",
+      "txsl",
       0,
       0,
       0
