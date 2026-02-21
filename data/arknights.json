@@ -42187,6 +42187,23 @@
       "trap"
     ]
   ],
+  "trap_480_roadblockxb": [
+    [
+      "道路障碍物",
+      "道路障礙物",
+      "daoluzhangaiwu",
+      "dlzaw",
+      "Static Roadblock",
+      "道路障害物",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_482_xbblure": [
     [
       "源石虫引诱器",
