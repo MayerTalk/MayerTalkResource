@@ -40657,6 +40657,40 @@
       "trap"
     ]
   ],
+  "trap_229_mpcata": [
+    [
+      "冰镇饮料机",
+      "冰鎮飲料機",
+      "bingzhenyinliaoji",
+      "bzylj",
+      "Cold Drink Machine",
+      "アイスドリンクマシン",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_230_mpcatab": [
+    [
+      "加热饮料机",
+      "加熱飲料機",
+      "jiareyinliaoji",
+      "jrylj",
+      "Hot Drink Machine",
+      "ホットドリンクマシン",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_231_mpgrou": [
     [
       "“寒灾回响”",
