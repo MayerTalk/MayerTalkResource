@@ -36883,6 +36883,23 @@
       "trap"
     ]
   ],
+  "trap_050_blizzard": [
+    [
+      "暴风雪",
+      "暴風雪",
+      "baofengxue",
+      "bfx",
+      "Blizzard",
+      "猛吹雪",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_052_slowfd": [
     [
       "失修舞台雾机",
@@ -38249,6 +38266,23 @@
       "幸運硬幣",
       "xingyunyingbi",
       "xyyb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1067_acarm067": [
+    [
+      "双模机械臂",
+      "雙模機械臂",
+      "shuangmojixiebi",
+      "smjxb",
       0,
       0,
       0
