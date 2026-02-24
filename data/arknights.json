@@ -2832,6 +2832,7 @@
     [
       "",
       "_2",
+      "_epoque#515",
       "_epoque#8"
     ],
     [
@@ -34650,6 +34651,91 @@
       "Uproar",
       "アップロアー",
       "SFR11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8016_misery": [
+    [
+      "“Misery”，静默之刃",
+      "“Misery”，靜默之刃",
+      "“Misery”，jingmozhiren",
+      "“Misery”，jmzr",
+      0,
+      0,
+      "SFR12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8016_misery_1": [
+    [
+      "“Misery”，静默之刃",
+      "“Misery”，靜默之刃",
+      "“Misery”，jingmozhiren",
+      "“Misery”，jmzr",
+      0,
+      0,
+      "SFR12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8016_misery_2": [
+    [
+      "“Misery”，静默之刃",
+      "“Misery”，靜默之刃",
+      "“Misery”，jingmozhiren",
+      "“Misery”，jmzr",
+      0,
+      0,
+      "SFR12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8016_misery_3": [
+    [
+      "“Misery”，静默之刃",
+      "“Misery”，靜默之刃",
+      "“Misery”，jingmozhiren",
+      "“Misery”，jmzr",
+      0,
+      0,
+      "SFR12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8017_vcblva": [
+    [
+      "抗拒之火炎熔",
+      "抗拒之火炎熔",
+      "kangjuzhihuoyanrong",
+      "kjzhyr",
+      0,
+      0,
+      "SFR13"
     ],
     [
       ""
