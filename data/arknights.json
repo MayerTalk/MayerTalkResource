@@ -37632,6 +37632,40 @@
       "trap"
     ]
   ],
+  "trap_1004_acarm004": [
+    [
+      "压缩饼干",
+      "壓縮餅乾",
+      "yasuobinggan",
+      "ysbg",
+      "Hardtack",
+      "レーション",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1005_acarm005": [
+    [
+      "信标",
+      "信標",
+      "xinbiao",
+      "xb",
+      "Transmitter",
+      "ビーコン",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1006_acarm006": [
     [
       "源岩匕首",
@@ -37674,6 +37708,23 @@
       "jgfsq",
       "Laser Sighter",
       "レーザー発射機",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1009_acarm009": [
+    [
+      "喀兰贸易文档",
+      "喀蘭貿易文檔",
+      "kalanmaoyiwendang",
+      "klmywd",
+      "Karlan Trade File",
+      "カランド貿易ファイル",
       0
     ],
     [
@@ -37742,6 +37793,23 @@
       "jqykwo",
       "Money-Grubbing Doll",
       "守銭奴の人形",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1016_acarm016": [
+    [
+      "预备进阶许可",
+      "預備進階許可",
+      "yubeijinjiexuke",
+      "ybjjxk",
+      "Promotion Permit",
+      "予備隊員昇進許可",
       0
     ],
     [
@@ -37844,6 +37912,23 @@
       "kdfz",
       "Pocket Arts Circle",
       "携帯式アーツバリア",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1025_acarm025": [
+    [
+      "休眠子裔",
+      "休眠子裔",
+      "xiumianziyi",
+      "xmzy",
+      "Dormant Heir",
+      "眠れる眷属",
       0
     ],
     [
@@ -38014,6 +38099,23 @@
       "M3lz",
       "M3 Claw",
       "M3クロー",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1036_acarm036": [
+    [
+      "便携弹射器",
+      "便攜彈射器",
+      "bianxietansheqi",
+      "bxtsq",
+      "Portable Launcher",
+      "携帯式射出装置",
       0
     ],
     [
@@ -40131,6 +40233,23 @@
       "trap"
     ]
   ],
+  "trap_167_muruinf": [
+    [
+      "折叠式维护车",
+      "摺疊式維護車",
+      "zhedieshiweihuche",
+      "zdswhc",
+      "Foldable Maintenance Vehicle",
+      "競技用格納式整備車",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_169_muruinb": [
     [
       "折叠式后勤站",
@@ -40156,6 +40275,23 @@
       "hddg",
       "Really Big Pot",
       "大鍋",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_172_trbox": [
+    [
+      "“宝箱”",
+      "“寶箱”",
+      "“baoxiang”",
+      "“bx”",
+      "'Treasure Chest'",
+      "「宝箱」",
       0
     ],
     [
@@ -40258,6 +40394,23 @@
       "“bx”",
       "'Treasure Chest'",
       "「宝箱」",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_180_dsblock": [
+    [
+      "封印的地面",
+      "封印的地面",
+      "fengyindedimian",
+      "fyddm",
+      "Sealed Floor",
+      "封じられた地面",
       0
     ],
     [
@@ -42290,6 +42443,23 @@
       "trap"
     ]
   ],
+  "trap_468_tpriest": [
+    [
+      "大祭司",
+      "大祭司",
+      "dajisi",
+      "djs",
+      "High Priest",
+      "大祭司",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_470_tmantic": [
     [
       "狮蝎",
@@ -42298,6 +42468,23 @@
       "sx",
       "Manticore",
       "マンティコア",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_471_tegmaus": [
+    [
+      "佩佩",
+      "佩佩",
+      "peipei",
+      "pp",
+      "Pepe",
+      "ペペ",
       0
     ],
     [
@@ -42332,6 +42519,23 @@
       "lhl",
       "Beast Cage",
       "捕獲カゴ",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_476_mscskt": [
+    [
+      "讯息匣",
+      "訊息匣",
+      "xunxixia",
+      "xxx",
+      "Message Casket",
+      "情報ボックス",
       0
     ],
     [
@@ -42451,6 +42655,23 @@
       "jcd",
       "Checkpoint",
       "チェックポイント",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_485_xbrandprop": [
+    [
+      "随机道具盒",
+      "隨機道具盒",
+      "suijidaojuhe",
+      "sjdjh",
+      "Random Item Box",
+      "ランダムボックス",
       0
     ],
     [
@@ -42698,6 +42919,23 @@
       "trap"
     ]
   ],
+  "trap_501_xbaarm": [
+    [
+      "外骨骼",
+      "外骨骼",
+      "waiguge",
+      "wgg",
+      "Exoskeleton",
+      "外骨格",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_502_xbaice": [
     [
       "冰瀑喷射罐",
@@ -42723,6 +42961,23 @@
       "dwfsq",
       "Necrosis Transmitter",
       "壊死損傷発射装置",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_504_xbaess": [
+    [
+      "桶装液香",
+      "桶裝液香",
+      "tongzhuangyexiang",
+      "tzyx",
+      "Barreled Perfume",
+      "樽詰め香液",
       0
     ],
     [
@@ -43803,6 +44058,23 @@
       "trap"
     ]
   ],
+  "trap_757_skzbox": [
+    [
+      "宝箱",
+      "寶箱",
+      "baoxiang",
+      "bx",
+      "Treasure Chest",
+      "宝箱",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_758_skzmbx": [
     [
       "停滞巧械",
@@ -43845,6 +44117,23 @@
       "tlxy，hgsx",
       "Theresa, Black-crowned Sage",
       "「黒き王冠の聖賢」テレジア",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_764_skzshp": [
+    [
+      "驮兽旅行家",
+      "馱獸旅行家",
+      "tuoshoulvxingjia",
+      "tslxj",
+      "Burdenbeast Traveler",
+      "旅する駄獣",
       0
     ],
     [
@@ -44066,6 +44355,23 @@
       "L-44\"lsj\"",
       "L-44 'Gramophone'",
       "L-44「蓄音機」",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_779_skzth": [
+    [
+      "尼卢火",
+      "尼盧火",
+      "niluhuo",
+      "nlh",
+      "Aggini of Nila",
+      "ニーラのアグニ",
       0
     ],
     [
