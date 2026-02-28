@@ -37921,6 +37921,23 @@
       "trap"
     ]
   ],
+  "trap_1023_acarm023": [
+    [
+      "竞技投币机",
+      "競技投幣機",
+      "jingjitoubiji",
+      "jjtbj",
+      "Coin-Operated Machine",
+      "競技アーケードマシン",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1025_acarm025": [
     [
       "休眠子裔",
@@ -38711,6 +38728,40 @@
       "fs：tl",
       "Arts: Greed",
       "アーツ：貪欲",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1084_acspell005": [
+    [
+      "法术：满足",
+      "法術：滿足",
+      "fashu：manzu",
+      "fs：mz",
+      "Arts: Satisfaction",
+      "アーツ：充足",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1085_acspell006": [
+    [
+      "法术：护盾",
+      "法術：護盾",
+      "fashu：hudun",
+      "fs：hd",
+      "Arts: Shield",
+      "アーツ：防壁",
       0
     ],
     [
