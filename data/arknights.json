@@ -39978,6 +39978,23 @@
       "trap"
     ]
   ],
+  "trap_1527_lhtwer": [
+    [
+      "警戒岗哨",
+      "警戒崗哨",
+      "jingjiegangshao",
+      "jjgs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1528_lhruin": [
     [
       "废墟",
@@ -40052,6 +40069,23 @@
       "獵戶村落",
       "liehucunluo",
       "lhcl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1532_lhcampb": [
+    [
+      "山地村落",
+      "山地村落",
+      "shandicunluo",
+      "sdcl",
       0,
       0,
       0
