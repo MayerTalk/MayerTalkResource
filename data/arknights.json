@@ -41135,6 +41135,23 @@
       "trap"
     ]
   ],
+  "trap_223_dynbox": [
+    [
+      "宝葫芦",
+      "寶葫蘆",
+      "baohulu",
+      "bhl",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_224_dyrbox": [
     [
       "铁葫芦",
@@ -41347,6 +41364,23 @@
       "“yyzj”",
       0,
       0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_250_hlctrl": [
+    [
+      "寻根圣事",
+      "尋根聖事",
+      "xungenshengshi",
+      "xgss",
+      "Sacrament of Genesis",
+      "根源を辿る儀式",
       0
     ],
     [
