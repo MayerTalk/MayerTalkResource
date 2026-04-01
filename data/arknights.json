@@ -542,6 +542,7 @@
     [
       "",
       "_2",
+      "_game#9",
       "_sale#14"
     ],
     [
@@ -42002,6 +42003,210 @@
       "印字",
       "yinzi",
       "yz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_296_iznsbr": [
+    [
+      "落魄士兵",
+      "落魄士兵",
+      "luoposhibing",
+      "lpsb",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_297_izsdkn": [
+    [
+      "持盾战败骑士",
+      "持盾戰敗騎士",
+      "chidunzhanbaiqishi",
+      "cdzbqs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_298_izuabn": [
+    [
+      "乌萨斯弩手幸存者",
+      "烏薩斯弩手倖存者",
+      "wusasinushouxingcunzhe",
+      "wssnsxcz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_299_izduph": [
+    [
+      "深池搅局战士",
+      "深池攪局戰士",
+      "shenchijiaojuzhanshi",
+      "scjjzs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_300_izdmge": [
+    [
+      "萨卡兹业余术师",
+      "薩卡茲業餘術師",
+      "sakaziyeyushushi",
+      "skzyyss",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_301_izbslm": [
+    [
+      "稳定的高能源石虫",
+      "穩定的高能源石蟲",
+      "wendingdegaonengyuanshichong",
+      "wddgnysc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_302_iznhkd": [
+    [
+      "萨卡兹枯朽胃胀者",
+      "薩卡茲枯朽胃脹者",
+      "sakazikuxiuweizhangzhe",
+      "skzkxwzz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_303_izbear": [
+    [
+      "下班的高普尼克",
+      "下班的高普尼克",
+      "xiabandegaopunike",
+      "xbdgpnk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_304_izdoc": [
+    [
+      "变格博士",
+      "變格博士",
+      "biangeboshi",
+      "bgbs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_305_izwsdl": [
+    [
+      "变格维什戴尔",
+      "變格維什戴爾",
+      "biangeweishendaier",
+      "bgwsde",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_306_izklst": [
+    [
+      "变格凯尔希",
+      "變格凱爾希",
+      "biangekaierxi",
+      "bgkex",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_307_izsvas": [
+    [
+      "变格银灰",
+      "變格銀灰",
+      "biangeyinhui",
+      "bgyh",
       0,
       0,
       0
