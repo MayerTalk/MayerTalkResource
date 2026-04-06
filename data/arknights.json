@@ -36557,6 +36557,23 @@
       "trap"
     ]
   ],
+  "trap_013_blower": [
+    [
+      "源石流发生装置",
+      "源石流發生裝置",
+      "yuanshiliufashengzhuangzhi",
+      "yslfszz",
+      "Originium Flow Generator",
+      "源石気流発生装置",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_014_tower": [
     [
       "L-44\"留声机\"",
@@ -36667,6 +36684,23 @@
       "agzdysjt",
       "Patriot's Originium Altar",
       "パトリオットの源石祭壇",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_024_npcsld": [
+    [
+      "盾卫",
+      "盾衛",
+      "dunwei",
+      "dw",
+      "Shieldguard",
+      "盾兵",
       0
     ],
     [
