@@ -14047,6 +14047,244 @@
       "enemy"
     ]
   ],
+  "enemy_10193_ubhh": [
+    [
+      "撬棍巡逻者",
+      "撬棍巡邏者",
+      "qiaogunxunluozhe",
+      "qgxlz",
+      0,
+      0,
+      "SW1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10193_ubhh_2": [
+    [
+      "撬棍追捕者\n",
+      "撬棍追捕者\n",
+      "qiaogunzhuibuzhe\n",
+      "qgzbz\n",
+      0,
+      0,
+      "SW2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10194_ubdg": [
+    [
+      "玻璃窗粉碎者",
+      "玻璃窗粉碎者",
+      "bolichuangfensuizhe",
+      "blcfsz",
+      0,
+      0,
+      "SW3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10194_ubdg_2": [
+    [
+      "玻璃窗毁灭者",
+      "玻璃窗毀滅者",
+      "bolichuanghuimiezhe",
+      "blchmz",
+      0,
+      0,
+      "SW4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10195_ubsb": [
+    [
+      "强光恐吓者",
+      "強光恐嚇者",
+      "qiangguangkonghezhe",
+      "qgkhz",
+      0,
+      0,
+      "SW5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10195_ubsb_2": [
+    [
+      "强光监管者",
+      "強光監管者",
+      "qiangguangjianguanzhe",
+      "qgjgz",
+      0,
+      0,
+      "SW6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10196_ubba": [
+    [
+      "搏命养家者",
+      "搏命養家者",
+      "bomingyangjiazhe",
+      "bmyjz",
+      0,
+      0,
+      "SW7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10196_ubba_2": [
+    [
+      "搏命享受者",
+      "搏命享受者",
+      "bomingxiangshouzhe",
+      "bmxsz",
+      0,
+      0,
+      "SW8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10197_ublyb": [
+    [
+      "酗酒滋事者\n",
+      "酗酒滋事者\n",
+      "xujiuzishizhe\n",
+      "xjzsz\n",
+      0,
+      0,
+      "SW9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10197_ublyb_2": [
+    [
+      "酗酒斗殴者",
+      "酗酒鬥毆者",
+      "xujiudououzhe",
+      "xjdoz",
+      0,
+      0,
+      "SW10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10198_ubjxs": [
+    [
+      "废金属破坏者",
+      "廢金屬破壞者",
+      "feijinshupohuaizhe",
+      "fjsphz",
+      0,
+      0,
+      "SW11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10198_ubjxs_2": [
+    [
+      "废金属爆裂者",
+      "廢金屬爆裂者",
+      "feijinshubaoliezhe",
+      "fjsblz",
+      0,
+      0,
+      "SW12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10199_ubhb": [
+    [
+      "硬核扰民者",
+      "硬核擾民者",
+      "yingheraominzhe",
+      "yhrmz",
+      0,
+      0,
+      "SW13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10199_ubhb_2": [
+    [
+      "硬核袭警者",
+      "硬核襲警者",
+      "yinghexijingzhe",
+      "yhxjz",
+      0,
+      0,
+      "SW14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1019_jshoot": [
     [
       "隐形弩手",
@@ -14073,6 +14311,23 @@
       "Invisible Crossbowman Leader",
       "迷彩射撃隊長",
       "C2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10200_ubglmf": [
+    [
+      "格罗莫夫",
+      "格羅莫夫",
+      "geluomofu",
+      "glmf",
+      0,
+      0,
+      "GRO"
     ],
     [
       ""
@@ -29007,6 +29262,40 @@
       "enemy"
     ]
   ],
+  "enemy_1587_ubbplwq": [
+    [
+      "巴普洛维奇，枢密官",
+      "巴普洛維奇，樞密官",
+      "bapuluoweiqi，shumiguan",
+      "bplwq，smg",
+      0,
+      0,
+      "PAV"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1588_ubbphw": [
+    [
+      "“私人安全顾问”",
+      "“私人安全顧問”",
+      "“sirenanquanguwen”",
+      "“sraqgw”",
+      0,
+      0,
+      "PMC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_18001_lhship": [
     [
       "运输汽艇",
@@ -31515,6 +31804,40 @@
       0,
       0,
       "W180"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_3015_ubstb": [
+    [
+      "被关押的学生",
+      "被關押的學生",
+      "beiguanyadexuesheng",
+      "bgydxs",
+      0,
+      0,
+      "STU1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_3016_ubstg": [
+    [
+      "被关押的学生",
+      "被關押的學生",
+      "beiguanyadexuesheng",
+      "bgydxs",
+      0,
+      0,
+      "STU2"
     ],
     [
       ""
