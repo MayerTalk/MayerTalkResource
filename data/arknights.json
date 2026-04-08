@@ -791,6 +791,24 @@
       "operator"
     ]
   ],
+  "char_1051_headb2": [
+    [
+      "怒潮凛冬",
+      "怒潮凜冬",
+      "nuchaolindong",
+      "ncld",
+      0,
+      0,
+      "USS0"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_106_franka": [
     [
       "芙兰卡",
@@ -3857,6 +3875,7 @@
     [
       "",
       "_2",
+      "_ambienceSynesthesia#6",
       "_it#1",
       "_summer#9"
     ],
@@ -6027,6 +6046,7 @@
     [
       "",
       "_2",
+      "_ambienceSynesthesia#6",
       "_epoque#42"
     ],
     [
@@ -6832,6 +6852,42 @@
       0,
       0,
       "YD29"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4223_botany": [
+    [
+      "伯塔尼",
+      "伯塔尼",
+      "botani",
+      "btn",
+      0,
+      0,
+      "US40"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4224_turdus": [
+    [
+      "乌啾",
+      "烏啾",
+      "wujiu",
+      "wj",
+      0,
+      0,
+      "US39"
     ],
     [
       "",
@@ -42581,6 +42637,23 @@
       "變格銀灰",
       "biangeyinhui",
       "bgyh",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_318_ubodst": [
+    [
+      "伪装工具",
+      "僞裝工具",
+      "weizhuanggongju",
+      "wzgj",
       0,
       0,
       0
