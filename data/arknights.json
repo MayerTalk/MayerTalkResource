@@ -38330,6 +38330,23 @@
       "trap"
     ]
   ],
+  "trap_1017_acarm017": [
+    [
+      "战场分析仪",
+      "戰場分析儀",
+      "zhanchangfenxiyi",
+      "zcfxy",
+      "Battlefield Analyzer",
+      "戦場分析装置",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1018_acarm018": [
     [
       "震撼弹",
