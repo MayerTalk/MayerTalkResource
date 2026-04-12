@@ -45351,6 +45351,23 @@
       "trap"
     ]
   ],
+  "trap_763_skzddd": [
+    [
+      "圣卫坚盾",
+      "聖衛堅盾",
+      "shengweijiandun",
+      "swjd",
+      "Guardian Bulwark",
+      "聖衛の盾",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_764_skzshp": [
     [
       "驮兽旅行家",
@@ -45376,6 +45393,23 @@
       "wkzydzz",
       "Indisputable Evidence",
       "決定的な証拠",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_766_duelwal": [
+    [
+      "狭路相逢",
+      "狹路相逢",
+      "xialuxiangfeng",
+      "xlxf",
+      "Face to Face",
+      "隘路の衝突",
       0
     ],
     [
