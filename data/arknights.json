@@ -36834,6 +36834,23 @@
       "trap"
     ]
   ],
+  "trap_002_emp": [
+    [
+      "震撼装置",
+      "震撼裝置",
+      "zhenhanzhuangzhi",
+      "zhzz",
+      "Stun Generator",
+      "EMP発生装置",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_005_sensor": [
     [
       "侦测器",
