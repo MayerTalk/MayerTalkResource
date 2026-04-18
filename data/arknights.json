@@ -37803,6 +37803,23 @@
       "trap"
     ]
   ],
+  "trap_079_allydonq": [
+    [
+      "猎潮的骑士",
+      "獵潮的騎士",
+      "liechaodeqishi",
+      "lcdqs",
+      "Tide-Hunt Knight",
+      "猟潮の騎士",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
   "trap_080_garage": [
     [
       "自走车出发点",
@@ -38049,6 +38066,57 @@
       "fxjy",
       "Fragrant Essential Oil",
       "エッセンシャルオイル",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_096_gflag": [
+    [
+      "山海密语仪",
+      "山海密語儀",
+      "shanhaimiyuyi",
+      "shmyy",
+      "Shanhaizhong Cipher Machine",
+      "山海密令柱",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_097_hstone": [
+    [
+      "城防路障",
+      "城防路障",
+      "chengfangluzhang",
+      "cflz",
+      "Roadblocks",
+      "都市防衛柵",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_098_mire": [
+    [
+      "沼泽控制",
+      "沼澤控制",
+      "zhaozekongzhi",
+      "zzkz",
+      "Mire Control",
+      "沼地制御",
       0
     ],
     [
@@ -39299,6 +39367,23 @@
       "trap"
     ]
   ],
+  "trap_107_smpow": [
+    [
+      "空间稳定设施",
+      "空間穩定設施",
+      "kongjianwendingsheshi",
+      "kjwdss",
+      "Dimensional Anchoring Pylon",
+      "空間安定化設備",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1080_acspell001": [
     [
       "法术：恢复",
@@ -39494,6 +39579,23 @@
       "bcczy",
       "Barge Captain",
       "補給船操舵手",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1097_acshopre": [
+    [
+      "补给调配器",
+      "補給調配器",
+      "bujidiaopeiqi",
+      "bjdpq",
+      "Supply Distributor",
+      "物資調達器",
       0
     ],
     [
@@ -39749,6 +39851,40 @@
       "sssfp",
       0,
       0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_112_crsbow": [
+    [
+      "解雇者清债程序",
+      "解僱者清債程序",
+      "jieguzheqingzhaichengxu",
+      "jgzqzcx",
+      "Post-Firing Debt Relief Program",
+      "解雇者清算プログラム",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_113_snflwr": [
+    [
+      "全自动划账器",
+      "全自動劃賬器",
+      "quanzidonghuazhangqi",
+      "qzdhzq",
+      "Full-Auto Debit Machine",
+      "全自動送金機",
       0
     ],
     [
@@ -42869,6 +43005,23 @@
       "trap"
     ]
   ],
+  "trap_408_xbbase": [
+    [
+      "基地",
+      "基地",
+      "jidi",
+      "jd",
+      "Base",
+      "基地",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_409_xbwood": [
     [
       "杂木林",
@@ -42920,6 +43073,23 @@
       "trap"
     ]
   ],
+  "trap_412_redtower": [
+    [
+      "移动战塔",
+      "移動戰塔",
+      "yidongzhanta",
+      "ydzt",
+      "Mobile Battle Tower",
+      "可動式戦術塔",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_413_hiddenstone": [
     [
       "遗迹残骸",
@@ -42928,6 +43098,23 @@
       "yjch",
       "Historical Remains",
       "遺跡の残骸",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_414_vegetation": [
+    [
+      "灌木丛",
+      "灌木叢",
+      "guanmucong",
+      "gmc",
+      "Bush",
+      "茂み",
       0
     ],
     [
@@ -43192,6 +43379,23 @@
       "trap"
     ]
   ],
+  "trap_430_wdescp": [
+    [
+      "逃脱点",
+      "逃脫點",
+      "taotuodian",
+      "ttd",
+      "Escape Route",
+      "脱出地点",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_431_xbgldn": [
     [
       "冶铸台",
@@ -43217,6 +43421,40 @@
       "lyx",
       "Old Isin",
       "イシン",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_433_sandsdr": [
+    [
+      "“沙卒”",
+      "“沙卒”",
+      "“shazu”",
+      "“sz”",
+      "'Sand Soldier'",
+      "「サンドソルジャー」",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_434_klmantc": [
+    [
+      "曼提柯杀手",
+      "曼提柯殺手",
+      "mantikeshashou",
+      "mtkss",
+      "Manticore Killer",
+      "殺し屋のマンティコア",
       0
     ],
     [
