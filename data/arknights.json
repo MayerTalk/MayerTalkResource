@@ -37650,6 +37650,23 @@
       "trap"
     ]
   ],
+  "trap_068_badbox": [
+    [
+      "箱形恐鱼",
+      "箱形恐魚",
+      "xiangxingkongyu",
+      "xxky",
+      "Chest Seaborn",
+      "宝箱形恐魚",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_069_buffcard": [
     [
       "战备激活阀",
