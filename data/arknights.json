@@ -42160,6 +42160,23 @@
       "trap"
     ]
   ],
+  "trap_235_hlnpcm": [
+    [
+      "圣徒像扮演者",
+      "聖徒像扮演者",
+      "shengtuxiangbanyanzhe",
+      "stxbyz",
+      "Saint Statue Cosplayer",
+      "聖徒像ごっこ",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_237_hlnpcb": [
     [
       "圣堂保育员扮演者",
@@ -42219,6 +42236,23 @@
       "jbz",
       0,
       0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_247_crfilm": [
+    [
+      "摄影机",
+      "攝影機",
+      "sheyingji",
+      "syj",
+      "Camera",
+      "撮影カメラ",
       0
     ],
     [
