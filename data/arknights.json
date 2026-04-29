@@ -37640,6 +37640,23 @@
       "trap"
     ]
   ],
+  "trap_058_gunctrl": [
+    [
+      "伦蒂尼姆城防副炮",
+      "倫蒂尼姆城防副炮",
+      "lundinimuchengfangfupao",
+      "ldnmcffp",
+      "Londinium Secondary Defense Artillery",
+      "ロンディニウム都市防衛副砲",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_059_peacokfool": [
     [
       "断罪者",
