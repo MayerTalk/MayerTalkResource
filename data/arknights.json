@@ -39760,6 +39760,23 @@
       "trap"
     ]
   ],
+  "trap_1058_acarm058": [
+    [
+      "催泪瓦斯",
+      "催淚瓦斯",
+      "cuileiwasi",
+      "clws",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_105_mhwrct": [
     [
       "滞空牵引无人机",
@@ -42845,6 +42862,23 @@
       "“fxzdyz”",
       "'Shadow in the Snow'",
       "「風雪の中の影」",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_233_mpmage": [
+    [
+      "稳定态萨卡兹术师结晶",
+      "穩定態薩卡茲術師結晶",
+      "wendingtaisakazishushijiejing",
+      "wdtskzssjj",
+      "Stable Sarkaz Caster Crystal",
+      "定常状態サルカズ術師結晶",
       0
     ],
     [
