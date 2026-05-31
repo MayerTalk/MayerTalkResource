@@ -774,6 +774,42 @@
       "operator"
     ]
   ],
+  "char_1048_orchd2": [
+    [
+      "焰狐龙梓兰",
+      "焰狐龍梓蘭",
+      "yanhulongzilan",
+      "yhlzl",
+      0,
+      0,
+      "MH05"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_1049_catap2": [
+    [
+      "雷狼龙S空爆",
+      "雷狼龍S空爆",
+      "leilanglongSkongbao",
+      "lllSkb",
+      0,
+      0,
+      "MH06"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_1050_chen3": [
     [
       "赤刃明霄陈",
@@ -3165,6 +3201,7 @@
     ],
     [
       "",
+      "_sale#18",
       "_witch#5"
     ],
     [
@@ -4608,7 +4645,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#55"
     ],
     [
       "operator"
@@ -6834,6 +6872,24 @@
       "operator"
     ]
   ],
+  "char_4215_buddy": [
+    [
+      "罗德岛隐秘队",
+      "羅德島隱祕隊",
+      "luodedaoyinmidui",
+      "lddymd",
+      0,
+      0,
+      "MH04"
+    ],
+    [
+      "",
+      "_mh#2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_421_crow": [
     [
       "羽毛笔",
@@ -7779,7 +7835,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_game#10"
     ],
     [
       "operator"
@@ -12844,6 +12901,40 @@
       "enemy"
     ]
   ],
+  "enemy_10129_pycdog": [
+    [
+      "冠鸣龙",
+      "冠鳴龍",
+      "guanminglong",
+      "gml",
+      0,
+      0,
+      "TD1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10129_pycdog_2": [
+    [
+      "冠鸣龙王",
+      "冠鳴龍王",
+      "guanminglongwang",
+      "gmlw",
+      0,
+      0,
+      "TD2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1012_dcross": [
     [
       "萨卡兹狙击手",
@@ -12870,6 +12961,261 @@
       "Sarkaz Crossbowman Leader",
       "サルカズ狙撃隊長",
       "S4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10130_pycpok": [
+    [
+      "碎壳螈\n",
+      "碎殼螈\n",
+      "suikeyuan\n",
+      "sky\n",
+      0,
+      0,
+      "TD3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10130_pycpok_2": [
+    [
+      "大名碎壳螈",
+      "大名碎殼螈",
+      "damingsuikeyuan",
+      "dmsky",
+      0,
+      0,
+      "TD4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10131_pycshd": [
+    [
+      "盗壳虫",
+      "盜殼蟲",
+      "daokechong",
+      "dkc",
+      0,
+      0,
+      "TD5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10131_pycshd_2": [
+    [
+      "横纲盗壳虫",
+      "橫綱盜殼蟲",
+      "henggangdaokechong",
+      "hgdkc",
+      0,
+      0,
+      "TD6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10132_pyceat": [
+    [
+      "大喰怪",
+      "大喰怪",
+      "dacanguai",
+      "dcg",
+      0,
+      0,
+      "TD7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10132_pyceat_2": [
+    [
+      "荒神大喰怪",
+      "荒神大喰怪",
+      "huangshendacanguai",
+      "hsdcg",
+      0,
+      0,
+      "TD8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10133_pycrol": [
+    [
+      "反壳龟",
+      "反殼龜",
+      "fankegui",
+      "fkg",
+      0,
+      0,
+      "TD9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10133_pycrol_2": [
+    [
+      "反壳龟·缚",
+      "反殼龜·縛",
+      "fankegui·fu",
+      "fkg·f",
+      0,
+      0,
+      "TD10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10134_pycspy": [
+    [
+      "影丝蛛",
+      "影絲蛛",
+      "yingsizhu",
+      "ysz",
+      0,
+      0,
+      "TD11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10134_pycspy_2": [
+    [
+      "影丝蛛·怨",
+      "影絲蛛·怨",
+      "yingsizhu·yuan",
+      "ysz·y",
+      0,
+      0,
+      "TD12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10135_pycjmp": [
+    [
+      "咒鬼",
+      "咒鬼",
+      "zhougui",
+      "zg",
+      0,
+      0,
+      "TD13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10135_pycjmp_2": [
+    [
+      "咒鬼·真",
+      "咒鬼·真",
+      "zhougui·zhen",
+      "zg·z",
+      0,
+      0,
+      "TD14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10136_pycblk": [
+    [
+      "岩甲兽",
+      "巖甲獸",
+      "yanjiashou",
+      "yjs",
+      0,
+      0,
+      "TD15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10136_pycblk_2": [
+    [
+      "岩甲兽·咒",
+      "巖甲獸·咒",
+      "yanjiashou·zhou",
+      "yjs·z",
+      0,
+      0,
+      "TD16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10137_pycvol": [
+    [
+      "“异兽”熔火蜗",
+      "“異獸”熔火蝸",
+      "“yishou”ronghuowo",
+      "“ys”rhw",
+      0,
+      0,
+      "TD17"
     ],
     [
       ""
@@ -29589,6 +29935,23 @@
       "enemy"
     ]
   ],
+  "enemy_1573_pyczog": [
+    [
+      "“雷之主”",
+      "“雷之主”",
+      "“leizhizhu”",
+      "“lzz”",
+      0,
+      0,
+      "ZIN"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1574_xdagt": [
     [
       "披挂冰雪的少女",
@@ -37586,6 +37949,24 @@
       "token"
     ]
   ],
+  "token_10063_buddy_bddg": [
+    [
+      "牙猎犬",
+      "牙獵犬",
+      "yaliequan",
+      "ylq",
+      0,
+      0,
+      0
+    ],
+    [
+      "",
+      "_mh#2"
+    ],
+    [
+      "token"
+    ]
+  ],
   "token_10064_wang_stone1": [
     [
       "棋子",
@@ -43689,6 +44070,74 @@
       "trap"
     ]
   ],
+  "trap_273_pycgp": [
+    [
+      "不完全充能反击",
+      "不完全充能反擊",
+      "buwanquanchongnengfanji",
+      "bwqcnfj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_274_pyctrn": [
+    [
+      "泡影流大冲击",
+      "泡影流大沖擊",
+      "paoyingliudachongji",
+      "pyldcj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_275_pycfly": [
+    [
+      "翔虫闪击",
+      "翔蟲閃擊",
+      "xiangchongshanji",
+      "xcsj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_276_pycstp": [
+    [
+      "束缚铁虫丝",
+      "束縛鐵蟲絲",
+      "shufutiechongsi",
+      "sftcs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_278_dyfgdd": [
     [
       "狭路相逢",
@@ -43712,6 +44161,74 @@
       "噴泉水池",
       "penquanshuichi",
       "pqsc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_281_ctlrol": [
+    [
+      "御龙：反壳龟",
+      "御龍：反殼龜",
+      "yulong：fankegui",
+      "yl：fkg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_282_ctlspy": [
+    [
+      "御龙：影丝蛛",
+      "御龍：影絲蛛",
+      "yulong：yingsizhu",
+      "yl：ysz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_283_ctlblk": [
+    [
+      "御龙：岩甲兽",
+      "御龍：巖甲獸",
+      "yulong：yanjiashou",
+      "yl：yjs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_284_ctlzog": [
+    [
+      "御龙：雷狼龙",
+      "御龍：雷狼龍",
+      "yulong：leilanglong",
+      "yl：lll",
       0,
       0,
       0
