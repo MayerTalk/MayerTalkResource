@@ -6330,7 +6330,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_marthe#14"
     ],
     [
       "operator"
@@ -34083,6 +34084,142 @@
       "enemy"
     ]
   ],
+  "enemy_4060_mulinm": [
+    [
+      "直球队击球手",
+      "直球隊擊球手",
+      "zhiqiuduijiqiushou",
+      "zqdjqs",
+      0,
+      0,
+      "IB86"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4060_mulinm_2": [
+    [
+      "直球队坚定击球手",
+      "直球隊堅定擊球手",
+      "zhiqiuduijiandingjiqiushou",
+      "zqdjdjqs",
+      0,
+      0,
+      "IB87"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4061_mulinb": [
+    [
+      "直球队守门员",
+      "直球隊守門員",
+      "zhiqiuduishoumenyuan",
+      "zqdsmy",
+      0,
+      0,
+      "IB88"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4061_mulinb_2": [
+    [
+      "直球队坚定守门员",
+      "直球隊堅定守門員",
+      "zhiqiuduijiandingshoumenyuan",
+      "zqdjdsmy",
+      0,
+      0,
+      "IB89"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4062_muling": [
+    [
+      "直球队击人手",
+      "直球隊擊人手",
+      "zhiqiuduijirenshou",
+      "zqdjrs",
+      0,
+      0,
+      "IB90"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4062_muling_2": [
+    [
+      "直球队坚定击人手",
+      "直球隊堅定擊人手",
+      "zhiqiuduijiandingjirenshou",
+      "zqdjdjrs",
+      0,
+      0,
+      "IB91"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4063_muflyb": [
+    [
+      "充能飘浮球",
+      "充能飄浮球",
+      "chongnengpiaofuqiu",
+      "cnpfq",
+      0,
+      0,
+      "IB92"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4064_mupenb": [
+    [
+      "决胜时刻球",
+      "決勝時刻球",
+      "jueshengshikeqiu",
+      "jsskq",
+      0,
+      0,
+      "IB93"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_5008_cstrwd": [
     [
       "艺术的慈悲!",
@@ -37700,7 +37837,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_marthe#14"
     ],
     [
       "token"
