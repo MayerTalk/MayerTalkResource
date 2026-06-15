@@ -6758,7 +6758,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_yun#10"
     ],
     [
       "operator"
@@ -34076,6 +34077,210 @@
       0,
       0,
       "IB73"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4054_musupm": [
+    [
+      "魔球帮击球手",
+      "魔球幫擊球手",
+      "moqiubangjiqiushou",
+      "mqbjqs",
+      0,
+      0,
+      "IB74"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4054_musupm_2": [
+    [
+      "魔球帮诡秘击球手",
+      "魔球幫詭祕擊球手",
+      "moqiubangguimijiqiushou",
+      "mqbgmjqs",
+      0,
+      0,
+      "IB75"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4055_musupb": [
+    [
+      "魔球帮守门员",
+      "魔球幫守門員",
+      "moqiubangshoumenyuan",
+      "mqbsmy",
+      0,
+      0,
+      "IB76"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4055_musupb_2": [
+    [
+      "魔球帮诡秘守门员",
+      "魔球幫詭祕守門員",
+      "moqiubangguimishoumenyuan",
+      "mqbgmsmy",
+      0,
+      0,
+      "IB77"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4056_musupg": [
+    [
+      "魔球帮击人手",
+      "魔球幫擊人手",
+      "moqiubangjirenshou",
+      "mqbjrs",
+      0,
+      0,
+      "IB78"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4056_musupg_2": [
+    [
+      "魔球帮诡秘击人手",
+      "魔球幫詭祕擊人手",
+      "moqiubangguimijirenshou",
+      "mqbgmjrs",
+      0,
+      0,
+      "IB79"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4057_mugoam": [
+    [
+      "门神会击球手",
+      "門神會擊球手",
+      "menshenhuijiqiushou",
+      "mshjqs",
+      0,
+      0,
+      "IB80"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4057_mugoam_2": [
+    [
+      "门神会忠诚击球手",
+      "門神會忠誠擊球手",
+      "menshenhuizhongchengjiqiushou",
+      "mshzcjqs",
+      0,
+      0,
+      "IB81"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4058_mugoab": [
+    [
+      "门神会守门员",
+      "門神會守門員",
+      "menshenhuishoumenyuan",
+      "mshsmy",
+      0,
+      0,
+      "IB82"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4058_mugoab_2": [
+    [
+      "门神会全能守门员",
+      "門神會全能守門員",
+      "menshenhuiquannengshoumenyuan",
+      "mshqnsmy",
+      0,
+      0,
+      "IB83"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4059_mugoag": [
+    [
+      "门神会击人手",
+      "門神會擊人手",
+      "menshenhuijirenshou",
+      "mshjrs",
+      0,
+      0,
+      "IB84"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_4059_mugoag_2": [
+    [
+      "门神会忠诚击人手",
+      "門神會忠誠擊人手",
+      "menshenhuizhongchengjirenshou",
+      "mshzcjrs",
+      0,
+      0,
+      "IB85"
     ],
     [
       ""
