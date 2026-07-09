@@ -750,7 +750,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_ambienceSynesthesia#8"
     ],
     [
       "operator"
@@ -2558,6 +2559,7 @@
     [
       "",
       "_2",
+      "_summer#22",
       "_sweep#1"
     ],
     [
@@ -3644,6 +3646,7 @@
     [
       "",
       "_2",
+      "_summer#22",
       "_witch#2"
     ],
     [
@@ -5656,7 +5659,8 @@
     [
       "",
       "_2",
-      "_shining#2"
+      "_shining#2",
+      "_summer#22"
     ],
     [
       "operator"
@@ -7057,6 +7061,24 @@
       "operator"
     ]
   ],
+  "char_4229_aphris": [
+    [
+      "谬因",
+      "謬因",
+      "miuyin",
+      "my",
+      0,
+      0,
+      "CB35"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_422_aurora": [
     [
       "极光",
@@ -7071,6 +7093,24 @@
       "",
       "_2",
       "_boc#4"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4234_pedro": [
+    [
+      "佩德洛",
+      "佩德洛",
+      "peideluo",
+      "pdl",
+      0,
+      0,
+      "BV02"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -7900,7 +7940,8 @@
     [
       "",
       "_2",
-      "_kitchen#2"
+      "_kitchen#2",
+      "_summer#22"
     ],
     [
       "operator"
@@ -37920,7 +37961,8 @@
     ],
     [
       "",
-      "_shining#2"
+      "_shining#2",
+      "_summer#22"
     ],
     [
       "token"
@@ -38389,6 +38431,23 @@
       "戰術錨點",
       "zhanshumaodian",
       "zsmd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10070_aphris_pc": [
+    [
+      "中继器",
+      "中繼器",
+      "zhongjiqi",
+      "zjq",
       0,
       0,
       0
