@@ -30230,6 +30230,23 @@
       "enemy"
     ]
   ],
+  "enemy_1591_mutwin_2": [
+    [
+      "AMa-10异构体",
+      "AMa-10異構體",
+      "AMa-10yigouti",
+      "AMa-10ygt",
+      0,
+      0,
+      "ALC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1593_musnake": [
     [
       "“终始”",
@@ -40729,6 +40746,23 @@
       "trap"
     ]
   ],
+  "trap_1054_acarm054": [
+    [
+      "蜂鸣器",
+      "蜂鳴器",
+      "fengmingqi",
+      "fmq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1055_acarm055": [
     [
       "伪装服",
@@ -41052,6 +41086,23 @@
       "trap"
     ]
   ],
+  "trap_1078_acarm078": [
+    [
+      "海沟实验体",
+      "海溝實驗體",
+      "haigoushiyanti",
+      "hgsyt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_1079_acarm079": [
     [
       "蒸汽之心",
@@ -41179,6 +41230,23 @@
       "fs：by",
       "Arts: Role Model",
       "アーツ：昇進",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1087_acspell008": [
+    [
+      "法术：屏障",
+      "法術：屏障",
+      "fashu：pingzhang",
+      "fs：pz",
+      "Arts: Barrier",
+      "アーツ：護身",
       0
     ],
     [
@@ -41630,6 +41698,23 @@
       "trap"
     ]
   ],
+  "trap_1117_acarm117": [
+    [
+      "天马之枪",
+      "天馬之槍",
+      "tianmazhiqiang",
+      "tmzq",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_111_wdfarm": [
     [
       "街头应急储备",
@@ -41638,6 +41723,23 @@
       "jtyjcb",
       "Roadside Emergency Reserves",
       "街の緊急用備蓄",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1120_acarm120": [
+    [
+      "骑士戒律",
+      "騎士戒律",
+      "qishijielv",
+      "qsjl",
+      0,
+      0,
       0
     ],
     [
@@ -41687,6 +41789,23 @@
       "隨身身份牌",
       "suishenshenfenpai",
       "sssfp",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1125_acarm125": [
+    [
+      "源石溶剂",
+      "源石溶劑",
+      "yuanshirongji",
+      "ysrj",
       0,
       0,
       0
@@ -43738,6 +43857,23 @@
       "trap"
     ]
   ],
+  "trap_212_cjbtow": [
+    [
+      "废弃火灶",
+      "廢棄火竈",
+      "feiqihuozao",
+      "fqhz",
+      "Derelict Stove",
+      "破棄された竈台",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_213_dqore": [
     [
       "源石祭坛",
@@ -44350,6 +44486,23 @@
       "trap"
     ]
   ],
+  "trap_264_xdplat": [
+    [
+      "伊斯贝塔高台",
+      "伊斯貝塔高臺",
+      "yisibeitagaotai",
+      "ysbtgt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_265_xdice1": [
     [
       "圣女像",
@@ -44730,6 +44883,23 @@
       "山字",
       "shanzi",
       "sz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_293_suishan": [
+    [
+      "岁用山",
+      "歲用山",
+      "suiyongshan",
+      "sys",
       0,
       0,
       0
@@ -46764,6 +46934,23 @@
       "trap"
     ]
   ],
+  "trap_516_xb2wod": [
+    [
+      "杂木林",
+      "雜木林",
+      "zamulin",
+      "zml",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_522_xb2dor": [
     [
       "待清理材料",
@@ -48266,6 +48453,23 @@
       "工具供給站",
       "gongjugongjizhan",
       "gjgjz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_621_xb2flr": [
+    [
+      "荧光棒",
+      "熒光棒",
+      "yingguangbang",
+      "ygb",
       0,
       0,
       0
