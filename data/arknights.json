@@ -6674,7 +6674,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#56"
     ],
     [
       "operator"
@@ -7093,6 +7094,24 @@
       "",
       "_2",
       "_boc#4"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4230_mcnist": [
+    [
+      "机械师",
+      "機械師",
+      "jixieshi",
+      "jxs",
+      0,
+      0,
+      "RE21"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -32600,6 +32619,363 @@
       "enemy"
     ]
   ],
+  "enemy_2133_shdopl": [
+    [
+      "空值体",
+      "空值體",
+      "kongzhiti",
+      "kzt",
+      0,
+      0,
+      "BF0"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2134_shrshep": [
+    [
+      "颂水贤者",
+      "頌水賢者",
+      "songshuixianzhe",
+      "ssxz",
+      0,
+      0,
+      "BF1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2135_shkrbt": [
+    [
+      "聆风猎手",
+      "聆風獵手",
+      "lingfenglieshou",
+      "lfls",
+      0,
+      0,
+      "BF2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2136_shcolo": [
+    [
+      "撼地遗众",
+      "撼地遺衆",
+      "handiyizhong",
+      "hdyz",
+      0,
+      0,
+      "BF3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2137_shsdgo": [
+    [
+      "猎犬proto",
+      "獵犬proto",
+      "liequanproto",
+      "lqproto",
+      0,
+      0,
+      "BF4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2138_shdbjg": [
+    [
+      "汉科",
+      "漢科",
+      "hanke",
+      "hk",
+      0,
+      0,
+      "JC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2139_shdbj2": [
+    [
+      "“大总统”汉科",
+      "“大總統”漢科",
+      "“dazongtong”hanke",
+      "“dzt”hk",
+      0,
+      0,
+      "CDL"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2140_shsgzd": [
+    [
+      "德莱昂",
+      "德萊昂",
+      "delaiang",
+      "dla",
+      0,
+      0,
+      "DLN"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2141_shsgz2": [
+    [
+      "“征服者”德莱昂",
+      "“征服者”德萊昂",
+      "“zhengfuzhe”delaiang",
+      "“zfz”dla",
+      0,
+      0,
+      "RCS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2142_shsggd": [
+    [
+      "赤金条",
+      "赤金條",
+      "chijintiao",
+      "cjt",
+      0,
+      0,
+      "GB"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2143_shwksc": [
+    [
+      "埃尔伯特",
+      "埃爾伯特",
+      "aierbote",
+      "aebt",
+      0,
+      0,
+      "ABT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2144_shwks2": [
+    [
+      "“异端”埃尔伯特",
+      "“異端”埃爾伯特",
+      "“yiduan”aierbote",
+      "“yd”aebt",
+      0,
+      0,
+      "HRS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2145_cadejo": [
+    [
+      "卡德霍，黑流之源",
+      "卡德霍，黑流之源",
+      "kadehuo，heiliuzhiyuan",
+      "kdh，hlzy",
+      0,
+      0,
+      "CDJ"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2146_cadesd": [
+    [
+      "痛楚化身",
+      "痛楚化身",
+      "tongchuhuashen",
+      "tchs",
+      0,
+      0,
+      "AVP"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2147_shophm": [
+    [
+      "洛伦茨，扰动之谬",
+      "洛倫茨，擾動之謬",
+      "luolunci，raodongzhimiu",
+      "llc，rdzm",
+      0,
+      0,
+      "TL"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2148_shorbb": [
+    [
+      "源阶方",
+      "源階方",
+      "yuanjiefang",
+      "yjf",
+      0,
+      0,
+      "OFT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2149_shorsm": [
+    [
+      "源阶粒素",
+      "源階粒素",
+      "yuanjielisu",
+      "yjls",
+      0,
+      0,
+      "OPT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2150_shchmr": [
+    [
+      "玻利瓦尔，症结之核",
+      "玻利瓦爾，癥結之核",
+      "boliwaer，zhengjiezhihe",
+      "blwe，zjzh",
+      0,
+      0,
+      "CBV"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2151_shwolf": [
+    [
+      "未名的荒原",
+      "未名的荒原",
+      "weimingdehuangyuan",
+      "wmdhy",
+      0,
+      0,
+      "UNP"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2152_shezlc": [
+    [
+      "恶笼草",
+      "惡籠草",
+      "elongcao",
+      "elc",
+      0,
+      0,
+      "SWP"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2153_shcan": [
+    [
+      "坎诺特",
+      "坎諾特",
+      "kannuote",
+      "knt",
+      0,
+      0,
+      "KNT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_3001_upeopl": [
     [
       "乌萨斯平民",
@@ -38431,6 +38807,23 @@
       "戰術錨點",
       "zhanshumaodian",
       "zsmd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10069_mcnist_mcgraf": [
+    [
+      "结构性原理",
+      "結構性原理",
+      "jiegouxingyuanli",
+      "jgxyl",
       0,
       0,
       0
