@@ -182,6 +182,24 @@
       "operator"
     ]
   ],
+  "char_1015_aglna2": [
+    [
+      "予愿安洁莉娜",
+      "予願安潔莉娜",
+      "yuyuananjielina",
+      "yyajln",
+      0,
+      0,
+      "R102"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_1016_agoat2": [
     [
       "纯烬艾雅法拉",
@@ -195,7 +213,8 @@
     [
       "",
       "_2",
-      "_epoque#34"
+      "_epoque#34",
+      "_epoque#57"
     ],
     [
       "operator"
@@ -714,7 +733,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_whirlwind#11"
     ],
     [
       "operator"
@@ -6581,7 +6601,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#57"
     ],
     [
       "operator"
@@ -7126,6 +7147,60 @@
       0,
       0,
       "BV02"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4235_thumpy": [
+    [
+      "珊比",
+      "珊比",
+      "shanbi",
+      "sb",
+      0,
+      0,
+      "RB19"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4236_tmslot": [
+    [
+      "时隙",
+      "時隙",
+      "shixi",
+      "sx",
+      0,
+      0,
+      "RB21"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4237_jcinta": [
+    [
+      "嘉辛塔",
+      "嘉辛塔",
+      "jiaxinta",
+      "jxt",
+      0,
+      0,
+      "RB20"
     ],
     [
       "",
@@ -7688,6 +7763,7 @@
     [
       "",
       "_2",
+      "_epoque#57",
       "_game#2"
     ],
     [
@@ -15313,6 +15389,295 @@
       "enemy"
     ]
   ],
+  "enemy_10221_agporc": [
+    [
+      "戴面具的孩童",
+      "戴面具的孩童",
+      "daimianjudehaitong",
+      "dmjdht",
+      0,
+      0,
+      "TO01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10221_agporc_2": [
+    [
+      "入戏太深的孩童",
+      "入戲太深的孩童",
+      "ruxitaishendehaitong",
+      "rxtsdht",
+      0,
+      0,
+      "TO02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10222_agtski": [
+    [
+      "凑热闹的矿工",
+      "湊熱鬧的礦工",
+      "courenaodekuanggong",
+      "crndkg",
+      0,
+      0,
+      "TO03"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10222_agtski_2": [
+    [
+      "勇争第一的矿工\n",
+      "勇爭第一的礦工\n",
+      "yongzhengdiyidekuanggong\n",
+      "yzdydkg\n",
+      0,
+      0,
+      "TO04"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10223_agtrac": [
+    [
+      "手推小矿车",
+      "手推小礦車",
+      "shoutuixiaokuangche",
+      "stxkc",
+      0,
+      0,
+      "TO05"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10223_agtrac_2": [
+    [
+      "传奇矿车",
+      "傳奇礦車",
+      "chuanqikuangche",
+      "cqkc",
+      0,
+      0,
+      "TO06"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10224_agmess": [
+    [
+      "“小帽子”",
+      "“小帽子”",
+      "“xiaomaozi”",
+      "“xmz”",
+      0,
+      0,
+      "TO07"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10224_agmess_2": [
+    [
+      "“大披风”",
+      "“大披風”",
+      "“dapifeng”",
+      "“dpf”",
+      0,
+      0,
+      "TO08"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10225_agpbus": [
+    [
+      "欢乐校车",
+      "歡樂校車",
+      "huanlexiaoche",
+      "hlxc",
+      0,
+      0,
+      "TO09"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10225_agpbus_2": [
+    [
+      "庆典校车",
+      "慶典校車",
+      "qingdianxiaoche",
+      "qdxc",
+      0,
+      0,
+      "TO10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10226_agprnk": [
+    [
+      "好外号热衷者",
+      "好外號熱衷者",
+      "haowaihaorezhongzhe",
+      "hwhrzz",
+      0,
+      0,
+      "TO11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10226_agprnk_2": [
+    [
+      "惊艳事热衷者\n",
+      "驚豔事熱衷者\n",
+      "jingyanshirezhongzhe\n",
+      "jysrzz\n",
+      0,
+      0,
+      "TO12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10227_agbomb": [
+    [
+      "“惊喜信件”\n",
+      "“驚喜信件”\n",
+      "“jingxixinjian”\n",
+      "“jxxj”\n",
+      0,
+      0,
+      "TO13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10228_agball": [
+    [
+      "“美食的诱惑”",
+      "“美食的誘惑”",
+      "“meishideyouhuo”",
+      "“msdyh”",
+      0,
+      0,
+      "TO14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10228_agball_2": [
+    [
+      "“美食的奴隶”",
+      "“美食的奴隸”",
+      "“meishidenuli”",
+      "“msdnl”",
+      0,
+      0,
+      "TO15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10229_agactr": [
+    [
+      "优雅刀技厨师",
+      "優雅刀技廚師",
+      "youyadaojichushi",
+      "yydjcs",
+      0,
+      0,
+      "TO16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10229_agactr_2": [
+    [
+      "炫目刀技厨师\n",
+      "炫目刀技廚師\n",
+      "xuanmudaojichushi\n",
+      "xmdjcs\n",
+      0,
+      0,
+      "TO17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1022_dmage": [
     [
       "萨卡兹术师",
@@ -15339,6 +15704,74 @@
       "Sarkaz Caster Leader",
       "サルカズ術師隊長",
       "S6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10230_agkiro": [
+    [
+      "好心肠老板",
+      "好心腸老闆",
+      "haoxinchanglaoban",
+      "hxclb",
+      0,
+      0,
+      "TO18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10230_agkiro_2": [
+    [
+      "热心肠老板\n",
+      "熱心腸老闆\n",
+      "rexinchanglaoban\n",
+      "rxclb\n",
+      0,
+      0,
+      "TO19"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10231_agpack": [
+    [
+      "浮空信件",
+      "浮空信件",
+      "fukongxinjian",
+      "fkxj",
+      0,
+      0,
+      "TO20"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10232_aglina": [
+    [
+      "信使安洁莉娜",
+      "信使安潔莉娜",
+      "xinshianjielina",
+      "xsajln",
+      0,
+      0,
+      "AG"
     ],
     [
       ""
@@ -30316,6 +30749,40 @@
       0,
       0,
       "E0B"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1595_agbmes": [
+    [
+      "“酣睡飞行员”",
+      "“酣睡飛行員”",
+      "“hanshuifeixingyuan”",
+      "“hsfxy”",
+      0,
+      0,
+      "MM01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1596_agbmal": [
+    [
+      "“超惊喜信件”",
+      "“超驚喜信件”",
+      "“chaojingxixinjian”",
+      "“cjxxj”",
+      0,
+      0,
+      "MM02"
     ],
     [
       ""
