@@ -4974,7 +4974,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_summer#23"
     ],
     [
       "operator"
@@ -36061,6 +36062,23 @@
       "enemy"
     ]
   ],
+  "enemy_6034_vampir": [
+    [
+      "“枯槁者”维奇科",
+      "“枯槁者”維奇科",
+      "“kugaozhe”weiqike",
+      "“kgz”wqk",
+      0,
+      0,
+      "DL34"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_7001_blwzad": [
     [
       "部族巫术师",
@@ -44028,6 +44046,142 @@
       "trap"
     ]
   ],
+  "trap_1601_akshept": [
+    [
+      "星术绒绒",
+      "星術絨絨",
+      "xingshurongrong",
+      "xsrr",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1602_akspspt": [
+    [
+      "奥术绒绒",
+      "奧術絨絨",
+      "aoshurongrong",
+      "asrr",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1603_akbudyt": [
+    [
+      "大个子绒绒",
+      "大個子絨絨",
+      "dagezirongrong",
+      "dgzrr",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1605_akplspt": [
+    [
+      "活泼绒绒",
+      "活潑絨絨",
+      "huoporongrong",
+      "hprr",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1606_aksnilt": [
+    [
+      "固海凿石者",
+      "固海鑿石者",
+      "guhaizaoshizhe",
+      "ghzsz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1607_akplbtt": [
+    [
+      "阿咬",
+      "阿咬",
+      "ayao",
+      "ay",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1608_akplbrt": [
+    [
+      "高普尼克",
+      "高普尼克",
+      "gaopunike",
+      "gpnk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1609_akcrabt": [
+    [
+      "石背岩壳蟹",
+      "石背巖殼蟹",
+      "shibeiyankexie",
+      "sbykx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_160_lrlgun": [
     [
       "洪流束激发器",
@@ -44045,6 +44199,159 @@
       "trap"
     ]
   ],
+  "trap_1610_akplsnt": [
+    [
+      "直立小雪怪",
+      "直立小雪怪",
+      "zhilixiaoxueguai",
+      "zlxxg",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1611_akdogt": [
+    [
+      "花冠园丁",
+      "花冠園丁",
+      "huaguanyuanding",
+      "hgyd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1612_akdgspt": [
+    [
+      "黑毛花冠园丁",
+      "黑毛花冠園丁",
+      "heimaohuaguanyuanding",
+      "hmhgyd",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1613_akslmt": [
+    [
+      "果冻清道夫",
+      "果凍清道夫",
+      "guodongqingdaofu",
+      "gdqdf",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1615_akftrt": [
+    [
+      "大嘴捕食草",
+      "大嘴捕食草",
+      "dazuibushicao",
+      "dzbsc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1616_akmaget": [
+    [
+      "爬行鬼伞",
+      "爬行鬼傘",
+      "paxingguisan",
+      "pxgs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1617_akrangt": [
+    [
+      "红宝石投石虫",
+      "紅寶石投石蟲",
+      "hongbaoshitoushichong",
+      "hbstsc",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1618_akshdt": [
+    [
+      "困困荪茸",
+      "困困蓀茸",
+      "kunkunsunrong",
+      "kksr",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1619_akbowt": [
+    [
+      "石榴弩手",
+      "石榴弩手",
+      "shiliunushou",
+      "slns",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
   "trap_161_lrcage": [
     [
       "枯朽祭坛",
@@ -44053,6 +44360,346 @@
       "kxjt",
       "Withered Altar",
       "枯朽の祭壇",
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1620_akdeft": [
+    [
+      "椰壳蟹",
+      "椰殼蟹",
+      "yekexie",
+      "ykx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1624_akfiret": [
+    [
+      "灼热跳跳蜥",
+      "灼熱跳跳蜥",
+      "zhuoretiaotiaoxi",
+      "zrttx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1626_aktelet": [
+    [
+      "蓝冠羽镖客",
+      "藍冠羽鏢客",
+      "languanyubiaoke",
+      "lgybk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1627_aktespt": [
+    [
+      "橙冠羽镖客",
+      "橙冠羽鏢客",
+      "chengguanyubiaoke",
+      "cgybk",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1631_akraget": [
+    [
+      "密林锋脊裂兽",
+      "密林鋒脊裂獸",
+      "milinfengjilieshou",
+      "mlfjls",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1632_akrgspt": [
+    [
+      "枯焦锋脊裂兽",
+      "枯焦鋒脊裂獸",
+      "kujiaofengjilieshou",
+      "kjfjls",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1633_akrbt": [
+    [
+      "深林伪形兽",
+      "深林僞形獸",
+      "shenlinweixingshou",
+      "slwxs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1634_akrbsp": [
+    [
+      "赤黑伪形兽",
+      "赤黑僞形獸",
+      "chiheiweixingshou",
+      "chwxs",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1635_akblcr": [
+    [
+      "浪花小壳蟹",
+      "浪花小殼蟹",
+      "langhuaxiaokexie",
+      "lhxkx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1636_akrdcr": [
+    [
+      "熔火小壳蟹",
+      "熔火小殼蟹",
+      "ronghuoxiaokexie",
+      "rhxkx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1637_akickb": [
+    [
+      "寒山大角驮兽",
+      "寒山大角馱獸",
+      "hanshandajiaotuoshou",
+      "hsdjts",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1638_akdrgn": [
+    [
+      "锐爪巨翼兽",
+      "銳爪巨翼獸",
+      "ruizhaojuyishou",
+      "rzjys",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1639_akkabi": [
+    [
+      "温和驮兽",
+      "溫和馱獸",
+      "wenhetuoshou",
+      "whts",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1645_akmndx": [
+    [
+      "未定义石兽",
+      "未定義石獸",
+      "weidingyishishou",
+      "wdyss",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1646_akqhc": [
+    [
+      "青花",
+      "青花",
+      "qinghua",
+      "qh",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1647_akqhsp": [
+    [
+      "赤霞",
+      "赤霞",
+      "chixia",
+      "cx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1648_akpeat": [
+    [
+      "不知足吞噬者",
+      "不知足吞噬者",
+      "buzhizutunshizhe",
+      "bzztsz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1649_akflwr": [
+    [
+      "钵海收割者",
+      "鉢海收割者",
+      "bohaishougezhe",
+      "bhsgz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1650_aktstn": [
+    [
+      "孤独的巨像",
+      "孤獨的巨像",
+      "gududejuxiang",
+      "gddjx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_1651_akmdbf": [
+    [
+      "“酩酊”",
+      "“酩酊”",
+      "“mingding”",
+      "“md”",
+      0,
+      0,
       0
     ],
     [
@@ -51123,6 +51770,57 @@
       "宿怒",
       "sunu",
       "sn",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_792_healbf": [
+    [
+      "“主动脉”支援系统",
+      "“主動脈”支援系統",
+      "“zhudongmai”zhiyuanxitong",
+      "“zdm”zyxt",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_793_healbfa": [
+    [
+      "抑制解除模组",
+      "抑制解除模組",
+      "yizhijiechumozu",
+      "yzjcmz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_794_healbfb": [
+    [
+      "血浆活化模组",
+      "血漿活化模組",
+      "xuejianghuohuamozu",
+      "xjhhmz",
       0,
       0,
       0
