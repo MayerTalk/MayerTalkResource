@@ -1,3 +1,3 @@
-from resource.arknights import ArknightsResource
+from resources.arknights import ArknightsResource
 
 ArknightsResource.start()

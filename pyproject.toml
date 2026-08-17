@@ -1,0 +1,15 @@
+[project]
+name = "mayer-talk-resource"
+version = "0.1.0"
+description = "Resources updater for MayerTalk"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.9",
+    "fastapi>=0.115",
+    "opencc>=1.1.9",
+    "pillow>=10.0",
+    "pypinyin>=0.51",
+    "pyyaml>=6.0",
+    "uvicorn>=0.30",
+]
