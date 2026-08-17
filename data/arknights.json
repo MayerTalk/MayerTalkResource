@@ -12092,40 +12092,6 @@
       "enemy"
     ]
   ],
-  "enemy_10102_crblt": [
-    [
-      "报废的胶卷",
-      "報廢的膠捲",
-      "baofeidejiaojuan",
-      "bfdjj",
-      "Scrapped Film",
-      "お蔵入りのビデオテープ",
-      "WW17"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_10102_crblt_2": [
-    [
-      "彻底报废的胶卷",
-      "徹底報廢的膠捲",
-      "chedibaofeidejiaojuan",
-      "cdbfdjj",
-      "Completely Scrapped Film",
-      "廃棄処分のビデオテープ",
-      "WW18"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_10103_mjcppp": [
     [
       "浅睡的臼齿",
@@ -23771,23 +23737,6 @@
       "enemy"
     ]
   ],
-  "enemy_1265_durcar": [
-    [
-      "自走车",
-      "自走車",
-      "zizouche",
-      "zzc",
-      "Self-Driving Cart",
-      "セルカー",
-      "DUR0"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1266_nhapos": [
     [
       "食腐使徒",
@@ -25267,23 +25216,6 @@
       "enemy"
     ]
   ],
-  "enemy_1312_ymillu": [
-    [
-      "“无念之冬”",
-      "“無念之冬”",
-      "“wunianzhidong”",
-      "“wnzd”",
-      "'Winter's Void'",
-      "「無我の冬」",
-      "SH17"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1313_wdfmr": [
     [
       "诺伯特平民",
@@ -25939,23 +25871,6 @@
       "'Traffic Officer Captain'",
       "「交通巡査長」",
       "LT18"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1334_ristar": [
-    [
-      "行星碎屑",
-      "行星碎屑",
-      "xingxingsuixie",
-      "xxsx",
-      "Planetary Debris",
-      "「惑星の破片」",
-      "KW0"
     ],
     [
       ""
@@ -29840,40 +29755,6 @@
       "enemy"
     ]
   ],
-  "enemy_1538_ymmons_2": [
-    [
-      "蜃景",
-      "蜃景",
-      "shenjing",
-      "sj",
-      "Mirage",
-      "蜃気楼",
-      "YA02"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1538_ymmons_3": [
-    [
-      "妄境",
-      "妄境",
-      "wangjing",
-      "wj",
-      "Delusion",
-      "妄境",
-      "YA03"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1539_reid": [
     [
       "“复仇者”",
@@ -30503,40 +30384,6 @@
       "enemy"
     ]
   ],
-  "enemy_1577_iceball": [
-    [
-      "“寒意”",
-      "“寒意”",
-      "“hanyi”",
-      "“hy”",
-      0,
-      0,
-      "FR"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1578_icecage": [
-    [
-      "圣女雪衣",
-      "聖女雪衣",
-      "shengnvxueyi",
-      "snxy",
-      0,
-      0,
-      "KL"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_1579_nstmom": [
     [
       "女妖河谷的拂哀菈",
@@ -30708,23 +30555,6 @@
     ]
   ],
   "enemy_1591_mutwin": [
-    [
-      "AMa-10异构体",
-      "AMa-10異構體",
-      "AMa-10yigouti",
-      "AMa-10ygt",
-      0,
-      0,
-      "ALC"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_1591_mutwin_2": [
     [
       "AMa-10异构体",
       "AMa-10異構體",
@@ -30945,23 +30775,6 @@
       "enemy"
     ]
   ],
-  "enemy_2001_duckmi_2": [
-    [
-      "鸭爵",
-      "鴨爵",
-      "yajue",
-      "yj",
-      0,
-      0,
-      "DLD"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_2002_bearmi": [
     [
       "高普尼克",
@@ -30970,23 +30783,6 @@
       "gpnk",
       "Gopnik",
       "ゴプニク",
-      "GPN"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_2002_bearmi_2": [
-    [
-      "高普尼克",
-      "高普尼克",
-      "gaopunike",
-      "gpnk",
-      0,
-      0,
       "GPN"
     ],
     [
@@ -31540,23 +31336,6 @@
       "enemy"
     ]
   ],
-  "enemy_2034_sythef_2": [
-    [
-      "流泪小子",
-      "流淚小子",
-      "liuleixiaozi",
-      "llxz",
-      0,
-      0,
-      "THF"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_2035_sybox": [
     [
       "箱形恐鱼",
@@ -32016,23 +31795,6 @@
       "enemy"
     ]
   ],
-  "enemy_2062_smcar": [
-    [
-      "勘察用自走车",
-      "勘察用自走車",
-      "kanchayongzizouche",
-      "kcyzzc",
-      "Self-Driving Recon Cart",
-      "自走式探査車",
-      "SMC0"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
   "enemy_2063_skzlch": [
     [
       "萨卡兹迷宫劝导者",
@@ -32381,23 +32143,6 @@
       "yz",
       "Fatty",
       "マルッコ",
-      "FAT"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_2085_skzjxd_2": [
-    [
-      "圆仔",
-      "圓仔",
-      "yuanzai",
-      "yz",
-      0,
-      0,
       "FAT"
     ],
     [
@@ -32875,23 +32620,6 @@
       0,
       0,
       "SUI"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_2119_dyshhj_2": [
-    [
-      "“岁躯”",
-      "“歲軀”",
-      "“suiqu”",
-      "“sq”",
-      0,
-      0,
-      "SQ"
     ],
     [
       ""
@@ -33555,23 +33283,6 @@
       "Theresa, King of Sarkaz",
       "Theresa・「魔王」",
       "THA1"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_3009_mpprss": [
-    [
-      "EYESOFPRIESTESS",
-      "EYESOFPRIESTESS",
-      "EYESOFPRIESTESS",
-      "EYESOFPRIESTESS",
-      "EYESOFPRIESTESS",
-      "EYESOFPRIESTESS",
-      "RI3"
     ],
     [
       ""
@@ -35356,23 +35067,6 @@
       "ysdjs!",
       "The Clutchness of Art!",
       "芸術の必殺技！",
-      "-"
-    ],
-    [
-      ""
-    ],
-    [
-      "enemy"
-    ]
-  ],
-  "enemy_5010_catrdg": [
-    [
-      "弱弹",
-      "弱彈",
-      "ruodan",
-      "rd",
-      "Weaksauce",
-      "弱い弾",
       "-"
     ],
     [
@@ -38262,8 +37956,7 @@
       0
     ],
     [
-      "",
-      "_epoque#7"
+      ""
     ],
     [
       "token"
@@ -38336,9 +38029,6 @@
       0
     ],
     [
-      "",
-      "_2",
-      "_epoque#17",
       "_sale#16"
     ],
     [
@@ -38394,7 +38084,6 @@
     ],
     [
       "",
-      "_2",
       "_nian#12"
     ],
     [
@@ -38467,9 +38156,7 @@
       0
     ],
     [
-      "",
-      "_2",
-      "_epoque#17"
+      ""
     ],
     [
       "token"
@@ -38566,7 +38253,6 @@
     ],
     [
       "",
-      "_2",
       "_witch#3"
     ],
     [
@@ -38841,7 +38527,6 @@
     ],
     [
       "",
-      "_2",
       "_sale#14"
     ],
     [
@@ -38884,24 +38569,6 @@
       "token"
     ]
   ],
-  "token_10039_ulpia_block": [
-    [
-      "从不混淆的方向",
-      "從不混淆的方向",
-      "congbuhunxiaodefangxiang",
-      "cbhxdfx",
-      "Undeviating Course",
-      "混同せぬ方向",
-      0
-    ],
-    [
-      "_2",
-      "_epoque#48"
-    ],
-    [
-      "token"
-    ]
-  ],
   "token_10041_cathy_catsld": [
     [
       "爬行号·防护单元",
@@ -38930,8 +38597,7 @@
       0
     ],
     [
-      "",
-      "_2"
+      ""
     ],
     [
       "token"
@@ -39149,23 +38815,6 @@
       "token"
     ]
   ],
-  "token_10058_sbell2_icetgt": [
-    [
-      "保护目标（冻结状态）",
-      "保護目標（凍結狀態）",
-      "baohumubiao（dongjiezhuangtai）",
-      "bhmb（djzt）",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "token"
-    ]
-  ],
   "token_10059_nasti_nstdef": [
     [
       "“质检专员”",
@@ -39241,23 +38890,6 @@
       "棋子",
       "qizi",
       "qz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "token"
-    ]
-  ],
-  "token_10065_demetr_dmtpos": [
-    [
-      "牵绊",
-      "牽絆",
-      "qianban",
-      "qb",
       0,
       0,
       0
@@ -39354,57 +38986,6 @@
       "trap"
     ]
   ],
-  "trap_002_emp": [
-    [
-      "震撼装置",
-      "震撼裝置",
-      "zhenhanzhuangzhi",
-      "zhzz",
-      "Stun Generator",
-      "EMP発生装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_003_gate": [
-    [
-      "闸门",
-      "閘門",
-      "zhamen",
-      "zm",
-      "Gate",
-      "シャッター",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_005_sensor": [
-    [
-      "侦测器",
-      "偵測器",
-      "zhenceqi",
-      "zcq",
-      "Detector",
-      "探知機",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_006_antidr": [
     [
       "干扰装置",
@@ -39490,40 +39071,6 @@
       "trap"
     ]
   ],
-  "trap_013_blower": [
-    [
-      "源石流发生装置",
-      "源石流發生裝置",
-      "yuanshiliufashengzhuangzhi",
-      "yslfszz",
-      "Originium Flow Generator",
-      "源石気流発生装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_014_tower": [
-    [
-      "L-44\"留声机\"",
-      "L-44\"留聲機\"",
-      "L-44\"liushengji\"",
-      "L-44\"lsj\"",
-      "L-44 'Gramophone'",
-      "L-44「蓄音機」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_015_tree": [
     [
       "巨蕈",
@@ -39592,57 +39139,6 @@
       "trap"
     ]
   ],
-  "trap_020_roadblock": [
-    [
-      "道路障碍物",
-      "道路障礙物",
-      "daoluzhangaiwu",
-      "dlzaw",
-      "Static Roadblock",
-      "道路障害物",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_023_ore_friend": [
-    [
-      "爱国者的源石祭坛",
-      "愛國者的源石祭壇",
-      "aiguozhedeyuanshijitan",
-      "agzdysjt",
-      "Patriot's Originium Altar",
-      "パトリオットの源石祭壇",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_024_npcsld": [
-    [
-      "盾卫",
-      "盾衛",
-      "dunwei",
-      "dw",
-      "Shieldguard",
-      "盾兵",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_025_prison": [
     [
       "禁锢装置",
@@ -39694,40 +39190,6 @@
       "trap"
     ]
   ],
-  "trap_029_poison": [
-    [
-      "催泪瓦斯控制阀",
-      "催淚瓦斯控制閥",
-      "cuileiwasikongzhifa",
-      "clwskzf",
-      "Teargas Control Valve",
-      "催涙ガス制御弁",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_030_factory": [
-    [
-      "无人机工厂",
-      "無人機工廠",
-      "wurenjigongchang",
-      "wrjgc",
-      "Drone Factory",
-      "ドローン工場",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_031_sleep": [
     [
       "雪雉的安全起重机",
@@ -39736,23 +39198,6 @@
       "xzdaqqzj",
       "Snowsant's Safe Escape Crane",
       "スノーズントの安全クレーン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_032_mound": [
-    [
-      "土石结构",
-      "土石結構",
-      "tushijiegou",
-      "tsjg",
-      "Dirt Mound",
-      "土石構造",
       0
     ],
     [
@@ -39898,23 +39343,6 @@
       "trap"
     ]
   ],
-  "trap_042_tidectrl": [
-    [
-      "涨潮控制",
-      "漲潮控制",
-      "zhangchaokongzhi",
-      "zckz",
-      "Tide Controller",
-      "潮高制御装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_045_dublst": [
     [
       "爆破装置",
@@ -39983,40 +39411,6 @@
       "trap"
     ]
   ],
-  "trap_050_blizzard": [
-    [
-      "暴风雪",
-      "暴風雪",
-      "baofengxue",
-      "bfx",
-      "Blizzard",
-      "猛吹雪",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_051_vultres": [
-    [
-      "无主的财富",
-      "無主的財富",
-      "wuzhudecaifu",
-      "wzdcf",
-      "Unowned Treasure",
-      "主なき財宝",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_052_slowfd": [
     [
       "失修舞台雾机",
@@ -40051,40 +39445,6 @@
       "trap"
     ]
   ],
-  "trap_054_dancdol": [
-    [
-      "“报幕助手”",
-      "“報幕助手”",
-      "“baomuzhushou”",
-      "“bmzs”",
-      "'Host's Assistant'",
-      "「司会アシスタント」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_056_sfsuifire": [
-    [
-      "丹田",
-      "丹田",
-      "dantian",
-      "dt",
-      "Dantian",
-      "丹田",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_057_wpnsts": [
     [
       "“冰淇淋机”",
@@ -40093,40 +39453,6 @@
       "“bqlj”",
       "'Gelato Stop'",
       "「ジェラート供給所」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_058_gunctrl": [
-    [
-      "伦蒂尼姆城防副炮",
-      "倫蒂尼姆城防副炮",
-      "lundinimuchengfangfupao",
-      "ldnmcffp",
-      "Londinium Secondary Defense Artillery",
-      "ロンディニウム都市防衛副砲",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_059_peacokfool": [
-    [
-      "断罪者",
-      "斷罪者",
-      "duanzuizhe",
-      "dzz",
-      "Conviction",
-      "コンビクション",
       0
     ],
     [
@@ -40212,23 +39538,6 @@
       "tz",
       "Dice",
       "ダイス",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_068_badbox": [
-    [
-      "箱形恐鱼",
-      "箱形恐魚",
-      "xiangxingkongyu",
-      "xxky",
-      "Chest Seaborn",
-      "宝箱形恐魚",
       0
     ],
     [
@@ -40406,23 +39715,6 @@
     ],
     [
       "trap"
-    ]
-  ],
-  "trap_079_allydonq": [
-    [
-      "猎潮的骑士",
-      "獵潮的騎士",
-      "liechaodeqishi",
-      "lcdqs",
-      "Tide-Hunt Knight",
-      "猟潮の騎士",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "token"
     ]
   ],
   "trap_080_garage": [
@@ -40612,23 +39904,6 @@
       "trap"
     ]
   ],
-  "trap_092_vgctrl": [
-    [
-      "复仇黑手",
-      "復仇黑手",
-      "fuchouheishou",
-      "fchs",
-      "Vengeful Mafioso",
-      "報復の爪痕",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_093_tbattbc": [
     [
       "钳兽壳粉",
@@ -40680,57 +39955,6 @@
       "trap"
     ]
   ],
-  "trap_096_gflag": [
-    [
-      "山海密语仪",
-      "山海密語儀",
-      "shanhaimiyuyi",
-      "shmyy",
-      "Shanhaizhong Cipher Machine",
-      "山海密令柱",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_097_hstone": [
-    [
-      "城防路障",
-      "城防路障",
-      "chengfangluzhang",
-      "cflz",
-      "Roadblocks",
-      "都市防衛柵",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_098_mire": [
-    [
-      "沼泽控制",
-      "沼澤控制",
-      "zhaozekongzhi",
-      "zzkz",
-      "Mire Control",
-      "沼地制御",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_099_mhflsb": [
     [
       "眩光手雷",
@@ -40739,176 +39963,6 @@
       "xgsl",
       "Flash Grenade",
       "閃光爆弾",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1000_acarm000": [
-    [
-      "小盾",
-      "小盾",
-      "xiaodun",
-      "xd",
-      "Small Shield",
-      "小盾",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1001_acarm001": [
-    [
-      "短剑",
-      "短劍",
-      "duanjian",
-      "dj",
-      "Dirk",
-      "短剣",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1002_acarm002": [
-    [
-      "幸运币",
-      "幸運幣",
-      "xingyunbi",
-      "xyb",
-      "Lucky Coin",
-      "ラッキーコイン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1003_acarm003": [
-    [
-      "冰块",
-      "冰塊",
-      "bingkuai",
-      "bk",
-      "Chunk of Ice",
-      "氷",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1004_acarm004": [
-    [
-      "压缩饼干",
-      "壓縮餅乾",
-      "yasuobinggan",
-      "ysbg",
-      "Hardtack",
-      "レーション",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1005_acarm005": [
-    [
-      "信标",
-      "信標",
-      "xinbiao",
-      "xb",
-      "Transmitter",
-      "ビーコン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1006_acarm006": [
-    [
-      "源岩匕首",
-      "源巖匕首",
-      "yuanyanbishou",
-      "yybs",
-      "Orirock Dagger",
-      "源岩ナイフ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1007_acarm007": [
-    [
-      "源石溶剂",
-      "源石溶劑",
-      "yuanshirongji",
-      "ysrj",
-      "Originium Solvent",
-      "源石溶剤",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1008_acarm008": [
-    [
-      "激光发射器",
-      "激光發射器",
-      "jiguangfasheqi",
-      "jgfsq",
-      "Laser Sighter",
-      "レーザー発射機",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1009_acarm009": [
-    [
-      "喀兰贸易文档",
-      "喀蘭貿易文檔",
-      "kalanmaoyiwendang",
-      "klmywd",
-      "Karlan Trade File",
-      "カランド貿易ファイル",
       0
     ],
     [
@@ -40935,159 +39989,6 @@
       "trap"
     ]
   ],
-  "trap_1011_acarm011": [
-    [
-      "深海猎人文档",
-      "深海獵人文檔",
-      "shenhailierenwendang",
-      "shlrwd",
-      "Abyssal Hunter File",
-      "アビサルハンターファイル",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1012_acarm012": [
-    [
-      "浓茶",
-      "濃茶",
-      "nongcha",
-      "nc",
-      "Strong Tea",
-      "渋茶",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1013_acarm013": [
-    [
-      "蜂鸣器",
-      "蜂鳴器",
-      "fengmingqi",
-      "fmq",
-      "Buzzer",
-      "警報器",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1014_acarm014": [
-    [
-      "精打细算玩偶",
-      "精打細算玩偶",
-      "jingdaxisuanwanou",
-      "jdxswo",
-      "Budget-Savvy Doll",
-      "倹約家の人形",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1015_acarm015": [
-    [
-      "见钱眼开玩偶",
-      "見錢眼開玩偶",
-      "jianqianyankaiwanou",
-      "jqykwo",
-      "Money-Grubbing Doll",
-      "守銭奴の人形",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1016_acarm016": [
-    [
-      "预备进阶许可",
-      "預備進階許可",
-      "yubeijinjiexuke",
-      "ybjjxk",
-      "Promotion Permit",
-      "予備隊員昇進許可",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1017_acarm017": [
-    [
-      "战场分析仪",
-      "戰場分析儀",
-      "zhanchangfenxiyi",
-      "zcfxy",
-      "Battlefield Analyzer",
-      "戦場分析装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1018_acarm018": [
-    [
-      "震撼弹",
-      "震撼彈",
-      "zhenhandan",
-      "zhd",
-      "Stun Grenade",
-      "スタングレネード",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1019_acarm019": [
-    [
-      "制式重装盾",
-      "制式重裝盾",
-      "zhishizhongzhuangdun",
-      "zszzd",
-      "Standard Defender Shield",
-      "制式重装シールド",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_101_mhshok": [
     [
       "高压脉冲诡雷",
@@ -41096,176 +39997,6 @@
       "gymcgl",
       "High-Voltage Shock Trap",
       "高電圧シビレ罠",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1020_acarm020": [
-    [
-      "制式狙击镜",
-      "制式狙擊鏡",
-      "zhishijujijing",
-      "zsjjj",
-      "Standard Sniper Scope",
-      "制式狙撃ゴーグル",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1021_acarm021": [
-    [
-      "制式术师杖",
-      "制式術師杖",
-      "zhishishushizhang",
-      "zsssz",
-      "Standard Caster Wand",
-      "制式術師ロッド",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1022_acarm022": [
-    [
-      "口袋法阵",
-      "口袋法陣",
-      "koudaifazhen",
-      "kdfz",
-      "Pocket Arts Circle",
-      "携帯式アーツバリア",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1023_acarm023": [
-    [
-      "竞技投币机",
-      "競技投幣機",
-      "jingjitoubiji",
-      "jjtbj",
-      "Coin-Operated Machine",
-      "競技アーケードマシン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1024_acarm024": [
-    [
-      "工匠锤",
-      "工匠錘",
-      "gongjiangchui",
-      "gjc",
-      "Engineer's Hammer",
-      "職人のハンマー",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1025_acarm025": [
-    [
-      "休眠子裔",
-      "休眠子裔",
-      "xiumianziyi",
-      "xmzy",
-      "Dormant Heir",
-      "眠れる眷属",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1026_acarm026": [
-    [
-      "术师无人机",
-      "術師無人機",
-      "shushiwurenji",
-      "sswrj",
-      "Caster Drone",
-      "術師ドローン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1027_acarm027": [
-    [
-      "卡西米尔模型",
-      "卡西米爾模型",
-      "kaximiermoxing",
-      "kxmemx",
-      "Kazimierz Model",
-      "カジミエーシュのオブジェ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1028_acarm028": [
-    [
-      "喀兰贸易模型",
-      "喀蘭貿易模型",
-      "kalanmaoyimoxing",
-      "klmymx",
-      "Karlan Trade Model",
-      "カランド貿易のオブジェ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1029_acarm029": [
-    [
-      "深海猎人模型",
-      "深海獵人模型",
-      "shenhailierenmoxing",
-      "shlrmx",
-      "Abyssal Hunter Model",
-      "アビサルハンターのオブジェ",
       0
     ],
     [
@@ -41292,346 +40023,6 @@
       "trap"
     ]
   ],
-  "trap_1030_acarm030": [
-    [
-      "精英重装套组",
-      "精英重裝套組",
-      "jingyingzhongzhuangtaozu",
-      "jyzztz",
-      "Elite Defender Set",
-      "エリート重装セット",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1031_acarm031": [
-    [
-      "精英狙击套组",
-      "精英狙擊套組",
-      "jingyingjujitaozu",
-      "jyjjtz",
-      "Elite Sniper Set",
-      "エリート狙撃セット",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1032_acarm032": [
-    [
-      "精英术师套组",
-      "精英術師套組",
-      "jingyingshushitaozu",
-      "jysstz",
-      "Elite Caster Set",
-      "エリート術師セット",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1033_acarm033": [
-    [
-      "歌利亚头盔",
-      "歌利亞頭盔",
-      "geliyatoukui",
-      "glytk",
-      "Goliath Helmet",
-      "ゴリアテの兜",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1034_acarm034": [
-    [
-      "M3护甲",
-      "M3護甲",
-      "M3hujia",
-      "M3hj",
-      "M3 Armor",
-      "M3アーマー",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1035_acarm035": [
-    [
-      "M3利爪",
-      "M3利爪",
-      "M3lizhua",
-      "M3lz",
-      "M3 Claw",
-      "M3クロー",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1036_acarm036": [
-    [
-      "便携弹射器",
-      "便攜彈射器",
-      "bianxietansheqi",
-      "bxtsq",
-      "Portable Launcher",
-      "携帯式射出装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1037_acarm037": [
-    [
-      "有限加速器",
-      "有限加速器",
-      "youxianjiasuqi",
-      "yxjsq",
-      "Miniature Accelerator",
-      "有限加速マシン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1038_acarm038": [
-    [
-      "全能机械臂",
-      "全能機械臂",
-      "quannengjixiebi",
-      "qnjxb",
-      "Multi-Purpose Robotic Arm",
-      "万能ロボットアーム",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1039_acarm039": [
-    [
-      "博士投影",
-      "博士投影",
-      "boshitouying",
-      "bsty",
-      "Doctor Hologram",
-      "ドクターのホログラム",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_103_ymdgct": [
-    [
-      "地形增伤控制",
-      "地形增傷控制",
-      "dixingzengshangkongzhi",
-      "dxzskz",
-      "Mire Controller",
-      "地形ダメージ制御",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1040_acarm040": [
-    [
-      "炎国短刀",
-      "炎國短刀",
-      "yanguoduandao",
-      "ygdd",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1042_acarm042": [
-    [
-      "灼燃维式重锤",
-      "灼燃維式重錘",
-      "zhuoranweishizhongchui",
-      "zrwszc",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1043_acarm043": [
-    [
-      "坚固维式重锤",
-      "堅固維式重錘",
-      "jianguweishizhongchui",
-      "jgwszc",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1044_acarm044": [
-    [
-      "加速维式重锤",
-      "加速維式重錘",
-      "jiasuweishizhongchui",
-      "jswszc",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1045_acarm045": [
-    [
-      "战栗维式重锤",
-      "戰慄維式重錘",
-      "zhanliweishizhongchui",
-      "zlwszc",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1046_acarm046": [
-    [
-      "阿戈尔重刃",
-      "阿戈爾重刃",
-      "ageerzhongren",
-      "agezr",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1047_acarm047": [
-    [
-      "坚守盾牌",
-      "堅守盾牌",
-      "jianshoudunpai",
-      "jsdp",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1048_acarm048": [
-    [
-      "奥术法阵",
-      "奧術法陣",
-      "aoshufazhen",
-      "asfz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1049_acarm049": [
-    [
-      "歌利亚头盔",
-      "歌利亞頭盔",
-      "geliyatoukui",
-      "glytk",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_104_dplant": [
     [
       "改性植物激素",
@@ -41640,261 +40031,6 @@
       "gxzwjs",
       "Modified Phytohormone",
       "改良型植物ホルモン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1052_acarm052": [
-    [
-      "有限加速器",
-      "有限加速器",
-      "youxianjiasuqi",
-      "yxjsq",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1053_acarm053": [
-    [
-      "激光发射器",
-      "激光發射器",
-      "jiguangfasheqi",
-      "jgfsq",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1054_acarm054": [
-    [
-      "蜂鸣器",
-      "蜂鳴器",
-      "fengmingqi",
-      "fmq",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1055_acarm055": [
-    [
-      "伪装服",
-      "僞裝服",
-      "weizhuangfu",
-      "wzf",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1057_acarm057": [
-    [
-      "拉特兰桥夹",
-      "拉特蘭橋夾",
-      "latelanqiaojia",
-      "ltlqj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1058_acarm058": [
-    [
-      "催泪瓦斯",
-      "催淚瓦斯",
-      "cuileiwasi",
-      "clws",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_105_mhwrct": [
-    [
-      "滞空牵引无人机",
-      "滯空牽引無人機",
-      "zhikongqianyinwurenji",
-      "zkqywrj",
-      "Wiredrone",
-      "滞空牽引ドローン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1060_acarm060": [
-    [
-      "防暴盾",
-      "防暴盾",
-      "fangbaodun",
-      "fbd",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1061_acarm061": [
-    [
-      "护盾无人机",
-      "護盾無人機",
-      "hudunwurenji",
-      "hdwrj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1062_acarm062": [
-    [
-      "谢拉格不融冰",
-      "謝拉格不融冰",
-      "xielageburongbing",
-      "xlgbrb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1064_acarm064": [
-    [
-      "突袭手雷",
-      "突襲手雷",
-      "tuxishoulei",
-      "txsl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1065_acarm065": [
-    [
-      "休眠子裔",
-      "休眠子裔",
-      "xiumianziyi",
-      "xmzy",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1066_acarm066": [
-    [
-      "盟约之币",
-      "盟約之幣",
-      "mengyuezhibi",
-      "myzb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1067_acarm067": [
-    [
-      "双模机械臂",
-      "雙模機械臂",
-      "shuangmojixiebi",
-      "smjxb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1069_acarm069": [
-    [
-      "拟态物质",
-      "擬態物質",
-      "nitaiwuzhi",
-      "ntwz",
-      0,
-      0,
       0
     ],
     [
@@ -41921,295 +40057,6 @@
       "trap"
     ]
   ],
-  "trap_1070_acarm070": [
-    [
-      "人事部文档",
-      "人事部文檔",
-      "renshibuwendang",
-      "rsbwd",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1071_acarm071": [
-    [
-      "博士投影",
-      "博士投影",
-      "boshitouying",
-      "bsty",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1073_acarm073": [
-    [
-      "变形同构体",
-      "變形同構體",
-      "bianxingtonggouti",
-      "bxtgt",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1074_acarm074": [
-    [
-      "商业包装方案",
-      "商業包裝方案",
-      "shangyebaozhuangfangan",
-      "sybzfa",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1075_acarm075": [
-    [
-      "寻呼模块",
-      "尋呼模塊",
-      "xunhumokuai",
-      "xhmk",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1076_acarm076": [
-    [
-      "铳骑之威",
-      "銃騎之威",
-      "chongqizhiwei",
-      "cqzw",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1078_acarm078": [
-    [
-      "海沟实验体",
-      "海溝實驗體",
-      "haigoushiyanti",
-      "hgsyt",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1079_acarm079": [
-    [
-      "蒸汽之心",
-      "蒸汽之心",
-      "zhengqizhixin",
-      "zqzx",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_107_smpow": [
-    [
-      "空间稳定设施",
-      "空間穩定設施",
-      "kongjianwendingsheshi",
-      "kjwdss",
-      "Dimensional Anchoring Pylon",
-      "空間安定化設備",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1080_acspell001": [
-    [
-      "法术：恢复",
-      "法術：恢復",
-      "fashu：huifu",
-      "fs：hf",
-      "Arts: Recovery",
-      "アーツ：治療",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1082_acspell003": [
-    [
-      "法术：传动",
-      "法術：傳動",
-      "fashu：chuandong",
-      "fs：cd",
-      "Arts: Transmission",
-      "アーツ：伝動",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1083_acspell004": [
-    [
-      "法术：贪婪",
-      "法術：貪婪",
-      "fashu：tanlan",
-      "fs：tl",
-      "Arts: Greed",
-      "アーツ：貪欲",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1084_acspell005": [
-    [
-      "法术：满足",
-      "法術：滿足",
-      "fashu：manzu",
-      "fs：mz",
-      "Arts: Satisfaction",
-      "アーツ：充足",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1085_acspell006": [
-    [
-      "法术：护盾",
-      "法術：護盾",
-      "fashu：hudun",
-      "fs：hd",
-      "Arts: Shield",
-      "アーツ：防壁",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1086_acspell007": [
-    [
-      "法术：榜样",
-      "法術：榜樣",
-      "fashu：bangyang",
-      "fs：by",
-      "Arts: Role Model",
-      "アーツ：昇進",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1087_acspell008": [
-    [
-      "法术：屏障",
-      "法術：屏障",
-      "fashu：pingzhang",
-      "fs：pz",
-      "Arts: Barrier",
-      "アーツ：護身",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1088_acspell009": [
-    [
-      "法术：熟人",
-      "法術：熟人",
-      "fashu：shuren",
-      "fs：sr",
-      "Arts: Familiar Face",
-      "アーツ：伝心",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_108_smbox": [
     [
       "宝箱",
@@ -42218,159 +40065,6 @@
       "bx",
       "Treasure Chest",
       "宝箱",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1090_acspell011": [
-    [
-      "法术：提升",
-      "法術：提升",
-      "fashu：tisheng",
-      "fs：ts",
-      "Arts: Boost",
-      "アーツ：向上",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1091_acspell012": [
-    [
-      "法术：迟缓",
-      "法術：遲緩",
-      "fashu：chihuan",
-      "fs：ch",
-      "Arts: Slow",
-      "アーツ：緩速",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1093_acspell014": [
-    [
-      "法术：全力",
-      "法術：全力",
-      "fashu：quanli",
-      "fs：ql",
-      "Arts: All-Out",
-      "アーツ：全力",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1094_acspell015": [
-    [
-      "法术：血税",
-      "法術：血稅",
-      "fashu：xueshui",
-      "fs：xs",
-      "Arts: Blood Tax",
-      "アーツ：血税",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1095_acspell016": [
-    [
-      "法术：破袭",
-      "法術：破襲",
-      "fashu：poxi",
-      "fs：px",
-      "Arts: Infiltration",
-      "アーツ：奇兵",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1096_acshopup": [
-    [
-      "驳船操作员",
-      "駁船操作員",
-      "bochuancaozuoyuan",
-      "bcczy",
-      "Barge Captain",
-      "補給船操舵手",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1097_acshopre": [
-    [
-      "补给调配器",
-      "補給調配器",
-      "bujidiaopeiqi",
-      "bjdpq",
-      "Supply Distributor",
-      "物資調達器",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1098_acshopfr": [
-    [
-      "补给留存器",
-      "補給留存器",
-      "bujiliucunqi",
-      "bjlcq",
-      "Supply Retainer",
-      "物資保管器",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1099_acspell017": [
-    [
-      "晋升调配特许",
-      "晉升調配特許",
-      "jinshengdiaopeitexu",
-      "jsdptx",
-      "Advanced Deployment Permit",
-      "昇進配分許可証",
       0
     ],
     [
@@ -42397,125 +40091,6 @@
       "trap"
     ]
   ],
-  "trap_1100_acreddoor": [
-    [
-      "敌人入口",
-      "敵人入口",
-      "direnrukou",
-      "drrk",
-      "Enemy Entrance",
-      "敵の入口",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1101_acplane": [
-    [
-      "补给驳船",
-      "補給駁船",
-      "bujibochuan",
-      "bjbc",
-      "Supply Barge",
-      "補給船",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1103_acarm103": [
-    [
-      "黄沙罗盘",
-      "黃沙羅盤",
-      "huangshaluopan",
-      "hslp",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1104_aclasert": [
-    [
-      "“双眼皮”",
-      "“雙眼皮”",
-      "“shuangyanpi”",
-      "“syp”",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1105_accrate": [
-    [
-      "阻隔工事",
-      "阻隔工事",
-      "zugegongshi",
-      "zggs",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1107_acblock": [
-    [
-      "封印的地面",
-      "封印的地面",
-      "fengyindedimian",
-      "fyddm",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1109_acarm109": [
-    [
-      "信标",
-      "信標",
-      "xinbiao",
-      "xb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_110_smbbox": [
     [
       "巨壳藤蔓",
@@ -42533,261 +40108,6 @@
       "trap"
     ]
   ],
-  "trap_1110_accopy": [
-    [
-      "画卷",
-      "畫卷",
-      "huajuan",
-      "hj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1111_acchal": [
-    [
-      "教鞭",
-      "教鞭",
-      "jiaobian",
-      "jb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1112_acblzd": [
-    [
-      "盟约寒风",
-      "盟約寒風",
-      "mengyuehanfeng",
-      "myhf",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1113_acarm113": [
-    [
-      "精打细算玩偶",
-      "精打細算玩偶",
-      "jingdaxisuanwanou",
-      "jdxswo",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1114_acarm114": [
-    [
-      "简易通讯机",
-      "簡易通訊機",
-      "jianyitongxunji",
-      "jytxj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1116_acarm116": [
-    [
-      "见钱眼开玩偶",
-      "見錢眼開玩偶",
-      "jianqianyankaiwanou",
-      "jqykwo",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1117_acarm117": [
-    [
-      "天马之枪",
-      "天馬之槍",
-      "tianmazhiqiang",
-      "tmzq",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_111_wdfarm": [
-    [
-      "街头应急储备",
-      "街頭應急儲備",
-      "jietouyingjichubei",
-      "jtyjcb",
-      "Roadside Emergency Reserves",
-      "街の緊急用備蓄",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1120_acarm120": [
-    [
-      "骑士戒律",
-      "騎士戒律",
-      "qishijielv",
-      "qsjl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1121_acarm121": [
-    [
-      "叙拉古正装",
-      "敘拉古正裝",
-      "xulaguzhengzhuang",
-      "xlgzz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1122_acarm122": [
-    [
-      "家族徽章",
-      "家族徽章",
-      "jiazuhuizhang",
-      "jzhz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1124_acarm124": [
-    [
-      "随身身份牌",
-      "隨身身份牌",
-      "suishenshenfenpai",
-      "sssfp",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1125_acarm125": [
-    [
-      "源石溶剂",
-      "源石溶劑",
-      "yuanshirongji",
-      "ysrj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_112_crsbow": [
-    [
-      "解雇者清债程序",
-      "解僱者清債程序",
-      "jieguzheqingzhaichengxu",
-      "jgzqzcx",
-      "Post-Firing Debt Relief Program",
-      "解雇者清算プログラム",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_113_snflwr": [
-    [
-      "全自动划账器",
-      "全自動劃賬器",
-      "quanzidonghuazhangqi",
-      "qzdhzq",
-      "Full-Auto Debit Machine",
-      "全自動送金機",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_114_smkbmb": [
     [
       "爆裂毒气罐",
@@ -42796,23 +40116,6 @@
       "bldqg",
       "Rupturing Canister",
       "毒ガスタンク",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_115_gasctrl": [
-    [
-      "毒雾塔控制",
-      "毒霧塔控制",
-      "duwutakongzhi",
-      "dwtkz",
-      "Gas Controller",
-      "毒霧タワー制御装置",
       0
     ],
     [
@@ -43094,23 +40397,6 @@
       "trap"
     ]
   ],
-  "trap_134_condtr": [
-    [
-      "调谐节点",
-      "調諧節點",
-      "tiaoxiejiedian",
-      "txjd",
-      "Tuning Node",
-      "調律器",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_135_portlent": [
     [
       "湮灭之相",
@@ -43255,23 +40541,6 @@
       "glbszz",
       "Mine Deployer",
       "トラップ設置装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_146_dhdcr": [
-    [
-      "天桩",
-      "天樁",
-      "tianzhuang",
-      "tz",
-      "Sky Pole",
-      "天杭",
       0
     ],
     [
@@ -43604,114 +40873,12 @@
       "trap"
     ]
   ],
-  "trap_1519_lhrift": [
-    [
-      "巫术村落",
-      "巫術村落",
-      "wushucunluo",
-      "wscl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_151_muruinw": [
-    [
-      "折叠式堡垒模块",
-      "摺疊式堡壘模塊",
-      "zhedieshibaoleimokuai",
-      "zdsblmk",
-      "Foldable Bastion",
-      "競技用格納式高台",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1520_lhcolb": [
-    [
-      "大图书馆",
-      "大圖書館",
-      "datushuguan",
-      "dtsg",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1521_lhmagd": [
-    [
-      "术法岗哨",
-      "術法崗哨",
-      "shufagangshao",
-      "sfgs",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_1522_lhvlg": [
     [
       "先遣侦测器",
       "先遣偵測器",
       "xianqianzhenceqi",
       "xqzcq",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1523_lhtown": [
-    [
-      "侦测中心",
-      "偵測中心",
-      "zhencezhongxin",
-      "zczx",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1527_lhtwer": [
-    [
-      "警戒岗哨",
-      "警戒崗哨",
-      "jingjiegangshao",
-      "jjgs",
       0,
       0,
       0
@@ -43757,80 +40924,12 @@
       "trap"
     ]
   ],
-  "trap_152_muruino": [
-    [
-      "折叠式辅助器械",
-      "摺疊式輔助器械",
-      "zhedieshifuzhuqixie",
-      "zdsfzqx",
-      "Foldable Auxiliary Apparatus",
-      "競技用格納式防壁",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_1530_lhcamp": [
     [
       "荒野村落",
       "荒野村落",
       "huangyecunluo",
       "hycl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1531_lhcampa": [
-    [
-      "猎户村落",
-      "獵戶村落",
-      "liehucunluo",
-      "lhcl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1532_lhcampb": [
-    [
-      "山地村落",
-      "山地村落",
-      "shandicunluo",
-      "sdcl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_1533_lhcampc": [
-    [
-      "牧场村落",
-      "牧場村落",
-      "muchangcunluo",
-      "mccl",
       0,
       0,
       0
@@ -43935,57 +41034,6 @@
       "jgsys",
       0,
       0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_154_mugtps": [
-    [
-      "阵地屏障",
-      "陣地屏障",
-      "zhendipingzhang",
-      "zdpz",
-      "Positional Barrier",
-      "陣地障壁",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_155_aegiret": [
-    [
-      "航道信标",
-      "航道信標",
-      "hangdaoxinbiao",
-      "hdxb",
-      "Waterway Beacon",
-      "航路ビーコン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_156_dsshell": [
-    [
-      "赘生甲壳",
-      "贅生甲殼",
-      "zhuishengjiaqiao",
-      "zsjq",
-      "Excrescent Carapace",
-      "増殖甲羅",
       0
     ],
     [
@@ -44173,23 +41221,6 @@
       "sbykx",
       0,
       0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_160_lrlgun": [
-    [
-      "洪流束激发器",
-      "洪流束激發器",
-      "hongliushujifaqi",
-      "hlsjfq",
-      "Torrent Beam Activator",
-      "奔流発生装置",
       0
     ],
     [
@@ -44743,74 +41774,6 @@
       "trap"
     ]
   ],
-  "trap_167_muruinf": [
-    [
-      "折叠式维护车",
-      "摺疊式維護車",
-      "zhedieshiweihuche",
-      "zdswhc",
-      "Foldable Maintenance Vehicle",
-      "競技用格納式整備車",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_169_muruinb": [
-    [
-      "折叠式后勤站",
-      "摺疊式後勤站",
-      "zhedieshihouqinzhan",
-      "zdshqz",
-      "Foldable Logistics Hub",
-      "競技用格納式支援所",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_171_trpot": [
-    [
-      "很大的锅",
-      "很大的鍋",
-      "hendadeguo",
-      "hddg",
-      "Really Big Pot",
-      "大鍋",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_172_trbox": [
-    [
-      "“宝箱”",
-      "“寶箱”",
-      "“baoxiang”",
-      "“bx”",
-      "'Treasure Chest'",
-      "「宝箱」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_173_slfrut": [
     [
       "闪亮果实",
@@ -44896,57 +41859,6 @@
       "trap"
     ]
   ],
-  "trap_178_trrbox": [
-    [
-      "“宝箱”",
-      "“寶箱”",
-      "“baoxiang”",
-      "“bx”",
-      "'Treasure Chest'",
-      "「宝箱」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_179_muctrl": [
-    [
-      "促融共竞控制",
-      "促融共競控制",
-      "curonggongjingkongzhi",
-      "crgjkz",
-      "Icebreaker Games Control",
-      "協心競技制御装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_180_dsblock": [
-    [
-      "封印的地面",
-      "封印的地面",
-      "fengyindedimian",
-      "fyddm",
-      "Sealed Floor",
-      "封じられた地面",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_181_sgray": [
     [
       "结晶消除桩",
@@ -45015,23 +41927,6 @@
       "trap"
     ]
   ],
-  "trap_185_vtlntw": [
-    [
-      "黄金回响",
-      "黃金迴響",
-      "huangjinhuixiang",
-      "hjhx",
-      "Golden Echo",
-      "黄金の反響",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_186_cnvfwks": [
     [
       "烟花发射器",
@@ -45040,23 +41935,6 @@
       "yhfsq",
       "Firework Launcher",
       "花火打上装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_187_arcgacha": [
-    [
-      "扭蛋机",
-      "扭蛋機",
-      "niudanji",
-      "ndj",
-      "Gacha Machine",
-      "カプセルマシン",
       0
     ],
     [
@@ -45134,40 +42012,6 @@
       "trap"
     ]
   ],
-  "trap_192_archook": [
-    [
-      "勾爪",
-      "勾爪",
-      "gouzhao",
-      "gz",
-      "Hook",
-      "アーム",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_193_arctoll": [
-    [
-      "大战记分站",
-      "大戰記分站",
-      "dazhanjifenzhan",
-      "dzjfz",
-      "Scoring Station",
-      "得点集計所",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_194_arcsoda": [
     [
       "口渴乐乐",
@@ -45193,23 +42037,6 @@
       "dlqt",
       "Power Gauntlet",
       "怪力グローブ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_196_cnnon": [
-    [
-      "盐坨子炮",
-      "鹽坨子炮",
-      "yantuozipao",
-      "ytzp",
-      "Saltheap Cannon",
-      "ソルトキャノン",
       0
     ],
     [
@@ -45321,91 +42148,6 @@
       "trap"
     ]
   ],
-  "trap_203_mufrprn": [
-    [
-      "坍塌的杂物堆",
-      "坍塌的雜物堆",
-      "tantadezawudui",
-      "ttdzwd",
-      "Collapsed Junk Pile",
-      "ガラクタのなだれ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_205_mufrfm": [
-    [
-      "建筑工具间",
-      "建築工具間",
-      "jianzhugongjujian",
-      "jzgjj",
-      "Construction Workshop",
-      "作業員倉庫",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_207_mufrwl": [
-    [
-      "液压式高台 ",
-      "液壓式高臺 ",
-      "yeyashigaotai ",
-      "yysgt ",
-      "Hydraulic Platform",
-      "油圧式高台",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_208_mufrst": [
-    [
-      "混凝土路障 ",
-      "混凝土路障 ",
-      "hunningtuluzhang ",
-      "hntlz ",
-      "Concrete Roadblock",
-      "コンクリ防壁",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_209_mufrbs": [
-    [
-      "便携健身架",
-      "便攜健身架",
-      "bianxiejianshenjia",
-      "bxjsj",
-      "Portable Exercise Rack",
-      "携帯式健康器",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_210_arcgrg": [
     [
       "两栖码头",
@@ -45423,488 +42165,12 @@
       "trap"
     ]
   ],
-  "trap_212_cjbtow": [
-    [
-      "废弃火灶",
-      "廢棄火竈",
-      "feiqihuozao",
-      "fqhz",
-      "Derelict Stove",
-      "破棄された竈台",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_213_dqore": [
-    [
-      "源石祭坛",
-      "源石祭壇",
-      "yuanshijitan",
-      "ysjt",
-      "Originium Altar",
-      "源石祭壇",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_214_dqballis": [
-    [
-      "弩炮",
-      "弩炮",
-      "nupao",
-      "np",
-      "Turret",
-      "バリスタ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_215_dqcrsbow": [
-    [
-      "解雇者清债程序",
-      "解僱者清債程序",
-      "jieguzheqingzhaichengxu",
-      "jgzqzcx",
-      "Post-Firing Debt Relief Program",
-      "解雇者清算プログラム",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_216_dqelec": [
-    [
-      "梅什科线圈",
-      "梅什科線圈",
-      "meishenkexianquan",
-      "mskxq",
-      "Mieszko Coil",
-      "ミェシュココイル",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_219_fttreant": [
-    [
-      "盾与墙",
-      "盾與牆",
-      "dunyuqiang",
-      "dyq",
-      "Shield and Wall",
-      "盾と壁",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_220_ftbone": [
-    [
-      "旧日之火",
-      "舊日之火",
-      "jiurizhihuo",
-      "jrzh",
-      "Fires of Days Past",
-      "昔日の火",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_222_rgdysm": [
-    [
-      "雕伥",
-      "雕倀",
-      "diaochang",
-      "dc",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_223_dynbox": [
-    [
-      "宝葫芦",
-      "寶葫蘆",
-      "baohulu",
-      "bhl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_224_dyrbox": [
-    [
-      "铁葫芦",
-      "鐵葫蘆",
-      "tiehulu",
-      "thl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_225_dysbox": [
-    [
-      "怪葫芦",
-      "怪葫蘆",
-      "guaihulu",
-      "ghl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_226_dychss": [
-    [
-      "瑕",
-      "瑕",
-      "xia",
-      "x",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_229_mpcata": [
-    [
-      "冰镇饮料机",
-      "冰鎮飲料機",
-      "bingzhenyinliaoji",
-      "bzylj",
-      "Cold Drink Machine",
-      "アイスドリンクマシン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_230_mpcatab": [
-    [
-      "加热饮料机",
-      "加熱飲料機",
-      "jiareyinliaoji",
-      "jrylj",
-      "Hot Drink Machine",
-      "ホットドリンクマシン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_231_mpgrou": [
-    [
-      "“寒灾回响”",
-      "“寒災迴響”",
-      "“hanzaihuixiang”",
-      "“hzhx”",
-      "'Frozen Monstrosity's Echo'",
-      "「寒災の残響」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_232_mpgroub": [
-    [
-      "“风雪中的影子”",
-      "“風雪中的影子”",
-      "“fengxuezhongdeyingzi”",
-      "“fxzdyz”",
-      "'Shadow in the Snow'",
-      "「風雪の中の影」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_233_mpmage": [
-    [
-      "稳定态萨卡兹术师结晶",
-      "穩定態薩卡茲術師結晶",
-      "wendingtaisakazishushijiejing",
-      "wdtskzssjj",
-      "Stable Sarkaz Caster Crystal",
-      "定常状態サルカズ術師結晶",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_234_mpmageb": [
-    [
-      "活性态萨卡兹术师结晶",
-      "活性態薩卡茲術師結晶",
-      "huoxingtaisakazishushijiejing",
-      "hxtskzssjj",
-      "Active Sarkaz Caster Crystal",
-      "活性状態サルカズ術師結晶",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_235_hlnpcm": [
-    [
-      "圣徒像扮演者",
-      "聖徒像扮演者",
-      "shengtuxiangbanyanzhe",
-      "stxbyz",
-      "Saint Statue Cosplayer",
-      "聖徒像ごっこ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_237_hlnpcb": [
-    [
-      "圣堂保育员扮演者",
-      "聖堂保育員扮演者",
-      "shengtangbaoyuyuanbanyanzhe",
-      "stbyybyz",
-      "Shrine Nurturer Cosplayer",
-      "聖堂保育士ごっこ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_239_dyffgd": [
-    [
-      "狭路相逢",
-      "狹路相逢",
-      "xialuxiangfeng",
-      "xlxf",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_240_dyffdd": [
-    [
-      "狭路相逢",
-      "狹路相逢",
-      "xialuxiangfeng",
-      "xlxf",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_241_dyldlz": [
     [
       "聚宝斋",
       "聚寶齋",
       "jubaozhai",
       "jbz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_247_crfilm": [
-    [
-      "摄影机",
-      "攝影機",
-      "sheyingji",
-      "syj",
-      "Camera",
-      "撮影カメラ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_248_crprop": [
-    [
-      "打光道具",
-      "打光道具",
-      "daguangdaoju",
-      "dgdj",
-      "Lighting Prop",
-      "照明機材",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_249_mjcsdw": [
-    [
-      "“月影之茧”",
-      "“月影之繭”",
-      "“yueyingzhijian”",
-      "“yyzj”",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_250_hlctrl": [
-    [
-      "寻根圣事",
-      "尋根聖事",
-      "xungenshengshi",
-      "xgss",
-      "Sacrament of Genesis",
-      "根源を辿る儀式",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_252_pckstp": [
-    [
-      "天命来袭",
-      "天命來襲",
-      "tianminglaixi",
-      "tmlx",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_253_boxnma": [
-    [
-      "压力舒缓帮手",
-      "壓力舒緩幫手",
-      "yalishuhuanbangshou",
-      "ylshbs",
       0,
       0,
       0
@@ -45950,40 +42216,6 @@
       "trap"
     ]
   ],
-  "trap_258_rgcssm": [
-    [
-      "古雕伥",
-      "古雕倀",
-      "gudiaochang",
-      "gdc",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_259_murjet": [
-    [
-      "全手动推进器",
-      "全手動推進器",
-      "quanshoudongtuijinqi",
-      "qsdtjq",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_260_murbas": [
     [
       "基础浮板",
@@ -46007,74 +42239,6 @@
       "引力浮板",
       "yinlifuban",
       "ylfb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_262_murtre": [
-    [
-      "物资浮板",
-      "物資浮板",
-      "wuzifuban",
-      "wzfb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_263_murbox": [
-    [
-      "防水物资箱",
-      "防水物資箱",
-      "fangshuiwuzixiang",
-      "fswzx",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_264_xdplat": [
-    [
-      "伊斯贝塔高台",
-      "伊斯貝塔高臺",
-      "yisibeitagaotai",
-      "ysbtgt",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_265_xdice1": [
-    [
-      "圣女像",
-      "聖女像",
-      "shengnvxiang",
-      "snx",
       0,
       0,
       0
@@ -46239,23 +42403,6 @@
       "trap"
     ]
   ],
-  "trap_278_dyfgdd": [
-    [
-      "狭路相逢",
-      "狹路相逢",
-      "xialuxiangfeng",
-      "xlxf",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_279_pirene": [
     [
       "喷泉水池",
@@ -46358,40 +42505,6 @@
       "trap"
     ]
   ],
-  "trap_287_baizi": [
-    [
-      "断",
-      "斷",
-      "duan",
-      "d",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_288_sunmao": [
-    [
-      "镇岁柱",
-      "鎮歲柱",
-      "zhensuizhu",
-      "zsz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_289_zicai": [
     [
       "财字",
@@ -46449,23 +42562,6 @@
       "山字",
       "shanzi",
       "sz",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_293_suishan": [
-    [
-      "岁用山",
-      "歲用山",
-      "suiyongshan",
-      "sys",
       0,
       0,
       0
@@ -46715,46 +42811,12 @@
       "trap"
     ]
   ],
-  "trap_316_ubtower": [
-    [
-      "警戒塔",
-      "警戒塔",
-      "jingjieta",
-      "jjt",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_318_ubodst": [
     [
       "伪装工具",
       "僞裝工具",
       "weizhuanggongju",
       "wzgj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_328_newlamp": [
-    [
-      "城市霓虹",
-      "城市霓虹",
-      "chengshinihong",
-      "csnh",
       0,
       0,
       0
@@ -46868,125 +42930,6 @@
       "trap"
     ]
   ],
-  "trap_408_xbbase": [
-    [
-      "基地",
-      "基地",
-      "jidi",
-      "jd",
-      "Base",
-      "基地",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_409_xbwood": [
-    [
-      "杂木林",
-      "雜木林",
-      "zamulin",
-      "zml",
-      "Thickets",
-      "雑木林",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_410_xbstone": [
-    [
-      "巨大岩石",
-      "巨大岩石",
-      "judayanshi",
-      "jdys",
-      "Monoliths",
-      "巨大な岩",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_411_xbiron": [
-    [
-      "奇异矿脉",
-      "奇異礦脈",
-      "qiyikuangmai",
-      "qykm",
-      "Strange Ore Vein",
-      "レアな鉱脈",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_412_redtower": [
-    [
-      "移动战塔",
-      "移動戰塔",
-      "yidongzhanta",
-      "ydzt",
-      "Mobile Battle Tower",
-      "可動式戦術塔",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_413_hiddenstone": [
-    [
-      "遗迹残骸",
-      "遺蹟殘骸",
-      "yijicanhai",
-      "yjch",
-      "Historical Remains",
-      "遺跡の残骸",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_414_vegetation": [
-    [
-      "灌木丛",
-      "灌木叢",
-      "guanmucong",
-      "gmc",
-      "Bush",
-      "茂み",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_415_trademan": [
     [
       "联络员",
@@ -46995,23 +42938,6 @@
       "lly",
       "Liaison",
       "連絡員",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_416_gtreasure": [
-    [
-      "埋没金属箱",
-      "埋沒金屬箱",
-      "maimojinshuxiang",
-      "mmjsx",
-      "Buried Metal Chest",
-      "埋もれた金属の箱",
       0
     ],
     [
@@ -47097,23 +43023,6 @@
       "yjxlc",
       "Emergency Repair Vehicle",
       "緊急修理車両",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_422_streasure": [
-    [
-      "宝刺金属箱",
-      "寶刺金屬箱",
-      "baocijinshuxiang",
-      "bcjsx",
-      "Thorned Treasure Chest",
-      "棘の生えた金属の箱",
       0
     ],
     [
@@ -47242,23 +43151,6 @@
       "trap"
     ]
   ],
-  "trap_430_wdescp": [
-    [
-      "逃脱点",
-      "逃脫點",
-      "taotuodian",
-      "ttd",
-      "Escape Route",
-      "脱出地点",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_431_xbgldn": [
     [
       "冶铸台",
@@ -47267,91 +43159,6 @@
       "yzt",
       "Mint",
       "金床",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_432_oldisin": [
-    [
-      "老伊辛",
-      "老伊辛",
-      "laoyixin",
-      "lyx",
-      "Old Isin",
-      "イシン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_433_sandsdr": [
-    [
-      "“沙卒”",
-      "“沙卒”",
-      "“shazu”",
-      "“sz”",
-      "'Sand Soldier'",
-      "「サンドソルジャー」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_434_klmantc": [
-    [
-      "曼提柯杀手",
-      "曼提柯殺手",
-      "mantikeshashou",
-      "mtkss",
-      "Manticore Killer",
-      "殺し屋のマンティコア",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_435_trsrhuntr": [
-    [
-      "寻宝人",
-      "尋寶人",
-      "xunbaoren",
-      "xbr",
-      "Treasure Hunter",
-      "トレジャーハンター",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_437_poachr": [
-    [
-      "老练猎手",
-      "老練獵手",
-      "laolianlieshou",
-      "llls",
-      "Veteran Hunter",
-      "手練れのハンター",
       0
     ],
     [
@@ -47386,23 +43193,6 @@
       "tkcjz",
       "Mining Harvester Hub",
       "鉄鉱石採取基地",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_442_xbtrap": [
-    [
-      "流沙黯坑",
-      "流沙黯坑",
-      "liushaankeng",
-      "lsak",
-      "Occluded Quicksand Pit",
-      "砂地獄",
       0
     ],
     [
@@ -47667,23 +43457,6 @@
       "trap"
     ]
   ],
-  "trap_461_xbhydr": [
-    [
-      "机关石门",
-      "機關石門",
-      "jiguanshimen",
-      "jgsm",
-      "Olden Keystone",
-      "石の関門",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_462_xbsighta": [
     [
       "灵动清泉",
@@ -47735,125 +43508,6 @@
       "trap"
     ]
   ],
-  "trap_466_tzumama": [
-    [
-      "森蚺",
-      "森蚺",
-      "senran",
-      "sr",
-      "Eunectes",
-      "ユーネクテス",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_468_tpriest": [
-    [
-      "大祭司",
-      "大祭司",
-      "dajisi",
-      "djs",
-      "High Priest",
-      "大祭司",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_469_tpasngr": [
-    [
-      "异客",
-      "異客",
-      "yike",
-      "yk",
-      "Passenger",
-      "パッセンジャー",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_470_tmantic": [
-    [
-      "狮蝎",
-      "獅蠍",
-      "shixie",
-      "sx",
-      "Manticore",
-      "マンティコア",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_471_tegmaus": [
-    [
-      "佩佩",
-      "佩佩",
-      "peipei",
-      "pp",
-      "Pepe",
-      "ペペ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_472_tfalco": [
-    [
-      "红隼",
-      "紅隼",
-      "hongsun",
-      "hs",
-      "Kestrel",
-      "ケストレル",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_474_mailbox": [
-    [
-      "信使邮筒",
-      "信使郵筒",
-      "xinshiyoutong",
-      "xsyt",
-      "Mail Box",
-      "郵便ポスト",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_475_xbcbag": [
     [
       "猎获笼",
@@ -47862,23 +43516,6 @@
       "lhl",
       "Beast Cage",
       "捕獲カゴ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_476_mscskt": [
-    [
-      "讯息匣",
-      "訊息匣",
-      "xunxixia",
-      "xxx",
-      "Message Casket",
-      "情報ボックス",
       0
     ],
     [
@@ -47922,40 +43559,6 @@
       "trap"
     ]
   ],
-  "trap_479_xbbillb": [
-    [
-      "告示牌",
-      "告示牌",
-      "gaoshipai",
-      "gsp",
-      "Billboard",
-      "看板",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_480_roadblockxb": [
-    [
-      "道路障碍物",
-      "道路障礙物",
-      "daoluzhangaiwu",
-      "dlzaw",
-      "Static Roadblock",
-      "道路障害物",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_482_xbblure": [
     [
       "源石虫引诱器",
@@ -47981,57 +43584,6 @@
       "“ysczx”",
       "'Heart of a Slug'",
       "「オリジムシハート」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_484_xbcp": [
-    [
-      "检查点",
-      "檢查點",
-      "jianchadian",
-      "jcd",
-      "Checkpoint",
-      "チェックポイント",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_485_xbrandprop": [
-    [
-      "随机道具盒",
-      "隨機道具盒",
-      "suijidaojuhe",
-      "sjdjh",
-      "Random Item Box",
-      "ランダムボックス",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_486_xbspd": [
-    [
-      "加速块",
-      "加速塊",
-      "jiasukuai",
-      "jsk",
-      "Accelerator Tile",
-      "加速ブロック",
       0
     ],
     [
@@ -48245,159 +43797,6 @@
       "trap"
     ]
   ],
-  "trap_500_xbaflu": [
-    [
-      "荧光棒弹射装置",
-      "熒光棒彈射裝置",
-      "yingguangbangtanshezhuangzhi",
-      "ygbtszz",
-      "Glow Stick Launcher",
-      "ケミカルライト発射装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_501_xbaarm": [
-    [
-      "外骨骼",
-      "外骨骼",
-      "waiguge",
-      "wgg",
-      "Exoskeleton",
-      "外骨格",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_502_xbaice": [
-    [
-      "冰瀑喷射罐",
-      "冰瀑噴射罐",
-      "bingpupensheguan",
-      "bppsg",
-      "Ice Blaster",
-      "氷瀑噴射缶",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_503_xbabla": [
-    [
-      "凋亡发射器",
-      "凋亡發射器",
-      "diaowangfasheqi",
-      "dwfsq",
-      "Necrosis Transmitter",
-      "壊死損傷発射装置",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_504_xbaess": [
-    [
-      "桶装液香",
-      "桶裝液香",
-      "tongzhuangyexiang",
-      "tzyx",
-      "Barreled Perfume",
-      "樽詰め香液",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_505_xbawea": [
-    [
-      "庇护制造器",
-      "庇護製造器",
-      "bihuzhizaoqi",
-      "bhzzq",
-      "Omni Umbrella",
-      "パラソルマシン",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_506_xbadiv": [
-    [
-      "驯兽口粮",
-      "馴獸口糧",
-      "xunshoukouliang",
-      "xskl",
-      "Hunting Rations",
-      "猛獣のエサ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_507_xbabut": [
-    [
-      "感知链接器",
-      "感知鏈接器",
-      "ganzhilianjieqi",
-      "gzljq",
-      "Neural Chain",
-      "狩猟用発射台",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_508_xbabat": [
-    [
-      "行动套装",
-      "行動套裝",
-      "xingdongtaozhuang",
-      "xdtz",
-      "Operation Kit",
-      "作戦補給品",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_509_xbf1g": [
     [
       "木材采集站·采购",
@@ -48500,40 +43899,6 @@
       "trap"
     ]
   ],
-  "trap_516_xb2wod": [
-    [
-      "杂木林",
-      "雜木林",
-      "zamulin",
-      "zml",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_522_xb2dor": [
-    [
-      "待清理材料",
-      "待清理材料",
-      "daiqinglicailiao",
-      "dqlcl",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_525_xb2sta": [
     [
       "补给车出发站台",
@@ -48608,23 +43973,6 @@
       "補給車直行軌道",
       "bujichezhixingguidao",
       "bjczxgd",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_532_xb2shb": [
-    [
-      "灌木丛",
-      "灌木叢",
-      "guanmucong",
-      "gmc",
       0,
       0,
       0
@@ -50030,23 +45378,6 @@
       "trap"
     ]
   ],
-  "trap_621_xb2flr": [
-    [
-      "荧光棒",
-      "熒光棒",
-      "yingguangbang",
-      "ygb",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_622_xb2clr": [
     [
       "清杂机械羽兽",
@@ -50070,23 +45401,6 @@
       "埋沒金屬箱",
       "maimojinshuxiang",
       "mmjsx",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_627_xb2amy": [
-    [
-      "阿米娅",
-      "阿米婭",
-      "amiya",
-      "amy",
       0,
       0,
       0
@@ -51220,108 +46534,6 @@
       "trap"
     ]
   ],
-  "trap_757_skzbox": [
-    [
-      "宝箱",
-      "寶箱",
-      "baoxiang",
-      "bx",
-      "Treasure Chest",
-      "宝箱",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_758_skzmbx": [
-    [
-      "停滞巧械",
-      "停滯巧械",
-      "tingzhiqiaoxie",
-      "tzqx",
-      "Idle Exquisicart",
-      "アイドリングメカ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_759_skzwyx": [
-    [
-      "垂死羽兽",
-      "垂死羽獸",
-      "chuisiyushou",
-      "csys",
-      "Dying Fowlbeast",
-      "瀕死の羽獣",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_762_skztxy": [
-    [
-      "特蕾西娅，黑冠圣贤",
-      "特蕾西婭，黑冠聖賢",
-      "teleixiya，heiguanshengxian",
-      "tlxy，hgsx",
-      "Theresa, Black-crowned Sage",
-      "「黒き王冠の聖賢」テレジア",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_763_skzddd": [
-    [
-      "圣卫坚盾",
-      "聖衛堅盾",
-      "shengweijiandun",
-      "swjd",
-      "Guardian Bulwark",
-      "聖衛の盾",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_764_skzshp": [
-    [
-      "驮兽旅行家",
-      "馱獸旅行家",
-      "tuoshoulvxingjia",
-      "tslxj",
-      "Burdenbeast Traveler",
-      "旅する駄獣",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_765_bmoney": [
     [
       "无可置疑的罪证",
@@ -51330,40 +46542,6 @@
       "wkzydzz",
       "Indisputable Evidence",
       "決定的な証拠",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_766_duelwal": [
-    [
-      "狭路相逢",
-      "狹路相逢",
-      "xialuxiangfeng",
-      "xlxf",
-      "Face to Face",
-      "隘路の衝突",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_767_duelcdt": [
-    [
-      "狭路相逢",
-      "狹路相逢",
-      "xialuxiangfeng",
-      "xlxf",
-      "Face to Face",
-      "隘路の衝突",
       0
     ],
     [
@@ -51543,40 +46721,6 @@
       "trap"
     ]
   ],
-  "trap_778_giatow": [
-    [
-      "L-44\"留声机\"",
-      "L-44\"留聲機\"",
-      "L-44\"liushengji\"",
-      "L-44\"lsj\"",
-      "L-44 'Gramophone'",
-      "L-44「蓄音機」",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_779_skzth": [
-    [
-      "尼卢火",
-      "尼盧火",
-      "niluhuo",
-      "nlh",
-      "Aggini of Nila",
-      "ニーラのアグニ",
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
   "trap_780_supspt": [
     [
       "天工夜行套装",
@@ -51668,23 +46812,6 @@
       "維生監測配件",
       "weishengjiancepeijian",
       "wsjcpj",
-      0,
-      0,
-      0
-    ],
-    [
-      ""
-    ],
-    [
-      "trap"
-    ]
-  ],
-  "trap_786_fxdtwr": [
-    [
-      "“绝对助手”",
-      "“絕對助手”",
-      "“jueduizhushou”",
-      "“jdzs”",
       0,
       0,
       0
