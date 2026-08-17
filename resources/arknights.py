@@ -1,11 +1,42 @@
 import asyncio
-from typing import Dict
+from typing import Dict, Optional
 from urllib.parse import quote
 
 from pypinyin import lazy_pinyin, Style
 
-from util.resource import Resource, Character
+from util.resource import Resource, Character, ServerError
 from util.cc import s2t
+
+
+def available_avatar_names(entries: list) -> set:
+    """Extract the base names of top-level .png blobs from a git tree listing."""
+    names = set()
+    for entry in entries or []:
+        if entry.get('type') != 'blob':
+            continue
+        path = entry.get('path')
+        if isinstance(path, str) and path.endswith('.png'):
+            names.add(path[:-4])
+    return names
+
+
+def filter_missing_avatars(chars: Dict[str, 'ArknightsCharacter'], available: Dict[str, set]) -> int:
+    """Drop avatars whose png does not exist in ArknightsGameResource.
+
+    Operator/token/trap avatars must exist in avatar/, enemy avatars in enemy/.
+    Special chars (remote spec data) are left untouched.
+    """
+    dropped = 0
+    for char in chars.values():
+        if char.special:
+            continue
+        pool = available['enemy'] if char.is_enemy else available['avatar']
+        for avatar_id in list(char.avatars):
+            if avatar_id not in pool:
+                print(f'[FILTER] {char.id} drop avatar {avatar_id} (missing in ArknightsGameResource)')
+                del char.avatars[avatar_id]
+                dropped += 1
+    return dropped
 
 
 class ArknightsCharacter(Character):
@@ -27,6 +58,8 @@ class ArknightsResource(Resource):
     char_skin_url = 'https://github.com/Kengxxiao/ArknightsGameData/raw/master/zh_CN/gamedata/excel/skin_table.json'
     char_avatar_url = 'https://github.com/yuanyan3060/ArknightsGameResource/raw/main/avatar/%s.png'
     enemy_avatar_url = 'https://github.com/yuanyan3060/ArknightsGameResource/raw/main/enemy/%s.png'
+    game_resource_api = 'https://api.github.com/repos/yuanyan3060/ArknightsGameResource'
+    avatar_tree_url = game_resource_api + '/git/trees/main:%s'
     chars: Dict[str, ArknightsCharacter]
     char_model = ArknightsCharacter
 
@@ -78,6 +111,37 @@ class ArknightsResource(Resource):
                 char.add_avatar(enemy_id)
                 char.add_tag('enemy')
 
+    async def available_names(self, folder: str) -> set:
+        """List the png base names available in an ArknightsGameResource folder."""
+        error = None
+        for attempt in range(3):
+            try:
+                res: dict = await self.json(self.avatar_tree_url % folder, folder + '_tree')
+                if res.get('truncated'):
+                    raise AssertionError(f'get {self.series} {folder} tree truncated')
+                return available_avatar_names(res.get('tree') or [])
+            except (AssertionError, FileNotFoundError, ServerError, ValueError) as e:
+                error = e
+                if attempt < 2:
+                    print(f'retry get {self.series} {folder} tree (attempt {attempt + 1})')
+                    await asyncio.sleep(2 ** attempt)
+        raise error
+
+    async def fetch_available_avatars(self) -> Optional[Dict[str, set]]:
+        """Map 'avatar'/'enemy' to the png base names available in ArknightsGameResource.
+
+        Returns None (filtering is skipped for this run) when the listings cannot be fetched.
+        """
+        try:
+            avatar, enemy = await asyncio.gather(
+                self.available_names('avatar'),
+                self.available_names('enemy'),
+            )
+            return {'avatar': avatar, 'enemy': enemy}
+        except (AssertionError, FileNotFoundError, ServerError, ValueError) as e:
+            print(f'[WARNING] fetch available avatars failed {e}; skip pre-filter')
+            return None
+
     async def run(self):
         await super().run()
         await asyncio.gather(*[self.parse(lang) for lang in self.langs])
@@ -85,6 +149,10 @@ class ArknightsResource(Resource):
         skins = await self.json(self.char_skin_url, 'skin_data')
         for data in skins['charSkins'].values():
             self.char(data['charId']).add_avatar(data['avatarId'])
+
+        available = await self.fetch_available_avatars()
+        if available is not None:
+            filter_missing_avatars(self.chars, available)
 
         await self.update()
 
