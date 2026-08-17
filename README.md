@@ -7,3 +7,4 @@
  - 明日方舟
    - 数据 [Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)
    - 资源 [yuanyan3060/ArknightsGameResource](https://github.com/yuanyan3060/ArknightsGameResource)
+   - NPC 头像 [Arkfans/ArknightsAvatarResource](https://github.com/Arkfans/ArknightsAvatarResource)
