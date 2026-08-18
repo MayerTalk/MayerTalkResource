@@ -37747,21 +37747,6 @@
       "enemy"
     ]
   ],
-  "npc_007_closure": [
-    [
-      "可露希尔",
-      0,
-      "keluxier",
-      "klxe",
-      "Closure",
-      "クロージャ",
-      0
-    ],
-    [
-      ""
-    ],
-    []
-  ],
   "token_10000_silent_healrb": [
     [
       "医疗探机",
