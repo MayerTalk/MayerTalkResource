@@ -6924,6 +6924,63 @@
       "operator"
     ]
   ],
+  "char_4217_makoto": [
+    [
+      "结城理",
+      "結城理",
+      "jiechengli",
+      "jcl",
+      0,
+      0,
+      "PS33"
+    ],
+    [
+      "",
+      "_2",
+      "_p3r#1"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4218_aigis": [
+    [
+      "埃癸斯",
+      "埃癸斯",
+      "aiguisi",
+      "ags",
+      0,
+      0,
+      "PS37"
+    ],
+    [
+      "",
+      "_2",
+      "_p3r#1"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4219_yukari": [
+    [
+      "岳羽由加莉",
+      "嶽羽由加莉",
+      "yueyuyoujiali",
+      "yyyjl",
+      0,
+      0,
+      "PS34"
+    ],
+    [
+      "",
+      "_2",
+      "_p3r#1"
+    ],
+    [
+      "operator"
+    ]
+  ],
   "char_421_crow": [
     [
       "羽毛笔",
@@ -6938,6 +6995,24 @@
       "",
       "_2",
       "_summer#9"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4220_kormr": [
+    [
+      "虎狼丸",
+      "虎狼丸",
+      "hulangwan",
+      "hlw",
+      0,
+      0,
+      "PS38"
+    ],
+    [
+      "",
+      "_p3r#1"
     ],
     [
       "operator"
@@ -14644,6 +14719,210 @@
       "enemy"
     ]
   ],
+  "enemy_10184_pppsbr": [
+    [
+      "滴答冰淇淋",
+      "滴答冰淇淋",
+      "didabingqilin",
+      "ddbql",
+      0,
+      0,
+      "SD1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10184_pppsbr_2": [
+    [
+      "刺溜冰淇淋",
+      "刺溜冰淇淋",
+      "ciliubingqilin",
+      "clbql",
+      0,
+      0,
+      "SD1R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10185_pppshd": [
+    [
+      "吵闹收音机",
+      "吵鬧收音機",
+      "chaonaoshouyinji",
+      "cnsyj",
+      0,
+      0,
+      "SD2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10185_pppshd_2": [
+    [
+      "沉默收音机",
+      "沉默收音機",
+      "chenmoshouyinji",
+      "cmsyj",
+      0,
+      0,
+      "SD2R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10186_ppparc": [
+    [
+      "蹦跶羽兽",
+      "蹦躂羽獸",
+      "bengdayushou",
+      "bdys",
+      0,
+      0,
+      "SD12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10186_ppparc_2": [
+    [
+      "蹒跚羽兽",
+      "蹣跚羽獸",
+      "panshanyushou",
+      "psys",
+      0,
+      0,
+      "SD12R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10187_pppwiz": [
+    [
+      "失恋花束",
+      "失戀花束",
+      "shilianhuashu",
+      "slhs",
+      0,
+      0,
+      "SD6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10187_pppwiz_2": [
+    [
+      "离婚花束",
+      "離婚花束",
+      "lihunhuashu",
+      "lhhs",
+      0,
+      0,
+      "SD6R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10188_pppdp": [
+    [
+      "结巴铳",
+      "結巴銃",
+      "jiebachong",
+      "jbc",
+      0,
+      0,
+      "SD9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10188_pppdp_2": [
+    [
+      "咆哮铳",
+      "咆哮銃",
+      "paoxiaochong",
+      "pxc",
+      0,
+      0,
+      "SD9R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10189_pppmag": [
+    [
+      "伤眼路灯",
+      "傷眼路燈",
+      "shangyanludeng",
+      "syld",
+      0,
+      0,
+      "SD3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10189_pppmag_2": [
+    [
+      "吓人路灯",
+      "嚇人路燈",
+      "xiarenludeng",
+      "xrld",
+      0,
+      0,
+      "SD3R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1018_aoemag": [
     [
       "高阶术师",
@@ -14670,6 +14949,142 @@
       "Senior Caster Leader",
       "上級術師隊長",
       "A6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10190_pppham": [
+    [
+      "几点了钟",
+      "幾點了鍾",
+      "jidianlezhong",
+      "jdlz",
+      0,
+      0,
+      "SD10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10190_pppham_2": [
+    [
+      "不知道钟",
+      "不知道鍾",
+      "buzhidaozhong",
+      "bzdz",
+      0,
+      0,
+      "SD10R"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10191_pppgst": [
+    [
+      "没办法车",
+      "沒辦法車",
+      "meibanfache",
+      "mbfc",
+      0,
+      0,
+      "SD0"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10191_pppgst_2": [
+    [
+      "生气车",
+      "生氣車",
+      "shengqiche",
+      "sqc",
+      0,
+      0,
+      "SD0S"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10191_pppgst_3": [
+    [
+      "困惑车",
+      "困惑車",
+      "kunhuoche",
+      "khc",
+      0,
+      0,
+      "SD0P"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10191_pppgst_4": [
+    [
+      "难过车",
+      "難過車",
+      "nanguoche",
+      "ngc",
+      0,
+      0,
+      "SD0C"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10191_pppgst_5": [
+    [
+      "无聊车",
+      "無聊車",
+      "wuliaoche",
+      "wlc",
+      0,
+      0,
+      "SD0W"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10192_ppprpr": [
+    [
+      "挥铳圣像",
+      "揮銃聖像",
+      "huichongshengxiang",
+      "hcsx",
+      0,
+      0,
+      "SD5"
     ],
     [
       ""
@@ -30531,6 +30946,23 @@
       0,
       0,
       "PMC"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_1589_pppdth": [
+    [
+      "“死志的凝结”",
+      "“死志的凝結”",
+      "“sizhideningjie”",
+      "“szdnj”",
+      0,
+      0,
+      "SD13"
     ],
     [
       ""
