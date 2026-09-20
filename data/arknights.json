@@ -6679,7 +6679,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_yun#12"
     ],
     [
       "operator"
@@ -31048,6 +31049,57 @@
       0,
       0,
       "MM02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_17001_wmshp": [
+    [
+      "风情街“飘游客”",
+      "風情街“飄遊客”",
+      "fengqingjie“piaoyouke”",
+      "fqj“pyk”",
+      0,
+      0,
+      "DPC01"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_17002_flgshp": [
+    [
+      "风情街“热情导游”",
+      "風情街“熱情導遊”",
+      "fengqingjie“reqingdaoyou”",
+      "fqj“rqdy”",
+      0,
+      0,
+      "DPC02"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_17003_sabshp": [
+    [
+      "云众演员",
+      "雲衆演員",
+      "yunzhongyanyuan",
+      "yzyy",
+      0,
+      0,
+      "DPC03"
     ],
     [
       ""
