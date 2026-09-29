@@ -389,7 +389,8 @@
       "",
       "_2",
       "_breaker#1",
-      "_snow#5"
+      "_snow#5",
+      "_wild#12"
     ],
     [
       "operator"
@@ -4535,7 +4536,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_epoque#58"
     ],
     [
       "operator"
@@ -37755,6 +37757,142 @@
       "enemy"
     ]
   ],
+  "enemy_8018_etouch": [
+    [
+      "“Touch”，再生之流",
+      "“Touch”，再生之流",
+      "“Touch”，zaishengzhiliu",
+      "“Touch”，zszl",
+      0,
+      0,
+      "SFR14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8018_etouch_1": [
+    [
+      "“Touch”，再生之流",
+      "“Touch”，再生之流",
+      "“Touch”，zaishengzhiliu",
+      "“Touch”，zszl",
+      0,
+      0,
+      "SFR14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8018_etouch_2": [
+    [
+      "“Touch”，再生之流",
+      "“Touch”，再生之流",
+      "“Touch”，zaishengzhiliu",
+      "“Touch”，zszl",
+      0,
+      0,
+      "SFR14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8018_etouch_3": [
+    [
+      "“Touch”，再生之流",
+      "“Touch”，再生之流",
+      "“Touch”，zaishengzhiliu",
+      "“Touch”，zszl",
+      0,
+      0,
+      "SFR14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8019_pollut": [
+    [
+      "“再灌注”",
+      "“再灌注”",
+      "“zaiguanzhu”",
+      "“zgz”",
+      0,
+      0,
+      "SFR15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8019_pollut_2": [
+    [
+      "“过灌注”",
+      "“過灌注”",
+      "“guoguanzhu”",
+      "“ggz”",
+      0,
+      0,
+      "SFR16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8020_tenaci": [
+    [
+      "“新绿”",
+      "“新綠”",
+      "“xinlv”",
+      "“xl”",
+      0,
+      0,
+      "SFR17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_8021_tsilas": [
+    [
+      "管钳",
+      "管鉗",
+      "guanqian",
+      "gq",
+      0,
+      0,
+      "SFR18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_9001_ayokai": [
     [
       "惊喜赞助无人机",
@@ -43288,6 +43426,23 @@
       "僞裝工具",
       "weizhuanggongju",
       "wzgj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_339_tchray": [
+    [
+      "“再度绽放”",
+      "“再度綻放”",
+      "“zaiduzhanfang”",
+      "“zdzf”",
       0,
       0,
       0
