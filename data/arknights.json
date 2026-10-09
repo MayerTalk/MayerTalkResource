@@ -697,7 +697,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sightseer#4"
     ],
     [
       "operator"
@@ -2038,7 +2039,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sightseer#4"
     ],
     [
       "operator"
@@ -4329,6 +4331,24 @@
       "_2",
       "_epoque#17",
       "_sale#16"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_393_toledo": [
+    [
+      "德·托莱多",
+      "德·托萊多",
+      "de·tuolaiduo",
+      "d·tld",
+      0,
+      0,
+      "II13"
+    ],
+    [
+      "",
+      "_2"
     ],
     [
       "operator"
@@ -6775,7 +6795,8 @@
     ],
     [
       "",
-      "_2"
+      "_2",
+      "_sightseer#4"
     ],
     [
       "operator"
@@ -7210,6 +7231,42 @@
       0,
       0,
       "RE21"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4231_clemnt": [
+    [
+      "克莱门莎",
+      "克萊門莎",
+      "kelaimensha",
+      "klms",
+      0,
+      0,
+      "AE01"
+    ],
+    [
+      "",
+      "_2"
+    ],
+    [
+      "operator"
+    ]
+  ],
+  "char_4232_hbound": [
+    [
+      "旅骨",
+      "旅骨",
+      "lvgu",
+      "lg",
+      0,
+      0,
+      "II12"
     ],
     [
       "",
@@ -15742,6 +15799,261 @@
       "enemy"
     ]
   ],
+  "enemy_10212_klhz": [
+    [
+      "塑能基质",
+      "塑能基質",
+      "sunengjizhi",
+      "snjz",
+      0,
+      0,
+      "AL1"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10213_klbm": [
+    [
+      "远航灯",
+      "遠航燈",
+      "yuanhangdeng",
+      "yhd",
+      0,
+      0,
+      "AL2"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10213_klbm_2": [
+    [
+      "“远海遗声”灯",
+      "“遠海遺聲”燈",
+      "“yuanhaiyisheng”deng",
+      "“yhys”d",
+      0,
+      0,
+      "AL3"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10214_klgn": [
+    [
+      "训练用手弩",
+      "訓練用手弩",
+      "xunlianyongshounu",
+      "xlysn",
+      0,
+      0,
+      "AL4"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10214_klgn_2": [
+    [
+      "“驯服大海”弩",
+      "“馴服大海”弩",
+      "“xunfudahai”nu",
+      "“xfdh”n",
+      0,
+      0,
+      "AL5"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10215_klhjd": [
+    [
+      "三曲足仪仗盾",
+      "三曲足儀仗盾",
+      "sanquzuyizhangdun",
+      "sqzyzd",
+      0,
+      0,
+      "AL6"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10215_klhjd_2": [
+    [
+      "“永恒奔跑”仪仗盾",
+      "“永恆奔跑”儀仗盾",
+      "“yonghengbenpao”yizhangdun",
+      "“yhbp”yzd",
+      0,
+      0,
+      "AL7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10216_kltwhp": [
+    [
+      "迎宾花瓶",
+      "迎賓花瓶",
+      "yingbinhuaping",
+      "ybhp",
+      0,
+      0,
+      "AL8"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10216_kltwhp_2": [
+    [
+      "“千帆来朝”花瓶",
+      "“千帆來朝”花瓶",
+      "“qianfanlaichao”huaping",
+      "“qflc”hp",
+      0,
+      0,
+      "AL9"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10217_klljs": [
+    [
+      "禁术学徒",
+      "禁術學徒",
+      "jinshuxuetu",
+      "jsxt",
+      0,
+      0,
+      "AL10"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10217_klljs_2": [
+    [
+      "老练禁术学徒",
+      "老練禁術學徒",
+      "laolianjinshuxuetu",
+      "lljsxt",
+      0,
+      0,
+      "AL11"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10218_klxl": [
+    [
+      "忏悔香炉",
+      "懺悔香爐",
+      "chanhuixianglu",
+      "chxl",
+      0,
+      0,
+      "AL12"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10218_klxl_2": [
+    [
+      "“心诚则灵”香炉",
+      "“心誠則靈”香爐",
+      "“xinchengzeling”xianglu",
+      "“xczl”xl",
+      0,
+      0,
+      "AL13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10219_klhjdd": [
+    [
+      "空盔甲",
+      "空盔甲",
+      "kongkuijia",
+      "kkj",
+      0,
+      0,
+      "AL14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10219_klhjdd_2": [
+    [
+      "戴罪空盔甲",
+      "戴罪空盔甲",
+      "daizuikongkuijia",
+      "dzkkj",
+      0,
+      0,
+      "AL15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1021_bslime": [
     [
       "高能源石虫",
@@ -15768,6 +16080,40 @@
       "Infused Originium Slug α",
       "バクダンムシα",
       "B7"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10220_kljbp": [
+    [
+      "炼金术师净手盆",
+      "鍊金術師淨手盆",
+      "lianjinshushijingshoupen",
+      "ljssjsp",
+      0,
+      0,
+      "AL16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_10220_kljbp_2": [
+    [
+      "“至伟之术”净手盆",
+      "“至偉之術”淨手盆",
+      "“zhiweizhishu”jingshoupen",
+      "“zwzs”jsp",
+      0,
+      0,
+      "AL17"
     ],
     [
       ""
@@ -31025,6 +31371,23 @@
       "enemy"
     ]
   ],
+  "enemy_1594_presaint": [
+    [
+      "圣徒瓦列里奥",
+      "聖徒瓦列里奧",
+      "shengtuwalieliao",
+      "stwlla",
+      0,
+      0,
+      "VAL"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_1595_agbmes": [
     [
       "“酣睡飞行员”",
@@ -39349,7 +39712,8 @@
       0
     ],
     [
-      ""
+      "",
+      "_sightseer#4"
     ],
     [
       "token"
@@ -39516,6 +39880,23 @@
       "指揮中心",
       "zhihuizhongxin",
       "zhzx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "token"
+    ]
+  ],
+  "token_10067_toledo_tldptm": [
+    [
+      "征服者传说",
+      "征服者傳說",
+      "zhengfuzhechuanshuo",
+      "zfzcs",
       0,
       0,
       0
