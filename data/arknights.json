@@ -524,7 +524,8 @@
     [
       "",
       "_2",
-      "_ambienceSynesthesia#4"
+      "_ambienceSynesthesia#4",
+      "_nlc#1"
     ],
     [
       "operator"
@@ -660,6 +661,7 @@
     [
       "",
       "_2",
+      "_nlc#1",
       "_winter#5"
     ],
     [
@@ -2297,7 +2299,8 @@
     [
       "",
       "_2",
-      "_nian#11"
+      "_nian#11",
+      "_nlc#1"
     ],
     [
       "operator"
@@ -34023,6 +34026,91 @@
       "enemy"
     ]
   ],
+  "enemy_2157_shadvr": [
+    [
+      "沉沦之人",
+      "沉淪之人",
+      "chenlunzhiren",
+      "clzr",
+      0,
+      0,
+      "TDS"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2157_shadvr_1": [
+    [
+      "艾穆拉伊，祝日降临",
+      "艾穆拉伊，祝日降臨",
+      "aimulayi，zhurijianglin",
+      "amly，zrjl",
+      0,
+      0,
+      "AMR"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2157_shadvr_2": [
+    [
+      "托斯卡特尔，末日敕令",
+      "托斯卡特爾，末日敕令",
+      "tuosikateer，morichiling",
+      "tskte，mrcl",
+      0,
+      0,
+      "TCT"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2158_sheagl": [
+    [
+      "灼目神使",
+      "灼目神使",
+      "zhuomushenshi",
+      "zmss",
+      0,
+      0,
+      "BZM"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_2159_shjagr": [
+    [
+      "黯锋助祭",
+      "黯鋒助祭",
+      "anfengzhuji",
+      "afzj",
+      0,
+      0,
+      "BDA"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_3001_upeopl": [
     [
       "乌萨斯平民",
@@ -39426,7 +39514,8 @@
     ],
     [
       "",
-      "_ambienceSynesthesia#4"
+      "_ambienceSynesthesia#4",
+      "_nlc#1"
     ],
     [
       "token"
