@@ -36134,6 +36134,108 @@
       "enemy"
     ]
   ],
+  "enemy_5508_hrgyfsh": [
+    [
+      "“再吃一口”源石虫",
+      "“再喫一口”源石蟲",
+      "“zaichiyikou”yuanshichong",
+      "“zcyk”ysc",
+      0,
+      0,
+      "PM13"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5509_revfish": [
+    [
+      "闪耀源石",
+      "閃耀源石",
+      "shanyaoyuanshi",
+      "syys",
+      0,
+      0,
+      "PM14"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5511_bigfish": [
+    [
+      "“大吨位！”源石虫",
+      "“大噸位！”源石蟲",
+      "“dadunwei！”yuanshichong",
+      "“ddw！”ysc",
+      0,
+      0,
+      "PM15"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5512_stkslm": [
+    [
+      "源石碎块",
+      "源石碎塊",
+      "yuanshisuikuai",
+      "yssk",
+      0,
+      0,
+      "PM16"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5513_porter": [
+    [
+      "“抢零食！”鳞兽",
+      "“搶零食！”鱗獸",
+      "“qianglingshi！”linshou",
+      "“qls！”ls",
+      0,
+      0,
+      "PM17"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
+  "enemy_5514_poslam": [
+    [
+      "喷泉“甜蜜气泡”",
+      "噴泉“甜蜜氣泡”",
+      "penquan“tianmiqipao”",
+      "pq“tmqp”",
+      0,
+      0,
+      "PM18"
+    ],
+    [
+      ""
+    ],
+    [
+      "enemy"
+    ]
+  ],
   "enemy_6001_trsgst": [
     [
       "飞腿毛贼",
@@ -43250,6 +43352,91 @@
       "聚寶齋",
       "jubaozhai",
       "jbz",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_242_fshcave": [
+    [
+      "温暖的巢穴",
+      "溫暖的巢穴",
+      "wennuandechaoxue",
+      "wndcx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_243_tempturn": [
+    [
+      "路过的磐蟹",
+      "路過的磐蟹",
+      "luguodepanxie",
+      "lgdpx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_244_superstar": [
+    [
+      "源石盔甲",
+      "源石盔甲",
+      "yuanshikuijia",
+      "yskj",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_245_booster": [
+    [
+      "鲍勃之选",
+      "鮑勃之選",
+      "baobozhixuan",
+      "bbzx",
+      0,
+      0,
+      0
+    ],
+    [
+      ""
+    ],
+    [
+      "trap"
+    ]
+  ],
+  "trap_246_bigbtle": [
+    [
+      "自助饮品机",
+      "自助飲品機",
+      "zizhuyinpinji",
+      "zzypj",
       0,
       0,
       0
